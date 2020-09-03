@@ -26,7 +26,7 @@ li a{
 
 a:hover{
     color: white;
-    background-color: #2d3436;
+    background-color: rgba(45, 52, 54,0.8);
     padding: .39em;
     border: solid white 1px;
 }
@@ -70,7 +70,6 @@ ul{
 
 .Title-two, h2{
     font-size: 60px;
-    font-family: ;
     color: white;
     text-align: center;
     font-family: 'Milonga', cursive;
@@ -78,7 +77,9 @@ ul{
     background-color: rgba(45, 52, 54,0.8);
     margin-right: 6em;
     margin-left: 6em;
-    border-radius: 2em;
+    border: 5px solid transparent;
+    border-image: linear-gradient(to bottom right, #b827fc 0%, #2c90fc 25%, #b8fd33 50%, #fec837 75%, #fd1892 100%);
+    border-image-slice: 1;
 }
 
 .Text-Section{
@@ -86,9 +87,21 @@ ul{
     color: white;  
     font-family: 'Quicksand', sans-serif;  
     font-size: 30px;
-    border: solid black 2px;
-    background-color: #EA2027;
-    border-radius: 2em;
-    padding: 23px;
-    margin: 23px;
+    border: solid rgba(45, 52, 54,0.8) 2px;
+    background-color: rgba(45, 52, 54,0.8);
+    border-radius: 1em;
+    padding: 3px;
+    padding-top: 1px;
+    margin: 18px;
+}
+
+.image-paragraph{
+    float: left;
+    border: 2px solid rgba(45, 52, 54,0.8);
+    border-radius: 1em;
+    margin-bottom: 1px;
+    margin-right: 16px;
+    margin-top: 34px;
+    margin-left: 12px;
+    width: 1024px;
 }
