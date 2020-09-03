@@ -73,10 +73,9 @@ ul{
     font-family: ;
     color: white;
     text-align: center;
-    text-decoration: underline;
     font-family: 'Milonga', cursive;
     grid-template-rows: 100px;
-    background-color: rgba(45, 52, 54, 0.7);
+    background-color: rgba(45, 52, 54,0.8);
     margin-right: 6em;
     margin-left: 6em;
     border-radius: 2em;
@@ -86,9 +85,9 @@ ul{
     display: block;
     color: white;  
     font-family: 'Quicksand', sans-serif;  
-    font-size: 50px;
+    font-size: 30px;
     border: solid black 2px;
-    background-color: #f8c291;
+    background-color: #EA2027;
     border-radius: 2em;
     padding: 23px;
     margin: 23px;
