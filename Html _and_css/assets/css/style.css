@@ -27,8 +27,10 @@ li a{
 a:hover{
     color: white;
     background-color: rgba(45, 52, 54,0.8);
-    padding: .39em;
-    border: solid white 1px;
+    padding: 12px;
+    border: 5px solid transparent;
+    border-image: linear-gradient(to bottom right, #b827fc 0%, #2c90fc 25%, #b8fd33 50%, #fec837 75%, #fd1892 100%);
+    border-image-slice: 3;
 }
 ul{
     height: 100%;
@@ -103,5 +105,14 @@ ul{
     margin-right: 16px;
     margin-top: 34px;
     margin-left: 12px;
-    width: 1024px;
+}
+button{
+    font-size: 60px;
+    margin-left: 6em;
+    margin-bottom: 0.1em;
+    border: 5px solid transparent;
+    border-image: linear-gradient(to bottom right, #b827fc 0%, #2c90fc 25%, #b8fd33 50%, #fec837 75%, #fd1892 100%);
+    border-image-slice: 1;
+    background-color: rgba(45, 52, 54,0.8);
+    color: white;
 }
