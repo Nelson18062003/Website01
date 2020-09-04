@@ -2,6 +2,7 @@ body{
     margin: 0;
     padding: 0;
     background-image: url(../images/images12.jpg);
+    display: block;
 }
 /* nav bar*/
 
@@ -115,4 +116,42 @@ button{
     border-image-slice: 1;
     background-color: rgba(45, 52, 54,0.8);
     color: white;
+}
+button:hover{
+    background-color: rgb(17, 18, 19);
+}
+.paragraph-001{
+    color: white;
+    font-size: 100px;
+    text-align: center;
+    font-family: 'Lobster', cursive;
+    background-color: rgba(45, 52, 54,0.8) ;
+    margin-right: 3em;
+    margin-left: 3em;
+    border: 5px solid transparent;
+    border-image: linear-gradient(to bottom right, #b827fc 0%, #2c90fc 25%, #b8fd33 50%, #fec837 75%, #fd1892 100%);
+    border-image-slice: 1;
+}
+
+label{
+    color: white;
+    font-size: 40px;
+
+}
+#form input{
+    display: block;
+    font-size: 34px;
+    
+}
+
+#form{
+    width: 50%;
+    margin: 0 auto;
+    margin-bottom: 3em;
+    background-color: rgba(45, 52, 54,0.8);
+    padding: 23px;
+    font-family: 'Kaushan Script', cursive;
+    border: 5px solid transparent;
+    border-image: linear-gradient(to bottom right, #b827fc 0%, #2c90fc 25%, #b8fd33 50%, #fec837 75%, #fd1892 100%);
+    border-image-slice: 1;
 }
