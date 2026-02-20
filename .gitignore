@@ -18,3 +18,5 @@ env/
 # OS files
 .DS_Store
 Thumbs.db
+export_siret.log
+pj_garages_siret_cache.json
