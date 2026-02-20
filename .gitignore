@@ -20,3 +20,4 @@ env/
 Thumbs.db
 export_siret.log
 pj_garages_siret_cache.json
+export_siret_fast.log
