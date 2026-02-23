@@ -130,6 +130,30 @@ def split_phones(raw):
     return first, all_phones
 
 
+def format_phone_international(phone):
+    """Convert French phone (0X XX XX XX XX) to international +33 format."""
+    if not phone:
+        return ""
+    p = str(phone).strip()
+    # Take only first number if multiple separated by / or ,
+    for sep in ["/", ","]:
+        if sep in p:
+            p = p.split(sep)[0].strip()
+    digits = re.sub(r'[^\d+]', '', p)
+    if digits.startswith('+33'):
+        digits = '0' + digits[3:]
+    elif digits.startswith('0033'):
+        digits = '0' + digits[4:]
+    elif digits.startswith('33') and len(digits) == 11:
+        digits = '0' + digits[2:]
+    digits = re.sub(r'[^\d]', '', digits)
+    if digits.startswith('0') and len(digits) == 10:
+        return f"+33 {digits[1]} {digits[2:4]} {digits[4:6]} {digits[6:8]} {digits[8:10]}"
+    if len(digits) == 9 and not digits.startswith('0'):
+        return f"+33 {digits[0]} {digits[1:3]} {digits[3:5]} {digits[5:7]} {digits[7:9]}"
+    return p
+
+
 # =============================================================================
 # Data loading
 # =============================================================================
@@ -312,7 +336,7 @@ def main():
     ws.title = "Garages Pages Jaunes"
 
     headers = [
-        "N°", "Nom", "Téléphone", "Tous les Tél.", "Adresse",
+        "N°", "Nom", "Téléphone (International)", "Téléphone (Original)", "Adresse",
         "Code Postal", "Ville", "Département N°", "Département",
         "Région", "Zone", "Activité PJ", "SIREN", "SIRET", "Nom API",
         "Code NAF", "ID Pages Jaunes", "Source",
@@ -323,9 +347,10 @@ def main():
     for i, g in enumerate(garages):
         row = i + 2
         first_phone, all_phones = split_phones(g.get("phone", ""))
+        phone_intl = format_phone_international(first_phone)
         ws.cell(row=row, column=1, value=i + 1)
         ws.cell(row=row, column=2, value=g.get("name", ""))
-        ws.cell(row=row, column=3, value=first_phone)
+        ws.cell(row=row, column=3, value=phone_intl)
         ws.cell(row=row, column=4, value=all_phones)
         ws.cell(row=row, column=5, value=g.get("address", ""))
         c6 = ws.cell(row=row, column=6, value=str(g.get("postal_code", "")))
