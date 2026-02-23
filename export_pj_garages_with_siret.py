@@ -302,15 +302,18 @@ def main():
         ws.cell(row=row, column=3, value=g.get("phone", ""))
         ws.cell(row=row, column=4, value=g.get("phone_intl", ""))
         ws.cell(row=row, column=5, value=g.get("address", ""))
-        ws.cell(row=row, column=6, value=g.get("postal_code", ""))
+        c6 = ws.cell(row=row, column=6, value=str(g.get("postal_code", "")))
+        c6.number_format = '@'
         ws.cell(row=row, column=7, value=g.get("city", ""))
         ws.cell(row=row, column=8, value=g.get("dept_num", ""))
         ws.cell(row=row, column=9, value=g.get("dept_name", ""))
         ws.cell(row=row, column=10, value=g.get("region", ""))
         ws.cell(row=row, column=11, value=g.get("zone", ""))
         ws.cell(row=row, column=12, value=g.get("activity", ""))
-        ws.cell(row=row, column=13, value=g.get("siren", ""))
-        ws.cell(row=row, column=14, value=g.get("siret", ""))
+        c13 = ws.cell(row=row, column=13, value=str(g.get("siren", "")))
+        c13.number_format = '@'
+        c14 = ws.cell(row=row, column=14, value=str(g.get("siret", "")))
+        c14.number_format = '@'
         ws.cell(row=row, column=15, value=g.get("nom_api", ""))
         ws.cell(row=row, column=16, value=g.get("naf", ""))
         ws.cell(row=row, column=17, value=g.get("pj_id", ""))
