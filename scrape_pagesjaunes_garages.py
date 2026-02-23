@@ -43,26 +43,36 @@ SEARCH_QUERIES = [
     "réparation automobile",
 ]
 
-# Department definitions (same as build_garages_auto_zones.py)
-TOP_ZONE_DEPTS = ["06", "59", "60", "77", "78", "88", "91", "93", "95"]
-MIDDLE_ZONE_DEPTS = [
-    "17", "24", "27", "28", "30", "31", "33", "35", "38", "40", "41", "42",
-    "44", "45", "46", "57", "62", "67", "72", "73", "76", "79", "80", "83",
-    "86", "971", "973",
+# Department definitions — 59 departments
+ALL_DEPTS = [
+    "01", "04", "13", "14", "16", "21", "22", "23", "25", "26",
+    "27", "28", "29", "30", "31", "32", "33", "34", "35", "37",
+    "38", "39", "42", "44", "45", "46", "49", "50", "53", "56",
+    "57", "59", "60", "61", "62", "64", "65", "66", "67", "68",
+    "69", "70", "71", "73", "74", "75", "76", "77", "80", "83",
+    "85", "87", "88", "91", "92", "93", "94", "95", "2B",
 ]
 
 DEPT_NAMES = {
-    "06": "Alpes-Maritimes", "17": "Charente-Maritime", "24": "Dordogne",
-    "27": "Eure", "28": "Eure-et-Loir", "30": "Gard", "31": "Haute-Garonne",
-    "33": "Gironde", "35": "Ille-et-Vilaine", "38": "Isère", "40": "Landes",
-    "41": "Loir-et-Cher", "42": "Loire", "44": "Loire-Atlantique",
-    "45": "Loiret", "46": "Lot", "57": "Moselle", "59": "Nord",
-    "60": "Oise", "62": "Pas-de-Calais", "67": "Bas-Rhin", "72": "Sarthe",
-    "73": "Savoie", "76": "Seine-Maritime", "77": "Seine-et-Marne",
-    "78": "Yvelines", "79": "Deux-Sèvres", "80": "Somme", "83": "Var",
-    "86": "Vienne", "88": "Vosges", "91": "Essonne",
-    "93": "Seine-Saint-Denis", "95": "Val-d'Oise",
-    "971": "Guadeloupe", "973": "Guyane",
+    "01": "Ain", "04": "Alpes-de-Haute-Provence",
+    "13": "Bouches-du-Rhône", "14": "Calvados", "16": "Charente",
+    "21": "Côte-d'Or", "22": "Côtes-d'Armor", "23": "Creuse",
+    "25": "Doubs", "26": "Drôme", "27": "Eure", "28": "Eure-et-Loir",
+    "29": "Finistère", "30": "Gard", "31": "Haute-Garonne", "32": "Gers",
+    "33": "Gironde", "34": "Hérault", "35": "Ille-et-Vilaine",
+    "37": "Indre-et-Loire", "38": "Isère", "39": "Jura",
+    "42": "Loire", "44": "Loire-Atlantique", "45": "Loiret", "46": "Lot",
+    "49": "Maine-et-Loire", "50": "Manche", "53": "Mayenne",
+    "56": "Morbihan", "57": "Moselle", "59": "Nord", "60": "Oise",
+    "61": "Orne", "62": "Pas-de-Calais", "64": "Pyrénées-Atlantiques",
+    "65": "Hautes-Pyrénées", "66": "Pyrénées-Orientales", "67": "Bas-Rhin",
+    "68": "Haut-Rhin", "69": "Rhône", "70": "Haute-Saône",
+    "71": "Saône-et-Loire", "73": "Savoie", "74": "Haute-Savoie",
+    "75": "Paris", "76": "Seine-Maritime", "77": "Seine-et-Marne",
+    "80": "Somme", "83": "Var", "85": "Vendée", "87": "Haute-Vienne",
+    "88": "Vosges", "91": "Essonne", "92": "Hauts-de-Seine",
+    "93": "Seine-Saint-Denis", "94": "Val-de-Marne", "95": "Val-d'Oise",
+    "2B": "Haute-Corse",
 }
 
 
@@ -304,16 +314,13 @@ def main():
     print("  (curl_cffi + Cloudflare bypass)")
     print("=" * 70)
 
-    all_depts = sorted(
-        TOP_ZONE_DEPTS + MIDDLE_ZONE_DEPTS,
-        key=lambda x: x.zfill(3)
-    )
+    all_depts = sorted(ALL_DEPTS, key=lambda x: x.zfill(3))
     total_depts = len(all_depts)
 
     # Allow running specific departments from command line
     if len(sys.argv) > 1:
         requested = sys.argv[1:]
-        all_depts = [d for d in requested if d in (TOP_ZONE_DEPTS + MIDDLE_ZONE_DEPTS)]
+        all_depts = [d for d in requested if d in ALL_DEPTS]
         if not all_depts:
             print(f"ERROR: None of {requested} are in the target departments.")
             sys.exit(1)

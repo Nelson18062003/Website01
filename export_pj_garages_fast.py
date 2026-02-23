@@ -19,34 +19,66 @@ OUTPUT_FILE = "pagesjaunes_garages_france.xlsx"
 API_URL = "https://recherche-entreprises.api.gouv.fr/search"
 WORKERS = 10  # parallel threads
 
+ALL_DEPTS = [
+    "01", "04", "13", "14", "16", "21", "22", "23", "25", "26",
+    "27", "28", "29", "30", "31", "32", "33", "34", "35", "37",
+    "38", "39", "42", "44", "45", "46", "49", "50", "53", "56",
+    "57", "59", "60", "61", "62", "64", "65", "66", "67", "68",
+    "69", "70", "71", "73", "74", "75", "76", "77", "80", "83",
+    "85", "87", "88", "91", "92", "93", "94", "95", "2B",
+]
+
 DEPT_NAMES = {
-    "06": "Alpes-Maritimes", "17": "Charente-Maritime", "24": "Dordogne",
-    "27": "Eure", "28": "Eure-et-Loir", "30": "Gard", "31": "Haute-Garonne",
-    "33": "Gironde", "35": "Ille-et-Vilaine", "38": "Isère", "40": "Landes",
-    "41": "Loir-et-Cher", "42": "Loire", "44": "Loire-Atlantique",
-    "45": "Loiret", "46": "Lot", "57": "Moselle", "59": "Nord",
-    "60": "Oise", "62": "Pas-de-Calais", "67": "Bas-Rhin", "72": "Sarthe",
-    "73": "Savoie", "76": "Seine-Maritime", "77": "Seine-et-Marne",
-    "78": "Yvelines", "79": "Deux-Sèvres", "80": "Somme", "83": "Var",
-    "86": "Vienne", "88": "Vosges", "91": "Essonne",
-    "93": "Seine-Saint-Denis", "95": "Val-d'Oise",
-    "971": "Guadeloupe", "973": "Guyane",
+    "01": "Ain", "04": "Alpes-de-Haute-Provence",
+    "13": "Bouches-du-Rhône", "14": "Calvados", "16": "Charente",
+    "21": "Côte-d'Or", "22": "Côtes-d'Armor", "23": "Creuse",
+    "25": "Doubs", "26": "Drôme", "27": "Eure", "28": "Eure-et-Loir",
+    "29": "Finistère", "30": "Gard", "31": "Haute-Garonne", "32": "Gers",
+    "33": "Gironde", "34": "Hérault", "35": "Ille-et-Vilaine",
+    "37": "Indre-et-Loire", "38": "Isère", "39": "Jura",
+    "42": "Loire", "44": "Loire-Atlantique", "45": "Loiret", "46": "Lot",
+    "49": "Maine-et-Loire", "50": "Manche", "53": "Mayenne",
+    "56": "Morbihan", "57": "Moselle", "59": "Nord", "60": "Oise",
+    "61": "Orne", "62": "Pas-de-Calais", "64": "Pyrénées-Atlantiques",
+    "65": "Hautes-Pyrénées", "66": "Pyrénées-Orientales", "67": "Bas-Rhin",
+    "68": "Haut-Rhin", "69": "Rhône", "70": "Haute-Saône",
+    "71": "Saône-et-Loire", "73": "Savoie", "74": "Haute-Savoie",
+    "75": "Paris", "76": "Seine-Maritime", "77": "Seine-et-Marne",
+    "80": "Somme", "83": "Var", "85": "Vendée", "87": "Haute-Vienne",
+    "88": "Vosges", "91": "Essonne", "92": "Hauts-de-Seine",
+    "93": "Seine-Saint-Denis", "94": "Val-de-Marne", "95": "Val-d'Oise",
+    "2B": "Haute-Corse",
 }
+
 REGION_MAP = {
-    "06": "Provence-Alpes-Côte d'Azur", "83": "Provence-Alpes-Côte d'Azur",
-    "17": "Nouvelle-Aquitaine", "24": "Nouvelle-Aquitaine", "33": "Nouvelle-Aquitaine",
-    "40": "Nouvelle-Aquitaine", "79": "Nouvelle-Aquitaine", "86": "Nouvelle-Aquitaine",
-    "27": "Normandie", "76": "Normandie",
-    "28": "Centre-Val de Loire", "41": "Centre-Val de Loire", "45": "Centre-Val de Loire",
-    "30": "Occitanie", "31": "Occitanie", "46": "Occitanie",
-    "35": "Bretagne",
-    "38": "Auvergne-Rhône-Alpes", "42": "Auvergne-Rhône-Alpes", "73": "Auvergne-Rhône-Alpes",
-    "44": "Pays de la Loire", "72": "Pays de la Loire",
-    "57": "Grand Est", "67": "Grand Est", "88": "Grand Est",
-    "59": "Hauts-de-France", "60": "Hauts-de-France", "62": "Hauts-de-France", "80": "Hauts-de-France",
-    "77": "Île-de-France", "78": "Île-de-France", "91": "Île-de-France",
-    "93": "Île-de-France", "95": "Île-de-France",
-    "971": "Guadeloupe", "973": "Guyane",
+    "01": "Auvergne-Rhône-Alpes", "26": "Auvergne-Rhône-Alpes",
+    "38": "Auvergne-Rhône-Alpes", "42": "Auvergne-Rhône-Alpes",
+    "69": "Auvergne-Rhône-Alpes", "73": "Auvergne-Rhône-Alpes",
+    "74": "Auvergne-Rhône-Alpes",
+    "21": "Bourgogne-Franche-Comté", "25": "Bourgogne-Franche-Comté",
+    "39": "Bourgogne-Franche-Comté", "70": "Bourgogne-Franche-Comté",
+    "71": "Bourgogne-Franche-Comté",
+    "22": "Bretagne", "29": "Bretagne", "35": "Bretagne", "56": "Bretagne",
+    "28": "Centre-Val de Loire", "37": "Centre-Val de Loire", "45": "Centre-Val de Loire",
+    "2B": "Corse",
+    "57": "Grand Est", "67": "Grand Est", "68": "Grand Est", "88": "Grand Est",
+    "59": "Hauts-de-France", "60": "Hauts-de-France",
+    "62": "Hauts-de-France", "80": "Hauts-de-France",
+    "75": "Île-de-France", "77": "Île-de-France", "91": "Île-de-France",
+    "92": "Île-de-France", "93": "Île-de-France",
+    "94": "Île-de-France", "95": "Île-de-France",
+    "14": "Normandie", "27": "Normandie", "50": "Normandie",
+    "61": "Normandie", "76": "Normandie",
+    "16": "Nouvelle-Aquitaine", "23": "Nouvelle-Aquitaine",
+    "33": "Nouvelle-Aquitaine", "64": "Nouvelle-Aquitaine",
+    "85": "Pays de la Loire", "87": "Nouvelle-Aquitaine",
+    "30": "Occitanie", "31": "Occitanie", "32": "Occitanie",
+    "34": "Occitanie", "46": "Occitanie", "65": "Occitanie",
+    "66": "Occitanie",
+    "44": "Pays de la Loire", "49": "Pays de la Loire",
+    "53": "Pays de la Loire",
+    "04": "Provence-Alpes-Côte d'Azur", "13": "Provence-Alpes-Côte d'Azur",
+    "83": "Provence-Alpes-Côte d'Azur",
 }
 
 cache = {}
@@ -57,16 +89,21 @@ counter_lock = Lock()
 
 def load_all_garages():
     all_garages = []
+    target = set(ALL_DEPTS)
     files = sorted(f for f in os.listdir(CACHE_DIR) if f.endswith('.json'))
     for fname in files:
+        dept = fname.replace("dept_", "").replace(".json", "")
+        if dept not in target:
+            print(f"  {fname}: SKIP (not in target departments)")
+            continue
         with open(os.path.join(CACHE_DIR, fname), "r", encoding="utf-8") as f:
             garages = json.load(f)
-        dept = fname.replace("dept_", "").replace(".json", "")
         for g in garages:
             g["dept_num"] = dept
             g["dept_name"] = DEPT_NAMES.get(dept, "")
             g["region"] = REGION_MAP.get(dept, "")
         all_garages.extend(garages)
+        print(f"  {fname}: {len(garages)} garages")
     return all_garages
 
 
