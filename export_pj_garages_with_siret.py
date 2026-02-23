@@ -106,6 +106,31 @@ def get_zone(dept):
 
 
 # =============================================================================
+# Phone number cleaning
+# =============================================================================
+
+_PHONE_RE = re.compile(r'(?:0[1-9])(?:\s?\d{2}){4}')
+
+
+def split_phones(raw):
+    """Split concatenated French phone numbers and return (first, all_list)."""
+    if not raw:
+        return "", ""
+    matches = _PHONE_RE.findall(str(raw))
+    if not matches:
+        return str(raw).strip(), ""
+    # Normalize spacing: XX XX XX XX XX
+    normalized = []
+    for m in matches:
+        digits = m.replace(" ", "")
+        formatted = " ".join(digits[i:i+2] for i in range(0, 10, 2))
+        normalized.append(formatted)
+    first = normalized[0]
+    all_phones = " / ".join(normalized) if len(normalized) > 1 else first
+    return first, all_phones
+
+
+# =============================================================================
 # Data loading
 # =============================================================================
 
@@ -287,7 +312,7 @@ def main():
     ws.title = "Garages Pages Jaunes"
 
     headers = [
-        "N°", "Nom", "Téléphone", "Téléphone (Intl)", "Adresse",
+        "N°", "Nom", "Téléphone", "Tous les Tél.", "Adresse",
         "Code Postal", "Ville", "Département N°", "Département",
         "Région", "Zone", "Activité PJ", "SIREN", "SIRET", "Nom API",
         "Code NAF", "ID Pages Jaunes", "Source",
@@ -297,10 +322,11 @@ def main():
 
     for i, g in enumerate(garages):
         row = i + 2
+        first_phone, all_phones = split_phones(g.get("phone", ""))
         ws.cell(row=row, column=1, value=i + 1)
         ws.cell(row=row, column=2, value=g.get("name", ""))
-        ws.cell(row=row, column=3, value=g.get("phone", ""))
-        ws.cell(row=row, column=4, value=g.get("phone_intl", ""))
+        ws.cell(row=row, column=3, value=first_phone)
+        ws.cell(row=row, column=4, value=all_phones)
         ws.cell(row=row, column=5, value=g.get("address", ""))
         c6 = ws.cell(row=row, column=6, value=str(g.get("postal_code", "")))
         c6.number_format = '@'
