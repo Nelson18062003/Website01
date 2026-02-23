@@ -63,29 +63,52 @@ REGION_MAP = {
     "971": "Guadeloupe", "973": "Guyane",
 }
 
+# Zones fournies — seuls ces départements doivent figurer dans le fichier final
+TOP_ZONE_DEPTS = {"06", "59", "60", "77", "78", "88", "91", "93", "95"}
+MIDDLE_ZONE_DEPTS = {
+    "17", "24", "27", "28", "30", "31", "33", "35", "38", "40", "41", "42",
+    "44", "45", "46", "57", "62", "67", "72", "73", "76", "79", "80", "83",
+    "86", "971", "973",
+}
+ZONE_DEPTS = TOP_ZONE_DEPTS | MIDDLE_ZONE_DEPTS
+
+
+def get_zone(dept):
+    if dept in TOP_ZONE_DEPTS:
+        return "Top Zone"
+    if dept in MIDDLE_ZONE_DEPTS:
+        return "Middle Zone"
+    return ""
+
 
 # =============================================================================
 # Data loading
 # =============================================================================
 
 def load_all_pj_garages():
-    """Load all garages from PJ cache JSON files."""
+    """Load garages from PJ cache JSON files — zones uniquement."""
     all_garages = []
     files = sorted(f for f in os.listdir(CACHE_DIR) if f.endswith('.json'))
+    skipped = 0
 
     for fname in files:
+        dept = fname.replace("dept_", "").replace(".json", "")
+        if dept not in ZONE_DEPTS:
+            skipped += 1
+            continue
         filepath = os.path.join(CACHE_DIR, fname)
         with open(filepath, "r", encoding="utf-8") as f:
             garages = json.load(f)
-        # Extract dept number from filename (dept_59.json -> 59)
-        dept = fname.replace("dept_", "").replace(".json", "")
         for g in garages:
             g["dept_num"] = dept
             g["dept_name"] = DEPT_NAMES.get(dept, "")
             g["region"] = REGION_MAP.get(dept, "")
+            g["zone"] = get_zone(dept)
         all_garages.extend(garages)
-        print(f"  {fname}: {len(garages)} garages")
+        print(f"  {fname}: {len(garages)} garages ({get_zone(dept)})")
 
+    if skipped:
+        print(f"  ({skipped} fichiers hors-zones ignorés)")
     return all_garages
 
 
@@ -242,7 +265,7 @@ def main():
     headers = [
         "N°", "Nom", "Téléphone", "Téléphone (Intl)", "Adresse",
         "Code Postal", "Ville", "Département N°", "Département",
-        "Région", "Activité PJ", "SIREN", "SIRET", "Nom API",
+        "Région", "Zone", "Activité PJ", "SIREN", "SIRET", "Nom API",
         "Code NAF", "ID Pages Jaunes", "Source",
     ]
     for col, h in enumerate(headers, 1):
@@ -260,13 +283,14 @@ def main():
         ws.cell(row=row, column=8, value=g.get("dept_num", ""))
         ws.cell(row=row, column=9, value=g.get("dept_name", ""))
         ws.cell(row=row, column=10, value=g.get("region", ""))
-        ws.cell(row=row, column=11, value=g.get("activity", ""))
-        ws.cell(row=row, column=12, value=g.get("siren", ""))
-        ws.cell(row=row, column=13, value=g.get("siret", ""))
-        ws.cell(row=row, column=14, value=g.get("nom_api", ""))
-        ws.cell(row=row, column=15, value=g.get("naf", ""))
-        ws.cell(row=row, column=16, value=g.get("pj_id", ""))
-        ws.cell(row=row, column=17, value="Pages Jaunes")
+        ws.cell(row=row, column=11, value=g.get("zone", ""))
+        ws.cell(row=row, column=12, value=g.get("activity", ""))
+        ws.cell(row=row, column=13, value=g.get("siren", ""))
+        ws.cell(row=row, column=14, value=g.get("siret", ""))
+        ws.cell(row=row, column=15, value=g.get("nom_api", ""))
+        ws.cell(row=row, column=16, value=g.get("naf", ""))
+        ws.cell(row=row, column=17, value=g.get("pj_id", ""))
+        ws.cell(row=row, column=18, value="Pages Jaunes")
 
     wb.save(OUTPUT_FILE)
 
