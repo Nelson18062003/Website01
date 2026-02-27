@@ -40,8 +40,8 @@ OUTPUT_FILE = "pagesjaunes_electriciens_france.xlsx"
 
 RESULTS_PER_PAGE = 20
 MAX_PAGES_PER_DEPT = 80
-DELAY_BETWEEN_PAGES = 2.5
-DELAY_BETWEEN_DEPTS = 5.0
+DELAY_BETWEEN_PAGES = 3.5
+DELAY_BETWEEN_DEPTS = 8.0
 
 API_URL = "https://recherche-entreprises.api.gouv.fr/search"
 API_DELAY = 0.15
@@ -211,6 +211,11 @@ def parse_listings(html):
 # Scraping
 # =============================================================================
 
+def _new_session():
+    """Create a fresh curl_cffi session with chrome100 impersonation."""
+    return curl_requests.Session(impersonate='chrome100')
+
+
 def scrape_department(dept_num, session, query="artisan électricien"):
     """Scrape all pages of listings for a department."""
     dept_name = DEPT_NAMES.get(dept_num, dept_num)
@@ -234,10 +239,14 @@ def scrape_department(dept_num, session, query="artisan électricien"):
 
             if resp.status_code == 403:
                 consecutive_errors += 1
-                if consecutive_errors >= 3:
-                    print(f"      [WARN] 3x 403 errors at page {page}, stopping")
+                if consecutive_errors >= 5:
+                    print(f"      [WARN] 5x 403 at page {page}, stopping")
                     break
-                time.sleep(8)
+                # Exponential backoff + new session
+                wait = 5 * (2 ** (consecutive_errors - 1))
+                print(f"      [RETRY] 403 at page {page}, wait {wait}s (attempt {consecutive_errors}/5)")
+                time.sleep(wait)
+                session = _new_session()
                 continue
 
             if resp.status_code != 200:
@@ -271,9 +280,10 @@ def scrape_department(dept_num, session, query="artisan électricien"):
         except Exception as e:
             print(f"      [ERROR] Page {page}: {e}")
             consecutive_errors += 1
-            if consecutive_errors >= 3:
+            if consecutive_errors >= 5:
                 break
             time.sleep(5)
+            session = _new_session()
 
     return all_results
 
@@ -589,8 +599,6 @@ def do_scrape(dept_list):
     print("  (curl_cffi + Cloudflare bypass)")
     print("=" * 70)
 
-    session = curl_requests.Session(impersonate='chrome100')
-
     grand_total = 0
     grand_with_phone = 0
 
@@ -610,6 +618,9 @@ def do_scrape(dept_list):
 
         print(f"  [{i}/{len(dept_list)}] {dept} - {dept_name}...",
               end=" ", flush=True)
+
+        # Fresh session per department to avoid stale cookies
+        session = _new_session()
 
         all_results = []
         for q_idx, query in enumerate(SEARCH_QUERIES):
