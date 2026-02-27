@@ -589,7 +589,7 @@ def do_scrape(dept_list):
     print("  (curl_cffi + Cloudflare bypass)")
     print("=" * 70)
 
-    session = curl_requests.Session(impersonate='chrome99')
+    session = curl_requests.Session(impersonate='chrome100')
 
     grand_total = 0
     grand_with_phone = 0
