@@ -4,13 +4,15 @@ Merge all garage data sources for Nancy (54) & Saint-Denis (93),
 enrich missing SIRET via API Gouv, fix phone numbers, export final Excel.
 
 Sources merged:
-  - garages_nancy_saintdenis.json  (PagesJaunes scrape with SIRET)
-  - scrape_nancy_pagesjaunes.json  (second PJ scrape)
-  - scrape_nancy_annuaire.json     (annuaire scrape)
-  - scrape_stdenis_annuaire.json   (annuaire scrape)
-  - scrape_stdenis_societe.json    (societe.com legal data)
-  - scrape_entreprises_legal.json  (legal enterprise data)
-  - scrape_environs_legal.json     (API Gouv bulk legal data, depts 54+93)
+  - garages_nancy_saintdenis.json           (PagesJaunes scrape with SIRET)
+  - scrape_nancy_pagesjaunes.json           (second PJ scrape)
+  - scrape_nancy_annuaire.json              (annuaire scrape)
+  - scrape_stdenis_annuaire.json            (annuaire scrape)
+  - scrape_stdenis_societe.json             (societe.com legal data)
+  - scrape_entreprises_legal.json           (legal enterprise data)
+  - scrape_environs_legal.json              (API Gouv bulk legal data, depts 54+93)
+  - osm_garages_nancy_stdenis.json          (OpenStreetMap Overpass API)
+  - nominatim_garages_nancy_stdenis.json    (OSM local data + reverse geocoding)
 """
 
 import json
@@ -310,7 +312,35 @@ def main():
         print(f"  Added/merged {added} active enterprises from API Gouv bulk")
     print(f"  Master: {len(master)} entries")
 
-    # ── 7. Enrich missing SIRET ──
+    # ── 7. Load OpenStreetMap Overpass data ──
+    print("Loading osm_garages_nancy_stdenis.json (Overpass API)...")
+    osm_overpass = load_json("osm_garages_nancy_stdenis.json")
+    if osm_overpass:
+        added = 0
+        for e in osm_overpass:
+            dept = dept_for(e)
+            if dept in ("54", "93"):
+                region = "Nancy" if dept == "54" else "Saint-Denis"
+                add_entry(e, region)
+                added += 1
+        print(f"  Added/merged {added} OSM Overpass entries")
+    print(f"  Master: {len(master)} entries")
+
+    # ── 8. Load OSM local filtered data (Nominatim) ──
+    print("Loading nominatim_garages_nancy_stdenis.json (OSM filtered + geocoded)...")
+    osm_nominatim = load_json("nominatim_garages_nancy_stdenis.json")
+    if osm_nominatim:
+        added = 0
+        for e in osm_nominatim:
+            dept = dept_for(e)
+            if dept in ("54", "93"):
+                region = "Nancy" if dept == "54" else "Saint-Denis"
+                add_entry(e, region)
+                added += 1
+        print(f"  Added/merged {added} Nominatim/OSM entries")
+    print(f"  Master: {len(master)} entries")
+
+    # ── 9. Enrich missing SIRET ──
     entries_list = list(master.values())
     missing_siret = [e for e in entries_list if not (e.get("siret") or e.get("siren"))]
     print(f"\nEnriching SIRET for {len(missing_siret)} entries without SIRET...")
