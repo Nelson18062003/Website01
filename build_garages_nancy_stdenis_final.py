@@ -22,6 +22,7 @@ import urllib.request
 import urllib.parse
 import ssl
 import os
+import math
 
 try:
     import openpyxl
@@ -33,6 +34,96 @@ except ImportError:
 BASE = "/home/user/Website01"
 OUTPUT_EXCEL = os.path.join(BASE, "garages_nancy_saintdenis.xlsx")
 OUTPUT_JSON = os.path.join(BASE, "garages_nancy_saintdenis_final.json")
+
+# ── Geographic centers and radius ──
+NANCY_CENTER = (48.6921, 6.1844)       # Centre de Nancy
+STDENIS_CENTER = (48.9362, 2.3574)     # Centre de Saint-Denis
+RADIUS_KM = 15.0                       # Rayon de recherche en km
+
+# Départements à inclure dans la collecte (centre + voisins dans le rayon)
+NANCY_DEPTS = {"54", "57", "88", "55"}         # Nancy + Moselle, Vosges, Meuse
+STDENIS_DEPTS = {"93", "75", "92", "94", "95", "77"}  # Saint-Denis + IDF voisins
+ALL_DEPTS = NANCY_DEPTS | STDENIS_DEPTS
+
+# Cache de géocodage : (postal_code, city) -> (lat, lon)
+_geocode_cache = {}
+GEOCODE_CACHE_FILE = os.path.join(BASE, "geocode_cache.json")
+
+
+def haversine(lat1, lon1, lat2, lon2):
+    """Distance en km entre deux points GPS (formule de Haversine)."""
+    R = 6371.0
+    dlat = math.radians(lat2 - lat1)
+    dlon = math.radians(lon2 - lon1)
+    a = (math.sin(dlat / 2) ** 2
+         + math.cos(math.radians(lat1)) * math.cos(math.radians(lat2))
+         * math.sin(dlon / 2) ** 2)
+    return R * 2 * math.atan2(math.sqrt(a), math.sqrt(1 - a))
+
+
+def load_geocode_cache():
+    """Load geocode cache from disk."""
+    global _geocode_cache
+    if os.path.exists(GEOCODE_CACHE_FILE):
+        with open(GEOCODE_CACHE_FILE, "r", encoding="utf-8") as f:
+            raw = json.load(f)
+            _geocode_cache = {k: tuple(v) for k, v in raw.items()}
+        print(f"  Loaded {len(_geocode_cache)} cached geocodes")
+
+
+def save_geocode_cache():
+    """Save geocode cache to disk."""
+    with open(GEOCODE_CACHE_FILE, "w", encoding="utf-8") as f:
+        json.dump({k: list(v) for k, v in _geocode_cache.items()}, f, ensure_ascii=False)
+
+
+def geocode_address(postal_code, city):
+    """Geocode a postal_code+city via api-adresse.data.gouv.fr. Returns (lat, lon) or None."""
+    if not postal_code:
+        return None
+    cache_key = f"{postal_code}|{city or ''}"
+    if cache_key in _geocode_cache:
+        return _geocode_cache[cache_key]
+
+    q = f"{postal_code} {city}" if city else postal_code
+    params = urllib.parse.urlencode({"q": q, "postcode": postal_code, "limit": "1"})
+    url = f"https://api-adresse.data.gouv.fr/search/?{params}"
+    try:
+        req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+        with urllib.request.urlopen(req, timeout=10) as resp:
+            data = json.loads(resp.read().decode("utf-8"))
+            features = data.get("features", [])
+            if features:
+                coords = features[0]["geometry"]["coordinates"]  # [lon, lat]
+                result = (coords[1], coords[0])
+                _geocode_cache[cache_key] = result
+                return result
+    except Exception:
+        pass
+    # Cache miss as None -> use sentinel
+    _geocode_cache[cache_key] = (0, 0)
+    return None
+
+
+def is_within_radius(entry):
+    """Check if an entry is within 15 km of Nancy or Saint-Denis center.
+    Returns ('Nancy', distance) or ('Saint-Denis', distance) or None.
+    """
+    pc = (entry.get("postal_code", "") or "").strip()
+    city = (entry.get("city", "") or "").strip()
+    coords = geocode_address(pc, city)
+    if not coords or coords == (0, 0):
+        return None
+
+    lat, lon = coords
+    dist_nancy = haversine(lat, lon, *NANCY_CENTER)
+    dist_stdenis = haversine(lat, lon, *STDENIS_CENTER)
+
+    if dist_nancy <= RADIUS_KM:
+        return ("Nancy", dist_nancy)
+    if dist_stdenis <= RADIUS_KM:
+        return ("Saint-Denis", dist_stdenis)
+    return None
 
 # ── Phone number patterns (ordered by priority) ──
 PHONE_PATTERNS = [
@@ -292,19 +383,20 @@ def main():
     if leg:
         for e in leg:
             dept = dept_for(e)
-            region = "Nancy" if dept == "54" else "Saint-Denis" if dept == "93" else ""
-            add_entry(e, region)
+            region = "Nancy" if dept in NANCY_DEPTS else "Saint-Denis" if dept in STDENIS_DEPTS else ""
+            if region:
+                add_entry(e, region)
     print(f"  Master: {len(master)} entries")
 
-    # ── 6. Load API Gouv bulk data (filter to depts 54, 93) ──
+    # ── 6. Load API Gouv bulk data (filter to Nancy/StDenis + neighboring depts) ──
     print("Loading scrape_environs_legal.json (API Gouv bulk)...")
     api_bulk = load_json("scrape_environs_legal.json")
     if api_bulk:
         added = 0
         for e in api_bulk:
             dept = dept_for(e)
-            if dept in ("54", "93"):
-                region = "Nancy" if dept == "54" else "Saint-Denis"
+            if dept in ALL_DEPTS:
+                region = "Nancy" if dept in NANCY_DEPTS else "Saint-Denis"
                 # Only add Active ones
                 if e.get("status", "") == "Active":
                     add_entry(e, region)
@@ -319,8 +411,8 @@ def main():
         added = 0
         for e in osm_overpass:
             dept = dept_for(e)
-            if dept in ("54", "93"):
-                region = "Nancy" if dept == "54" else "Saint-Denis"
+            if dept in ALL_DEPTS:
+                region = "Nancy" if dept in NANCY_DEPTS else "Saint-Denis"
                 add_entry(e, region)
                 added += 1
         print(f"  Added/merged {added} OSM Overpass entries")
@@ -333,8 +425,8 @@ def main():
         added = 0
         for e in osm_nominatim:
             dept = dept_for(e)
-            if dept in ("54", "93"):
-                region = "Nancy" if dept == "54" else "Saint-Denis"
+            if dept in ALL_DEPTS:
+                region = "Nancy" if dept in NANCY_DEPTS else "Saint-Denis"
                 add_entry(e, region)
                 added += 1
         print(f"  Added/merged {added} Nominatim/OSM entries")
@@ -384,32 +476,57 @@ def main():
 
     print(f"  Fixed {fixed_phones} concatenated phone numbers")
 
-    # ── 9. Filter: only depts 54 and 93, only Active (or no status) ──
+    # ── 9. Filter: only within 15 km radius of Nancy or Saint-Denis, only Active ──
+    print(f"\nFiltering by {RADIUS_KM} km radius around Nancy and Saint-Denis...")
+    load_geocode_cache()
+
     final = []
-    for e in entries_list:
-        dept = dept_for(e)
-        if dept not in ("54", "93"):
-            continue
+    excluded_far = 0
+    excluded_nogeo = 0
+    for i, e in enumerate(entries_list):
         status = e.get("status", "")
         if status and status == "Radiée":
             continue
-        final.append(e)
 
-    # Sort by department, city, name
+        result = is_within_radius(e)
+        if result:
+            region, dist = result
+            e["region"] = region
+            e["distance_km"] = round(dist, 1)
+            final.append(e)
+        else:
+            # Check if geocoding failed vs genuinely too far
+            pc = (e.get("postal_code", "") or "").strip()
+            city = (e.get("city", "") or "").strip()
+            coords = geocode_address(pc, city)
+            if coords and coords != (0, 0):
+                excluded_far += 1
+            else:
+                excluded_nogeo += 1
+
+        if (i + 1) % 200 == 0:
+            print(f"  Checked {i+1}/{len(entries_list)}...")
+            save_geocode_cache()
+
+    save_geocode_cache()
+    print(f"  Excluded {excluded_far} entries outside {RADIUS_KM} km radius")
+    print(f"  Excluded {excluded_nogeo} entries (could not geocode)")
+
+    # Sort by region (Nancy first), then city, then name
     final.sort(key=lambda x: (
-        dept_for(x),
+        0 if x.get("region") == "Nancy" else 1,
         (x.get("city", "") or "").upper(),
         (x.get("name", "") or "").upper()
     ))
 
     print(f"\nFinal dataset: {len(final)} entries")
-    dept54 = [e for e in final if dept_for(e) == "54"]
-    dept93 = [e for e in final if dept_for(e) == "93"]
+    zone_nancy = [e for e in final if e.get("region") == "Nancy"]
+    zone_stdenis = [e for e in final if e.get("region") == "Saint-Denis"]
     with_phone = sum(1 for e in final if e.get("phone"))
     with_siret = sum(1 for e in final if e.get("siret"))
     with_both = sum(1 for e in final if e.get("phone") and e.get("siret"))
-    print(f"  Dept 54 (Nancy area): {len(dept54)}")
-    print(f"  Dept 93 (Saint-Denis area): {len(dept93)}")
+    print(f"  Zone Nancy ({RADIUS_KM} km): {len(zone_nancy)}")
+    print(f"  Zone Saint-Denis ({RADIUS_KM} km): {len(zone_stdenis)}")
     print(f"  With phone: {with_phone}")
     print(f"  With SIRET: {with_siret}")
     print(f"  With both: {with_both}")
@@ -421,12 +538,12 @@ def main():
 
     # ── 11. Export Excel ──
     print("Exporting Excel...")
-    export_excel(final, dept54, dept93, with_phone, with_siret, with_both)
+    export_excel(final, zone_nancy, zone_stdenis, with_phone, with_siret, with_both)
     print(f"Saved Excel: {OUTPUT_EXCEL}")
     print("\n=== DONE ===")
 
 
-def export_excel(final, dept54, dept93, with_phone, with_siret, with_both):
+def export_excel(final, zone_nancy, zone_stdenis, with_phone, with_siret, with_both):
     """Export to styled Excel workbook."""
     wb = openpyxl.Workbook()
     ws = wb.active
@@ -437,8 +554,8 @@ def export_excel(final, dept54, dept93, with_phone, with_siret, with_both):
     header_fill = PatternFill(start_color="1A5276", end_color="1A5276", fill_type="solid")
     header_align = Alignment(horizontal="center", vertical="center", wrap_text=True)
 
-    alt_fill_54 = PatternFill(start_color="E8F8F5", end_color="E8F8F5", fill_type="solid")
-    alt_fill_93 = PatternFill(start_color="EBF5FB", end_color="EBF5FB", fill_type="solid")
+    alt_fill_nancy = PatternFill(start_color="E8F8F5", end_color="E8F8F5", fill_type="solid")
+    alt_fill_stdenis = PatternFill(start_color="EBF5FB", end_color="EBF5FB", fill_type="solid")
     white_fill = PatternFill(start_color="FFFFFF", end_color="FFFFFF", fill_type="solid")
 
     thin_border = Border(
@@ -448,7 +565,7 @@ def export_excel(final, dept54, dept93, with_phone, with_siret, with_both):
         bottom=Side(style="thin", color="D5D8DC"),
     )
 
-    # Headers
+    # Headers — added "Zone" and "Distance (km)" columns
     headers = [
         ("N°", 6),
         ("Nom de l'établissement", 40),
@@ -456,6 +573,8 @@ def export_excel(final, dept54, dept93, with_phone, with_siret, with_both):
         ("Code Postal", 12),
         ("Ville", 22),
         ("Département", 14),
+        ("Zone", 14),
+        ("Distance (km)", 14),
         ("Téléphone", 20),
         ("Téléphone (International)", 26),
         ("Autres téléphones", 22),
@@ -477,11 +596,18 @@ def export_excel(final, dept54, dept93, with_phone, with_siret, with_both):
         cell.border = thin_border
         ws.column_dimensions[openpyxl.utils.get_column_letter(col_idx)].width = width
 
-    # Data rows
-    dept_names = {"54": "Meurthe-et-Moselle (54)", "93": "Seine-Saint-Denis (93)"}
+    # Department display names
+    dept_names = {
+        "54": "Meurthe-et-Moselle (54)", "93": "Seine-Saint-Denis (93)",
+        "57": "Moselle (57)", "88": "Vosges (88)", "55": "Meuse (55)",
+        "75": "Paris (75)", "92": "Hauts-de-Seine (92)",
+        "94": "Val-de-Marne (94)", "95": "Val-d'Oise (95)",
+        "77": "Seine-et-Marne (77)",
+    }
 
     for row_idx, entry in enumerate(final, 2):
         dept = dept_for(entry)
+        region = entry.get("region", "")
         values = [
             row_idx - 1,
             entry.get("name", ""),
@@ -489,6 +615,8 @@ def export_excel(final, dept54, dept93, with_phone, with_siret, with_both):
             entry.get("postal_code", ""),
             entry.get("city", ""),
             dept_names.get(dept, dept),
+            region,
+            entry.get("distance_km", ""),
             entry.get("phone", ""),
             entry.get("phone_intl", ""),
             entry.get("other_phones", ""),
@@ -502,7 +630,7 @@ def export_excel(final, dept54, dept93, with_phone, with_siret, with_both):
             entry.get("source", ""),
         ]
 
-        fill = alt_fill_54 if dept == "54" else alt_fill_93 if dept == "93" else white_fill
+        fill = alt_fill_nancy if region == "Nancy" else alt_fill_stdenis if region == "Saint-Denis" else white_fill
         if row_idx % 2 == 0:
             fill = white_fill
 
@@ -510,7 +638,7 @@ def export_excel(final, dept54, dept93, with_phone, with_siret, with_both):
             cell = ws.cell(row=row_idx, column=col_idx, value=val)
             cell.border = thin_border
             cell.fill = fill
-            if col_idx == 1:
+            if col_idx in (1, 8):  # N° and Distance centered
                 cell.alignment = Alignment(horizontal="center")
 
     # Freeze header row
@@ -519,15 +647,15 @@ def export_excel(final, dept54, dept93, with_phone, with_siret, with_both):
 
     # ── Summary sheet ──
     ws2 = wb.create_sheet("Résumé")
-    ws2.column_dimensions["A"].width = 35
+    ws2.column_dimensions["A"].width = 40
     ws2.column_dimensions["B"].width = 15
 
     summary_data = [
-        ("RÉSUMÉ - Garages Nancy & Saint-Denis", ""),
+        (f"RÉSUMÉ - Garages dans un rayon de {RADIUS_KM:.0f} km", ""),
         ("", ""),
         ("Total garages", len(final)),
-        ("Dept 54 - Meurthe-et-Moselle", len(dept54)),
-        ("Dept 93 - Seine-Saint-Denis", len(dept93)),
+        (f"Zone Nancy (rayon {RADIUS_KM:.0f} km)", len(zone_nancy)),
+        (f"Zone Saint-Denis (rayon {RADIUS_KM:.0f} km)", len(zone_stdenis)),
         ("", ""),
         ("Avec téléphone", with_phone),
         ("Avec SIRET", with_siret),
@@ -535,6 +663,10 @@ def export_excel(final, dept54, dept93, with_phone, with_siret, with_both):
         ("", ""),
         ("Taux téléphone", f"{100*with_phone/len(final):.1f}%" if final else "N/A"),
         ("Taux SIRET", f"{100*with_siret/len(final):.1f}%" if final else "N/A"),
+        ("", ""),
+        ("Centre Nancy", f"{NANCY_CENTER[0]:.4f}, {NANCY_CENTER[1]:.4f}"),
+        ("Centre Saint-Denis", f"{STDENIS_CENTER[0]:.4f}, {STDENIS_CENTER[1]:.4f}"),
+        ("Rayon de recherche", f"{RADIUS_KM:.0f} km"),
     ]
 
     title_font = Font(name="Calibri", bold=True, size=14, color="1A5276")
