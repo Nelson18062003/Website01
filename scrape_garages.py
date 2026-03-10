@@ -59,8 +59,34 @@ def scrape_city(query, ou_param, label):
 
 def main():
     cities = [
+        # Nancy + périphérie 15 km
         ("garages automobiles", "Nancy (54)", "Nancy (54)"),
+        ("garages automobiles", "Vandoeuvre-lès-Nancy (54)", "Vandoeuvre (54)"),
+        ("garages automobiles", "Laxou (54)", "Laxou (54)"),
+        ("garages automobiles", "Maxéville (54)", "Maxéville (54)"),
+        ("garages automobiles", "Essey-lès-Nancy (54)", "Essey (54)"),
+        ("garages automobiles", "Tomblaine (54)", "Tomblaine (54)"),
+        ("garages automobiles", "Champigneulles (54)", "Champigneulles (54)"),
+        ("garages automobiles", "Ludres (54)", "Ludres (54)"),
+        ("garages automobiles", "Frouard (54)", "Frouard (54)"),
+        ("garages automobiles", "Pompey (54)", "Pompey (54)"),
+        ("garages automobiles", "Neuves-Maisons (54)", "Neuves-Maisons (54)"),
+        # Saint-Denis + périphérie 15 km
         ("garages automobiles", "Saint-Denis (93)", "Saint-Denis (93)"),
+        ("garages automobiles", "Aubervilliers (93)", "Aubervilliers (93)"),
+        ("garages automobiles", "Bobigny (93)", "Bobigny (93)"),
+        ("garages automobiles", "Pantin (93)", "Pantin (93)"),
+        ("garages automobiles", "Drancy (93)", "Drancy (93)"),
+        ("garages automobiles", "La Courneuve (93)", "La Courneuve (93)"),
+        ("garages automobiles", "Stains (93)", "Stains (93)"),
+        ("garages automobiles", "Épinay-sur-Seine (93)", "Épinay (93)"),
+        ("garages automobiles", "Saint-Ouen (93)", "Saint-Ouen (93)"),
+        ("garages automobiles", "Montreuil (93)", "Montreuil (93)"),
+        ("garages automobiles", "Bondy (93)", "Bondy (93)"),
+        ("garages automobiles", "Gennevilliers (92)", "Gennevilliers (92)"),
+        ("garages automobiles", "Argenteuil (95)", "Argenteuil (95)"),
+        ("garages automobiles", "Clichy (92)", "Clichy (92)"),
+        ("garages automobiles", "Asnières-sur-Seine (92)", "Asnières (92)"),
     ]
 
     all_data = {}

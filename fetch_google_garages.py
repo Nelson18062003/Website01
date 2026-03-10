@@ -17,22 +17,52 @@ USER_AGENT = "GarageFinderScript/1.0 (research project; contact@example.com)"
 
 # Bounding boxes
 AREAS = {
-    "Nancy": {"lat_min": 48.55, "lat_max": 48.80, "lon_min": 5.95, "lon_max": 6.35},
-    "Saint-Denis": {"lat_min": 48.88, "lat_max": 48.97, "lon_min": 2.30, "lon_max": 2.42},
+    "Nancy": {"lat_min": 48.557, "lat_max": 48.827, "lon_min": 5.979, "lon_max": 6.389},
+    "Saint-Denis": {"lat_min": 48.801, "lat_max": 49.071, "lon_min": 2.151, "lon_max": 2.563},
 }
 
-# Nominatim search queries
+# Nominatim search queries — cover cities within 15km radius
 NOMINATIM_QUERIES = [
+    # Nancy zone (15 km)
     "garage automobile Nancy France",
     "réparation automobile Nancy France",
+    "garage auto Nancy 54 France",
+    "carrosserie Nancy France",
+    "mécanicien automobile Nancy France",
+    "garage automobile Vandoeuvre-lès-Nancy France",
+    "garage automobile Laxou France",
+    "garage automobile Maxéville France",
+    "garage automobile Essey-lès-Nancy France",
+    "garage automobile Villers-lès-Nancy France",
+    "garage automobile Tomblaine France",
+    "garage automobile Champigneulles France",
+    "garage automobile Frouard France",
+    "garage automobile Ludres France",
+    "garage automobile Pompey France",
+    "garage automobile Neuves-Maisons France",
+    "garage automobile Saint-Nicolas-de-Port France",
+    # Saint-Denis zone (15 km)
     "garage automobile Saint-Denis France",
     "réparation automobile Saint-Denis France",
-    "garage auto Nancy 54 France",
     "garage auto Saint-Denis 93 France",
-    "carrosserie Nancy France",
     "carrosserie Saint-Denis France",
-    "mécanicien automobile Nancy France",
     "mécanicien automobile Saint-Denis France",
+    "garage automobile Aubervilliers France",
+    "garage automobile Bobigny France",
+    "garage automobile Pantin France",
+    "garage automobile Drancy France",
+    "garage automobile La Courneuve France",
+    "garage automobile Stains France",
+    "garage automobile Épinay-sur-Seine France",
+    "garage automobile Saint-Ouen France",
+    "garage automobile Montreuil France",
+    "garage automobile Bondy France",
+    "garage automobile Pierrefitte-sur-Seine France",
+    "garage automobile Villetaneuse France",
+    "garage automobile Gennevilliers France",
+    "garage automobile Argenteuil France",
+    "garage automobile Clichy France",
+    "garage automobile Asnières-sur-Seine France",
 ]
 
 # SSL context to avoid certificate issues

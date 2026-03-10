@@ -11,7 +11,7 @@ OUTPUT_FILE = "/home/user/Website01/scrape_environs_legal.json"
 
 # Queries to run: (search_term, naf_code, department)
 QUERIES = [
-    # Department 54 - Meurthe-et-Moselle
+    # Department 54 - Meurthe-et-Moselle (Nancy)
     ("garage", "45.20A", "54"),
     ("garage", "45.11Z", "54"),
     ("garage", "45.20B", "54"),
@@ -19,7 +19,16 @@ QUERIES = [
     ("réparation automobile", "45.20B", "54"),
     ("carrosserie", "45.20A", "54"),
     ("mécanique automobile", "45.20A", "54"),
-    # Department 93 - Seine-Saint-Denis
+    # Department 57 - Moselle (voisin Nancy, 15 km)
+    ("garage", "45.20A", "57"),
+    ("garage", "45.20B", "57"),
+    ("réparation automobile", "45.20A", "57"),
+    # Department 88 - Vosges (voisin Nancy, 15 km)
+    ("garage", "45.20A", "88"),
+    ("réparation automobile", "45.20A", "88"),
+    # Department 55 - Meuse (voisin Nancy, 15 km)
+    ("garage", "45.20A", "55"),
+    # Department 93 - Seine-Saint-Denis (Saint-Denis)
     ("garage", "45.20A", "93"),
     ("garage", "45.11Z", "93"),
     ("garage", "45.20B", "93"),
@@ -27,16 +36,37 @@ QUERIES = [
     ("réparation automobile", "45.20B", "93"),
     ("carrosserie", "45.20A", "93"),
     ("mécanique automobile", "45.20A", "93"),
+    # Department 75 - Paris (voisin Saint-Denis, 15 km)
+    ("garage", "45.20A", "75"),
+    ("garage", "45.20B", "75"),
+    ("réparation automobile", "45.20A", "75"),
+    # Department 92 - Hauts-de-Seine (voisin Saint-Denis, 15 km)
+    ("garage", "45.20A", "92"),
+    ("réparation automobile", "45.20A", "92"),
+    # Department 94 - Val-de-Marne (voisin Saint-Denis, 15 km)
+    ("garage", "45.20A", "94"),
+    ("réparation automobile", "45.20A", "94"),
+    # Department 95 - Val-d'Oise (voisin Saint-Denis, 15 km)
+    ("garage", "45.20A", "95"),
+    ("réparation automobile", "45.20A", "95"),
+    # Department 77 - Seine-et-Marne (voisin Saint-Denis, 15 km)
+    ("garage", "45.20A", "77"),
 ]
 
 # Also search without specific NAF to get broader results
 BROAD_QUERIES = [
     ("garage automobile", "54"),
     ("réparation automobile", "54"),
+    ("entretien automobile", "54"),
+    ("garage automobile", "57"),
+    ("garage automobile", "88"),
     ("garage automobile", "93"),
     ("réparation automobile", "93"),
-    ("entretien automobile", "54"),
     ("entretien automobile", "93"),
+    ("garage automobile", "75"),
+    ("garage automobile", "92"),
+    ("garage automobile", "94"),
+    ("garage automobile", "95"),
 ]
 
 def fetch_url(url, max_retries=5):

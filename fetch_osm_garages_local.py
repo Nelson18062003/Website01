@@ -13,8 +13,8 @@ OVERPASS_URL = "https://overpass-api.de/api/interpreter"
 REVERSE_GEOCODE_URL = "https://api-adresse.data.gouv.fr/reverse/"
 
 AREAS = {
-    "Nancy (54)": {"south": 48.55, "west": 5.95, "north": 48.80, "east": 6.35},
-    "Saint-Denis (93)": {"south": 48.88, "west": 2.30, "north": 48.97, "east": 2.42},
+    "Nancy (54)": {"south": 48.557, "west": 5.979, "north": 48.827, "east": 6.389},
+    "Saint-Denis (93)": {"south": 48.801, "west": 2.151, "north": 49.071, "east": 2.563},
 }
 
 TAG_FILTERS = [

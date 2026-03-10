@@ -1,5 +1,302 @@
 [
   {
+    "name": "Jaguar Paris 19 - Groupe Autosphere",
+    "phone": "+33 1 42 39 20 40",
+    "address": "30 Avenue Mathurin Moreau 75019 Paris",
+    "postal_code": "75019",
+    "city": "Paris",
+    "lat": 48.878299,
+    "lon": 2.3745556,
+    "website": "https://jaguar.fr/paris19",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Peugeot Paris Issy-les-Moulineaux - BPM Cars",
+    "phone": "+33 1 41 46 15 50",
+    "address": "145 Avenue de Verdun 92130 Issy-les-Moulineaux",
+    "postal_code": "92130",
+    "city": "Issy-les-Moulineaux",
+    "lat": 48.8177401,
+    "lon": 2.2503412,
+    "website": "https://www.bpmcars.fr/concessions/bpm-cars-peugeot-issy-les-moulineaux",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Auto Distribution Map Aumerle",
+    "phone": "+33157678004",
+    "address": "8 Rue de Stalingrad 92000 Nanterre",
+    "postal_code": "92000",
+    "city": "Nanterre",
+    "lat": 48.8918758,
+    "lon": 2.1998818,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Renault - Grand Garage de Bois-Colombes",
+    "phone": "+33 1 47 81 09 35",
+    "address": "19, Rue d'Estienne d'Orves",
+    "postal_code": "92270",
+    "city": "Bois-Colombes",
+    "lat": 48.9162281,
+    "lon": 2.2720594,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Victor Hugo Automobiles",
+    "phone": "+33 1 41 10 84 44",
+    "address": "121 Avenue Victor Hugo 92100 Boulogne-Billancourt",
+    "postal_code": "92100",
+    "city": "Boulogne-Billancourt",
+    "lat": 48.8344432,
+    "lon": 2.2442617,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Priod 92",
+    "phone": "+33 1 46 03 84 40",
+    "address": "54 Route de la Reine 92100 Boulogne-Billancourt",
+    "postal_code": "92100",
+    "city": "Boulogne-Billancourt",
+    "lat": 48.8394597,
+    "lon": 2.2442981,
+    "website": "https://www.fordalliance.fr/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Vauban Automobile",
+    "phone": "+33 1 34 34 35 35",
+    "address": "117, Boulevard Jean Allemane",
+    "postal_code": "95100",
+    "city": "Argenteuil",
+    "lat": 48.9580597,
+    "lon": 2.2565352,
+    "website": "https://www.peugeot-argenteuil.fr/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Garage des Amis",
+    "phone": "+33142042490",
+    "address": "63 Rue de Suresnes 92000 Nanterre",
+    "postal_code": "92000",
+    "city": "Nanterre",
+    "lat": 48.8841287,
+    "lon": 2.2148213,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Dubos Automobiles",
+    "phone": "+33 1 48 19 85 90",
+    "address": "37 Avenue Anatole France 93600 Aulnay-sous-Bois",
+    "postal_code": "93600",
+    "city": "Aulnay-sous-Bois",
+    "lat": 48.9358762,
+    "lon": 2.4937414,
+    "website": "https://www.fordalliance.fr/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Darl'Mat",
+    "phone": "+33 1 41 86 19 19",
+    "address": "74bis Route de la Reine 92100 Boulogne-Billancourt",
+    "postal_code": "92100",
+    "city": "Boulogne-Billancourt",
+    "lat": 48.8397673,
+    "lon": 2.2409265,
+    "website": "https://concessions.peugeot.fr/boulognebillancourt/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Studio Alpine Boulogne",
+    "phone": "+33 1 40 96 93 64",
+    "address": "122bis, Avenue du Général Leclerc, 92100, Boulogne-Billancourt",
+    "postal_code": "92100",
+    "city": "Boulogne-Billancourt",
+    "lat": 48.8301807,
+    "lon": 2.2316944,
+    "website": "https://www.alpine-rrg.com/fr_FR/alpine-store/boulogne-billancourt",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Garage Fénéron",
+    "phone": "+33147212202",
+    "address": "44, Rue Maurice Thorez",
+    "postal_code": "92000",
+    "city": "Nanterre",
+    "lat": 48.8927574,
+    "lon": 2.1959509,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Midas",
+    "phone": "+33 1 46 20 41 59",
+    "address": "24 Avenue Edouard Vaillant 92100 Boulogne-Billancourt",
+    "postal_code": "92100",
+    "city": "Boulogne-Billancourt",
+    "lat": 48.8367551,
+    "lon": 2.2529238,
+    "website": "https://www.midas.fr/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Asphalte",
+    "phone": "+33 1 47 12 12 12",
+    "address": "31bis Route de la Reine 92100 Boulogne-Billancourt",
+    "postal_code": "92100",
+    "city": "Boulogne-Billancourt",
+    "lat": 48.838852,
+    "lon": 2.2479734,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "BMW Horizon Ride",
+    "phone": "+33 1 55 70 47 47",
+    "address": "107, Boulevard de Verdun",
+    "postal_code": "92400",
+    "city": "Courbevoie",
+    "lat": 48.902692,
+    "lon": 2.2583239,
+    "website": "https://www.horizon.fr/concession/horizon-la-defense.html",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Firststop - Métifiot Pneus",
+    "phone": "+33 1 46 99 98 78",
+    "address": "117, Route de la Reine",
+    "postal_code": "92100",
+    "city": "Boulogne-Billancourt",
+    "lat": 48.8402564,
+    "lon": 2.2321594,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Privilège Automobiles",
+    "phone": "+33 1 46 09 19 00",
+    "address": "55, Avenue Pierre Grenier",
+    "postal_code": "92100",
+    "city": "Boulogne-Billancourt",
+    "lat": 48.8316323,
+    "lon": 2.2525911,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Saint Maur Créteil Diffusion Autos",
+    "phone": "+33 1 48 86 41 42",
+    "address": "48, Rue de la Varenne, 94100, Saint-Maur-des-Fossés",
+    "postal_code": "94100",
+    "city": "Saint-Maur-des-Fossés",
+    "lat": 48.80655,
+    "lon": 2.4774711,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Lexus Levallois - Groupe Autosphere",
+    "phone": "+33 1 42 70 40 70",
+    "address": "116 Rue du President Wilson 92300 Levallois-Perret",
+    "postal_code": "92300",
+    "city": "Levallois-Perret",
+    "lat": 48.8969576,
+    "lon": 2.2863,
+    "website": "https://www.lexus-levallois.fr/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "OAB",
+    "phone": "+33 1 46 03 84 40",
+    "address": "55 Rue de Paris 92100 Boulogne-Billancourt",
+    "postal_code": "92100",
+    "city": "Boulogne-Billancourt",
+    "lat": 48.8402033,
+    "lon": 2.2439254,
+    "website": "https://www.fordalliance.fr/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Longchamp Automobile",
+    "phone": "+33 1 45 06 42 10;+33 1 45 06 48 01",
+    "address": "226 Rue Paul Vaillant-Couturier 92000 Nanterre",
+    "postal_code": "92000",
+    "city": "Nanterre",
+    "lat": 48.8790838,
+    "lon": 2.2090158,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Auto Sécurité",
+    "phone": "+33 1 45062980",
+    "address": "Rue du Docteur Marc Bombiger",
+    "postal_code": "92150",
+    "city": "Suresnes",
+    "lat": 48.8624665,
+    "lon": 2.2125098,
+    "website": "https://www.autosecurite.com/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Axial - Garage de la Boule",
+    "phone": "+33 1 47 24 14 79",
+    "address": "33 Rue des Suisses 92000 Nanterre",
+    "postal_code": "92000",
+    "city": "Nanterre",
+    "lat": 48.8856364,
+    "lon": 2.2009828,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Albax",
+    "phone": "+33 1 46 03 01 60",
+    "address": "13",
+    "postal_code": "92100",
+    "city": "Boulogne-Billancourt",
+    "lat": 48.8437133,
+    "lon": 2.2443648,
+    "website": "https://www.albax.fr/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Renault - Agence du Parc",
+    "phone": "+33147210944",
+    "address": "4 Rue Jean-Baptiste Lebon 92000 Nanterre",
+    "postal_code": "92000",
+    "city": "Nanterre",
+    "lat": 48.891827,
+    "lon": 2.1944491,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Jaguar Saint-Maur-des-Fossés - Groupe Autosphere",
+    "phone": "+33 1 72 46 48 40",
+    "address": "17 Boulevard Maurice Berteaux 94100 Saint-Maur-des-Fossés",
+    "postal_code": "94100",
+    "city": "Saint-Maur-des-Fossés",
+    "lat": 48.8104246,
+    "lon": 2.4706476,
+    "website": "https://www.jaguar.fr/saintmaur",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Midas",
+    "phone": "+33 1 43 47 38 56",
+    "address": "265-267, Avenue Daumesnil, 75012, Paris",
+    "postal_code": "75012",
+    "city": "Paris",
+    "lat": 48.8363149,
+    "lon": 2.405139,
+    "website": "https://www.midas.fr/",
+    "source": "Nominatim/OSM"
+  },
+  {
     "name": "OPEL Merino Sporting",
     "phone": "+33 1 48 44 59 59",
     "address": "15-31, Rue du Garde Chasse",
@@ -22,6 +319,28 @@
     "source": "Nominatim/OSM"
   },
   {
+    "name": "Renault Les Pavillons-sous-Bois - Groupe Autospher",
+    "phone": "+33 1 48 50 31 80",
+    "address": "42 Avenue Aristide Briand 93320 Les Pavillons-sous-Bois",
+    "postal_code": "93320",
+    "city": "Les Pavillons-sous-Bois",
+    "lat": 48.9075772,
+    "lon": 2.4935309,
+    "website": "https://www.renault-pavillons.fr/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Les Studios de l'Auto",
+    "phone": "+33 1 77 58 37 09",
+    "address": "116 Avenue Jean Baptiste Clément 92100 Boulogne-Billancourt",
+    "postal_code": "92100",
+    "city": "Boulogne-Billancourt",
+    "lat": 48.8417954,
+    "lon": 2.2295683,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
     "name": "Garage Caer",
     "phone": "+33 3 83 96 64 50",
     "address": "324bis Avenue de Boufflers 54000 Nancy",
@@ -30,6 +349,39 @@
     "lat": 48.69397,
     "lon": 6.139091,
     "website": "https://reseau.top-garage.fr/210-garage-caer",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Auto 87",
+    "phone": "+33142425279",
+    "address": "46 Rue Alfred Dequéant 92000 Nanterre",
+    "postal_code": "92000",
+    "city": "Nanterre",
+    "lat": 48.9075517,
+    "lon": 2.2206972,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Audi Saint-Maur-des-Fossés Gueudet 1880",
+    "phone": "+33 1 45 11 12 00",
+    "address": "39, Rue de la Varenne",
+    "postal_code": "94100",
+    "city": "Saint-Maur-des-Fossés",
+    "lat": 48.8073461,
+    "lon": 2.4751003,
+    "website": "https://www.audi-saintmaur.fr/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Point S",
+    "phone": "+33 1 48 85 10 10",
+    "address": "2, Boulevard Rabelais, 94100, Saint-Maur-des-Fossés",
+    "postal_code": "94100",
+    "city": "Saint-Maur-des-Fossés",
+    "lat": 48.8070521,
+    "lon": 2.4756925,
+    "website": "https://www.points.fr/centre/tvtb-saint-maur-des-fosses/",
     "source": "Nominatim/OSM"
   },
   {
@@ -66,6 +418,83 @@
     "source": "Nominatim/OSM"
   },
   {
+    "name": "Renault Le Perreux-sur-Marne - Groupe Sofibrie",
+    "phone": "+33 1 43 24 08 35",
+    "address": "46 Avenue de Bry 94170 Le Perreux-sur-Marne",
+    "postal_code": "94170",
+    "city": "Le Perreux-sur-Marne",
+    "lat": 48.8350684,
+    "lon": 2.4975746,
+    "website": "https://www.renault.fr/trouver-un-etablissement.html",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Var Auto",
+    "phone": "+33148732951",
+    "address": "1 Avenue des Marronniers 94130 Nogent-sur-Marne",
+    "postal_code": "94130",
+    "city": "Nogent-sur-Marne",
+    "lat": 48.8327644,
+    "lon": 2.4713072,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Speedy",
+    "phone": "+33 1 48 89 48 99",
+    "address": "31, Rue de la Varenne, 94100, Saint-Maur-des-Fossés",
+    "postal_code": "94100",
+    "city": "Saint-Maur-des-Fossés",
+    "lat": 48.8076396,
+    "lon": 2.4741825,
+    "website": "https://centres-auto.speedy.fr/garage/saint-maur-94100/182",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "France Pare-Brise",
+    "phone": "+33 1 41 74 63 53",
+    "address": "84 Avenue du Général de Gaulle 94500 Champigny-sur-Marne",
+    "postal_code": "94500",
+    "city": "Champigny-sur-Marne",
+    "lat": 48.8221548,
+    "lon": 2.491941,
+    "website": "https://centre.franceparebrise.fr/reparation-pare-brise/ile-de-france/val-de-marne/champigny-sur-marne/champigny-sur-marne",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Garage Ségoffin",
+    "phone": "+33147895256",
+    "address": "60, Rue Ségoffin, 92400",
+    "postal_code": "92400",
+    "city": "Courbevoie",
+    "lat": 48.8956788,
+    "lon": 2.2459492,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Peugeot Psa Retail Joinville",
+    "phone": "+33 1 45117575",
+    "address": "53 Avenue du Général Galliéni 94340 Joinville-le-Pont",
+    "postal_code": "94340",
+    "city": "Joinville-le-Pont",
+    "lat": 48.8201732,
+    "lon": 2.4804651,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Midas",
+    "phone": "+33 1 39 31 22 11",
+    "address": "131, Boulevard Victor Bordier, 95370, Montigny-lès-Cormeilles",
+    "postal_code": "95370",
+    "city": "Montigny-lès-Cormeilles",
+    "lat": 48.994966,
+    "lon": 2.1919608,
+    "website": "https://www.midas.fr/",
+    "source": "Nominatim/OSM"
+  },
+  {
     "name": "Point S",
     "phone": "+33 3 83 38 30 42",
     "address": "46 Rue de Frouard 54250 Champigneulles",
@@ -77,6 +506,138 @@
     "source": "Nominatim/OSM"
   },
   {
+    "name": "Renault",
+    "phone": "+33 1 48 94 16 16",
+    "address": "116 Avenue de Rosny 93250 Villemomble",
+    "postal_code": "93250",
+    "city": "Villemomble",
+    "lat": 48.8829662,
+    "lon": 2.497798,
+    "website": "https://www.renault-villemomble.fr/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Luxury Pare-Brise",
+    "phone": "+33 9 80 23 40 09",
+    "address": "190 Avenue du Général Leclerc 78220 Viroflay",
+    "postal_code": "78220",
+    "city": "Viroflay",
+    "lat": 48.8019312,
+    "lon": 2.1637373,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Nissan Avenir",
+    "phone": "+33 1 30 24 08 22",
+    "address": "188 Avenue du Général Leclerc 78220 Viroflay",
+    "postal_code": "78220",
+    "city": "Viroflay",
+    "lat": 48.8020843,
+    "lon": 2.1640154,
+    "website": "https://www.nissan-avenir.com/concessions/nissan-viroflay/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Peugeot",
+    "phone": "+33 1 30 84 87 00",
+    "address": "17 Avenue du Général Leclerc 78220 Viroflay",
+    "postal_code": "78220",
+    "city": "Viroflay",
+    "lat": 48.8043655,
+    "lon": 2.1787775,
+    "website": "https://concessions.peugeot.fr/viroflay/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Actena Mirabeau",
+    "phone": "+33 1 44 30 82 30",
+    "address": "56, Avenue de Versailles",
+    "postal_code": "75016",
+    "city": "Paris",
+    "lat": 48.8481291,
+    "lon": 2.2741988,
+    "website": "https://volvocars-concessions.com/paris-16",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Neubauer Mirabeau",
+    "phone": "+33 1 46 47 00 00",
+    "address": "71, Avenue de Versailles",
+    "postal_code": "75016",
+    "city": "Paris",
+    "lat": 48.846841,
+    "lon": 2.2733651,
+    "website": "https://neubauer-bmw.fr/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Garage de la Mairie",
+    "phone": "+33 1 47 50 56 23",
+    "address": "17 Rue de Saint-Cloud 92410 Ville-d'Avray",
+    "postal_code": "92410",
+    "city": "Ville-d'Avray",
+    "lat": 48.8284607,
+    "lon": 2.1899138,
+    "website": "https://sngaragedelamairie92.fr/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Hyundai Kremlin-Bicêtre - BPM Cars",
+    "phone": "+33 1 43 90 12 00",
+    "address": "145 Avenue de Fontainebleau 94270 Le Kremlin-Bicêtre",
+    "postal_code": "94270",
+    "city": "Le Kremlin-Bicêtre",
+    "lat": 48.8072213,
+    "lon": 2.3634615,
+    "website": "https://bpmgroup.fr/site-cars-hyundai-le-kremlin-bicetre",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Midas",
+    "phone": "+33 1 43 08 47 64",
+    "address": "13, Boulevard Gallieni, 93360, Neuilly-Plaisance",
+    "postal_code": "93360",
+    "city": "Neuilly-Plaisance",
+    "lat": 48.8528516,
+    "lon": 2.5128098,
+    "website": "https://www.midas.fr/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Midas",
+    "phone": "+33 1 48 68 66 66",
+    "address": "4",
+    "postal_code": "93600",
+    "city": "Aulnay-sous-Bois",
+    "lat": 48.9310402,
+    "lon": 2.4829145,
+    "website": "https://www.midas.fr/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "RR Motorsport",
+    "phone": "+33187693945",
+    "address": "1938 Avenue Roger Salengro 92370 Chaville",
+    "postal_code": "92370",
+    "city": "Chaville",
+    "lat": 48.8061482,
+    "lon": 2.1845625,
+    "website": "https://www.rr-motorsport.fr",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Garage des Peupliers",
+    "phone": "+33 1 45 89 45 00",
+    "address": "19, Rue de l'Interne Loeb, 75013, Paris",
+    "postal_code": "75013",
+    "city": "Paris",
+    "lat": 48.8223657,
+    "lon": 2.3542932,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
     "name": "Mondial Pare-brise",
     "phone": "+33 1 48 30 06 38",
     "address": "124, Avenue Jean Jaurès, 93500",
@@ -84,6 +645,61 @@
     "city": "Pantin",
     "lat": 48.9064398,
     "lon": 2.3954834,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "JLM Prestige Auto",
+    "phone": "+33 6 15 75 27 28",
+    "address": "102 Boulevard Brune 75014 Paris",
+    "postal_code": "75014",
+    "city": "Paris",
+    "lat": 48.8246944,
+    "lon": 2.3179741,
+    "website": "https://jlm-auto-prestige.fr",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Toyota Paris 5 - Groupe Autosphere",
+    "phone": "+33 1 55 43 55 00",
+    "address": "58 Boulevard Saint-Marcel 75005 Paris",
+    "postal_code": "75005",
+    "city": "Paris",
+    "lat": 48.838286,
+    "lon": 2.3556437,
+    "website": "https://www.toyota-paris5.fr/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Midas Paris 14 - Brune",
+    "phone": "+33 1 45 39 15 78",
+    "address": "50 Boulevard Brune 75014 Paris",
+    "postal_code": "75014",
+    "city": "Paris",
+    "lat": 48.8261839,
+    "lon": 2.3112265,
+    "website": "https://www.midas.fr/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Citroën Psa Retail Paris Porte Versailles",
+    "phone": "+33 1 44 19 20 60",
+    "address": "75 Boulevard Lefebvre 75015 Paris",
+    "postal_code": "75015",
+    "city": "Paris",
+    "lat": 48.8307829,
+    "lon": 2.2940182,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "",
+    "phone": "+33 1 46025620",
+    "address": "38 Rue Dailly 92210 Saint-Cloud",
+    "postal_code": "92210",
+    "city": "Saint-Cloud",
+    "lat": 48.8459711,
+    "lon": 2.2183834,
     "website": "",
     "source": "Nominatim/OSM"
   },
@@ -99,6 +715,50 @@
     "source": "Nominatim/OSM"
   },
   {
+    "name": "Ateliers Mustang",
+    "phone": "+33147243578",
+    "address": "Avenue Vladimir Ilitch Lénine 92000 Nanterre",
+    "postal_code": "92000",
+    "city": "Nanterre",
+    "lat": 48.8879133,
+    "lon": 2.1919654,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Nouveau Garage de Normandie",
+    "phone": "+33 1 45061436",
+    "address": "132 Boulevard Henri Sellier 92150 Suresnes",
+    "postal_code": "92150",
+    "city": "Suresnes",
+    "lat": 48.862923,
+    "lon": 2.217937,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "De Luca",
+    "phone": "+33 1 46 57 49 25",
+    "address": "183 Avenue Pierre Brossolette 92120 Montrouge",
+    "postal_code": "92120",
+    "city": "Montrouge",
+    "lat": 48.8139584,
+    "lon": 2.3033485,
+    "website": "http://www.garagedeluca.fr",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Audi Aliantis Paris | Ventes Et Service Apv",
+    "phone": "+33 1 55 76 50 76",
+    "address": "229 Rue Lecourbe 75015 Paris",
+    "postal_code": "75015",
+    "city": "Paris",
+    "lat": 48.8394401,
+    "lon": 2.2930808,
+    "website": "https://www.aliantis.com/concession-audi-aliantis-lecourbe.html",
+    "source": "Nominatim/OSM"
+  },
+  {
     "name": "Point S",
     "phone": "+33 1 40 38 49 89",
     "address": "60 Rue de la Chapelle 75018 Paris",
@@ -110,6 +770,17 @@
     "source": "Nominatim/OSM"
   },
   {
+    "name": "Aliantis Concessionnaire Audi - Service Commercial & Atelier",
+    "phone": "+33 1 59 13 21 29",
+    "address": "5 Sq Combattants d’Afrique du Nord 92120 Montrouge",
+    "postal_code": "92120",
+    "city": "Montrouge",
+    "lat": 48.8192342,
+    "lon": 2.325071,
+    "website": "https://www.aliantis.com/concession-audi-aliantis-montrouge.html",
+    "source": "Nominatim/OSM"
+  },
+  {
     "name": "Midas",
     "phone": "+33 3 83986765",
     "address": "195 Avenue de la Libération 54000 Nancy",
@@ -118,6 +789,182 @@
     "lat": 48.6968287,
     "lon": 6.1588579,
     "website": "https://www.midas.fr/stores/grand-est/meurthe-et-moselle/nancy/nancy-liberation_1041",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Speedy",
+    "phone": "+33 1 46 57 26 42",
+    "address": "238 Avenue Pierre Brossolette 92240 Malakoff",
+    "postal_code": "92240",
+    "city": "Malakoff",
+    "lat": 48.8115345,
+    "lon": 2.2997682,
+    "website": "https://centres-auto.speedy.fr/garage/malakoff-92240/6",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Speedy",
+    "phone": "+33 1 49 12 14 08",
+    "address": "128, Avenue Aristide Briand, 92120",
+    "postal_code": "92120",
+    "city": "Montrouge",
+    "lat": 48.8118456,
+    "lon": 2.3259607,
+    "website": "https://centres-auto.speedy.fr/garage/montrouge-92120/281",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Volkswagen",
+    "phone": "+33 1 46 59 44 44",
+    "address": "105 Cours de Vincennes 75020 Paris",
+    "postal_code": "75020",
+    "city": "Paris",
+    "lat": 48.8475537,
+    "lon": 2.4100444,
+    "website": "https://www.volkswagen.fr/fr/partenaire/volkswagenparisest-paris20.html",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Nissan Paris Sud Service",
+    "phone": "+33 1 40 92 77 00",
+    "address": "83 Avenue Aristide Briand 92120 Montrouge",
+    "postal_code": "92120",
+    "city": "Montrouge",
+    "lat": 48.8154656,
+    "lon": 2.3262325,
+    "website": "http://www.nissan-montrouge.fr/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Volkswagen",
+    "phone": "+33 1 46 42 20 61",
+    "address": "154, Avenue Victor Hugo, 92140, Clamart",
+    "postal_code": "92140",
+    "city": "Clamart",
+    "lat": 48.8085763,
+    "lon": 2.2714884,
+    "website": "https://www.volkswagen.fr/fr/partenaire/stna-clamart.html",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Garage Jaurès",
+    "phone": "+33 6 13 98 17 47",
+    "address": "100, Avenue Jean Jaurès, 94400, Ivry-sur-Seine",
+    "postal_code": "94400",
+    "city": "Ivry-sur-Seine",
+    "lat": 48.8073103,
+    "lon": 2.4043107,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Auto Garage AMpère",
+    "phone": "+33 1 46 72 60 40",
+    "address": "5, Rue Ampère, 94200, Ivry-sur-Seine",
+    "postal_code": "94200",
+    "city": "Ivry-sur-Seine",
+    "lat": 48.8106462,
+    "lon": 2.4005497,
+    "website": "https://www.easycarrosserie.com/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Ligier Store",
+    "phone": "+33 1 45 21 45 30",
+    "address": "82 Avenue Jean Jaurès 94200 Ivry-sur-Seine",
+    "postal_code": "94200",
+    "city": "Ivry-sur-Seine",
+    "lat": 48.8087185,
+    "lon": 2.403772,
+    "website": "https://www.reseau-sans-permis-94.com/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Courbevoie Autos Réparations",
+    "phone": "+33142427423",
+    "address": "94, Rue Jean Bonal, 92250, La Garenne Colombes",
+    "postal_code": "92250",
+    "city": "La Garenne Colombes",
+    "lat": 48.9046373,
+    "lon": 2.2407534,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Groupauto Mesnil Accessoires",
+    "phone": "+33 1 55 81 02 10",
+    "address": "137-141, Avenue Charles Floquet, 93150",
+    "postal_code": "93150",
+    "city": "Le Blanc-Mesnil",
+    "lat": 48.9399813,
+    "lon": 2.4445111,
+    "website": "https://distributeur.groupauto.fr/560-groupauto-mesnil-accessoires",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Urban Cars",
+    "phone": "+33 1 85 08 03 33",
+    "address": "68 Rue de Suresnes 92380 Garches",
+    "postal_code": "92380",
+    "city": "Garches",
+    "lat": 48.8468923,
+    "lon": 2.1964099,
+    "website": "https://urban-cars.com",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Speedy",
+    "phone": "+33 1 48 30 38 04",
+    "address": "146, Avenue Henri Barbusse",
+    "postal_code": "93700",
+    "city": "Drancy",
+    "lat": 48.9205605,
+    "lon": 2.4531356,
+    "website": "https://www.speedy.fr/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Midas",
+    "phone": "+33 1 45 25 92 65",
+    "address": "7, Quai Louis Blériot, 75016, Paris",
+    "postal_code": "75016",
+    "city": "Paris",
+    "lat": 48.8508697,
+    "lon": 2.2782227,
+    "website": "https://www.midas.fr/stores/paris-16-passy_1148",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Midas",
+    "phone": "+33142537042",
+    "address": "72, Avenue Pierre Brossolette, 92240, Malakoff",
+    "postal_code": "92240",
+    "city": "Malakoff",
+    "lat": 48.8190263,
+    "lon": 2.3093877,
+    "website": "https://www.midas.fr/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Porsche",
+    "phone": "+33 1 49 68 34 34",
+    "address": "16 Villa Des Fleurs 92400 Courbevoie",
+    "postal_code": "92400",
+    "city": "Courbevoie",
+    "lat": 48.9031833,
+    "lon": 2.2603839,
+    "website": "http://www.porsche-distribution.fr/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Mercedes-Benz",
+    "phone": "+33 1 44 05 78 00",
+    "address": "80 Rue de Longchamp 75016 Paris",
+    "postal_code": "75016",
+    "city": "Paris",
+    "lat": 48.8654661,
+    "lon": 2.2843049,
+    "website": "https://www.como.mercedes-benz.fr",
     "source": "Nominatim/OSM"
   },
   {
@@ -143,6 +990,72 @@
     "source": "Nominatim/OSM"
   },
   {
+    "name": "Midas",
+    "phone": "+33 1 43 80 66 86",
+    "address": "124, Avenue de Villiers, 75017, Paris",
+    "postal_code": "75017",
+    "city": "Paris",
+    "lat": 48.8853982,
+    "lon": 2.2949594,
+    "website": "https://www.midas.fr/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Volkswagen",
+    "phone": "+33 1 53 58 10 00",
+    "address": "40b Avenue de Suffren 75015 Paris",
+    "postal_code": "75015",
+    "city": "Paris",
+    "lat": 48.8542319,
+    "lon": 2.2957885,
+    "website": "https://www.volkswagen.fr/fr/partenaire/espacesuffren-paris15.html",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Motoritalia Nanterre",
+    "phone": "+33 1 58749960",
+    "address": "155 Avenue Georges Clemenceau 92000 Nanterre",
+    "postal_code": "92000",
+    "city": "Nanterre",
+    "lat": 48.8866883,
+    "lon": 2.211657,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Renault Nanterre",
+    "phone": "+33 1 56 83 74 00",
+    "address": "140, Avenue François Arago",
+    "postal_code": "92000",
+    "city": "Nanterre",
+    "lat": 48.9015448,
+    "lon": 2.2262893,
+    "website": "https://concessionnaire.renault.fr/nanterre-la-defense.html",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Société Commerciale Automobile Nanterre Clemenceau",
+    "phone": "+33 1 47 49 32 00",
+    "address": "155, Avenue Georges Clemenceau",
+    "postal_code": "92000",
+    "city": "Nanterre",
+    "lat": 48.8865,
+    "lon": 2.2117,
+    "website": "http://groupeschumacher.com/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Garage De La Résidence",
+    "phone": "+33 1 30 15 77 66",
+    "address": "40 Avenue du Maréchal Foch 78400 Chatou",
+    "postal_code": "78400",
+    "city": "Chatou",
+    "lat": 48.8905,
+    "lon": 2.15426,
+    "website": "https://groupeschumacher.com",
+    "source": "Nominatim/OSM"
+  },
+  {
     "name": "Garage Le Médreville",
     "phone": "+33 3 83403837",
     "address": "2 Rue Sergent Bobillot 54000 Nancy",
@@ -154,6 +1067,83 @@
     "source": "Nominatim/OSM"
   },
   {
+    "name": "Peugeot",
+    "phone": "+33155511600",
+    "address": "122 Avenue Georges Clemenceau 92000 Nanterre",
+    "postal_code": "92000",
+    "city": "Nanterre",
+    "lat": 48.8862573,
+    "lon": 2.2089569,
+    "website": "https://concessions.peugeot.fr/bernier-nanterre/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Renault Nanterre Clemenceau",
+    "phone": "+33 1 47493200",
+    "address": "155 Avenue Georges Clemenceau 92000 Nanterre",
+    "postal_code": "92000",
+    "city": "Nanterre",
+    "lat": 48.8866354,
+    "lon": 2.2124027,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "KB Automobile",
+    "phone": "+33 9 83 08 76 17",
+    "address": "26, Rue du Général Leclerc",
+    "postal_code": "94270",
+    "city": "Le Kremlin-Bicêtre",
+    "lat": 48.8139597,
+    "lon": 2.3590973,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Škoda",
+    "phone": "+33 1 75 90 97 12",
+    "address": "35-41, Avenue Paul Doumer, 92500, Rueil-Malmaison",
+    "postal_code": "92500",
+    "city": "Rueil-Malmaison",
+    "lat": 48.8826582,
+    "lon": 2.1891688,
+    "website": "https://www.volkswagen-rueil.fr/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Proxicars",
+    "phone": "+33 1 40 99 13 12",
+    "address": "61 Boulevard Henri Sellier 92150 Suresnes",
+    "postal_code": "92150",
+    "city": "Suresnes",
+    "lat": 48.8668969,
+    "lon": 2.2213865,
+    "website": "https://www.voiture-sans-permis-proxicars.fr/nos-points-de-vente/notre-point-de-vente/proxicars-suresnes-92/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Renault Minute",
+    "phone": "+33 1 46 67 55 55",
+    "address": "18 Boulevard Georges Clémenceau 92400 Courbevoie",
+    "postal_code": "92400",
+    "city": "Courbevoie",
+    "lat": 48.903051,
+    "lon": 2.2724942,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Gtonauto",
+    "phone": "+33 1 61 30 35 34",
+    "address": "44 Rue Pierre Joseph Proudhon 78800 Houilles",
+    "postal_code": "78800",
+    "city": "Houilles",
+    "lat": 48.9337259,
+    "lon": 2.1998057,
+    "website": "www.gtonauto.com",
+    "source": "Nominatim/OSM"
+  },
+  {
     "name": "Garage Auto Nantes",
     "phone": "+33 1 40 36 80 33",
     "address": "32 Rue de Nantes 75019 Paris",
@@ -161,6 +1151,28 @@
     "city": "Paris",
     "lat": 48.8926021,
     "lon": 2.3809613,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Atelier Citroën",
+    "phone": "+33 1 49 57 96 96",
+    "address": "120, Avenue de paris, 94300, Vincennes",
+    "postal_code": "94300",
+    "city": "Vincennes",
+    "lat": 48.8459727,
+    "lon": 2.4253989,
+    "website": "https://reseau.citroen.fr/vincennes",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Citroën Psa Retail Vincennes",
+    "phone": "+33 1 49579696",
+    "address": "116 Avenue de Paris 94300 Vincennes",
+    "postal_code": "94300",
+    "city": "Vincennes",
+    "lat": 48.8459371,
+    "lon": 2.4257687,
     "website": "",
     "source": "Nominatim/OSM"
   },
@@ -187,6 +1199,50 @@
     "source": "Nominatim/OSM"
   },
   {
+    "name": "Smart - Como Neuilly",
+    "phone": "+33 1 46 37 84 84",
+    "address": "110",
+    "postal_code": "92200",
+    "city": "Neuilly-sur-Seine",
+    "lat": 48.8851639,
+    "lon": 2.2664997,
+    "website": "https://www.como.fr/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Midas",
+    "phone": "+33 1 42 72 39 95",
+    "address": "24-26, Quai des Célestins, 75004, Paris",
+    "postal_code": "75004",
+    "city": "Paris",
+    "lat": 48.8525347,
+    "lon": 2.3603353,
+    "website": "https://www.midas.fr/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Como",
+    "phone": "+33 1 80 73 07 30",
+    "address": "80 Avenue Edouard Vaillant 92100 Boulogne-Billancourt",
+    "postal_code": "92100",
+    "city": "Boulogne-Billancourt",
+    "lat": 48.83471,
+    "lon": 2.2463614,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Autos-Store",
+    "phone": "+33 1 45 21 92 35",
+    "address": "5 Rue François Mitterrand 94200 Ivry-sur-Seine",
+    "postal_code": "94200",
+    "city": "Ivry-sur-Seine",
+    "lat": 48.824091,
+    "lon": 2.3877835,
+    "website": "www.autos-store.com",
+    "source": "Nominatim/OSM"
+  },
+  {
     "name": "Top Carrosserie",
     "phone": "+33 3 83402075",
     "address": "8",
@@ -195,6 +1251,61 @@
     "lat": 48.685742,
     "lon": 6.1702353,
     "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Garage de la Grande Arche",
+    "phone": "+33 1 47 88 99 24",
+    "address": "3",
+    "postal_code": "92400",
+    "city": "Courbevoie",
+    "lat": 48.8979676,
+    "lon": 2.2571868,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "L'Atelier Automobile",
+    "phone": "+33 1 47 82 01 31",
+    "address": "26",
+    "postal_code": "92250",
+    "city": "La Garenne-Colombes",
+    "lat": 48.9037621,
+    "lon": 2.2530885,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Speedy",
+    "phone": "+33 1 30 40 95 59",
+    "address": "Rue Theroigne de Mericourt 95150 Taverny",
+    "postal_code": "95150",
+    "city": "Taverny",
+    "lat": 49.0157176,
+    "lon": 2.2218345,
+    "website": "https://centres-auto.speedy.fr/garage/taverny-95150/391",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Renault",
+    "phone": "+33 1 46 67 55 55",
+    "address": "8, Boulevard Georges Clemenceau, 92400, Courbevoie",
+    "postal_code": "92400",
+    "city": "Courbevoie",
+    "lat": 48.9029539,
+    "lon": 2.2732024,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Toyota",
+    "phone": "+33 1 61 04 39 90",
+    "address": "121, Avenue Maurice Berteaux, 78500, Sartrouville",
+    "postal_code": "78500",
+    "city": "Sartrouville",
+    "lat": 48.938563,
+    "lon": 2.1706061,
+    "website": "http://vauban-motors-sartrouville.concessions-toyota.fr/",
     "source": "Nominatim/OSM"
   },
   {
@@ -220,6 +1331,17 @@
     "source": "Nominatim/OSM"
   },
   {
+    "name": "Andj Auto",
+    "phone": "+33 1 61 30 97 80",
+    "address": "162, 78500, Sartrouville",
+    "postal_code": "78500",
+    "city": "Sartrouville",
+    "lat": 48.9492222,
+    "lon": 2.1920917,
+    "website": "http://www.andj-auto.com/",
+    "source": "Nominatim/OSM"
+  },
+  {
     "name": "Seat Garges Les Gonesse",
     "phone": "+33 1 76 24 56 60",
     "address": "113, Avenue de Stalingrad, 95140, Garges-lès-Gonesse",
@@ -231,6 +1353,237 @@
     "source": "Nominatim/OSM"
   },
   {
+    "name": "Volkswagen",
+    "phone": "+33 1 61 04 70 00",
+    "address": "45 Avenue Maurice Berteaux 78500 Sartrouville",
+    "postal_code": "78500",
+    "city": "Sartrouville",
+    "lat": 48.9413835,
+    "lon": 2.1652044,
+    "website": "https://www.volkswagen-sartrouville.com/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Garage de la Gare",
+    "phone": "+33 1 39 57 88 22",
+    "address": "21 Rue Michelet 78500 Sartrouville",
+    "postal_code": "78500",
+    "city": "Sartrouville",
+    "lat": 48.936988,
+    "lon": 2.1571974,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Midas",
+    "phone": "+33 1 48 48 45 14",
+    "address": "274, 93320, Les Pavillons-sous-Bois",
+    "postal_code": "93320",
+    "city": "Les Pavillons-sous-Bois",
+    "lat": 48.9111634,
+    "lon": 2.5173172,
+    "website": "https://www.midas.fr/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Siligom",
+    "phone": "+33 1 48 97 36 98",
+    "address": "28, Avenue de la République, 93170, Bagnolet",
+    "postal_code": "93170",
+    "city": "Bagnolet",
+    "lat": 48.8623977,
+    "lon": 2.4157589,
+    "website": "https://www.siligom.fr/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Garage Violas agent Citroën",
+    "phone": "+33 1 47 72 35 48",
+    "address": "13 Rue de Saint-Cloud 92150 Suresnes",
+    "postal_code": "92150",
+    "city": "Suresnes",
+    "lat": 48.8670036,
+    "lon": 2.2250898,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Argiauto",
+    "phone": "+33 1 72 61 45 15",
+    "address": "11 BIS, Rue Parmentier, 92800",
+    "postal_code": "92800",
+    "city": "Puteaux",
+    "lat": 48.8782213,
+    "lon": 2.2391777,
+    "website": "https://www.argiauto.com/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Peugeot Psa Retail Aulnay",
+    "phone": "+33 1 41522333",
+    "address": "8 Mail du Docteur Georges Pascarel 93600 Aulnay-sous-Bois",
+    "postal_code": "93600",
+    "city": "Aulnay-sous-Bois",
+    "lat": 48.949918,
+    "lon": 2.521942,
+    "website": "https://concessions.peugeot.fr/aulnay-sous-bois/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Peugeot Psa Retail Bobigny",
+    "phone": "+33 1 43933793",
+    "address": "165 Rue de la République 93000 Bobigny",
+    "postal_code": "93000",
+    "city": "Bobigny",
+    "lat": 48.907129,
+    "lon": 2.4261162,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Peugeot Psa Retail Boulogne-billancourt",
+    "phone": "+33 1 41861919",
+    "address": "74bis Route de la Reine 92100 Boulogne-Billancourt",
+    "postal_code": "92100",
+    "city": "Boulogne-Billancourt",
+    "lat": 48.8398314,
+    "lon": 2.2409481,
+    "website": "https://concessions.peugeot.fr/boulognebillancourt/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Peugeot Sabrié Fontenay",
+    "phone": "+33 1 48751000",
+    "address": "9 Avenue de la République 94120 Fontenay-sous-Bois",
+    "postal_code": "94120",
+    "city": "Fontenay-sous-Bois",
+    "lat": 48.8501777,
+    "lon": 2.4564434,
+    "website": "https://concessions.peugeot.fr/fontenay-sous-bois/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Stellantis &You Versailles",
+    "phone": "+33 1 39251188",
+    "address": "120 Avenue des Etats Unis 78000 Versailles",
+    "postal_code": "78000",
+    "city": "Versailles",
+    "lat": 48.8121666,
+    "lon": 2.1538837,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Peugeot Psa Retail Malakoff",
+    "phone": "+33 1 40 92 55 00",
+    "address": "105, Boulevard Gabriel Péri, 92240, Malakoff",
+    "postal_code": "92240",
+    "city": "Malakoff",
+    "lat": 48.8195542,
+    "lon": 2.3039303,
+    "website": "https://concessions.peugeot.fr/malakoff",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Peugeot Psa Retail Neuilly Sur Seine",
+    "phone": "+33 1 41430250",
+    "address": "131 Avenue Charles de Gaulle 92200 Neuilly-sur-Seine",
+    "postal_code": "92200",
+    "city": "Neuilly-sur-Seine",
+    "lat": 48.8821478,
+    "lon": 2.267254,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Peugeot Psa Retail Paris Saint-didier",
+    "phone": "+33 1 44 34 76 76",
+    "address": "39 Rue Saint-Didier 75016 Paris",
+    "postal_code": "75016",
+    "city": "Paris",
+    "lat": 48.8668986,
+    "lon": 2.283614,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Peugeot Psa Retail Nanterre",
+    "phone": "+33 1 41195100",
+    "address": "115 Rue du 11 Novembre 1918 92000 Nanterre",
+    "postal_code": "92000",
+    "city": "Nanterre",
+    "lat": 48.9069544,
+    "lon": 2.2226913,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Citroën Psa Retail Argenteuil",
+    "phone": "+33 1 39808000",
+    "address": "79, Boulevard Jean Allemane, 95100, Argenteuil",
+    "postal_code": "95100",
+    "city": "Argenteuil",
+    "lat": 48.9548824,
+    "lon": 2.25473,
+    "website": "https://reseau.citroen.fr/argenteuil",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Peugeot Retail Business",
+    "phone": "+33 1 41 19 54 00",
+    "address": "115, Rue du 11 Novembre 1918, 92000, Nanterre",
+    "postal_code": "92000",
+    "city": "Nanterre",
+    "lat": 48.9069509,
+    "lon": 2.222415,
+    "website": "https://concessions.peugeot.fr/peugeotretailbusiness",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Citroën Psa Retail Bois-colombes",
+    "phone": "+33 1 47824100",
+    "address": "245 Avenue d'Argenteuil 92270 Bois-Colombes",
+    "postal_code": "92270",
+    "city": "Bois-Colombes",
+    "lat": 48.9214225,
+    "lon": 2.2777095,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Citroën Psa Retail Aulnay Ss Bois",
+    "phone": "+33 1 43837081",
+    "address": "8 Mail du Docteur Georges Pascarel 93600 Aulnay-sous-Bois",
+    "postal_code": "93600",
+    "city": "Aulnay-sous-Bois",
+    "lat": 48.9502671,
+    "lon": 2.5217917,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Citroën Retail Sarcelles",
+    "phone": "+33 1 39 90 70 00",
+    "address": "1, Avenue paul langevin, 95200, Sarcelles",
+    "postal_code": "95200",
+    "city": "Sarcelles",
+    "lat": 48.9828492,
+    "lon": 2.3785883,
+    "website": "https://reseau.citroen.fr/sarcelles",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Citroën Psa Retail Garches",
+    "phone": "+33 1 47 10 91 50",
+    "address": "4 Boulevard du Général de Gaulle 92380 Garches",
+    "postal_code": "92380",
+    "city": "Garches",
+    "lat": 48.8416374,
+    "lon": 2.1980704,
+    "website": "https://www.stellantisandyou.com/fr/nos-concessionnaires/citroen-stellantis-you-garches-97",
+    "source": "Nominatim/OSM"
+  },
+  {
     "name": "Citroën Psa Retail Pantin",
     "phone": "+331 49 15 10 00",
     "address": "68-70, Avenue du Général Leclerc, 93500, Pantin",
@@ -238,6 +1591,61 @@
     "city": "Pantin",
     "lat": 48.8947583,
     "lon": 2.400024,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Auto 2001",
+    "phone": "+33 1 39 87 48 33",
+    "address": "Route Nationale 370 LES TULIPES de FRANCE, 95500, Gonesse",
+    "postal_code": "95500",
+    "city": "Gonesse",
+    "lat": 48.9638748,
+    "lon": 2.4640776,
+    "website": "https://www.auto2001.fr",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Asivry",
+    "phone": "+33146580643",
+    "address": "74, Rue Marat",
+    "postal_code": "94200",
+    "city": "Ivry-sur-Seine",
+    "lat": 48.8073495,
+    "lon": 2.3899219,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Mimi Auto",
+    "phone": "+33147245385",
+    "address": "19ter Rue Sadi Carnot 92000 Nanterre",
+    "postal_code": "92000",
+    "city": "Nanterre",
+    "lat": 48.8895459,
+    "lon": 2.2012202,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Garage des Œillets",
+    "phone": "+33 1 47 36 21 81",
+    "address": "69 Rue Sadi Carnot 92170 Vanves",
+    "postal_code": "92170",
+    "city": "Vanves",
+    "lat": 48.8240374,
+    "lon": 2.2932688,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "DK Auto Service",
+    "phone": "+33 1 42 53 71 26",
+    "address": "11, Avenue Victor Hugo, 92220, Bagneux",
+    "postal_code": "92220",
+    "city": "Bagneux",
+    "lat": 48.8047743,
+    "lon": 2.3219371,
     "website": "",
     "source": "Nominatim/OSM"
   },
@@ -319,6 +1727,28 @@
     "source": "Nominatim/OSM"
   },
   {
+    "name": "FLC Automobile",
+    "phone": "+33147823685",
+    "address": "25bis Rue Georges Bizet 92000 Nanterre",
+    "postal_code": "92000",
+    "city": "Nanterre",
+    "lat": 48.9071378,
+    "lon": 2.2211855,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Grand Garage du Tremblay",
+    "phone": "+33 1 43 97 12 43",
+    "address": "72, Avenue du Général de Gaulle, 94500, Champigny-sur-Marne",
+    "postal_code": "94500",
+    "city": "Champigny-sur-Marne",
+    "lat": 48.821795,
+    "lon": 2.4907376,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
     "name": "APS",
     "phone": "+33 383 305 494",
     "address": "6 Rue Jean Mermoz 54500 Vandœuvre-lès-Nancy",
@@ -352,6 +1782,149 @@
     "source": "Nominatim/OSM"
   },
   {
+    "name": "Peugeot Neubauer",
+    "phone": "+33 1 34 04 39 39",
+    "address": "15 Avenue Robert Schuman 95350 Saint-Brice-sous-Forêt",
+    "postal_code": "95350",
+    "city": "Saint-Brice-sous-Forêt",
+    "lat": 49.0086228,
+    "lon": 2.3518266,
+    "website": "https://concessions.peugeot.fr/saint-brice/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Norauto",
+    "phone": "+33 1 34 29 22 13",
+    "address": "9 Avenue Robert Schuman 95350 Saint-Brice-sous-Forêt",
+    "postal_code": "95350",
+    "city": "Saint-Brice-sous-Forêt",
+    "lat": 49.0070152,
+    "lon": 2.3523888,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Speedy",
+    "phone": "+33 1 34 19 66 00",
+    "address": "107, Rue du Luat",
+    "postal_code": "95350",
+    "city": "Saint-Brice-sous-Forêt",
+    "lat": 49.0059156,
+    "lon": 2.3532463,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Midas",
+    "phone": "+33 1 39 33 54 44",
+    "address": "1, Avenue Robert Schumann, 95350, Saint-Brice-sous-Forêt",
+    "postal_code": "95350",
+    "city": "Saint-Brice-sous-Forêt",
+    "lat": 49.0061884,
+    "lon": 2.3526013,
+    "website": "https://www.midas.fr/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Citroën Retail Paris 16 Saint-Didier",
+    "phone": "+33 1 44 05 34 90",
+    "address": "39b Rue Saint-Didier 75016 Paris",
+    "postal_code": "75016",
+    "city": "Paris",
+    "lat": 48.866869,
+    "lon": 2.283483,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Stellantis &You",
+    "phone": "+33 1 46104310",
+    "address": "53 Rue Barthélémy Danjou 92100 Boulogne-Billancourt",
+    "postal_code": "92100",
+    "city": "Boulogne-Billancourt",
+    "lat": 48.8316112,
+    "lon": 2.2492784,
+    "website": "https://www.stellantisandyou.com/fr/nos-concessionnaires/citroen-stellantis-you-boulogne-danjou-95",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "The Garage",
+    "phone": "+33 1 46 45 92 29",
+    "address": "28 Rue de la Défense 92130 Issy-les-Moulineaux",
+    "postal_code": "92130",
+    "city": "Issy-les-Moulineaux",
+    "lat": 48.8193892,
+    "lon": 2.2611947,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Garage du Marché",
+    "phone": "+33 1 46 42 25 28",
+    "address": "21 Rue de l'Egalité 92130 Issy-les-Moulineaux",
+    "postal_code": "92130",
+    "city": "Issy-les-Moulineaux",
+    "lat": 48.8185722,
+    "lon": 2.2633934,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "SGDE Garage de l'Égalité",
+    "phone": "+33 1 46 42 54 42",
+    "address": "27 Rue de l'Egalité 92130 Issy-les-Moulineaux",
+    "postal_code": "92130",
+    "city": "Issy-les-Moulineaux",
+    "lat": 48.8183727,
+    "lon": 2.2630789,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Auto Pyramide",
+    "phone": "+33 1 40 93 59 60",
+    "address": "12 Boulevard Voltaire 92130 Issy-les-Moulineaux",
+    "postal_code": "92130",
+    "city": "Issy-les-Moulineaux",
+    "lat": 48.826222,
+    "lon": 2.2799022,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Atelier 500",
+    "phone": "+33 6 20 53 61 40",
+    "address": "18 Villa Marguerite 92130 Issy-les-Moulineaux",
+    "postal_code": "92130",
+    "city": "Issy-les-Moulineaux",
+    "lat": 48.8303068,
+    "lon": 2.2835512,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Mercedes-Benz",
+    "phone": "+33 1 49 29 28 28",
+    "address": "248 Rue de Bercy 75012 Paris",
+    "postal_code": "75012",
+    "city": "Paris",
+    "lat": 48.8474807,
+    "lon": 2.3688025,
+    "website": "https://www.como.mercedes-benz.fr",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Euromaster",
+    "phone": "+33 1 55 81 19 60",
+    "address": "190, Avenue Charles Floquet, 93150",
+    "postal_code": "93150",
+    "city": "Le Blanc-Mesnil",
+    "lat": 48.9408062,
+    "lon": 2.4459579,
+    "website": "https://www.euromaster.fr/centres/ile-de-france/blanc-mesnil/euromaster-blanc-mesnil-vehicules-legers",
+    "source": "Nominatim/OSM"
+  },
+  {
     "name": "Cicov Lebar",
     "phone": "+33 1 46 27 98 66",
     "address": "6, Rue Jacques Cartier, 75018, Paris",
@@ -363,14 +1936,124 @@
     "source": "Nominatim/OSM"
   },
   {
+    "name": "Garage Dedouvre",
+    "phone": "+33146544941",
+    "address": "5",
+    "postal_code": "94250",
+    "city": "Gentilly",
+    "lat": 48.8162865,
+    "lon": 2.3350608,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Citroën Psa Retail Malakoff",
+    "phone": "+33 1 40925550",
+    "address": "Boulevard Gabriel Péri 92240 Malakoff",
+    "postal_code": "92240",
+    "city": "Malakoff",
+    "lat": 48.8195532,
+    "lon": 2.3034291,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Speedy",
+    "phone": "+33 1 41 19 01 53",
+    "address": "18 Boulevard Charles de Gaulle 92700 Colombes",
+    "postal_code": "92700",
+    "city": "Colombes",
+    "lat": 48.9094924,
+    "lon": 2.2363326,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
     "name": "Midas",
-    "phone": "+33 1 43 80 73 73",
-    "address": "131, Rue de Rome, 75017, Paris",
-    "postal_code": "75017",
+    "phone": "+33 1 43 70 31 43",
+    "address": "90, Boulevard de Charonne, 75020, Paris",
+    "postal_code": "75020",
     "city": "Paris",
-    "lat": 48.8852874,
-    "lon": 2.3170193,
+    "lat": 48.8534456,
+    "lon": 2.3971665,
     "website": "https://www.midas.fr/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "AD Carosserie Privilège",
+    "phone": "+33 1 47 82 27 61",
+    "address": "11",
+    "postal_code": "92700",
+    "city": "Colombes",
+    "lat": 48.9115446,
+    "lon": 2.2357446,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Lamborghini Paris",
+    "phone": "+33 1 73000540",
+    "address": "2",
+    "postal_code": "92800",
+    "city": "Puteaux",
+    "lat": 48.8860957,
+    "lon": 2.2509435,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Peugeot Paris 16",
+    "phone": "+33 1 45 24 50 30",
+    "address": "13, Boulevard Exelmans",
+    "postal_code": "75016",
+    "city": "Paris",
+    "lat": 48.8401187,
+    "lon": 2.2658564,
+    "website": "http://www.garage-paris-exelmans.fr/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Toyota",
+    "phone": "+33 1 58 64 15 00",
+    "address": "2 Rue de Colmar 94300 Vincennes",
+    "postal_code": "94300",
+    "city": "Vincennes",
+    "lat": 48.84538,
+    "lon": 2.4317541,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "DS Automobiles",
+    "phone": "+33 1 49579675",
+    "address": "118 Avenue de Paris 94300 Vincennes",
+    "postal_code": "94300",
+    "city": "Vincennes",
+    "lat": 48.8459621,
+    "lon": 2.4254901,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Ds Store Boulogne",
+    "phone": "+33 1 41861948",
+    "address": "76 Route de la Reine 92100 Boulogne-Billancourt",
+    "postal_code": "92100",
+    "city": "Boulogne-Billancourt",
+    "lat": 48.8398285,
+    "lon": 2.240725,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "DS City Paris 16",
+    "phone": "+33 1 44 34 76 75",
+    "address": "39 Rue Saint-Didier 75016 Paris",
+    "postal_code": "75016",
+    "city": "Paris",
+    "lat": 48.8668582,
+    "lon": 2.2836898,
+    "website": "",
     "source": "Nominatim/OSM"
   },
   {
@@ -381,6 +2064,83 @@
     "city": "Saint-Ouen-sur-Seine",
     "lat": 48.909981,
     "lon": 2.3324302,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Glassint",
+    "phone": "+33 1 57 63 93 91",
+    "address": "63 Rue Thalheimer 92120 Montrouge",
+    "postal_code": "92120",
+    "city": "Montrouge",
+    "lat": 48.812017,
+    "lon": 2.32653,
+    "website": "https://www.glastint.com/centres/montrouge/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Opel PSA Retail Paris 15 Porte de Versailles",
+    "phone": "+33 1 44 19 20 87",
+    "address": "75 Boulevard Lefebvre 75015 Paris",
+    "postal_code": "75015",
+    "city": "Paris",
+    "lat": 48.8308888,
+    "lon": 2.2940236,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Speedy",
+    "phone": "+33 1 39 47 14 15",
+    "address": "22, Boulevard Jean Allemane",
+    "postal_code": "95100",
+    "city": "Argenteuil",
+    "lat": 48.9504225,
+    "lon": 2.2539487,
+    "website": "https://centres-auto.speedy.fr/garage/argenteuil-95100/976",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Ds Salon Versailles",
+    "phone": "+33 1 39251035",
+    "address": "134 Avenue des Etats Unis 78000 Versailles",
+    "postal_code": "78000",
+    "city": "Versailles",
+    "lat": 48.812262,
+    "lon": 2.1540285,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Mercedes-Benz Colombes-La Défense",
+    "phone": "+33141197979",
+    "address": "116, Avenue Henri Barbusse",
+    "postal_code": "92700",
+    "city": "Colombes",
+    "lat": 48.915962,
+    "lon": 2.2525594,
+    "website": "https://www.como.mercedes-benz.fr",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Vauban Motors",
+    "phone": "+33 1 30 25 94 00",
+    "address": "117, Boulevard Jean Allemane",
+    "postal_code": "95100",
+    "city": "Argenteuil",
+    "lat": 48.9583323,
+    "lon": 2.2567181,
+    "website": "http://vauban-motors-argenteuil.concessions-toyota.fr/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Kia Rousseau Motors",
+    "phone": "+33 1 39 80 95 95",
+    "address": "139b, Boulevard Jean Allemane",
+    "postal_code": "95100",
+    "city": "Argenteuil",
+    "lat": 48.9606482,
+    "lon": 2.2581089,
     "website": "",
     "source": "Nominatim/OSM"
   },
@@ -396,6 +2156,28 @@
     "source": "Nominatim/OSM"
   },
   {
+    "name": "Garage Alain",
+    "phone": "+33 1 39 82 38 48",
+    "address": "166bis Boulevard Jean Allemane 95100 Argenteuil",
+    "postal_code": "95100",
+    "city": "Argenteuil",
+    "lat": 48.9629059,
+    "lon": 2.2604129,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Paris Automobiles",
+    "phone": "+33 1 42 30 90 00",
+    "address": "79 Rue Chardon-Lagache 75016 Paris",
+    "postal_code": "75016",
+    "city": "Paris",
+    "lat": 48.8415281,
+    "lon": 2.2640418,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
     "name": "Auto Passion Nancy",
     "phone": "+33 6 52 23 09 59",
     "address": "3 Rue Charles Bourseul 54136 Bouxières-aux-Dames",
@@ -403,6 +2185,94 @@
     "city": "Bouxières-aux-Dames",
     "lat": 48.7576294,
     "lon": 6.1529256,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Midas",
+    "phone": "+33 1 47 06 05 15",
+    "address": "240, 94500, Champigny-sur-Marne",
+    "postal_code": "94500",
+    "city": "Champigny-sur-Marne",
+    "lat": 48.8282358,
+    "lon": 2.494068,
+    "website": "https://www.midas.fr/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Neubauer Boulogne",
+    "phone": "+33 1 70 36 17 36",
+    "address": "34 Avenue Edouard Vaillant 92100 Boulogne-Billancourt",
+    "postal_code": "92100",
+    "city": "Boulogne-Billancourt",
+    "lat": 48.8364167,
+    "lon": 2.2518866,
+    "website": "https://www.neubauer-bmw.fr/concessionnaire/neubauer-boulogne.html",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Accessoires Auto Diderot",
+    "phone": "+33 1 43 43 38 73",
+    "address": "58, Boulevard Diderot, 75012, Paris",
+    "postal_code": "75012",
+    "city": "Paris",
+    "lat": 48.846436,
+    "lon": 2.3802991,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "AD - Garage Cori",
+    "phone": "+33 1 43 74 41 57",
+    "address": "33, Rue Victor Basch",
+    "postal_code": "94300",
+    "city": "Vincennes",
+    "lat": 48.8481976,
+    "lon": 2.4267477,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Midas",
+    "phone": "+33 1 39 60 61 51",
+    "address": "80, Boulevard du Temps des Cerises, 95150, Taverny",
+    "postal_code": "95150",
+    "city": "Taverny",
+    "lat": 49.018088,
+    "lon": 2.2262283,
+    "website": "https://www.midas.fr/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Garage ML Auto",
+    "phone": "+33 1 30 76 67 35",
+    "address": "114 Boulevard Gambetta 95110 Sannois",
+    "postal_code": "95110",
+    "city": "Sannois",
+    "lat": 48.9783134,
+    "lon": 2.2414165,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Point S",
+    "phone": "+33 1 46 56 95 59",
+    "address": "91 Avenue Aristide Briand 92120 Montrouge",
+    "postal_code": "92120",
+    "city": "Montrouge",
+    "lat": 48.8145879,
+    "lon": 2.3264401,
+    "website": "https://www.points.fr/centre/avia-relais-de-montrouge-montrouge/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "BB Pneus",
+    "phone": "+33 1 46 03 63 63",
+    "address": "45 Rue Fernand Pelloutier 92100 Boulogne-Billancourt",
+    "postal_code": "92100",
+    "city": "Boulogne-Billancourt",
+    "lat": 48.8341197,
+    "lon": 2.2338933,
     "website": "",
     "source": "Nominatim/OSM"
   },
@@ -418,6 +2288,50 @@
     "source": "Nominatim/OSM"
   },
   {
+    "name": "Opel Psa Retail Bois-colombes",
+    "phone": "+33 1 47 86 75 49",
+    "address": "Villa Emilie 92270 Bois-Colombes",
+    "postal_code": "92270",
+    "city": "Bois-Colombes",
+    "lat": 48.9213249,
+    "lon": 2.2775244,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Feu Vert Ivry Sur Seine",
+    "phone": "+33 1 45158040",
+    "address": "16 Boulevard Paul Vaillant Couturier 94200 Ivry-sur-Seine",
+    "postal_code": "94200",
+    "city": "Ivry-sur-Seine",
+    "lat": 48.8197483,
+    "lon": 2.3963468,
+    "website": "https://www.feuvert.fr/centres-auto/ivry-sur-seine/ivry-grand-ciel/328.html",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Toyota Paris 17 - Groupe Autosphere",
+    "phone": "+33 1 40 55 56 00",
+    "address": "182 Boulevard Pereire 75017 Paris",
+    "postal_code": "75017",
+    "city": "Paris",
+    "lat": 48.8818666,
+    "lon": 2.2909102,
+    "website": "https://www.toyota-paris17.fr/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Peugeot Psa Retail Vincennes",
+    "phone": "+33 1 49 57 96 97",
+    "address": "118 Avenue de Paris 94300 Vincennes",
+    "postal_code": "94300",
+    "city": "Vincennes",
+    "lat": 48.8459621,
+    "lon": 2.4255759,
+    "website": "https://concessions.peugeot.fr/vincennes/",
+    "source": "Nominatim/OSM"
+  },
+  {
     "name": "Référence Pare-Brise",
     "phone": "+33383931010",
     "address": "75, Avenue du 69e Régiment d'Infanterie, 54270, Essey-lès-Nancy",
@@ -429,6 +2343,94 @@
     "source": "Nominatim/OSM"
   },
   {
+    "name": "Midas",
+    "phone": "+33 1 30 25 33 29",
+    "address": "173bis",
+    "postal_code": "95110",
+    "city": "Sannois",
+    "lat": 48.9793938,
+    "lon": 2.2365534,
+    "website": "https://www.midas.fr/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "ACCES Automobile",
+    "phone": "+33 1 34 50 64 85",
+    "address": "66 Boulevard du Havre 95220 Herblay-sur-Seine",
+    "postal_code": "95220",
+    "city": "Herblay-sur-Seine",
+    "lat": 48.9977125,
+    "lon": 2.1884847,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Garage du Centre",
+    "phone": "+33 1 39 89 75 63",
+    "address": "6 Avenue Gabriel Péri 95210 Saint-Gratien",
+    "postal_code": "95210",
+    "city": "Saint-Gratien",
+    "lat": 48.9701557,
+    "lon": 2.2855211,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Dain Auto Mobile",
+    "phone": "+33 6 35 58 46 29",
+    "address": "222, Boulevard du Havre, 95480, Pierrelaye",
+    "postal_code": "95480",
+    "city": "Pierrelaye",
+    "lat": 49.0014726,
+    "lon": 2.1810791,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Dépannages Ladoire Automobiles",
+    "phone": "+33 1 39 97 99 99",
+    "address": "7, Rue Édouard Branly, 95220, Herblay-sur-Seine",
+    "postal_code": "95220",
+    "city": "Herblay-sur-Seine",
+    "lat": 49.0016526,
+    "lon": 2.1785535,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Garage Bailly",
+    "phone": "+33 1 34 14 03 49",
+    "address": "8 Rue de la Concorde 95120 Ermont",
+    "postal_code": "95120",
+    "city": "Ermont",
+    "lat": 48.9988947,
+    "lon": 2.2511376,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Midas",
+    "phone": "+33 1 49579400",
+    "address": "47, Avenue de Paris, 93400, Vincennes",
+    "postal_code": "93400",
+    "city": "Vincennes",
+    "lat": 48.8453243,
+    "lon": 2.4291163,
+    "website": "https://www.midas.fr/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "PHP Automobiles",
+    "phone": "+33 1 41 31 20 04",
+    "address": "4 Rue de la Pyramide 92100 Boulogne-Billancourt",
+    "postal_code": "92100",
+    "city": "Boulogne-Billancourt",
+    "lat": 48.8344414,
+    "lon": 2.2378054,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
     "name": "Škoda",
     "phone": "+33 1 34 45 01 01",
     "address": "1 Rue Marcel Cerdan 95140 Garges-lès-Gonesse",
@@ -437,6 +2439,17 @@
     "lat": 48.9622124,
     "lon": 2.4026254,
     "website": "https://www.skoda-gargeslesgonesse.com/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Škoda",
+    "phone": "+33 1 70 32 21 20",
+    "address": "2 Rue des Haies 93250 Villemomble",
+    "postal_code": "93250",
+    "city": "Villemomble",
+    "lat": 48.8814638,
+    "lon": 2.4973602,
+    "website": "https://www.skoda-villemomble.fr/",
     "source": "Nominatim/OSM"
   },
   {
@@ -462,6 +2475,50 @@
     "source": "Nominatim/OSM"
   },
   {
+    "name": "Midas",
+    "phone": "+33 1 48 59 04 00",
+    "address": "4;6, Avenue Gabriel Péri, 93100, Montreuil",
+    "postal_code": "93100",
+    "city": "Montreuil",
+    "lat": 48.8576988,
+    "lon": 2.4380999,
+    "website": "https://www.midas.fr/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Volkswagen",
+    "phone": "+33 1 44 15 84 15",
+    "address": "5 Rue Eugène Flachat 75017 Paris",
+    "postal_code": "75017",
+    "city": "Paris",
+    "lat": 48.8870691,
+    "lon": 2.2999086,
+    "website": "https://www.volkswagen.fr/fr/partenaire/fairplay-paris17.html",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Mercedes-Benz",
+    "phone": "+33 1 46 12 70 00",
+    "address": "15 Rue Barbès 92120 Montrouge",
+    "postal_code": "92120",
+    "city": "Montrouge",
+    "lat": 48.8175258,
+    "lon": 2.3273561,
+    "website": "https://www.como.mercedes-benz.fr",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Strateam",
+    "phone": "+33 6 11 28 13 01",
+    "address": "166 Rue du Vieux Pont de Sèvres 92100 Boulogne-Billancourt",
+    "postal_code": "92100",
+    "city": "Boulogne-Billancourt",
+    "lat": 48.8305201,
+    "lon": 2.2393341,
+    "website": "https://autostrateam.espacevo.fr/",
+    "source": "Nominatim/OSM"
+  },
+  {
     "name": "MS Auto",
     "phone": "+33 3 57 80 64 11",
     "address": "51 Rue Gabriel Mouilleron 54000 Nancy",
@@ -470,6 +2527,28 @@
     "lat": 48.6852809,
     "lon": 6.1769868,
     "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Speedy",
+    "phone": "+33 1 39 31 72 21",
+    "address": "5 Sente de l’Exploitation 95320 Saint-Leu-la-Forêt",
+    "postal_code": "95320",
+    "city": "Saint-Leu-la-Forêt",
+    "lat": 49.0127927,
+    "lon": 2.2490241,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "TEAM TOY 75",
+    "phone": "+33 1 40 02 07 42",
+    "address": "321, Rue de Charenton, 75012, Paris",
+    "postal_code": "75012",
+    "city": "Paris",
+    "lat": 48.8332373,
+    "lon": 2.3958573,
+    "website": "https://www.teamcolin-toyota.fr/adresses/team-toy-75-paris-12/",
     "source": "Nominatim/OSM"
   },
   {
@@ -484,6 +2563,28 @@
     "source": "Nominatim/OSM"
   },
   {
+    "name": "Tesla Paris-Madeleine",
+    "phone": "+33173010778",
+    "address": "3 Boulevard Malesherbes 75008 Paris",
+    "postal_code": "75008",
+    "city": "Paris",
+    "lat": 48.8698769,
+    "lon": 2.3230838,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "L'Atelier Motors",
+    "phone": "+33145929609",
+    "address": "15, Rue Carnot, 93160, Noisy-le-Grand",
+    "postal_code": "93160",
+    "city": "Noisy-le-Grand",
+    "lat": 48.845705,
+    "lon": 2.528776,
+    "website": "https://www.lateliermotors.fr",
+    "source": "Nominatim/OSM"
+  },
+  {
     "name": "Auto Top",
     "phone": "+33 1 48 45 00 67",
     "address": "2, Rue Delizy",
@@ -492,6 +2593,17 @@
     "lat": 48.8929083,
     "lon": 2.4098612,
     "website": "https://www.auto-pantin.fr/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Jackie-jag",
+    "phone": "+33 1 47 37 27 12",
+    "address": "5, Rue Franklin, 92400, Courbevoie",
+    "postal_code": "92400",
+    "city": "Courbevoie",
+    "lat": 48.9004973,
+    "lon": 2.2686955,
+    "website": "http://www.jackie-jag.fr",
     "source": "Nominatim/OSM"
   },
   {
@@ -513,6 +2625,28 @@
     "city": "Marbache",
     "lat": 48.7877295,
     "lon": 6.1225712,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Carrosserie Ransay",
+    "phone": "+33 1 49 85 14 32",
+    "address": "39",
+    "postal_code": "94110",
+    "city": "Arcueil",
+    "lat": 48.8112769,
+    "lon": 2.3306023,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Garage Grimal Frères",
+    "phone": "+33143077509",
+    "address": "3 Rue de la Gare de Reuilly 75012 Paris",
+    "postal_code": "75012",
+    "city": "Paris",
+    "lat": 48.8412594,
+    "lon": 2.3943536,
     "website": "",
     "source": "Nominatim/OSM"
   },
@@ -539,6 +2673,39 @@
     "source": "Nominatim/OSM"
   },
   {
+    "name": "Midas",
+    "phone": "+33 1 30 25 50 39",
+    "address": "108-112, Route de Pontoise, 95100, Argenteuil",
+    "postal_code": "95100",
+    "city": "Argenteuil",
+    "lat": 48.945941,
+    "lon": 2.2067164,
+    "website": "https://www.midas.fr/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Midas",
+    "phone": "+33 1 41 79 44 44",
+    "address": "225",
+    "postal_code": "94700",
+    "city": "Maisons-Alfort",
+    "lat": 48.8053163,
+    "lon": 2.4422298,
+    "website": "https://www.midas.fr/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Midas",
+    "phone": "+33 1 47 49 46 57",
+    "address": "248, Avenue Napoléon Bonaparte, 92500, Rueil-Malmaison",
+    "postal_code": "92500",
+    "city": "Rueil-Malmaison",
+    "lat": 48.8765762,
+    "lon": 2.1707735,
+    "website": "https://www.midas.fr/",
+    "source": "Nominatim/OSM"
+  },
+  {
     "name": "HG Auto",
     "phone": "+33 1 48 46 87 73",
     "address": "7, Rue Lavoisier, 93500, Pantin",
@@ -547,6 +2714,61 @@
     "lat": 48.8894107,
     "lon": 2.4194734,
     "website": "https://garage-smart-reparation.fr/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "RN3 Automobile",
+    "phone": "+33 1 41 50 08 06",
+    "address": "200, Avenue Jean Lolive, 93500, Pantin",
+    "postal_code": "93500",
+    "city": "Pantin",
+    "lat": 48.8945533,
+    "lon": 2.4237264,
+    "website": "https://rn3automobiles.espacevo.fr/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Partsmen Champigny",
+    "phone": "+33 1 84 04 06 49",
+    "address": "2, Rue du Professeur Paul Milliez, 94500, Champigny-sur-Marne",
+    "postal_code": "94500",
+    "city": "Champigny-sur-Marne",
+    "lat": 48.8163919,
+    "lon": 2.5318971,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Renault",
+    "phone": "+33 1 41 71 01 20",
+    "address": "219 Avenue Jean Lolive 93500 Pantin",
+    "postal_code": "93500",
+    "city": "Pantin",
+    "lat": 48.8947464,
+    "lon": 2.4204945,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Point S",
+    "phone": "+33 1 41 50 67 78",
+    "address": "172, Avenue Jean Lolive, 93500, Pantin",
+    "postal_code": "93500",
+    "city": "Pantin",
+    "lat": 48.8943511,
+    "lon": 2.4201707,
+    "website": "https://www.points.fr/centre/speed-as-pantin/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Pièces Auto",
+    "phone": "+33 1 73 55 85 28",
+    "address": "178 Avenue Jean Lolive 93500 Pantin",
+    "postal_code": "93500",
+    "city": "Pantin",
+    "lat": 48.8944536,
+    "lon": 2.4207085,
+    "website": "",
     "source": "Nominatim/OSM"
   },
   {
@@ -594,6 +2816,28 @@
     "source": "Nominatim/OSM"
   },
   {
+    "name": "Equipoto 95",
+    "phone": "+33 1 34 06 06 66",
+    "address": "11 Rue Tarbe des Sablons 95600 Eaubonne",
+    "postal_code": "95600",
+    "city": "Eaubonne",
+    "lat": 48.9958669,
+    "lon": 2.2710336,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Sport Auto",
+    "phone": "+33134301210",
+    "address": "3, Avenue du Général Leclerc, 95220, Pierrelaye",
+    "postal_code": "95220",
+    "city": "Pierrelaye",
+    "lat": 49.0126683,
+    "lon": 2.1594666,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
     "name": "Globale Automobiles",
     "phone": "+33 1 80 60 02 80",
     "address": "53 Rue du Pré Saint Gervais 93500 Pantin",
@@ -613,6 +2857,28 @@
     "lat": 48.9249802,
     "lon": 2.3104219,
     "website": "https://www.saab-heritage.fr/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Midas",
+    "phone": "+33 1 48 30 98 98",
+    "address": "62, 93000, Bobigny",
+    "postal_code": "93000",
+    "city": "Bobigny",
+    "lat": 48.9146361,
+    "lon": 2.4411003,
+    "website": "https://www.midas.fr/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Midas",
+    "phone": "+33 1 85 78 16 30",
+    "address": "231, Avenue Jean Jaurès, 93370, Montfermeil",
+    "postal_code": "93370",
+    "city": "Montfermeil",
+    "lat": 48.8985867,
+    "lon": 2.5467144,
+    "website": "https://www.midas.fr/",
     "source": "Nominatim/OSM"
   },
   {
@@ -660,6 +2926,83 @@
     "source": "Nominatim/OSM"
   },
   {
+    "name": "Midas",
+    "phone": "+33 1 76240303",
+    "address": "208, Boulevard Robert Ballanger, 93420, Villepinte",
+    "postal_code": "93420",
+    "city": "Villepinte",
+    "lat": 48.9566594,
+    "lon": 2.5429962,
+    "website": "https://www.midas.fr/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Midas",
+    "phone": "+33 1 85 74 08 05",
+    "address": "61, Boulevard Rodin, 92130, Issy-les-Moulineaux",
+    "postal_code": "92130",
+    "city": "Issy-les-Moulineaux",
+    "lat": 48.8194609,
+    "lon": 2.2599418,
+    "website": "https://www.midas.fr/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Midas",
+    "phone": "+33 1 42 42 10 02",
+    "address": "23, Boulevard de la République, 92250, La Garenne-Colombes",
+    "postal_code": "92250",
+    "city": "La Garenne-Colombes",
+    "lat": 48.9060151,
+    "lon": 2.250066,
+    "website": "https://www.midas.fr/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Midas",
+    "phone": "+33 1 47 30 13 13",
+    "address": "117-119",
+    "postal_code": "92300",
+    "city": "Levallois-Perret",
+    "lat": 48.8986012,
+    "lon": 2.2939032,
+    "website": "https://www.midas.fr/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Midas",
+    "phone": "+33 1 45 06 10 70",
+    "address": "150, Boulevard Henri Sellier, 92150",
+    "postal_code": "92150",
+    "city": "Suresnes",
+    "lat": 48.86167,
+    "lon": 2.2157676,
+    "website": "https://www.midas.fr/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Midas",
+    "phone": "+33 1 48 54 43 29",
+    "address": "106, Avenue de Rosny, 93250, Villemomble",
+    "postal_code": "93250",
+    "city": "Villemomble",
+    "lat": 48.8833752,
+    "lon": 2.4985866,
+    "website": "https://www.midas.fr/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Carrieres Auto",
+    "phone": "+33139147258",
+    "address": "32, Rue du Général Leclerc, 78420, Carrières-sur-Seine",
+    "postal_code": "78420",
+    "city": "Carrières-sur-Seine",
+    "lat": 48.9086207,
+    "lon": 2.1769655,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
     "name": "Custines Auto",
     "phone": "+33 3 83 49 38 75",
     "address": "18 Av du Mal de Lattre de Tassigny 54670 Custines",
@@ -682,6 +3025,17 @@
     "source": "Nominatim/OSM"
   },
   {
+    "name": "Eaubonne Automobiles",
+    "phone": "+33 1 39 59 10 11",
+    "address": "43 Rue des Bussys 95600 Eaubonne",
+    "postal_code": "95600",
+    "city": "Eaubonne",
+    "lat": 48.9784019,
+    "lon": 2.2803279,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
     "name": "Garage de l'Étoile",
     "phone": "+33 1 49 71 13 38",
     "address": "14, Rue Raymond Brosse, 93430, Villetaneuse",
@@ -689,6 +3043,17 @@
     "city": "Villetaneuse",
     "lat": 48.955927,
     "lon": 2.3473549,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Renault Maisons-Alfort - Groupe Sofibrie",
+    "phone": "+33 1 46 76 04 04",
+    "address": "12 Avenue du Professeur Cadiot 94700 Maisons-Alfort",
+    "postal_code": "94700",
+    "city": "Maisons-Alfort",
+    "lat": 48.805897,
+    "lon": 2.429819,
     "website": "",
     "source": "Nominatim/OSM"
   },
@@ -781,6 +3146,17 @@
     "source": "Nominatim/OSM"
   },
   {
+    "name": "Garage des Grésillons",
+    "phone": "+33 147931905",
+    "address": "7 Rue Pierre Boudou 92600 Asnières-sur-Seine",
+    "postal_code": "92600",
+    "city": "Asnières-sur-Seine",
+    "lat": 48.9136172,
+    "lon": 2.2997057,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
     "name": "Garage NTA",
     "phone": "+33 1 48 44 59 20",
     "address": "4, Rue Beaurepaire, 93500, Pantin",
@@ -792,6 +3168,116 @@
     "source": "Nominatim/OSM"
   },
   {
+    "name": "Peugeot - Groupe 3L",
+    "phone": "+33 1 34 06 11 11",
+    "address": "1, Avenue Albert 1er, 95600, Eaubonne",
+    "postal_code": "95600",
+    "city": "Eaubonne",
+    "lat": 48.9918093,
+    "lon": 2.2792691,
+    "website": "https://concessions.peugeot.fr/centre-eaubonne/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Auto Adam",
+    "phone": "+33 6 50 44 97 42",
+    "address": "28 Route de Calais 95200 Sarcelles",
+    "postal_code": "95200",
+    "city": "Sarcelles",
+    "lat": 48.9764598,
+    "lon": 2.3656338,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "TOP CAR",
+    "phone": "+33 1 30 25 01 08",
+    "address": "2 ter, Boulevard Vercingétorix, 95100, Argenteuil",
+    "postal_code": "95100",
+    "city": "Argenteuil",
+    "lat": 48.9538448,
+    "lon": 2.250913,
+    "website": "https://www.top-car.net/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Les Ateliers du Parc",
+    "phone": "+33 1 46 02 97 47",
+    "address": "4 Allee du Marechal Foch 92210 Saint-Cloud",
+    "postal_code": "92210",
+    "city": "Saint-Cloud",
+    "lat": 48.8482115,
+    "lon": 2.2064223,
+    "website": "https://lesateliersduparc.com/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "McLaren",
+    "phone": "+33188336389",
+    "address": "19, Rue du Calvaire, 92210, Saint-Cloud",
+    "postal_code": "92210",
+    "city": "Saint-Cloud",
+    "lat": 48.8460621,
+    "lon": 2.2185476,
+    "website": "https://paris.mclaren.com/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Volkswagen",
+    "phone": "+33175909716",
+    "address": "38, Rue Dailly, 92210, Saint-Cloud",
+    "postal_code": "92210",
+    "city": "Saint-Cloud",
+    "lat": 48.8460114,
+    "lon": 2.2181048,
+    "website": "https://www.volkswagen-saint-cloud.fr/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Coimbra",
+    "phone": "+33 1 45 21 09 48",
+    "address": "12, Rue Émile Blin, 94200, Ivry-sur-Seine",
+    "postal_code": "94200",
+    "city": "Ivry-sur-Seine",
+    "lat": 48.8101477,
+    "lon": 2.4023782,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Garage de beauchamp",
+    "phone": "+33 1 30 26 35 80",
+    "address": "51, Avenue du Général Leclerc, 95250, Beauchamp",
+    "postal_code": "95250",
+    "city": "Beauchamp",
+    "lat": 49.0119361,
+    "lon": 2.2030301,
+    "website": "https://reparateur.precisium.fr/fr/france-FR/CUST-IN0357/garage-de-beauchamp/details",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Acm auto",
+    "phone": "+33 1 71 68 74 05",
+    "address": "208, Rue d'Herblay, 95150, Taverny",
+    "postal_code": "95150",
+    "city": "Taverny",
+    "lat": 49.0144351,
+    "lon": 2.2069046,
+    "website": "https://pros.lacentrale.fr/C046311/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "AST",
+    "phone": "+33 1 39 95 45 00",
+    "address": "178, Rue d'Herblay, 95150, Taverny",
+    "postal_code": "95150",
+    "city": "Taverny",
+    "lat": 49.0160405,
+    "lon": 2.2088937,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
     "name": "Garage de Kiss",
     "phone": "+33 1 47 98 72 21",
     "address": "12, Rue Croix des Vignes, 92230, Gennevilliers",
@@ -799,6 +3285,116 @@
     "city": "Gennevilliers",
     "lat": 48.9284254,
     "lon": 2.3003005,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Kia Champigny",
+    "phone": "+33 1 41 79 08 02",
+    "address": "132 Avenue Roger Salengro 94500 Champigny-sur-Marne",
+    "postal_code": "94500",
+    "city": "Champigny-sur-Marne",
+    "lat": 48.8164903,
+    "lon": 2.4994258,
+    "website": "https://www.gueudet.fr/concession/kia/kia-champigny",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Volkswagen Champigny sur Marne",
+    "phone": "+33 1 41 79 08 02",
+    "address": "134 Avenue Roger Salengro 94500 Champigny-sur-Marne",
+    "postal_code": "94500",
+    "city": "Champigny-sur-Marne",
+    "lat": 48.8164392,
+    "lon": 2.4998813,
+    "website": "https://www.volkswagen-champigny.fr/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Auto go",
+    "phone": "+33 1 61 03 04 14",
+    "address": "13, Avenue du Général Leclerc, 95480, Pierrelaye",
+    "postal_code": "95480",
+    "city": "Pierrelaye",
+    "lat": 49.014862,
+    "lon": 2.1557888,
+    "website": "https://www.autogo-95.fr/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "L'atelier du Roule-toujours",
+    "phone": "+33 1 43 96 12 12",
+    "address": "35, Rue Carnot, 94700, Maisons-Alfort",
+    "postal_code": "94700",
+    "city": "Maisons-Alfort",
+    "lat": 48.8022878,
+    "lon": 2.4376589,
+    "website": "https://www.roule-toujours.com/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Nissan Vincennes - Cap des Nations",
+    "phone": "+33 1 82 39 28 37",
+    "address": "232 Rue de Fontenay 94300 Vincennes",
+    "postal_code": "94300",
+    "city": "Vincennes",
+    "lat": 48.8488204,
+    "lon": 2.4301411,
+    "website": "https://www.capdesnations.fr/concessions/nissan-vincennes-cap-des-nations/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Point S",
+    "phone": "+33 1 84 74 60 95",
+    "address": "177 Boulevard de Stalingrad 94200 Ivry-sur-Seine",
+    "postal_code": "94200",
+    "city": "Ivry-sur-Seine",
+    "lat": 48.806148,
+    "lon": 2.3752865,
+    "website": "https://www.points.fr/centre/jazz-auto-94-ivry-sur-seine/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Garage Pierre",
+    "phone": "+33 1 42 53 50 49",
+    "address": "63, Avenue Jean Jaurès, 94110, Arcueil",
+    "postal_code": "94110",
+    "city": "Arcueil",
+    "lat": 48.8108355,
+    "lon": 2.3332984,
+    "website": "https://pierregaragiste.com",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Renault",
+    "phone": "+33 1 48 71 12 10",
+    "address": "144, Boulevard d'Alsace-Lorraine, 94170, Le Perreux-sur-Marne",
+    "postal_code": "94170",
+    "city": "Le Perreux-sur-Marne",
+    "lat": 48.8514275,
+    "lon": 2.5084925,
+    "website": "https://www.renault.fr/trouver-un-etablissement.html",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "GARAGE VASCO AD",
+    "phone": "+33 1 48 72 57 16",
+    "address": "179, Boulevard d'Alsace-Lorraine, 94170, Le Perreux-sur-Marne",
+    "postal_code": "94170",
+    "city": "Le Perreux-sur-Marne",
+    "lat": 48.8521271,
+    "lon": 2.5092899,
+    "website": "https://garage-vasco.business.site/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Euromaster",
+    "phone": "+33 1 41 79 13 09",
+    "address": "82, Boulevard d'Alsace-Lorraine, 94170, Le Perreux-sur-Marne",
+    "postal_code": "94170",
+    "city": "Le Perreux-sur-Marne",
+    "lat": 48.8503576,
+    "lon": 2.5025098,
     "website": "",
     "source": "Nominatim/OSM"
   },
@@ -814,6 +3410,17 @@
     "source": "Nominatim/OSM"
   },
   {
+    "name": "Garage Moriceau",
+    "phone": "+33 1 47 41 12 40",
+    "address": "106 Boulevard de la République 92420 Vaucresson",
+    "postal_code": "92420",
+    "city": "Vaucresson",
+    "lat": 48.8374936,
+    "lon": 2.1532939,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
     "name": "Garage Joper Auto",
     "phone": "+33 1 42 43 76 26",
     "address": "63 Boulevard de la Libération 93200 Saint-Denis",
@@ -821,6 +3428,105 @@
     "city": "Saint-Denis",
     "lat": 48.9250556,
     "lon": 2.3423901,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "N3 AUTO PLUS",
+    "phone": "+33 188502569",
+    "address": "9bis, 93320, Les Pavillons-sous-Bois",
+    "postal_code": "93320",
+    "city": "Les Pavillons-sous-Bois",
+    "lat": 48.908021,
+    "lon": 2.4935088,
+    "website": "https://www.n3-autoplus.fr",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "AUTO FRANCE",
+    "phone": "+33 143092735",
+    "address": "90, Avenue Paul vaillant couturier, 93330, Neuilly-sur-Marne",
+    "postal_code": "93330",
+    "city": "Neuilly-sur-Marne",
+    "lat": 48.8718806,
+    "lon": 2.5537666,
+    "website": "https://www.auto-france-fiat.fr",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Garage de la Paix",
+    "phone": "+33 1 43 24 36 27",
+    "address": "99, Rue de la Paix, 94170, Le Perreux-sur-Marne",
+    "postal_code": "94170",
+    "city": "Le Perreux-sur-Marne",
+    "lat": 48.8468246,
+    "lon": 2.4974364,
+    "website": "https://garagedelapaix.site-solocal.com/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Grand Paris Pièces Auto",
+    "phone": "+33 1 48 72 04 73",
+    "address": "47, Boulevard d'Alsace-Lorraine, 94170, Le Perreux-sur-Marne",
+    "postal_code": "94170",
+    "city": "Le Perreux-sur-Marne",
+    "lat": 48.849601,
+    "lon": 2.4969518,
+    "website": "https://www.grandparispiecesauto.com/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Garage Ursulines",
+    "phone": "+33 1 44 07 14 14",
+    "address": "7 Rue des Ursulines 75005 Paris",
+    "postal_code": "75005",
+    "city": "Paris",
+    "lat": 48.8425694,
+    "lon": 2.3423911,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Peugeot Garage Lenica",
+    "phone": "+33139811111",
+    "address": "5b Boulevard Gambetta 95110 Sannois",
+    "postal_code": "95110",
+    "city": "Sannois",
+    "lat": 48.9746739,
+    "lon": 2.2498953,
+    "website": "https://concessions.peugeot.fr/sannois",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Smartland",
+    "phone": "+33155892397",
+    "address": "27, Rue Jean Lemoine, 93230, Romainville",
+    "postal_code": "93230",
+    "city": "Romainville",
+    "lat": 48.8800491,
+    "lon": 2.4473427,
+    "website": "https://www.smartland.fr",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "TOP Garage - Garage 123 AUTO",
+    "phone": "+33145112455",
+    "address": "5, Avenue Desgenettes, 94100, Saint-Maur-des-Fossés",
+    "postal_code": "94100",
+    "city": "Saint-Maur-des-Fossés",
+    "lat": 48.8072614,
+    "lon": 2.4720842,
+    "website": "https://reseau.top-garage.fr/137-garage-123-auto",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "O'Pneu",
+    "phone": "+33 1 39 31 00 63",
+    "address": "215 Boulevard de Pontoise 95370 Montigny-lès-Cormeilles",
+    "postal_code": "95370",
+    "city": "Montigny-lès-Cormeilles",
+    "lat": 48.9922158,
+    "lon": 2.1816272,
     "website": "",
     "source": "Nominatim/OSM"
   },
@@ -836,6 +3542,17 @@
     "source": "Nominatim/OSM"
   },
   {
+    "name": "Suzuki Paris - Pyrénées automobiles 20e",
+    "phone": "+33 1 43 67 20 66",
+    "address": "117b, Rue des Pyrénées, 75020, Paris",
+    "postal_code": "75020",
+    "city": "Paris",
+    "lat": 48.8568082,
+    "lon": 2.4043623,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
     "name": "Colors' Cars",
     "phone": "+33 6 63873911",
     "address": "2 lotissement de Préville 54840 Bois-de-Haye",
@@ -844,6 +3561,72 @@
     "lat": 48.6924884,
     "lon": 6.0352506,
     "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Carrosserie du Parisis",
+    "phone": "+33 6 22 80 31 65",
+    "address": "22bis, Boulevard Clémenceau",
+    "postal_code": "95240",
+    "city": "Cormeilles-en-Parisis",
+    "lat": 48.9712283,
+    "lon": 2.1925999,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "SOS Pare-brise plus",
+    "phone": "+33 6 65 92 14 96",
+    "address": "2 Linchamps Bas 54280 Champenoux",
+    "postal_code": "54280",
+    "city": "Champenoux",
+    "lat": 48.7460484,
+    "lon": 6.3607621,
+    "website": "https://www.sosparebriseplus.fr/champenoux/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Garage Vincent",
+    "phone": "+33 3 83 52 31 22",
+    "address": "6 Linchamps Bas 54280 Champenoux",
+    "postal_code": "54280",
+    "city": "Champenoux",
+    "lat": 48.74578,
+    "lon": 6.3602632,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Garage Michel",
+    "phone": "+33 3 83 31 61 20",
+    "address": "2bis Rue du Général de Castelnau 54280 Champenoux",
+    "postal_code": "54280",
+    "city": "Champenoux",
+    "lat": 48.7422881,
+    "lon": 6.3522971,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Carrosserie Meyer",
+    "phone": "+33 3 83 31 66 83",
+    "address": "2 Linchamps Bas 54280 Champenoux",
+    "postal_code": "54280",
+    "city": "Champenoux",
+    "lat": 48.7460201,
+    "lon": 6.3608184,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Actena Automobiles  - Volvo - Ventes et Services",
+    "phone": "+33 1 44 30 82 30",
+    "address": "56, Avenue de Versailles, 75016, Paris",
+    "postal_code": "75016",
+    "city": "Paris",
+    "lat": 48.84808,
+    "lon": 2.2741049,
+    "website": "https://volvocars-concessions.com/fr/paris-16",
     "source": "Nominatim/OSM"
   },
   {
@@ -902,6 +3685,17 @@
     "source": "Nominatim/OSM"
   },
   {
+    "name": "DIMAC",
+    "phone": "+33 1 39 59 11 82",
+    "address": "35 b, Avenue de Paris, 95600, Eaubonne",
+    "postal_code": "95600",
+    "city": "Eaubonne",
+    "lat": 48.9920896,
+    "lon": 2.2863642,
+    "website": "https://d-i-m-a-c-societe.edan.io/",
+    "source": "Nominatim/OSM"
+  },
+  {
     "name": "Auto 2P",
     "phone": "+33 642 695 044",
     "address": "26 Rue Jean Mermoz 54500 Vandœuvre-lès-Nancy",
@@ -935,6 +3729,39 @@
     "source": "Nominatim/OSM"
   },
   {
+    "name": "LM AUTO 95",
+    "phone": "+33 1 39 60 40 07",
+    "address": "3, Rue de la Paix, 95240, Cormeilles-en-Parisis",
+    "postal_code": "95240",
+    "city": "Cormeilles-en-Parisis",
+    "lat": 48.9751439,
+    "lon": 2.1872308,
+    "website": "https://www.123autoservice.fr/garage/lm-auto-95/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "France Pare-Brise",
+    "phone": "+33 1 43 07 44 33",
+    "address": "310, Rue de Charenton, 75012, Paris",
+    "postal_code": "75012",
+    "city": "Paris",
+    "lat": 48.834506,
+    "lon": 2.3934195,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Mg Motor",
+    "phone": "+33 1 48 07 07 05",
+    "address": "32 Avenue de la République 75011 Paris",
+    "postal_code": "75011",
+    "city": "Paris",
+    "lat": 48.8657219,
+    "lon": 2.3713052,
+    "website": "https://www.careastfrance.fr/",
+    "source": "Nominatim/OSM"
+  },
+  {
     "name": "MG Motor",
     "phone": "+33 3 83 93 33 30",
     "address": "10 Rue du Saintois 54520 Laxou",
@@ -946,6 +3773,226 @@
     "source": "Nominatim/OSM"
   },
   {
+    "name": "Mg Motor",
+    "phone": "+33 1 34 38 22 60",
+    "address": "7 Rue Henri Dunant 95200 Sarcelles",
+    "postal_code": "95200",
+    "city": "Sarcelles",
+    "lat": 48.9841818,
+    "lon": 2.3733511,
+    "website": "https://www.mg-sarcelles.com/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Lexus Nanterre - Groupe Autosphere",
+    "phone": "+33 1 83 71 30 30",
+    "address": "155 Avenue Georges Clemenceau 92000 Nanterre",
+    "postal_code": "92000",
+    "city": "Nanterre",
+    "lat": 48.8868805,
+    "lon": 2.2122082,
+    "website": "https://www.lexus-nanterre.fr/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Toyota Nanterre - Groupe Autosphere",
+    "phone": "+33 1 55 17 23 23",
+    "address": "62 Rue Jean-Jacques Rousseau 92000 Nanterre",
+    "postal_code": "92000",
+    "city": "Nanterre",
+    "lat": 48.8866761,
+    "lon": 2.2114689,
+    "website": "https://www.toyota-nanterre.fr/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Dacia Les Pavillons-sous-Bois - Groupe Autosphere",
+    "phone": "+33 1 48 50 31 80",
+    "address": "48 Avenue Aristide Briand 93320 Les Pavillons-sous-Bois",
+    "postal_code": "93320",
+    "city": "Les Pavillons-sous-Bois",
+    "lat": 48.9075823,
+    "lon": 2.4936826,
+    "website": "https://www.dacia-pavillons.fr/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Dacia",
+    "phone": "+33 1 48 94 16 16",
+    "address": "116 Avenue de Rosny 93250 Villemomble",
+    "postal_code": "93250",
+    "city": "Villemomble",
+    "lat": 48.8829771,
+    "lon": 2.4975327,
+    "website": "https://www.dacia-villemomble.fr/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "MG Motor",
+    "phone": "+33 1 86 57 00 10",
+    "address": "85 Avenue Aristide Briand 92120 Montrouge",
+    "postal_code": "92120",
+    "city": "Montrouge",
+    "lat": 48.8153007,
+    "lon": 2.3262223,
+    "website": "https://mgmotor-archipelautos.fr",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Seat",
+    "phone": "+33 1 76 21 97 77",
+    "address": "91 Avenue d'Italie 75013 Paris",
+    "postal_code": "75013",
+    "city": "Paris",
+    "lat": 48.8237118,
+    "lon": 2.3583573,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Garage Renaudin",
+    "phone": "+33146559860",
+    "address": "12 Rue Louveau 92320 Châtillon",
+    "postal_code": "92320",
+    "city": "Châtillon",
+    "lat": 48.8019899,
+    "lon": 2.2935126,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Land Rover Paris 19 - Groupe Autosphere",
+    "phone": "+33 1 42 39 20 40",
+    "address": "102 Avenue Simon Bolivar 75019 Paris",
+    "postal_code": "75019",
+    "city": "Paris",
+    "lat": 48.8781761,
+    "lon": 2.3743791,
+    "website": "https://landrover.fr/paris19",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Garage Top Autos",
+    "phone": "+33 1 48 57 12 12",
+    "address": "41 bis, Rue Barbès, 93100, Montreuil",
+    "postal_code": "93100",
+    "city": "Montreuil",
+    "lat": 48.854428,
+    "lon": 2.42458,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "A+Glass",
+    "phone": "+33 800 33 20 00",
+    "address": "4 Avenue Foch 75016 Paris",
+    "postal_code": "75016",
+    "city": "Paris",
+    "lat": 48.8738406,
+    "lon": 2.2924666,
+    "website": "https://www.aplusglass.com/centre-paris16-75016",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "A+Glass Mobile Chatou",
+    "phone": "+33 800 33 20 00",
+    "address": "49bis Rue du Général Leclerc 78400 Chatou",
+    "postal_code": "78400",
+    "city": "Chatou",
+    "lat": 48.8951707,
+    "lon": 2.1552892,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "A+Glass Mobile Paris Iv",
+    "phone": "+33 800 33 20 00",
+    "address": "16 Rue des Barres 75004 Paris",
+    "postal_code": "75004",
+    "city": "Paris",
+    "lat": 48.8554907,
+    "lon": 2.355492,
+    "website": "https://www.aplusglass.com/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "A+ Glass",
+    "phone": "+33 1 39 86 28 66",
+    "address": "41 Avenue de la République 95400 Arnouville",
+    "postal_code": "95400",
+    "city": "Arnouville",
+    "lat": 48.9805715,
+    "lon": 2.4241414,
+    "website": "https://www.aplusglass.com/centre-arnouville-les-gonesse-95400",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Auto Concept L.R",
+    "phone": "+33 1 39 91 00 08",
+    "address": "40 Route de Domont 95460 Ézanville",
+    "postal_code": "95460",
+    "city": "Ézanville",
+    "lat": 49.0333164,
+    "lon": 2.3539054,
+    "website": "https://www.aplusglass.com/centre-ezanville-93700",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "A+ Glass",
+    "phone": "+33 800 33 20 00",
+    "address": "41 Avenue Charles de Gaulle 95380 Louvres",
+    "postal_code": "95380",
+    "city": "Louvres",
+    "lat": 49.0533645,
+    "lon": 2.5012277,
+    "website": "https://www.aplusglass.com/centre-louvres-95380",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "A+ Glass",
+    "phone": "+33 800 33 20 00",
+    "address": "15 Rue Boivin 95200 Sarcelles",
+    "postal_code": "95200",
+    "city": "Sarcelles",
+    "lat": 49.0015088,
+    "lon": 2.3791469,
+    "website": "https://www.aplusglass.com/centre-sarcelles-95200",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "A+ Glass",
+    "phone": "+33 800 33 20 00",
+    "address": "5 Rue Ambroise Croizat 95190 Goussainville",
+    "postal_code": "95190",
+    "city": "Goussainville",
+    "lat": 49.021061,
+    "lon": 2.452678,
+    "website": "https://www.aplusglass.com/centre-goussainville-95190",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "A+ Glass",
+    "phone": "+33 800 33 20 00",
+    "address": "24 Rue des Folies 92500 Rueil-Malmaison",
+    "postal_code": "92500",
+    "city": "Rueil-Malmaison",
+    "lat": 48.8745309,
+    "lon": 2.1919733,
+    "website": "https://www.aplusglass.com/centre-rueil-malmaison-92500",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "A+ Glass",
+    "phone": "+33 1 43 09 67 27",
+    "address": "230 Rue Paul et Camille Thomoux 93330 Neuilly-sur-Marne",
+    "postal_code": "93330",
+    "city": "Neuilly-sur-Marne",
+    "lat": 48.8723124,
+    "lon": 2.5299552,
+    "website": "https://www.aplusglass.com/centre-neuilly-sur-marne-93330",
+    "source": "Nominatim/OSM"
+  },
+  {
     "name": "A+ Glass",
     "phone": "+33 6 98 85 36 51",
     "address": "4 Rue Charles Tillon 93300 Aubervilliers",
@@ -954,6 +4001,28 @@
     "lat": 48.9144259,
     "lon": 2.3921061,
     "website": "https://www.aplusglass.com/centre-aubervilliers-93300",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "A+ Glass",
+    "phone": "+33 6 98 85 36 51",
+    "address": "293 Avenue Paul Vaillant-Couturier 93000 Bobigny",
+    "postal_code": "93000",
+    "city": "Bobigny",
+    "lat": 48.9072206,
+    "lon": 2.4585588,
+    "website": "https://www.aplusglass.com/centre-bobigny-93000",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "A+ Glass",
+    "phone": "+33 1 41 63 63 63",
+    "address": "121 Boulevard Henri Barbusse 93100 Montreuil",
+    "postal_code": "93100",
+    "city": "Montreuil",
+    "lat": 48.8702972,
+    "lon": 2.4401148,
+    "website": "https://www.aplusglass.com/centre-montreuil-93100",
     "source": "Nominatim/OSM"
   },
   {
@@ -970,12 +4039,56 @@
   {
     "name": "A+ Glass",
     "phone": "+33 800 33 20 00",
+    "address": "84 Boulevard d'Alsace-lorraine 94170 Le Perreux-sur-Marne",
+    "postal_code": "94170",
+    "city": "Le Perreux-sur-Marne",
+    "lat": 48.8503822,
+    "lon": 2.5025835,
+    "website": "https://www.aplusglass.com/centre-le-perreux-sur-marne-94170",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "A+Glass Mobile Herblay",
+    "phone": "+33 800 33 20 00",
+    "address": "2 Boulevard du 11 Novembre 1918 95220 Herblay-sur-Seine",
+    "postal_code": "95220",
+    "city": "Herblay-sur-Seine",
+    "lat": 48.9897657,
+    "lon": 2.1644701,
+    "website": "https://www.aplusglass.com/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "A+ Glass",
+    "phone": "+33 800 33 20 00",
+    "address": "59 Rue de Champagne 94700 Maisons-Alfort",
+    "postal_code": "94700",
+    "city": "Maisons-Alfort",
+    "lat": 48.8130198,
+    "lon": 2.4373928,
+    "website": "https://www.aplusglass.com/centre-maisons-alfort-94700",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "A+ Glass",
+    "phone": "+33 800 33 20 00",
     "address": "6 Avenue des Morillons 95140 Garges-lès-Gonesse",
     "postal_code": "95140",
     "city": "Garges-lès-Gonesse",
     "lat": 48.9637739,
     "lon": 2.3961899,
     "website": "https://www.aplusglass.com/centre-garges-les-gonesse-95140",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Garage Auto-Six",
+    "phone": "+33 9 81 99 10 15",
+    "address": "6b Rue Planchat 75020 Paris",
+    "postal_code": "75020",
+    "city": "Paris",
+    "lat": 48.8522771,
+    "lon": 2.3992336,
+    "website": "",
     "source": "Nominatim/OSM"
   },
   {
@@ -987,6 +4100,17 @@
     "lat": 48.6836628,
     "lon": 6.2148601,
     "website": "https://www.juliettetaximetres.fr/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Bpm Exclusive - Aston Martin Rive Droite",
+    "phone": "+33 1 40 75 20 85",
+    "address": "23 Avenue Franklin D. Roosevelt 75008 Paris",
+    "postal_code": "75008",
+    "city": "Paris",
+    "lat": 48.8668413,
+    "lon": 2.3098896,
+    "website": "https://astonmartinparis.com/",
     "source": "Nominatim/OSM"
   },
   {
@@ -1012,6 +4136,17 @@
     "source": "Nominatim/OSM"
   },
   {
+    "name": "Reprise Autosphere Nanterre - Groupe Autosphere",
+    "phone": "+33 9 70 70 04 04",
+    "address": "155 Avenue Georges Clemenceau 92000 Nanterre",
+    "postal_code": "92000",
+    "city": "Nanterre",
+    "lat": 48.886805,
+    "lon": 2.21182,
+    "website": "https://www.autosphere.fr/reprise/comment-vendre-voiture/reprise-auto-cash.html",
+    "source": "Nominatim/OSM"
+  },
+  {
     "name": "Ma carrosserie",
     "phone": "+33 3 83 37 71 90",
     "address": "67, Avenue du 69e Régiment d'Infanterie, 54270, Essey-lès-Nancy",
@@ -1020,6 +4155,83 @@
     "lat": 48.7082506,
     "lon": 6.2363951,
     "website": "https://www.ma-carrosserie-essey.fr/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "MyLuxuryCar Paris",
+    "phone": "+33 1 40 93 55 23",
+    "address": "69, Rue Pierre Brossolette, 92320, Châtillon",
+    "postal_code": "92320",
+    "city": "Châtillon",
+    "lat": 48.8013729,
+    "lon": 2.2776925,
+    "website": "https://myluxurycarparis.fr",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Bpm Cars - Hyundai Issy-Les Moulineaux",
+    "phone": "+33 1 43 90 12 09",
+    "address": "143bis Avenue de Verdun 92130 Issy-les-Moulineaux",
+    "postal_code": "92130",
+    "city": "Issy-les-Moulineaux",
+    "lat": 48.8177679,
+    "lon": 2.2507348,
+    "website": "https://www.hyundai.com/fr/fr/distributeurs.html/l/issy-les-moulineaux/143-avenue-de-verdun/c06ab00527",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "BPM Cars - Volvo Montrouge",
+    "phone": "+33 1 42 53 33 20",
+    "address": "127 Avenue Aristide Briand 92120 Montrouge",
+    "postal_code": "92120",
+    "city": "Montrouge",
+    "lat": 48.8114925,
+    "lon": 2.3267311,
+    "website": "https://bpmcars.fr/gammes-bpm-volvo",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Bpm Cars - Montrouge - Fiat, Alfa Romeo, Jeep",
+    "phone": "+33 1 86 90 52 90",
+    "address": "77 Avenue Aristide Briand 92120 Montrouge",
+    "postal_code": "92120",
+    "city": "Montrouge",
+    "lat": 48.8158148,
+    "lon": 2.3262377,
+    "website": "https://www.bpmcars.fr/concessions/fiat-jeep-alfa-romeo-montrouge/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Volkswagen Rueil Malmaison Advance",
+    "phone": "+33 1 75 90 96 81",
+    "address": "21 Rue Jules Parent 92500 Rueil-Malmaison",
+    "postal_code": "92500",
+    "city": "Rueil-Malmaison",
+    "lat": 48.8828629,
+    "lon": 2.1894257,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Volkswagen",
+    "phone": "+33 1 70 32 21 20",
+    "address": "113 Avenue de Rosny 93250 Villemomble",
+    "postal_code": "93250",
+    "city": "Villemomble",
+    "lat": 48.8818253,
+    "lon": 2.496914,
+    "website": "https://www.volkswagen.fr/fr/partenaire/volkswagenparisest-villemomble.html",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Volkswagen",
+    "phone": "+33 1 39 34 50 00",
+    "address": "82 Boulevard du Maréchal Foch 95210 Saint-Gratien",
+    "postal_code": "95210",
+    "city": "Saint-Gratien",
+    "lat": 48.9637541,
+    "lon": 2.2892594,
+    "website": "https://www.volkswagen-saintgratien.com/",
     "source": "Nominatim/OSM"
   },
   {
@@ -1067,6 +4279,61 @@
     "source": "Nominatim/OSM"
   },
   {
+    "name": "LAND ROVER Saint-Maur-des-Fossés",
+    "phone": "+33 1 72 46 48 40",
+    "address": "17 Boulevard Maurice Berteaux 94100 Saint-Maur-des-Fossés",
+    "postal_code": "94100",
+    "city": "Saint-Maur-des-Fossés",
+    "lat": 48.8104362,
+    "lon": 2.4707072,
+    "website": "https://www.landrover.fr/saintmaur",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Euromaster",
+    "phone": "+33 1 55 69 16 00",
+    "address": "74 Avenue Vladimir Ilitch Lénine 92000 Nanterre",
+    "postal_code": "92000",
+    "city": "Nanterre",
+    "lat": 48.8882984,
+    "lon": 2.1891708,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Idgarages.com",
+    "phone": "+33 1 84 79 38 60",
+    "address": "1ter Avenue Marx Dormoy 94110 Arcueil",
+    "postal_code": "94110",
+    "city": "Arcueil",
+    "lat": 48.8091981,
+    "lon": 2.3263085,
+    "website": "https://www.idgarages.com/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "GARAGE A.G.E SERVICE AUTOMOBILE",
+    "phone": "+33134194253",
+    "address": "1, Rue du Bas Perreux, 95200, Sarcelles",
+    "postal_code": "95200",
+    "city": "Sarcelles",
+    "lat": 48.9864057,
+    "lon": 2.3894658,
+    "website": "https://www.garageageservice.fr/contact",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Ewigo ",
+    "phone": "+33 1 41 93 95 85",
+    "address": "109 Avenue Pierre Brossolette 94170 Le Perreux-sur-Marne",
+    "postal_code": "94170",
+    "city": "Le Perreux-sur-Marne",
+    "lat": 48.8349801,
+    "lon": 2.5047258,
+    "website": "https://le-perreux-ewigo.com/",
+    "source": "Nominatim/OSM"
+  },
+  {
     "name": "Ewigo",
     "phone": "+33 3 83963758",
     "address": "144 Rue du Faubourg des Trois Maisons 54000 Nancy",
@@ -1111,6 +4378,72 @@
     "source": "Nominatim/OSM"
   },
   {
+    "name": "AD",
+    "phone": "+33174644046",
+    "address": "3 Rue Henri Brisson 78500 Sartrouville",
+    "postal_code": "78500",
+    "city": "Sartrouville",
+    "lat": 48.9364758,
+    "lon": 2.1698157,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Bpm Exclusive - Aston Martin Paris Rive Gauche",
+    "phone": "+33 1 53 86 72 72",
+    "address": "6 Rue de la Cavalerie 75015 Paris",
+    "postal_code": "75015",
+    "city": "Paris",
+    "lat": 48.8497003,
+    "lon": 2.3001371,
+    "website": "https://astonmartinparis.com/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Audi Seine Rueil Malmaison Advance - Car Lovers",
+    "phone": "+33 1 87 27 01 46",
+    "address": "22 Avenue Paul Doumer 92500 Rueil-Malmaison",
+    "postal_code": "92500",
+    "city": "Rueil-Malmaison",
+    "lat": 48.883695,
+    "lon": 2.1907121,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "A+ Glass",
+    "phone": "+33 9 66 09 07 23",
+    "address": "81 Avenue Aristide Briand 93320 Les Pavillons-sous-Bois",
+    "postal_code": "93320",
+    "city": "Les Pavillons-sous-Bois",
+    "lat": 48.9091387,
+    "lon": 2.5015485,
+    "website": "https://www.aplusglass.com/centre-pavillons-bois-93320",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Volkswagen Véhicules Utilitaires – M.v.i. Nanterre",
+    "phone": "+33 1 47 86 88 88",
+    "address": "2 Rue des Peupliers 92000 Nanterre",
+    "postal_code": "92000",
+    "city": "Nanterre",
+    "lat": 48.9122209,
+    "lon": 2.2167226,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Volkswagen Utilitaires – Les Pavillons-Sous-Bois",
+    "phone": "+33 1 48 48 75 75",
+    "address": "43 Allee d’Athenes 93320 Les Pavillons-sous-Bois",
+    "postal_code": "93320",
+    "city": "Les Pavillons-sous-Bois",
+    "lat": 48.9120262,
+    "lon": 2.4942443,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
     "name": "Seat",
     "phone": "+33 3 55 68 40 00",
     "address": "115 Avenue Eugène Pottier 54510 Tomblaine",
@@ -1119,6 +4452,39 @@
     "lat": 48.6904182,
     "lon": 6.2157657,
     "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Seat",
+    "phone": "+33 1 75 90 97 21",
+    "address": "35 Avenue Paul Doumer 92500 Rueil-Malmaison",
+    "postal_code": "92500",
+    "city": "Rueil-Malmaison",
+    "lat": 48.8827403,
+    "lon": 2.1892681,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Ewigo",
+    "phone": "+33 1 47 08 99 52",
+    "address": "2bis Avenue Georges Clémenceau 92500 Rueil-Malmaison",
+    "postal_code": "92500",
+    "city": "Rueil-Malmaison",
+    "lat": 48.879029,
+    "lon": 2.1795744,
+    "website": "https://rueil-malmaison-ewigo.com/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "A+ Glass",
+    "phone": "+33 1 84 75 24 65",
+    "address": "24 Rue Maurice de Broglie 93600 Aulnay-sous-Bois",
+    "postal_code": "93600",
+    "city": "Aulnay-sous-Bois",
+    "lat": 48.9471558,
+    "lon": 2.483365,
+    "website": "https://www.aplusglass.com/centre-aulnay-93600",
     "source": "Nominatim/OSM"
   },
   {
@@ -1133,6 +4499,61 @@
     "source": "Nominatim/OSM"
   },
   {
+    "name": "A+ Glass",
+    "phone": "+33 1 80 60 19 47",
+    "address": "106 Avenue de Rosny 93250 Villemomble",
+    "postal_code": "93250",
+    "city": "Villemomble",
+    "lat": 48.8833388,
+    "lon": 2.498794,
+    "website": "https://www.aplusglass.com/centre-villemomble-93250",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Ewigo ",
+    "phone": "+33 7 65 18 13 59",
+    "address": "117 Avenue Aristide Briand 92120 Montrouge",
+    "postal_code": "92120",
+    "city": "Montrouge",
+    "lat": 48.8123934,
+    "lon": 2.3264296,
+    "website": "https://montrouge-ewigo.com",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Renault Gonesse - Garage de l'Aéroport",
+    "phone": "+33139871966",
+    "address": "16 Rue Berthelot 95500 Gonesse",
+    "postal_code": "95500",
+    "city": "Gonesse",
+    "lat": 48.9797923,
+    "lon": 2.45297,
+    "website": "https://concessionnaire.renault.fr/gonesse.html",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Renault Villepinte - Société des Garages de Villepinte",
+    "phone": "+33148619665",
+    "address": "17 Avenue Georges Clémenceau 93420 Villepinte",
+    "postal_code": "93420",
+    "city": "Villepinte",
+    "lat": 48.9578789,
+    "lon": 2.5595678,
+    "website": "https://concessionnaire.renault.fr/villepinte.html",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Concessionnaire Hyundai Villepinte",
+    "phone": "+33149634330",
+    "address": "1 Rue du Bourrelier 93420 Villepinte",
+    "postal_code": "93420",
+    "city": "Villepinte",
+    "lat": 48.9579323,
+    "lon": 2.5393855,
+    "website": "http://hyundai-villepinte.fr/",
+    "source": "Nominatim/OSM"
+  },
+  {
     "name": "Garage Flashcars carrosserie",
     "phone": "+33607848422",
     "address": "8 Rue du Moutier 93300 Aubervilliers",
@@ -1141,6 +4562,215 @@
     "lat": 48.9147409,
     "lon": 2.3829073,
     "website": "http://www.garage-aubervilliers.fr/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Pneu Bagnolet",
+    "phone": "+33 1 42 87 75 75",
+    "address": "57, Rue Charles Delescluze",
+    "postal_code": "93170",
+    "city": "Bagnolet",
+    "lat": 48.8636958,
+    "lon": 2.4261043,
+    "website": "http://www.pneumalin.fr/pneu-bagnolet.php",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Ciroen Aulnay Automobiles",
+    "phone": "+33 1 48 69 66 61",
+    "address": "111, Rue Auguste Renoir",
+    "postal_code": "93600",
+    "city": "Aulnay-sous-Bois",
+    "lat": 48.9611881,
+    "lon": 2.4993262,
+    "website": "https://reseau.citroen.fr/reparateur-aulnay-sous-bois",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Garage Saint-Antoine",
+    "phone": "+33 1 43 73 51 78",
+    "address": "295, Rue du Faubourg Saint-Antoine",
+    "postal_code": "75011",
+    "city": "Paris",
+    "lat": 48.8492743,
+    "lon": 2.3909887,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Central Auto",
+    "phone": "+33 1 46 72 64 95",
+    "address": "81 Boulevard Paul Vaillant Couturier 94200 Ivry-sur-Seine",
+    "postal_code": "94200",
+    "city": "Ivry-sur-Seine",
+    "lat": 48.8168603,
+    "lon": 2.3996121,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Garage M.K.D",
+    "phone": "+33 1 42 53 40 41",
+    "address": "11, Rue Martin, 92140, Clamart",
+    "postal_code": "92140",
+    "city": "Clamart",
+    "lat": 48.803561,
+    "lon": 2.264185,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Clamart accessoires auto",
+    "phone": "+33 1 46 42 10 06",
+    "address": "3 Rue Lazare Carnot 92140 Clamart",
+    "postal_code": "92140",
+    "city": "Clamart",
+    "lat": 48.8098603,
+    "lon": 2.2698834,
+    "website": "https://pieces-auto.fr",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "L’agence Automobile",
+    "phone": "+33 1 43 56 22 77",
+    "address": "267, Rue du Faubourg Saint-Antoine",
+    "postal_code": "75011",
+    "city": "Paris",
+    "lat": 48.8497279,
+    "lon": 2.3879289,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "SympatiCar",
+    "phone": "+33 6 98 60 22 57",
+    "address": "57 Rue Molière 94200 Ivry-sur-Seine",
+    "postal_code": "94200",
+    "city": "Ivry-sur-Seine",
+    "lat": 48.8152523,
+    "lon": 2.393524,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Garage du marché de la Fourche",
+    "phone": "+33 1 46 42 05 42",
+    "address": "224, Avenue Victor Hugo, 92140, Clamart",
+    "postal_code": "92140",
+    "city": "Clamart",
+    "lat": 48.8110772,
+    "lon": 2.2725494,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Domicar, épaviste gratuit Paris",
+    "phone": "+33 1 84 17 24 38",
+    "address": "9 Rue Joubert 75009 Paris",
+    "postal_code": "75009",
+    "city": "Paris",
+    "lat": 48.8745458,
+    "lon": 2.3317225,
+    "website": "https://domicar.fr/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "GRC",
+    "phone": "+33 1 46 42 34 83",
+    "address": "153 Avenue Jean Jaurés 92140 Clamart",
+    "postal_code": "92140",
+    "city": "Clamart",
+    "lat": 48.808709,
+    "lon": 2.2683941,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "A+ Glass",
+    "phone": "+33 6 52 39 76 80",
+    "address": "2b Rue Dupont de l'Eure 75020 Paris",
+    "postal_code": "75020",
+    "city": "Paris",
+    "lat": 48.8677797,
+    "lon": 2.4005886,
+    "website": "https://www.aplusglass.com/centre-parisXX-75020/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Toyota Atelier",
+    "phone": "+33 1 58 64 15 00",
+    "address": "15 Rue Jean Moulin 94300 Vincennes",
+    "postal_code": "94300",
+    "city": "Vincennes",
+    "lat": 48.8456141,
+    "lon": 2.4330418,
+    "website": "teamcolin.fr",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Suzuki Nanterre - Groupe Autosphere",
+    "phone": "+33 1 83 71 29 30",
+    "address": "76 Rue des Hautes Pâtures 92000 Nanterre",
+    "postal_code": "92000",
+    "city": "Nanterre",
+    "lat": 48.9183033,
+    "lon": 2.2218118,
+    "website": "https://www.suzuki-nanterre.fr/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Centre Jantes et Pneux",
+    "phone": "+33982662075",
+    "address": "1892, Avenue Roger Salengro",
+    "postal_code": "92370",
+    "city": "Chaville",
+    "lat": 48.806599,
+    "lon": 2.1850443,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Garage France Entreprise Automobile",
+    "phone": "+33170195241",
+    "address": "2080, Avenue Roger Salengro",
+    "postal_code": "92370",
+    "city": "Chaville",
+    "lat": 48.8054206,
+    "lon": 2.1832153,
+    "website": "https://www.fe-auto.net/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Citroën Mavia",
+    "phone": "+33 1 43 68 12 19",
+    "address": "34 bis, Avenue du Général Leclerc, 94700, Maisons-Alfort",
+    "postal_code": "94700",
+    "city": "Maisons-Alfort",
+    "lat": 48.8078714,
+    "lon": 2.4365813,
+    "website": "https://citroen-maisons-alfort.fr/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Renault",
+    "phone": "+33 1 41 33 19 19",
+    "address": "2 Cité Victor Hugo 92140 Clamart",
+    "postal_code": "92140",
+    "city": "Clamart",
+    "lat": 48.8100441,
+    "lon": 2.2718534,
+    "website": "https://www.losangeautos.fr/renault-clamart/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Dacia",
+    "phone": "+33 1 41 33 19 19",
+    "address": "191 Avenue Victor Hugo 92140 Clamart",
+    "postal_code": "92140",
+    "city": "Clamart",
+    "lat": 48.8102881,
+    "lon": 2.2720275,
+    "website": "",
     "source": "Nominatim/OSM"
   },
   {
@@ -1155,6 +4785,39 @@
     "source": "Nominatim/OSM"
   },
   {
+    "name": "France Pare-Brise",
+    "phone": "+33 1 55 86 15 45",
+    "address": "30 Rue de la Liberté 93170 Bagnolet",
+    "postal_code": "93170",
+    "city": "Bagnolet",
+    "lat": 48.8596546,
+    "lon": 2.4230238,
+    "website": "https://centre.franceparebrise.fr/reparation-pare-brise/ile-de-france/seine-saint-denis/bagnolet/bagnolet",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "A+ Glass",
+    "phone": "+33 9 81 58 81 58",
+    "address": "31 Avenue de la Division Leclerc 93350 Le Bourget",
+    "postal_code": "93350",
+    "city": "Le Bourget",
+    "lat": 48.9322633,
+    "lon": 2.4226787,
+    "website": "https://www.aplusglass.com/centre-le-bourget-93350",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Rapid Pare-Brise",
+    "phone": "+33 1 75 85 16 87",
+    "address": "148 Avenue Maurice Berteaux 78500 Sartrouville",
+    "postal_code": "78500",
+    "city": "Sartrouville",
+    "lat": 48.9385381,
+    "lon": 2.169752,
+    "website": "https://www.rapidparebrise-sartrouville.fr",
+    "source": "Nominatim/OSM"
+  },
+  {
     "name": "Rapid Pare Brise",
     "phone": "+33 1 89 05 87 44",
     "address": "29 Rue Saint Stenay 93700 Drancy",
@@ -1163,6 +4826,105 @@
     "lat": 48.9183257,
     "lon": 2.4191516,
     "website": "https://www.rapidparebrise-drancy.fr",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Rapid Pare Brise",
+    "phone": "+33 1 84 15 18 76",
+    "address": "18 Avenue de la République 94120 Fontenay-sous-Bois",
+    "postal_code": "94120",
+    "city": "Fontenay-sous-Bois",
+    "lat": 48.8512159,
+    "lon": 2.4567106,
+    "website": "https://www.rapidparebrise-fontenay-sous-bois.fr",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Rapid Pare Brise",
+    "phone": "+33 1 84 35 41 76",
+    "address": "3 Avenue Galibert 95150 Taverny",
+    "postal_code": "95150",
+    "city": "Taverny",
+    "lat": 49.024087,
+    "lon": 2.1892162,
+    "website": "https://www.rapidparebrise-pierrelaye.fr",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Rapid Pare Brise",
+    "phone": "+33 1 89 07 00 88",
+    "address": "34 Rue Carnot 95870 Bezons",
+    "postal_code": "95870",
+    "city": "Bezons",
+    "lat": 48.9281815,
+    "lon": 2.2246166,
+    "website": "https://www.rapidparebrise-bezons.fr",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Rapid Pare Brise",
+    "phone": "+33 1 84 15 18 69",
+    "address": "43 Rue d'Aulnay 95500 Gonesse",
+    "postal_code": "95500",
+    "city": "Gonesse",
+    "lat": 48.9801079,
+    "lon": 2.4504167,
+    "website": "https://www.rapidparebrise-gonesse.fr",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "RM Auto",
+    "phone": "+33652361383",
+    "address": "1 Rue Marcel Dassault 95130 Le Plessis-Bouchard",
+    "postal_code": "95130",
+    "city": "Le Plessis-Bouchard",
+    "lat": 49.0018377,
+    "lon": 2.2223878,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Saint-Cloud Automobiles",
+    "phone": "+33 1 55 39 08 90",
+    "address": "147 Avenue du Maréchal Foch 92210 Saint-Cloud",
+    "postal_code": "92210",
+    "city": "Saint-Cloud",
+    "lat": 48.8485608,
+    "lon": 2.2025141,
+    "website": "https://www.axial.org/nos-carrossiers-axial/saint-cloud-automobiles",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "E-cars concept",
+    "phone": "+33 7 63 73 81 18",
+    "address": "2bis Rue Laterale au Viaduc 94170 Le Perreux-sur-Marne",
+    "postal_code": "94170",
+    "city": "Le Perreux-sur-Marne",
+    "lat": 48.8327406,
+    "lon": 2.4965884,
+    "website": "https://ecarsconcept.fr",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Via Garage",
+    "phone": "+33 1 43 24 36 33",
+    "address": "14bis Rue Laterale au Viaduc 94170 Le Perreux-sur-Marne",
+    "postal_code": "94170",
+    "city": "Le Perreux-sur-Marne",
+    "lat": 48.8350502,
+    "lon": 2.4951614,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Rapid Pare Brise",
+    "phone": "+33 1 84 15 19 05",
+    "address": "160 Allée des Erables 93420 Villepinte",
+    "postal_code": "93420",
+    "city": "Villepinte",
+    "lat": 48.9737288,
+    "lon": 2.5022612,
+    "website": "https://www.rapidparebrise-villepinte.fr",
     "source": "Nominatim/OSM"
   },
   {
@@ -1177,6 +4939,50 @@
     "source": "Nominatim/OSM"
   },
   {
+    "name": "BYD",
+    "phone": "+33 1 85 53 09 07",
+    "address": "17 Boulevard de Sébastopol 75001 Paris",
+    "postal_code": "75001",
+    "city": "Paris",
+    "lat": 48.8592545,
+    "lon": 2.3483373,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Garage Nevers",
+    "phone": "+33 1 47 41 01 57",
+    "address": "72 Rue de Suresnes 92380 Garches",
+    "postal_code": "92380",
+    "city": "Garches",
+    "lat": 48.8469725,
+    "lon": 2.1967241,
+    "website": "https://www.renault.fr/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Peugeot",
+    "phone": "+33 1 55 47 12 12",
+    "address": "4 Boulevard du Général de Gaulle 92380 Garches",
+    "postal_code": "92380",
+    "city": "Garches",
+    "lat": 48.8416437,
+    "lon": 2.1982114,
+    "website": "https://concessions.peugeot.fr/garches/?location=GARCHES%7C0",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Mondial Pare-Brise",
+    "phone": "+33 1 84 19 62 60",
+    "address": "20, Boulevard Jean Jaurès",
+    "postal_code": "92100",
+    "city": "Boulogne-Billancourt",
+    "lat": 48.8438007,
+    "lon": 2.2376193,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
     "name": "Midas",
     "phone": "+33 1 40 35 73 77",
     "address": "140 Avenue de Flandre 75019 Paris",
@@ -1184,6 +4990,160 @@
     "city": "Paris",
     "lat": 48.8933545,
     "lon": 2.3807339,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Carrosserie Vattier Automobile",
+    "phone": "+33 1 47 81 92 64",
+    "address": "19 Rue Marie Laure 92270 Bois-Colombes",
+    "postal_code": "92270",
+    "city": "Bois-Colombes",
+    "lat": 48.9193105,
+    "lon": 2.279347,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Point S",
+    "phone": "+33 1 40 86 10 12",
+    "address": "22 Rue des Champs 92600 Asnières-sur-Seine",
+    "postal_code": "92600",
+    "city": "Asnières-sur-Seine",
+    "lat": 48.9146645,
+    "lon": 2.2817971,
+    "website": "https://www.points.fr/centre/elior-kfa-asnieres-sur-seine",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Dacia Maisons-Alfort - Groupe Sofibrie",
+    "phone": "+33 1 46 76 04 04",
+    "address": "8 Avenue du Professeur Cadiot 94700 Maisons-Alfort",
+    "postal_code": "94700",
+    "city": "Maisons-Alfort",
+    "lat": 48.8059542,
+    "lon": 2.4296548,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Ewigo ",
+    "phone": "+33 1 89 13 86 96",
+    "address": "64 Avenue Diderot 94100 Saint-Maur-des-Fossés",
+    "postal_code": "94100",
+    "city": "Saint-Maur-des-Fossés",
+    "lat": 48.8024989,
+    "lon": 2.4866986,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Garage Planète 2000",
+    "phone": "+33 1 47 06 22 22",
+    "address": "60, Rue Guy Môquet, 94500, Champigny-sur-Marne",
+    "postal_code": "94500",
+    "city": "Champigny-sur-Marne",
+    "lat": 48.8201268,
+    "lon": 2.5161678,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Aixam",
+    "phone": "+33 1 41 77 09 85",
+    "address": "138, Avenue Roger Salengro, 94500, Champigny-sur-Marne",
+    "postal_code": "94500",
+    "city": "Champigny-sur-Marne",
+    "lat": 48.816381,
+    "lon": 2.5003018,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Dacia",
+    "phone": "+33 1 48 82 11 05",
+    "address": "118, Avenue Roger Salengro, 94500, Champigny-sur-Marne",
+    "postal_code": "94500",
+    "city": "Champigny-sur-Marne",
+    "lat": 48.8171355,
+    "lon": 2.4966418,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Keops Pièces Automobile",
+    "phone": "+33 1  41 81 62 95",
+    "address": "79 Avenue Roger Salengro 94500 Champigny-sur-Marne",
+    "postal_code": "94500",
+    "city": "Champigny-sur-Marne",
+    "lat": 48.8185955,
+    "lon": 2.4913465,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "A+ Glass",
+    "phone": "+33 1 47 82 81 43",
+    "address": "87 Avenue Charles de Gaulle 92270 Bois-Colombes",
+    "postal_code": "92270",
+    "city": "Bois-Colombes",
+    "lat": 48.9201599,
+    "lon": 2.2770467,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "A+ Glass",
+    "phone": "+33 1 84 60 80 20",
+    "address": "37 Avenue de la Marne 92120 Montrouge",
+    "postal_code": "92120",
+    "city": "Montrouge",
+    "lat": 48.8156363,
+    "lon": 2.3068432,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Speedy",
+    "phone": "+33 1 48 85 75 26",
+    "address": "13, Avenue Roger Salengro, 94500, Champigny-sur-Marne",
+    "postal_code": "94500",
+    "city": "Champigny-sur-Marne",
+    "lat": 48.8202507,
+    "lon": 2.4823766,
+    "website": "https://centres-auto.speedy.fr/garage/champigny-94500/4",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Citroën",
+    "phone": "+33 1 45 11 10 00",
+    "address": "23 Avenue Roger Salengro 94500 Champigny-sur-Marne",
+    "postal_code": "94500",
+    "city": "Champigny-sur-Marne",
+    "lat": 48.8202347,
+    "lon": 2.4837644,
+    "website": "https://citroen-champigny-sur-marne.bytrujas.fr/voitures/tous-types/#",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Dacia Noisy-le-Grand - Groupe Sofibrie",
+    "phone": "+33 1 48 15 62 62",
+    "address": "20 Rue de l’Universite 93160 Noisy-le-Grand",
+    "postal_code": "93160",
+    "city": "Noisy-le-Grand",
+    "lat": 48.837382,
+    "lon": 2.5616082,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Dacia Le Perreux-sur-Marne - Groupe Sofibrie",
+    "phone": "+33 1 43 24 08 35",
+    "address": "46 Avenue de Bry 94170 Le Perreux-sur-Marne",
+    "postal_code": "94170",
+    "city": "Le Perreux-sur-Marne",
+    "lat": 48.8351529,
+    "lon": 2.4975673,
     "website": "",
     "source": "Nominatim/OSM"
   },
@@ -1199,6 +5159,160 @@
     "source": "Nominatim/OSM"
   },
   {
+    "name": "TOP GARAGE - MJ AUTO",
+    "phone": "+33 1 39 60 61 18",
+    "address": "13, Rue de Paris, 95150, Taverny",
+    "postal_code": "95150",
+    "city": "Taverny",
+    "lat": 49.021699,
+    "lon": 2.2366426,
+    "website": "garage.top-garage.fr",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Pièces Auto Center",
+    "phone": "+33 1 34 12 68 27",
+    "address": "50, Avenue de Paris, 95600, Eaubonne",
+    "postal_code": "95600",
+    "city": "Eaubonne",
+    "lat": 48.9916085,
+    "lon": 2.2866035,
+    "website": "https://paceaubonne.wixsite.com/paceaubonne",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Vo Negoce",
+    "phone": "+33 9 73 53 17 49",
+    "address": "38, Avenue Aristide Briand",
+    "postal_code": "93190",
+    "city": "Livry-Gargan",
+    "lat": 48.9133353,
+    "lon": 2.5247233,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Garage auto plus",
+    "phone": "+33 1 70 24 22 64",
+    "address": "157 Avenue Gaston Roussel 93230 Romainville",
+    "postal_code": "93230",
+    "city": "Romainville",
+    "lat": 48.893569,
+    "lon": 2.4364262,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "AD Carrosserie Leader",
+    "phone": "+33 1 48 96 07 21",
+    "address": "163 Avenue Gaston Roussel 93230 Romainville",
+    "postal_code": "93230",
+    "city": "Romainville",
+    "lat": 48.8935526,
+    "lon": 2.4367583,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Euro Camionnette",
+    "phone": "+331 49 42 91 73",
+    "address": "171 Avenue Gaston Roussel 93230 Romainville",
+    "postal_code": "93230",
+    "city": "Romainville",
+    "lat": 48.8935652,
+    "lon": 2.4373055,
+    "website": "https://euro-camionnette.fr",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Simplici Carrosserie",
+    "phone": "+33148460857",
+    "address": "180 Avenue Gaston Roussel 93230 Romainville",
+    "postal_code": "93230",
+    "city": "Romainville",
+    "lat": 48.8931052,
+    "lon": 2.4380856,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Automobiles Li",
+    "phone": "+33953347751",
+    "address": "184 Avenue Gaston Roussel 93230 Romainville",
+    "postal_code": "93230",
+    "city": "Romainville",
+    "lat": 48.8930261,
+    "lon": 2.4384342,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Garage ATS",
+    "phone": "+33148411770",
+    "address": "190 Avenue Gaston Roussel 93230 Romainville",
+    "postal_code": "93230",
+    "city": "Romainville",
+    "lat": 48.8929238,
+    "lon": 2.4390314,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Suzuki Noisy-le-Grand - Garage des Richardets",
+    "phone": "+33 1 43 03 33 30",
+    "address": "5 Rue des Lilas 93160 Noisy-le-Grand",
+    "postal_code": "93160",
+    "city": "Noisy-le-Grand",
+    "lat": 48.8303239,
+    "lon": 2.5616377,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "A+ Glass",
+    "phone": "+33 6 58 51 73 65",
+    "address": "5 Rue Jean Pierre Timbaud 95100 Argenteuil",
+    "postal_code": "95100",
+    "city": "Argenteuil",
+    "lat": 48.9490811,
+    "lon": 2.2146117,
+    "website": "https://www.aplusglass.com/centre-argenteuil-95110/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Speedy",
+    "phone": "+33 1 46 47 52 30",
+    "address": "16, Avenue de Versailles, 75016, Paris",
+    "postal_code": "75016",
+    "city": "Paris",
+    "lat": 48.8506425,
+    "lon": 2.2769301,
+    "website": "https://centres-auto.speedy.fr/garage/paris-av-de-versailles-75016/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Nissan Pavillons - Evasion des Nations",
+    "phone": "+33 1 48 02 91 92",
+    "address": "222 Avenue Aristide Briand 93320 Les Pavillons-sous-Bois",
+    "postal_code": "93320",
+    "city": "Les Pavillons-sous-Bois",
+    "lat": 48.9101127,
+    "lon": 2.5108734,
+    "website": "https://www.sofibrie.fr/concessions/evasion-des-nations-pavillons-sous-bois/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Bourget Pièces Auto",
+    "phone": "+33148312874",
+    "address": "129 Avenue de la Division Leclerc 93350 Le Bourget",
+    "postal_code": "93350",
+    "city": "Le Bourget",
+    "lat": 48.9393034,
+    "lon": 2.4297503,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
     "name": "Glass Auto Service",
     "phone": "+33148370805",
     "address": "116 Avenue Paul Vaillant-Couturier 93120 La Courneuve",
@@ -1210,13 +5324,145 @@
     "source": "Nominatim/OSM"
   },
   {
-    "name": "Motrio",
-    "phone": "+33 9 51 32 97 78",
-    "address": "54 Rue de Mouzaïa 75019 Paris",
+    "name": "Garage Auto Pinto",
+    "phone": "+33 1 46 42 40 23",
+    "address": "60, Rue du Moulin de Pierre, 92140, Clamart",
+    "postal_code": "92140",
+    "city": "Clamart",
+    "lat": 48.8090338,
+    "lon": 2.2664639,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Garage Branco",
+    "phone": "+33 1 46 45 33 90",
+    "address": "94, Rue du Moulin de Pierre, 92140, Clamart",
+    "postal_code": "92140",
+    "city": "Clamart",
+    "lat": 48.810114,
+    "lon": 2.2675514,
+    "website": "https://garage-branco.com",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "AD AUTO DIM",
+    "phone": "+33 7 86 47 62 04",
+    "address": "71, Rue Halévy",
+    "postal_code": "93150",
+    "city": "Le Blanc-Mesnil",
+    "lat": 48.9423235,
+    "lon": 2.4671319,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "LM Autos",
+    "phone": "+33 1 46 42 17 98",
+    "address": "3B, Rue Paul Vaillant-Couturier, 92140, Clamart",
+    "postal_code": "92140",
+    "city": "Clamart",
+    "lat": 48.8014922,
+    "lon": 2.2664538,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Volvo - Groupe Autosphere",
+    "phone": "+33 1 43 55 00 78",
+    "address": "102 Avenue Simon Bolivar 75019 Paris",
     "postal_code": "75019",
     "city": "Paris",
+    "lat": 48.8782225,
+    "lon": 2.3743857,
+    "website": "https://www.volvo-paris.fr/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "MG Motor",
+    "phone": "+33 1 55 66 03 03",
+    "address": "2 Rue des Peupliers 92000 Nanterre",
+    "postal_code": "92000",
+    "city": "Nanterre",
+    "lat": 48.9126954,
+    "lon": 2.2172045,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Motrio",
+    "phone": "+33 9 51 32 97 78",
+    "address": "",
+    "postal_code": "",
+    "city": "",
     "lat": 48.8802661,
     "lon": 2.3969125,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Service Auto Rapide",
+    "phone": "+33 1 46 80 84 06",
+    "address": "105, Rue Alexandre Fourny, 94500, Champigny-sur-Marne",
+    "postal_code": "94500",
+    "city": "Champigny-sur-Marne",
+    "lat": 48.8192408,
+    "lon": 2.524868,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Autodistribution Map Aumerle",
+    "phone": "+33 1 71 33 88 88",
+    "address": "126, Rue Alexandre Fourny, 94500, Champigny-sur-Marne",
+    "postal_code": "94500",
+    "city": "Champigny-sur-Marne",
+    "lat": 48.8186555,
+    "lon": 2.5249912,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Mondial Auto",
+    "phone": "+33 1 41 77 31 72",
+    "address": "126, Rue Alexandre Fourny, 94500, Champigny-sur-Marne",
+    "postal_code": "94500",
+    "city": "Champigny-sur-Marne",
+    "lat": 48.8182617,
+    "lon": 2.5250591,
+    "website": "https://mondialauto.fr/",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "Performance",
+    "phone": "+33956550080",
+    "address": "149 Avenue de la Division Leclerc 93350 Le Bourget",
+    "postal_code": "93350",
+    "city": "Le Bourget",
+    "lat": 48.9402188,
+    "lon": 2.4305723,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "A+Glass",
+    "phone": "+33 6 51 47 46 27",
+    "address": "39 Avenue des Châtaigniers 95150 Taverny",
+    "postal_code": "95150",
+    "city": "Taverny",
+    "lat": 49.026049,
+    "lon": 2.1872512,
+    "website": "",
+    "source": "Nominatim/OSM"
+  },
+  {
+    "name": "RENAULT DACIA MÉCA-SERVICE AGENT",
+    "phone": "+33 1 42 87 29 54",
+    "address": "30, Avenue Ferdinand Buisson, 93100, Montreuil",
+    "postal_code": "93100",
+    "city": "Montreuil",
+    "lat": 48.8723199,
+    "lon": 2.4365472,
     "website": "",
     "source": "Nominatim/OSM"
   }
