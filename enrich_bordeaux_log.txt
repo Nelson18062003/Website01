@@ -94,4 +94,8 @@ Fichier charge: 727 entreprises
 [85/727] MARTHY PEREIRA NETO (SPORT MECA SERVICES) (SIREN: 827743626)... web=https://www.artisan-en-ligne.com/artisan-sport-mec
 [86/727] JEAN BESNIER (SIREN: 538631318)... web=https://www.golf1cabriolet.com/forum/viewtopic.php
 [87/727] ABC CLEAN (ABC CLEAN) (SIREN: 539079665)... tel=05 40 05 56 00 | web=https://www.abcclean.fr/infos-contact/
-[88/727] BADR EL AOULA (SPEED GLASS 33) (SIREN: 514763333)... 
+[88/727] BADR EL AOULA (SPEED GLASS 33) (SIREN: 514763333)... web=https://www.speed-glass.com/contact
+[89/727] L'ENTRETIEN AUTOMOBILE A DOMICILE (L.E.A.D) (SIREN: 753321173)... web=https://infonet.fr/entreprises/75332117300027-l-en
+[90/727] VLADIMIR CERNESCU (SIREN: 753628767)... web=https://lesgarages.fr/33/pessac/cernescu-vladimir-
+  [Progression sauvegardee: 90/727]
+[91/727] WADII (SIREN: 509112215)... 

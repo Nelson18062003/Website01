@@ -8186,5 +8186,4059 @@
     "ville_pj": "Vénissieux",
     "telephone": "06 76 52 56 41",
     "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Aramisauto Lyon-Décines",
+    "adresse_pj": "33 route Jonage 69150 Décines Charpieu",
+    "code_postal_pj": "69150",
+    "ville_pj": "Décines Charpieu",
+    "telephone": "09 71 11 85 02",
+    "site_web": "https://www.aramisauto.com/contact/prise-rdv",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "GDM AUTOMOBILES - OPEL LYON 8EME",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=06527041&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "117 avenue Frères Lumière 69008 Lyon",
+    "code_postal_pj": "69008",
+    "ville_pj": "Lyon",
+    "telephone": "04 78 74 19 67",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "GARAGE DE L'EUROPE EUROREPAR",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00610350&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "45 avenue Sidoine Apollinaire 69009 Lyon",
+    "code_postal_pj": "69009",
+    "ville_pj": "Lyon",
+    "telephone": "04 28 87 04 29",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Peugeot M&S Auto Concessionnaire",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=63778332&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "100 avenue République 69160 Tassin la Demi Lune",
+    "code_postal_pj": "69160",
+    "ville_pj": "Tassin la Demi Lune",
+    "telephone": "04 78 34 31 36",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Garage de l'Europe Peugot Citroen",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=64348918&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "118 Bis rue Marietton 69130 Ecully",
+    "code_postal_pj": "69130",
+    "ville_pj": "Ecully",
+    "telephone": "04 78 83 68 73",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Garage Mondon",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00461307&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "31 avenue Barthélémy Buyer 69005 Lyon",
+    "code_postal_pj": "69005",
+    "ville_pj": "Lyon",
+    "telephone": "04 78 25 29 18",
+    "site_web": "https://www.renault.fr/contactez-nous/demande-de-service.html",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Renault Lyon Nord",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=08675321&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "4 rue St Simon 69009 Lyon",
+    "code_postal_pj": "69009",
+    "ville_pj": "Lyon",
+    "telephone": "04 81 68 21 04",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Garage Saint Just",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=04372144&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "185 montée Choulans 69005 Lyon",
+    "code_postal_pj": "69005",
+    "ville_pj": "Lyon",
+    "telephone": "0590000209",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Garage Chabas",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=06536703&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "5 impasse Cumin 69005 Lyon",
+    "code_postal_pj": "69005",
+    "ville_pj": "Lyon",
+    "telephone": "04 78 25 07 15",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Aston Martin Lyon",
+    "adresse_pj": "5 avenue Mar Foch 69006 Lyon",
+    "code_postal_pj": "69006",
+    "ville_pj": "Lyon",
+    "telephone": "04 37 48 07 07",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Lotus Lyon - Groupe Chopard",
+    "adresse_pj": "89 rue Marietton 69009 Lyon",
+    "code_postal_pj": "69009",
+    "ville_pj": "Lyon",
+    "telephone": "04 37 50 11 11",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Dacia Lyon Nord",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=56554181&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "4 rue St Simon 69009 Lyon",
+    "code_postal_pj": "69009",
+    "ville_pj": "Lyon",
+    "telephone": "04 72 20 72 20",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "GARAGE PIEGAY",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00460265&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "9 rue Duhamel 69002 Lyon",
+    "code_postal_pj": "69002",
+    "ville_pj": "Lyon",
+    "telephone": "04 72 77 09 70",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Lyon Sans Permis",
+    "adresse_pj": "18 Bis rue Jean Chevailler 69008 Lyon",
+    "code_postal_pj": "69008",
+    "ville_pj": "Lyon",
+    "telephone": "04 78 00 05 55",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Pautric Lyon Centre",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=07210843&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "82 boulevard Marius Vivier Merle 69003 Lyon",
+    "code_postal_pj": "69003",
+    "ville_pj": "Lyon",
+    "telephone": "0963799187",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Volvo Lyon Vaise - Félix Faure Automobiles",
+    "adresse_pj": "88 rue Marietton 69009 Lyon",
+    "code_postal_pj": "69009",
+    "ville_pj": "Lyon",
+    "telephone": "04 72 20 51 51",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Volkswagen Lyon Centre - Groupe Central Autos Distributeur exclusif",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=06251635&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "38 rue Thibaudière 69007 Lyon",
+    "code_postal_pj": "69007",
+    "ville_pj": "Lyon",
+    "telephone": "0546670000",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Garage Métropole",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00936060&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "106 rue Bugeaud 69006 Lyon",
+    "code_postal_pj": "69006",
+    "ville_pj": "Lyon",
+    "telephone": "04 78 52 01 10",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Skoda Bymycar",
+    "adresse_pj": "rue Marietton 65 rue Souvenir 69009 Lyon",
+    "code_postal_pj": "69009",
+    "ville_pj": "Lyon",
+    "telephone": "04 82 29 15 26",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "BMW MINI Altitude 69 Concessionnaire",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=06254130&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "6 rue Joannès Carret 69009 Lyon",
+    "code_postal_pj": "69009",
+    "ville_pj": "Lyon",
+    "telephone": "04 72 53 88 88",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "MS Automobiles Peugeot - Citroën - Spoticar - Free2move",
+    "adresse_pj": "45 avenue Jean Jaurès 69600 Oullins",
+    "code_postal_pj": "69600",
+    "ville_pj": "Oullins",
+    "telephone": "04 78 50 04 00",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "STE NOUVELLE DU GARAGE DE FRANCE",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=04378379&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "213 rue Paul Bert 69003 Lyon",
+    "code_postal_pj": "69003",
+    "ville_pj": "Lyon",
+    "telephone": "04 78 54 18 78",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Fm Auto SAS",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=04385283&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "41 rue Anatole France 69100 Villeurbanne",
+    "code_postal_pj": "69100",
+    "ville_pj": "Villeurbanne",
+    "telephone": "04 78 84 22 58",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Renault - Garage Lumiere Agent",
+    "adresse_pj": "27 rue Villon 69008 Lyon",
+    "code_postal_pj": "69008",
+    "ville_pj": "Lyon",
+    "telephone": "04 78 00 74 78",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "AUDI Service by my Car",
+    "adresse_pj": "191 avenue Félix Faure 69003 Lyon",
+    "code_postal_pj": "69003",
+    "ville_pj": "Lyon",
+    "telephone": "04 82 29 53 27",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Garage Reynard",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00466539&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "4 allée Fibre Française 69540 Irigny",
+    "code_postal_pj": "69540",
+    "ville_pj": "Irigny",
+    "telephone": "04 78 50 53 53",
+    "site_web": "https://devis-en-ligne.renault.fr/",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Garage Du Bocage",
+    "adresse_pj": "55 rue Hélène Boucher 69140 Rillieux la Pape",
+    "code_postal_pj": "69140",
+    "ville_pj": "Rillieux la Pape",
+    "telephone": "04 72 01 82 00",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Renault VIGNE AUTOMOBILES",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00464307&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "14 avenue Verdun 69330 Meyzieu",
+    "code_postal_pj": "69330",
+    "ville_pj": "Meyzieu",
+    "telephone": "04 78 31 77 96",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Toyota Henon Concessionnaire",
+    "adresse_pj": "Zone Industrielle ld Au Chene 672 rue Mercières 69140 Rillieux la Pape",
+    "code_postal_pj": "69140",
+    "ville_pj": "Rillieux la Pape",
+    "telephone": "04 72 01 89 50",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Renault Lyon Ouest Sainte-Foy-lès-Lyon - RRG",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=02562078&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "27 avenue Aqueduc de Beaunant 69110 Sainte Foy lès Lyon",
+    "code_postal_pj": "69110",
+    "ville_pj": "Sainte Foy lès Lyon",
+    "telephone": "04 13 68 10 73",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Kia Lyon Vaise - ELITE MOTORS",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=08998112&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "96 rue Marietton 69009 Lyon",
+    "code_postal_pj": "69009",
+    "ville_pj": "Lyon",
+    "telephone": "04 72 53 14 80",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Mercedes-Benz Lyon Saint-Fons - Groupe Chopard",
+    "adresse_pj": "65 boulevard Lucien Sampaix 69190 Saint Fons",
+    "code_postal_pj": "69190",
+    "ville_pj": "Saint Fons",
+    "telephone": "04 78 78 50 78",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Groupe Central Autos Distributeur exclusif",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=58836490&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "185 avenue Paul Santy 69008 Lyon",
+    "code_postal_pj": "69008",
+    "ville_pj": "Lyon",
+    "telephone": "04 81 13 25 85",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "M2A Automobiles",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=50232935&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "53 avenue République 69200 Vénissieux",
+    "code_postal_pj": "69200",
+    "ville_pj": "Vénissieux",
+    "telephone": "04 78 78 00 93",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "AutoBernard Premium",
+    "adresse_pj": "14 rue Frères Louis et Emile Bertrand 69200 Vénissieux",
+    "code_postal_pj": "69200",
+    "ville_pj": "Vénissieux",
+    "telephone": "04 37 90 30 40",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Garage Thomasset",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=06535881&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "Zac Du Champ Du Roy 180 rue Hélène Boucher 69140 Rillieux la Pape",
+    "code_postal_pj": "69140",
+    "ville_pj": "Rillieux la Pape",
+    "telephone": "04 78 97 13 73",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Toyota Lyon Nord Sivam by Autosphere concessionaire",
+    "adresse_pj": "6 chemin Anciennes Vignes 69410 Champagne au Mont d'Or",
+    "code_postal_pj": "69410",
+    "ville_pj": "Champagne au Mont d'Or",
+    "telephone": "0968300000",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Garage Brizon SARL",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00465398&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "64 avenue Edouard Millaud 69290 Craponne",
+    "code_postal_pj": "69290",
+    "ville_pj": "Craponne",
+    "telephone": "04 78 44 85 11",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Spoticar Tassin",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=56105048&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "63 avenue Victor Hugo 69160 Tassin la Demi Lune",
+    "code_postal_pj": "69160",
+    "ville_pj": "Tassin la Demi Lune",
+    "telephone": "04 81 06 05 15",
+    "site_web": "http://www.garage-tassin.fr",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Stellantis & You France SAS",
+    "adresse_pj": "81 rue Marietton 69009 Lyon",
+    "code_postal_pj": "69009",
+    "ville_pj": "Lyon",
+    "telephone": "04 87 65 85 06",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Jaguar Land Rover Lyon Sud - AUTOMOTION by autosphere",
+    "adresse_pj": "12 A rue Frères Louis et Emile Bertrand 69200 Vénissieux",
+    "code_postal_pj": "69200",
+    "ville_pj": "Vénissieux",
+    "telephone": "04 78 60 60 00",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Toyota Sivam Concessionnaire",
+    "adresse_pj": "16 rue Frères Louis et Emile Bertrand 69200 Vénissieux",
+    "code_postal_pj": "69200",
+    "ville_pj": "Vénissieux",
+    "telephone": "04 72 78 52 70",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Garage Fmc Bymycar Lyon",
+    "adresse_pj": "10 allée Savoies 69200 Vénissieux",
+    "code_postal_pj": "69200",
+    "ville_pj": "Vénissieux",
+    "telephone": "04 78 78 30 30",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Gayet Frères",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=01640424&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "45 Bis Grande Rue 69800 Saint Priest",
+    "code_postal_pj": "69800",
+    "ville_pj": "Saint Priest",
+    "telephone": "0730879721",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Sos Pneus 69",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=61545641&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "39 rue Louis Saillant 69120 Vaulx en Velin",
+    "code_postal_pj": "69120",
+    "ville_pj": "Vaulx en Velin",
+    "telephone": "04 78 37 19 59",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Ford Neuville",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00709485&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "510 route Trévoux 69730 Genay",
+    "code_postal_pj": "69730",
+    "ville_pj": "Genay",
+    "telephone": "04 78 91 75 31",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Garage Ford Beaunant",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=55867402&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "chemin Yzeron 69110 Sainte Foy lès Lyon",
+    "code_postal_pj": "69110",
+    "ville_pj": "Sainte Foy lès Lyon",
+    "telephone": "09 82 31 84 17",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Audi",
+    "adresse_pj": "49 boulevard Lucien Sampaix 69190 Saint Fons",
+    "code_postal_pj": "69190",
+    "ville_pj": "Saint Fons",
+    "telephone": "04 72 78 88 00",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "AUDI Service by my Car",
+    "adresse_pj": "191 avenue Félix Faure 69003 Lyon",
+    "code_postal_pj": "69003",
+    "ville_pj": "Lyon",
+    "telephone": "04 82 29 53 27",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Renault VIGNE AUTOMOBILES",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00464307&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "14 avenue Verdun 69330 Meyzieu",
+    "code_postal_pj": "69330",
+    "ville_pj": "Meyzieu",
+    "telephone": "04 78 31 77 96",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "EUROCAR ONE",
+    "adresse_pj": "63 rue André Bollier 69007 Lyon",
+    "code_postal_pj": "69007",
+    "ville_pj": "Lyon",
+    "telephone": "07 89 23 86 14",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Autos Charcot Distribution",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=07217500&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "69 rue Commdt Charcot 69110 Sainte Foy lès Lyon",
+    "code_postal_pj": "69110",
+    "ville_pj": "Sainte Foy lès Lyon",
+    "telephone": "04 78 25 08 21",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Garage Du 4è",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=09647619&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "2 rue Bély 69004 Lyon",
+    "code_postal_pj": "69004",
+    "ville_pj": "Lyon",
+    "telephone": "04 78 29 86 72",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "EUROREPAR CAR SERVICE by deluxeauto69",
+    "adresse_pj": "7 rue Louis Saillant 69120 Vaulx en Velin",
+    "code_postal_pj": "69120",
+    "ville_pj": "Vaulx en Velin",
+    "telephone": "04 82 91 65 00",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Opel Stellantis &You",
+    "adresse_pj": "81 rue Marietton 69009 Lyon",
+    "code_postal_pj": "69009",
+    "ville_pj": "Lyon",
+    "telephone": "04 37 50 25 90",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Garage Du Centre",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=04782380&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "2 Bis rue Marius Paire 69630 Chaponost",
+    "code_postal_pj": "69630",
+    "ville_pj": "Chaponost",
+    "telephone": "04 78 45 08 08",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "TransakAuto",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=55697407&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "45 avenue Paul Santy 69008 Lyon",
+    "code_postal_pj": "69008",
+    "ville_pj": "Lyon",
+    "telephone": "09 86 26 62 41",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "AD Garage de La Place",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=04379586&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "2 rue Doulline 69340 Francheville",
+    "code_postal_pj": "69340",
+    "ville_pj": "Francheville",
+    "telephone": "04 78 59 02 27",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "GARAGE RENAULT PARET DARDILLY",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00817660&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "Zone Industrielle Du Techlid 4 route Paisy 69570 Dardilly",
+    "code_postal_pj": "69570",
+    "ville_pj": "Dardilly",
+    "telephone": "04 78 35 17 84",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Garage Reynard",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00466539&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "4 allée Fibre Française 69540 Irigny",
+    "code_postal_pj": "69540",
+    "ville_pj": "Irigny",
+    "telephone": "04 78 50 53 53",
+    "site_web": "https://devis-en-ligne.renault.fr/",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Toyota Henon Concessionnaire",
+    "adresse_pj": "Zone Industrielle ld Au Chene 672 rue Mercières 69140 Rillieux la Pape",
+    "code_postal_pj": "69140",
+    "ville_pj": "Rillieux la Pape",
+    "telephone": "04 72 01 89 50",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Jaguar Land Rover Lyon Sud - AUTOMOTION by autosphere",
+    "adresse_pj": "12 A rue Frères Louis et Emile Bertrand 69200 Vénissieux",
+    "code_postal_pj": "69200",
+    "ville_pj": "Vénissieux",
+    "telephone": "04 78 60 60 00",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Citroën PSA Retail Lyon Vénissieux Concessionnaire",
+    "adresse_pj": "2 rue Frères Bertrand 69200 Vénissieux",
+    "code_postal_pj": "69200",
+    "ville_pj": "Vénissieux",
+    "telephone": "04 78 77 39 00",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Autos Charcot Distribution",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=07217500&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "69 rue Commdt Charcot 69110 Sainte Foy lès Lyon",
+    "code_postal_pj": "69110",
+    "ville_pj": "Sainte Foy lès Lyon",
+    "telephone": "04 78 25 08 21",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Auto Carrosserie De La Convention",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=08817601&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "Parc Des Saignes 7 chemin Moninsable 69530 Brignais",
+    "code_postal_pj": "69530",
+    "ville_pj": "Brignais",
+    "telephone": "04 78 05 09 40",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Mercedes-Benz Lyon Saint-Fons - Groupe Chopard",
+    "adresse_pj": "65 boulevard Lucien Sampaix 69190 Saint Fons",
+    "code_postal_pj": "69190",
+    "ville_pj": "Saint Fons",
+    "telephone": "04 78 78 50 78",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Aramisauto Lyon-Décines",
+    "adresse_pj": "33 route Jonage 69150 Décines Charpieu",
+    "code_postal_pj": "69150",
+    "ville_pj": "Décines Charpieu",
+    "telephone": "09 71 11 85 02",
+    "site_web": "https://www.aramisauto.com/contact/prise-rdv",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Fiat Pro Stellantis &You",
+    "adresse_pj": "81 rue Marietton 69009 Lyon",
+    "code_postal_pj": "69009",
+    "ville_pj": "Lyon",
+    "telephone": "04 37 50 25 90",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Peugeot Mc Saint- Cyr",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=02270226&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "22 route St Romain 69450 Saint Cyr au Mont d'Or",
+    "code_postal_pj": "69450",
+    "ville_pj": "Saint Cyr au Mont d'Or",
+    "telephone": "04 78 47 22 00",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Toyota Lyon Nord Sivam by Autosphere concessionaire",
+    "adresse_pj": "6 chemin Anciennes Vignes 69410 Champagne au Mont d'Or",
+    "code_postal_pj": "69410",
+    "ville_pj": "Champagne au Mont d'Or",
+    "telephone": "0968300000",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Dacia Lyon Sud",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=61151590&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "364 route Vienne 69200 Vénissieux",
+    "code_postal_pj": "69200",
+    "ville_pj": "Vénissieux",
+    "telephone": "04 81 68 34 53",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Garage De France Agent Renault",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00465843&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "zone d'aménagement concerté Clapeloup 69280 Sainte Consorce",
+    "code_postal_pj": "69280",
+    "ville_pj": "Sainte Consorce",
+    "telephone": "04 78 87 09 53",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Peugeot Garage Des Gratte Ciel Agent SARL",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=56648096&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "128 rue Dedieu 69100 Villeurbanne",
+    "code_postal_pj": "69100",
+    "ville_pj": "Villeurbanne",
+    "telephone": "04 78 68 04 00",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "AutoBernard Premium",
+    "adresse_pj": "14 rue Frères Louis et Emile Bertrand 69200 Vénissieux",
+    "code_postal_pj": "69200",
+    "ville_pj": "Vénissieux",
+    "telephone": "04 37 90 30 40",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Malesherbes Automobiles",
+    "adresse_pj": "45 rue Malesherbes 69006 Lyon",
+    "code_postal_pj": "69006",
+    "ville_pj": "Lyon",
+    "telephone": "04 78 93 27 98",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Cathalo Venet SARL",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=53733045&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "87 avenue Poterie 69890 La Tour de Salvagny",
+    "code_postal_pj": "69890",
+    "ville_pj": "La Tour de Salvagny",
+    "telephone": "04 78 48 00 05",
+    "site_web": "http://www.garage-cathalovenet.fr",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Garage Thomasset",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=06535881&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "Zac Du Champ Du Roy 180 rue Hélène Boucher 69140 Rillieux la Pape",
+    "code_postal_pj": "69140",
+    "ville_pj": "Rillieux la Pape",
+    "telephone": "04 78 97 13 73",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Renault Lyon Ouest Saint-Genis-Laval – RRG",
+    "adresse_pj": "Beauversant 303 route Brignais 69230 Saint Genis Laval",
+    "code_postal_pj": "69230",
+    "ville_pj": "Saint Genis Laval",
+    "telephone": "04 13 68 07 52",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Garage du Bocage II",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=07748315&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "route Brignais 69630 Chaponost",
+    "code_postal_pj": "69630",
+    "ville_pj": "Chaponost",
+    "telephone": "04 72 67 00 05",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Garage Brizon SARL",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00465398&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "64 avenue Edouard Millaud 69290 Craponne",
+    "code_postal_pj": "69290",
+    "ville_pj": "Craponne",
+    "telephone": "04 78 44 85 11",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "EUROREPAR CAR SERVICE by deluxeauto69",
+    "adresse_pj": "7 rue Louis Saillant 69120 Vaulx en Velin",
+    "code_postal_pj": "69120",
+    "ville_pj": "Vaulx en Velin",
+    "telephone": "04 82 91 65 00",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Mercedes-Benz Lyon Saint-Fons - Groupe Chopard",
+    "adresse_pj": "65 boulevard Lucien Sampaix 69190 Saint Fons",
+    "code_postal_pj": "69190",
+    "ville_pj": "Saint Fons",
+    "telephone": "04 78 78 50 78",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Renault VIGNE AUTOMOBILES",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00464307&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "14 avenue Verdun 69330 Meyzieu",
+    "code_postal_pj": "69330",
+    "ville_pj": "Meyzieu",
+    "telephone": "04 78 31 77 96",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "GARAGE RENAULT PARET DARDILLY",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00817660&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "Zone Industrielle Du Techlid 4 route Paisy 69570 Dardilly",
+    "code_postal_pj": "69570",
+    "ville_pj": "Dardilly",
+    "telephone": "04 78 35 17 84",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Prothiere",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=04356844&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "342 route Genas 69500 Bron",
+    "code_postal_pj": "69500",
+    "ville_pj": "Bron",
+    "telephone": "0813617770",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "CHAVOT Automobiles",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00464258&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "50 avenue Verdun 69330 Meyzieu",
+    "code_postal_pj": "69330",
+    "ville_pj": "Meyzieu",
+    "telephone": "04 78 31 52 94",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "EWIGO",
+    "adresse_pj": "Place De La Rochette 17 quai Clemenceau 69300 Caluire et Cuire",
+    "code_postal_pj": "69300",
+    "ville_pj": "Caluire et Cuire",
+    "telephone": "04 72 00 84 60",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "3 B Auto",
+    "adresse_pj": "163 avenue Gabriel Péri 69120 Vaulx en Velin",
+    "code_postal_pj": "69120",
+    "ville_pj": "Vaulx en Velin",
+    "telephone": "04 78 80 08 08",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Aramisauto Lyon-Décines",
+    "adresse_pj": "33 route Jonage 69150 Décines Charpieu",
+    "code_postal_pj": "69150",
+    "ville_pj": "Décines Charpieu",
+    "telephone": "09 71 11 85 02",
+    "site_web": "https://www.aramisauto.com/contact/prise-rdv",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Malesherbes Automobiles",
+    "adresse_pj": "45 rue Malesherbes 69006 Lyon",
+    "code_postal_pj": "69006",
+    "ville_pj": "Lyon",
+    "telephone": "04 78 93 27 98",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Garage Losserand",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=01718566&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "125 rue Coste 69300 Caluire et Cuire",
+    "code_postal_pj": "69300",
+    "ville_pj": "Caluire et Cuire",
+    "telephone": "0287411067",
+    "site_web": "http://www.garage-losserand-caluire.fr",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Hyundai",
+    "adresse_pj": "112 avenue Gén Leclerc 69300 Caluire et Cuire",
+    "code_postal_pj": "69300",
+    "ville_pj": "Caluire et Cuire",
+    "telephone": "04 37 40 14 47",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Automobiles De La Rize",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=04354995&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "44 rue Louis Saillant 69120 Vaulx en Velin",
+    "code_postal_pj": "69120",
+    "ville_pj": "Vaulx en Velin",
+    "telephone": "04 72 04 48 97",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Garage Ferretti Sarl",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=04386996&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "34 rue Jules Verne 69800 Saint Priest",
+    "code_postal_pj": "69800",
+    "ville_pj": "Saint Priest",
+    "telephone": "04 78 90 32 47",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Garage Valette SARL",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00463876&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "1 rue Jean Lacroix 69500 Bron",
+    "code_postal_pj": "69500",
+    "ville_pj": "Bron",
+    "telephone": "04 78 26 75 27",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Jaguar Land Rover Lyon Nord -AUTOMOTION by autosphere",
+    "adresse_pj": "Zac De Sans Souci chemin Paisy 69760 Limonest",
+    "code_postal_pj": "69760",
+    "ville_pj": "Limonest",
+    "telephone": "04 78 66 62 90",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "GARAGE SPALVIERI SARL",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00464260&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "25 rue Jean Jaurès 69330 Meyzieu",
+    "code_postal_pj": "69330",
+    "ville_pj": "Meyzieu",
+    "telephone": "04 78 31 58 51",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Tesla",
+    "adresse_pj": "72 avenue Mar de Saxe 69003 Lyon",
+    "code_postal_pj": "69003",
+    "ville_pj": "Lyon",
+    "telephone": "04 63 46 89 99",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Garage Lancia Motor Village Concessionnaire Lancia LYON",
+    "adresse_pj": "81 rue Marietton 69009 Lyon",
+    "code_postal_pj": "69009",
+    "ville_pj": "Lyon",
+    "telephone": "04 37 50 25 90",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Nissan BYmyCAR Concessionaire",
+    "adresse_pj": "ZI Caluire 1555 avenue Hippodrome 69140 Rillieux la Pape",
+    "code_postal_pj": "69140",
+    "ville_pj": "Rillieux la Pape",
+    "telephone": "04 82 29 15 22",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Audi",
+    "adresse_pj": "49 boulevard Lucien Sampaix 69190 Saint Fons",
+    "code_postal_pj": "69190",
+    "ville_pj": "Saint Fons",
+    "telephone": "04 72 78 88 00",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Malesherbes Automobiles",
+    "adresse_pj": "45 rue Malesherbes 69006 Lyon",
+    "code_postal_pj": "69006",
+    "ville_pj": "Lyon",
+    "telephone": "04 78 93 27 98",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Opel Stellantis &You Lyon",
+    "adresse_pj": "1157 avenue Hippodrome 69140 Rillieux la Pape",
+    "code_postal_pj": "69140",
+    "ville_pj": "Rillieux la Pape",
+    "telephone": "04 72 01 58 88",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Opel Stellantis &You Lyon Vénissieux",
+    "adresse_pj": "51 rue Roger Salengro 69200 Vénissieux",
+    "code_postal_pj": "69200",
+    "ville_pj": "Vénissieux",
+    "telephone": "0726500006",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Autos Charcot Distribution",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=07217500&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "69 rue Commdt Charcot 69110 Sainte Foy lès Lyon",
+    "code_postal_pj": "69110",
+    "ville_pj": "Sainte Foy lès Lyon",
+    "telephone": "04 78 25 08 21",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Dacia Brossard Concessionnaire",
+    "adresse_pj": "369 route Neuve 69126 Brindas",
+    "code_postal_pj": "69126",
+    "ville_pj": "Brindas",
+    "telephone": "04 78 45 13 48",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Opel Stellantis &You",
+    "adresse_pj": "81 rue Marietton 69009 Lyon",
+    "code_postal_pj": "69009",
+    "ville_pj": "Lyon",
+    "telephone": "04 37 50 25 90",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "GARAGE RENAULT PARET DARDILLY",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00817660&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "Zone Industrielle Du Techlid 4 route Paisy 69570 Dardilly",
+    "code_postal_pj": "69570",
+    "ville_pj": "Dardilly",
+    "telephone": "04 78 35 17 84",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "EWIGO",
+    "adresse_pj": "Place De La Rochette 17 quai Clemenceau 69300 Caluire et Cuire",
+    "code_postal_pj": "69300",
+    "ville_pj": "Caluire et Cuire",
+    "telephone": "04 72 00 84 60",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Starterre",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=06835180&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "33 boulevard Lucien Sampaix 69190 Saint Fons",
+    "code_postal_pj": "69190",
+    "ville_pj": "Saint Fons",
+    "telephone": "04 82 75 27 00",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Garage Fmc Bymycar Lyon",
+    "adresse_pj": "10 allée Savoies 69200 Vénissieux",
+    "code_postal_pj": "69200",
+    "ville_pj": "Vénissieux",
+    "telephone": "04 78 78 30 30",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Garage Chene",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=53854948&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "34 rue Pasteur 69300 Caluire et Cuire",
+    "code_postal_pj": "69300",
+    "ville_pj": "Caluire et Cuire",
+    "telephone": "04 78 08 21 22",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Altitude 69",
+    "adresse_pj": "Zac De Sans Souci 170 rue Etang 69760 Limonest",
+    "code_postal_pj": "69760",
+    "ville_pj": "Limonest",
+    "telephone": "04 72 53 88 88",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Lyon Elite Motors",
+    "adresse_pj": "76 rue Marietton 69009 Lyon",
+    "code_postal_pj": "69009",
+    "ville_pj": "Lyon",
+    "telephone": "04 72 53 14 80",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Farelux Automobiles",
+    "adresse_pj": "18 rue Vendôme 69006 Lyon",
+    "code_postal_pj": "69006",
+    "ville_pj": "Lyon",
+    "telephone": "07 56 97 04 04",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "DS Store Lyon Vénissieux",
+    "adresse_pj": "26 boulevard Irène Joliot Curie 69200 Vénissieux",
+    "code_postal_pj": "69200",
+    "ville_pj": "Vénissieux",
+    "telephone": "04 37 90 19 60",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Garage Saint Alexandre - Chan Invest",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=56688407&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "32 avenue Gén de Gaulle 69110 Sainte Foy lès Lyon",
+    "code_postal_pj": "69110",
+    "ville_pj": "Sainte Foy lès Lyon",
+    "telephone": "04 72 04 33 44",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Citroën Garage de la Côtière Réparateur agréé",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=01851645&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "806 chemin Sereine 01700 Beynost",
+    "code_postal_pj": "01700",
+    "ville_pj": "Beynost",
+    "telephone": "0715405993",
+    "site_web": "http://www.garage-cotiere-citroen.fr",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Skoda BymyCar Lyon Sud Concessionnaire",
+    "adresse_pj": "10 rue Frères Bertrand 69200 Vénissieux",
+    "code_postal_pj": "69200",
+    "ville_pj": "Vénissieux",
+    "telephone": "04 37 23 56 13",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "EUROCAR ONE",
+    "adresse_pj": "63 rue André Bollier 69007 Lyon",
+    "code_postal_pj": "69007",
+    "ville_pj": "Lyon",
+    "telephone": "07 89 23 86 14",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Garage Faucon",
+    "adresse_pj": "3 rue Alsace Lorraine 69500 Bron",
+    "code_postal_pj": "69500",
+    "ville_pj": "Bron",
+    "telephone": "04 78 26 80 17",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Tesla",
+    "adresse_pj": "72 avenue Mar de Saxe 69003 Lyon",
+    "code_postal_pj": "69003",
+    "ville_pj": "Lyon",
+    "telephone": "04 63 46 89 99",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Skoda BymyCar Lyon Sud Concessionnaire",
+    "adresse_pj": "10 rue Frères Bertrand 69200 Vénissieux",
+    "code_postal_pj": "69200",
+    "ville_pj": "Vénissieux",
+    "telephone": "04 37 23 56 13",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Malesherbes Automobiles",
+    "adresse_pj": "45 rue Malesherbes 69006 Lyon",
+    "code_postal_pj": "69006",
+    "ville_pj": "Lyon",
+    "telephone": "04 78 93 27 98",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Opel Stellantis &You Lyon",
+    "adresse_pj": "1157 avenue Hippodrome 69140 Rillieux la Pape",
+    "code_postal_pj": "69140",
+    "ville_pj": "Rillieux la Pape",
+    "telephone": "04 72 01 58 88",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Carrosserie Fahy",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00592801&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "Zac Des Vallieres 18 rue Industrie 69530 Brignais",
+    "code_postal_pj": "69530",
+    "ville_pj": "Brignais",
+    "telephone": "04 78 07 41 41",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Sos Pneus 69",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=61545641&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "39 rue Louis Saillant 69120 Vaulx en Velin",
+    "code_postal_pj": "69120",
+    "ville_pj": "Vaulx en Velin",
+    "telephone": "04 78 37 19 59",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Naudé Automobiles - Chaponost",
+    "adresse_pj": "12 route Francheville 69630 Chaponost",
+    "code_postal_pj": "69630",
+    "ville_pj": "Chaponost",
+    "telephone": "0587496047",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Nissan Utilitaires Services Vul Concessionnaire",
+    "adresse_pj": "11 rue Champ Dolin 69800 Saint Priest",
+    "code_postal_pj": "69800",
+    "ville_pj": "Saint Priest",
+    "telephone": "04 72 21 91 80",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Pr Automobiles",
+    "adresse_pj": "13 rue Curie 69006 Lyon",
+    "code_postal_pj": "69006",
+    "ville_pj": "Lyon",
+    "telephone": "06 05 05 69 05",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Automobiles De La Rize",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=04354995&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "44 rue Louis Saillant 69120 Vaulx en Velin",
+    "code_postal_pj": "69120",
+    "ville_pj": "Vaulx en Velin",
+    "telephone": "04 72 04 48 97",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Garage Losserand",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=01718566&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "125 rue Coste 69300 Caluire et Cuire",
+    "code_postal_pj": "69300",
+    "ville_pj": "Caluire et Cuire",
+    "telephone": "0287411067",
+    "site_web": "http://www.garage-losserand-caluire.fr",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "EWIGO",
+    "adresse_pj": "Place De La Rochette 17 quai Clemenceau 69300 Caluire et Cuire",
+    "code_postal_pj": "69300",
+    "ville_pj": "Caluire et Cuire",
+    "telephone": "04 72 00 84 60",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Ewigo",
+    "adresse_pj": "200 avenue Jean Jaurès 69150 Décines Charpieu",
+    "code_postal_pj": "69150",
+    "ville_pj": "Décines Charpieu",
+    "telephone": "06 33 34 58 34",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Garage Chrétien Et Constant",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=08268125&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "Espace Tassin 5 route Brignais 69160 Tassin la Demi Lune",
+    "code_postal_pj": "69160",
+    "ville_pj": "Tassin la Demi Lune",
+    "telephone": "04 78 34 73 74",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Avis Explore",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00464148&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "28 boulevard Charles de Gaulle 69150 Décines Charpieu",
+    "code_postal_pj": "69150",
+    "ville_pj": "Décines Charpieu",
+    "telephone": "0337620000",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "AUDI OCCASION PLUS BYmyCAR Champagne au Mont-d'Or Concessionnaire",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=56809072&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "12 chemin Tronchon 69410 Champagne au Mont d'Or",
+    "code_postal_pj": "69410",
+    "ville_pj": "Champagne au Mont d'Or",
+    "telephone": "04 82 29 14 90",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Lexus",
+    "adresse_pj": "16-20 16 rue Frères Louis et Emile Bertrand 69200 Vénissieux",
+    "code_postal_pj": "69200",
+    "ville_pj": "Vénissieux",
+    "telephone": "04 72 78 50 32",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Peugeot Mc Saint- Cyr",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=02270226&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "22 route St Romain 69450 Saint Cyr au Mont d'Or",
+    "code_postal_pj": "69450",
+    "ville_pj": "Saint Cyr au Mont d'Or",
+    "telephone": "04 78 47 22 00",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Tesla",
+    "adresse_pj": "8 rue Alice Guy Blache 69800 Saint Priest",
+    "code_postal_pj": "69800",
+    "ville_pj": "Saint Priest",
+    "telephone": "04 63 46 89 99",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Garage Du Centre",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=04782380&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "2 Bis rue Marius Paire 69630 Chaponost",
+    "code_postal_pj": "69630",
+    "ville_pj": "Chaponost",
+    "telephone": "04 78 45 08 08",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Euro Service",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00464697&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "230 route Grenoble 69800 Saint Priest",
+    "code_postal_pj": "69800",
+    "ville_pj": "Saint Priest",
+    "telephone": "0485827100",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Smart Lyon Saint-Fons - Groupe Chopard",
+    "adresse_pj": "65 boulevard Lucien Sampaix 69190 Saint Fons",
+    "code_postal_pj": "69190",
+    "ville_pj": "Saint Fons",
+    "telephone": "04 78 78 50 78",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Ewigo",
+    "adresse_pj": "200 avenue Jean Jaurès 69150 Décines Charpieu",
+    "code_postal_pj": "69150",
+    "ville_pj": "Décines Charpieu",
+    "telephone": "06 33 34 58 34",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Garage Chene",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=53854948&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "34 rue Pasteur 69300 Caluire et Cuire",
+    "code_postal_pj": "69300",
+    "ville_pj": "Caluire et Cuire",
+    "telephone": "04 78 08 21 22",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Prothiere",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=04356844&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "342 route Genas 69500 Bron",
+    "code_postal_pj": "69500",
+    "ville_pj": "Bron",
+    "telephone": "0813617770",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Malesherbes Automobiles",
+    "adresse_pj": "45 rue Malesherbes 69006 Lyon",
+    "code_postal_pj": "69006",
+    "ville_pj": "Lyon",
+    "telephone": "04 78 93 27 98",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Garage Brondel",
+    "adresse_pj": "2 chemin Vallée 69580 Sathonay Camp",
+    "code_postal_pj": "69580",
+    "ville_pj": "Sathonay Camp",
+    "telephone": "07 78 66 15 72",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Renault Trucks Grand Lyon",
+    "adresse_pj": "Za Les Taillis 10 rue Savoie 69960 Corbas",
+    "code_postal_pj": "69960",
+    "ville_pj": "Corbas",
+    "telephone": "04 72 51 36 55",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "3 B Auto",
+    "adresse_pj": "163 avenue Gabriel Péri 69120 Vaulx en Velin",
+    "code_postal_pj": "69120",
+    "ville_pj": "Vaulx en Velin",
+    "telephone": "04 78 80 08 08",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Privilege Auto Lyon",
+    "adresse_pj": "66 avenue 8 Mai 1945 69120 Vaulx en Velin",
+    "code_postal_pj": "69120",
+    "ville_pj": "Vaulx en Velin",
+    "telephone": "04 87 37 96 71",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Garage de Genas",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=02564228&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "51 avenue Urbain Le Verrier 69800 Saint Priest",
+    "code_postal_pj": "69800",
+    "ville_pj": "Saint Priest",
+    "telephone": "04 78 26 81 08",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Garage Valadier",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00463238&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "24 rue Branly 69100 Villeurbanne",
+    "code_postal_pj": "69100",
+    "ville_pj": "Villeurbanne",
+    "telephone": "04 78 84 23 93",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Garage Valette SARL",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00463876&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "1 rue Jean Lacroix 69500 Bron",
+    "code_postal_pj": "69500",
+    "ville_pj": "Bron",
+    "telephone": "04 78 26 75 27",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Garage De Provence",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=06943066&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "9 rue Provence 69800 Saint Priest",
+    "code_postal_pj": "69800",
+    "ville_pj": "Saint Priest",
+    "telephone": "04 72 28 94 94",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "BYD Lyon Écully - Groupe Chopard",
+    "adresse_pj": "4 chemin Jean Marie Vianney 69130 Ecully",
+    "code_postal_pj": "69130",
+    "ville_pj": "Ecully",
+    "telephone": "04 72 18 00 18",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Peugeot Stellantis &You",
+    "adresse_pj": "5 chemin Jean Marie Vianney 69130 Ecully",
+    "code_postal_pj": "69130",
+    "ville_pj": "Ecully",
+    "telephone": "04 37 90 18 10",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Mitsubishi Motors Lyon Concessionnaire",
+    "adresse_pj": "49 boulevard Lucien Sampaix 69190 Saint Fons",
+    "code_postal_pj": "69190",
+    "ville_pj": "Saint Fons",
+    "telephone": "04 81 13 25 85",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Garage des Varennes",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=08253839&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "3 rue Varennes 69660 Collonges au Mont d'Or",
+    "code_postal_pj": "69660",
+    "ville_pj": "Collonges au Mont d'Or",
+    "telephone": "04 78 22 38 74",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Bentley Lyon - Passion Automobiles Prestiges",
+    "adresse_pj": "2 chemin Cuers 69570 Dardilly",
+    "code_postal_pj": "69570",
+    "ville_pj": "Dardilly",
+    "telephone": "04 72 29 12 29",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Garage Des Sources",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=02329856&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "63 rue Sources 69230 Saint Genis Laval",
+    "code_postal_pj": "69230",
+    "ville_pj": "Saint Genis Laval",
+    "telephone": "04 78 51 65 00",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Peugeot M&S Auto Concessionnaire",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=63778332&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "100 avenue République 69160 Tassin la Demi Lune",
+    "code_postal_pj": "69160",
+    "ville_pj": "Tassin la Demi Lune",
+    "telephone": "04 78 34 31 36",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Garage Des Quais De Saône",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=04366963&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "38 rue Pierre Carbon 69270 Fontaines sur Saône",
+    "code_postal_pj": "69270",
+    "ville_pj": "Fontaines sur Saône",
+    "telephone": "04 78 22 41 81",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Lyon's Automobiles Point de vente de Lyon-Décines",
+    "adresse_pj": "95 avenue Franklin Roosevelt 69150 Décines Charpieu",
+    "code_postal_pj": "69150",
+    "ville_pj": "Décines Charpieu",
+    "telephone": "04 72 14 01 50",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "LE GARAGE GIACONI",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00464414&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "69 avenue Eugénie Cotton 69120 Vaulx en Velin",
+    "code_postal_pj": "69120",
+    "ville_pj": "Vaulx en Velin",
+    "telephone": "04 72 04 60 78",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Renault Mobility",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=55739922&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "27 avenue Aqueduc de Beaunant 69110 Sainte Foy lès Lyon",
+    "code_postal_pj": "69110",
+    "ville_pj": "Sainte Foy lès Lyon",
+    "telephone": "04 72 39 76 76",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "ASP Centre Distributeur",
+    "adresse_pj": "70 cours Gambetta 69007 Lyon",
+    "code_postal_pj": "69007",
+    "ville_pj": "Lyon",
+    "telephone": "04 87 76 86 36",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Symbol Cars",
+    "adresse_pj": "2 boulevard Lucien Sampaix 69190 Saint Fons",
+    "code_postal_pj": "69190",
+    "ville_pj": "Saint Fons",
+    "telephone": "04 81 09 17 75",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "GARAGE SPALVIERI SARL",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00464260&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "25 rue Jean Jaurès 69330 Meyzieu",
+    "code_postal_pj": "69330",
+    "ville_pj": "Meyzieu",
+    "telephone": "04 78 31 58 51",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Lexus",
+    "adresse_pj": "16-20 16 rue Frères Louis et Emile Bertrand 69200 Vénissieux",
+    "code_postal_pj": "69200",
+    "ville_pj": "Vénissieux",
+    "telephone": "04 72 78 50 32",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Hyundai Lyon Sud Groupe Central Autos Concessionnaire",
+    "adresse_pj": "49 boulevard Lucien Sampaix 69190 Saint Fons",
+    "code_postal_pj": "69190",
+    "ville_pj": "Saint Fons",
+    "telephone": "04 78 45 27 16",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Ewigo",
+    "adresse_pj": "200 avenue Jean Jaurès 69150 Décines Charpieu",
+    "code_postal_pj": "69150",
+    "ville_pj": "Décines Charpieu",
+    "telephone": "06 33 34 58 34",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Garage Chrétien Et Constant",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=08268125&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "Espace Tassin 5 route Brignais 69160 Tassin la Demi Lune",
+    "code_postal_pj": "69160",
+    "ville_pj": "Tassin la Demi Lune",
+    "telephone": "04 78 34 73 74",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Beltone Automobiles",
+    "adresse_pj": "116 rue Sèze 69006 Lyon",
+    "code_postal_pj": "69006",
+    "ville_pj": "Lyon",
+    "telephone": "09 50 74 48 69",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Garage Valette SARL",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00463876&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "1 rue Jean Lacroix 69500 Bron",
+    "code_postal_pj": "69500",
+    "ville_pj": "Bron",
+    "telephone": "04 78 26 75 27",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Richard Drevet Automobiles",
+    "adresse_pj": "62 cours République 69100 Villeurbanne",
+    "code_postal_pj": "69100",
+    "ville_pj": "Villeurbanne",
+    "telephone": "04 78 68 56 21",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Turbo 2000",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00791794&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "209 rue Mercières 69140 Rillieux la Pape",
+    "code_postal_pj": "69140",
+    "ville_pj": "Rillieux la Pape",
+    "telephone": "04 78 97 37 37",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Garage Saint Alexandre - Chan Invest",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=56688407&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "32 avenue Gén de Gaulle 69110 Sainte Foy lès Lyon",
+    "code_postal_pj": "69110",
+    "ville_pj": "Sainte Foy lès Lyon",
+    "telephone": "04 72 04 33 44",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Dk Auto",
+    "adresse_pj": "93 rue Villette 69003 Lyon",
+    "code_postal_pj": "69003",
+    "ville_pj": "Lyon",
+    "telephone": "06 19 31 83 40",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Mini BMW 6ème Avenue Concessionnaire",
+    "adresse_pj": "2 rue Louis Blanc 69200 Vénissieux",
+    "code_postal_pj": "69200",
+    "ville_pj": "Vénissieux",
+    "telephone": "04 78 78 39 39",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Garage Cotiere",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=05425500&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "2102 route Genève 01700 Beynost",
+    "code_postal_pj": "01700",
+    "ville_pj": "Beynost",
+    "telephone": "04 78 55 60 72",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Tesla",
+    "adresse_pj": "3 chemin Gorges 69570 Dardilly",
+    "code_postal_pj": "69570",
+    "ville_pj": "Dardilly",
+    "telephone": "04 26 83 63 72",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "PEUGEOT AUTO ELECTRICITÉ MEUNIER AGENT",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00463240&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "33 rue Lançon 69100 Villeurbanne",
+    "code_postal_pj": "69100",
+    "ville_pj": "Villeurbanne",
+    "telephone": "0399300000",
+    "site_web": "http://www.garage-auto-electricite-villeurbanne.fr",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Peugeot M&S Auto Concessionnaire",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=63778332&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "100 avenue République 69160 Tassin la Demi Lune",
+    "code_postal_pj": "69160",
+    "ville_pj": "Tassin la Demi Lune",
+    "telephone": "04 78 34 31 36",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Auto Elite",
+    "adresse_pj": "254 rue Vendôme 69003 Lyon",
+    "code_postal_pj": "69003",
+    "ville_pj": "Lyon",
+    "telephone": "06 37 34 54 68",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "GVA Bymycar Lyon",
+    "adresse_pj": "1 rue Jean Marie Merle 69120 Vaulx en Velin",
+    "code_postal_pj": "69120",
+    "ville_pj": "Vaulx en Velin",
+    "telephone": "04 82 29 53 45",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Prothiere",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=04356844&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "342 route Genas 69500 Bron",
+    "code_postal_pj": "69500",
+    "ville_pj": "Bron",
+    "telephone": "0813617770",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Lyon's Automobiles Point de vente de Lyon-Décines",
+    "adresse_pj": "95 avenue Franklin Roosevelt 69150 Décines Charpieu",
+    "code_postal_pj": "69150",
+    "ville_pj": "Décines Charpieu",
+    "telephone": "04 72 14 01 50",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Citroën Garage de la Côtière Réparateur agréé",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=01851645&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "806 chemin Sereine 01700 Beynost",
+    "code_postal_pj": "01700",
+    "ville_pj": "Beynost",
+    "telephone": "0715405993",
+    "site_web": "http://www.garage-cotiere-citroen.fr",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "RM Automobiles",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=58717763&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "196 route Vienne 69008 Lyon",
+    "code_postal_pj": "69008",
+    "ville_pj": "Lyon",
+    "telephone": "04 87 62 12 65",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Renault Mobility",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=55739922&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "27 avenue Aqueduc de Beaunant 69110 Sainte Foy lès Lyon",
+    "code_postal_pj": "69110",
+    "ville_pj": "Sainte Foy lès Lyon",
+    "telephone": "04 72 39 76 76",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Opel Stellantis &You Lyon",
+    "adresse_pj": "1157 avenue Hippodrome 69140 Rillieux la Pape",
+    "code_postal_pj": "69140",
+    "ville_pj": "Rillieux la Pape",
+    "telephone": "04 72 01 58 88",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Auto Conseil Location A.C.L",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=06856246&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "Aéroport De Bron Rn6 344 route Grenoble 69800 Saint Priest",
+    "code_postal_pj": "69800",
+    "ville_pj": "Saint Priest",
+    "telephone": "04 78 26 26 26",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Garage Des Quais De Saône",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=04366963&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "38 rue Pierre Carbon 69270 Fontaines sur Saône",
+    "code_postal_pj": "69270",
+    "ville_pj": "Fontaines sur Saône",
+    "telephone": "04 78 22 41 81",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Citroën Stellantis &You Lyon Ecully",
+    "adresse_pj": "5 chemin Jean Marie Vianney 69130 Ecully",
+    "code_postal_pj": "69130",
+    "ville_pj": "Ecully",
+    "telephone": "04 72 18 77 00",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Mitsubishi Motors Lyon Concessionnaire",
+    "adresse_pj": "49 boulevard Lucien Sampaix 69190 Saint Fons",
+    "code_postal_pj": "69190",
+    "ville_pj": "Saint Fons",
+    "telephone": "04 81 13 25 85",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Lyon Limousine",
+    "adresse_pj": "11 rue St Vincent de Paul 69008 Lyon",
+    "code_postal_pj": "69008",
+    "ville_pj": "Lyon",
+    "telephone": "06 21 68 67 63",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Garage Saint Alexandre - Chan Invest",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=56688407&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "32 avenue Gén de Gaulle 69110 Sainte Foy lès Lyon",
+    "code_postal_pj": "69110",
+    "ville_pj": "Sainte Foy lès Lyon",
+    "telephone": "04 72 04 33 44",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Lexus",
+    "adresse_pj": "16-20 16 rue Frères Louis et Emile Bertrand 69200 Vénissieux",
+    "code_postal_pj": "69200",
+    "ville_pj": "Vénissieux",
+    "telephone": "04 72 78 50 32",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Avs Prestige",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=61714762&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "allée Guimet 69250 Fleurieu sur Saône",
+    "code_postal_pj": "69250",
+    "ville_pj": "Fleurieu sur Saône",
+    "telephone": "04 78 32 53 87",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Garage Monnier Frères",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00969825&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "105 avenue Frères Lumière 69730 Genay",
+    "code_postal_pj": "69730",
+    "ville_pj": "Genay",
+    "telephone": "04 78 91 61 10",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Garage Morat",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00465448&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "Za Les Andrés 180 rue Pré Magne 69126 Brindas",
+    "code_postal_pj": "69126",
+    "ville_pj": "Brindas",
+    "telephone": "04 78 45 17 49",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Ks-line Automobile",
+    "adresse_pj": "130 avenue Industrie 69140 Rillieux la Pape",
+    "code_postal_pj": "69140",
+    "ville_pj": "Rillieux la Pape",
+    "telephone": "06 56 80 49 97",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Hunyvers",
+    "adresse_pj": "28 chemin Genas 69800 Saint Priest",
+    "code_postal_pj": "69800",
+    "ville_pj": "Saint Priest",
+    "telephone": "04 78 90 37 72",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Volkswagen GVA Bymycar Lyon Concessionnaire",
+    "adresse_pj": "1555 avenue Hippodrome 69140 Rillieux la Pape",
+    "code_postal_pj": "69140",
+    "ville_pj": "Rillieux la Pape",
+    "telephone": "04 82 29 11 51",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "By My Car",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=61885888&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "1 boulevard Lucien Sampaix 69190 Saint Fons",
+    "code_postal_pj": "69190",
+    "ville_pj": "Saint Fons",
+    "telephone": "04 82 29 86 70",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "DS Store Lyon Ecully",
+    "adresse_pj": "5 chemin Jean Marie Vianney 69130 Ecully",
+    "code_postal_pj": "69130",
+    "ville_pj": "Ecully",
+    "telephone": "04 72 18 77 85",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Carrosserie De La Perrière",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=02307902&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "53 Bis route Corbas 69200 Vénissieux",
+    "code_postal_pj": "69200",
+    "ville_pj": "Vénissieux",
+    "telephone": "04 72 50 70 30",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Tesla",
+    "adresse_pj": "3 chemin Gorges 69570 Dardilly",
+    "code_postal_pj": "69570",
+    "ville_pj": "Dardilly",
+    "telephone": "04 26 83 63 72",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Peugeot Stellantis &You Lyon Carre de Soie",
+    "adresse_pj": "38-42 38 avenue Bohlen 69120 Vaulx en Velin",
+    "code_postal_pj": "69120",
+    "ville_pj": "Vaulx en Velin",
+    "telephone": "04 37 90 18 20",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Renault Mobility",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=55739922&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "27 avenue Aqueduc de Beaunant 69110 Sainte Foy lès Lyon",
+    "code_postal_pj": "69110",
+    "ville_pj": "Sainte Foy lès Lyon",
+    "telephone": "04 72 39 76 76",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Eurocar One",
+    "adresse_pj": "141 rue Antoine Charial 69003 Lyon",
+    "code_postal_pj": "69003",
+    "ville_pj": "Lyon",
+    "telephone": "06 63 84 60 84",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Auto Elite",
+    "adresse_pj": "254 rue Vendôme 69003 Lyon",
+    "code_postal_pj": "69003",
+    "ville_pj": "Lyon",
+    "telephone": "06 37 34 54 68",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Avis Explore",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00464148&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "28 boulevard Charles de Gaulle 69150 Décines Charpieu",
+    "code_postal_pj": "69150",
+    "ville_pj": "Décines Charpieu",
+    "telephone": "0337620000",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Citroën Stellantis &You Lyon",
+    "adresse_pj": "1157 avenue Hippodrome 69140 Rillieux la Pape",
+    "code_postal_pj": "69140",
+    "ville_pj": "Rillieux la Pape",
+    "telephone": "04 72 01 58 88",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Louerune Auto",
+    "adresse_pj": "4 rue République 69001 Lyon",
+    "code_postal_pj": "69001",
+    "ville_pj": "Lyon",
+    "telephone": "09 80 80 14 14",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Renault Trucks Grand Lyon",
+    "adresse_pj": "Za Les Taillis 10 rue Savoie 69960 Corbas",
+    "code_postal_pj": "69960",
+    "ville_pj": "Corbas",
+    "telephone": "04 72 51 36 55",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Garage De L'Aviation",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=04357870&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "118 avenue 8 Mai 1945 69960 Corbas",
+    "code_postal_pj": "69960",
+    "ville_pj": "Corbas",
+    "telephone": "04 72 50 20 02",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "ORA 7",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=09549105&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "impasse Tuillières 69360 Sérézin du Rhône",
+    "code_postal_pj": "69360",
+    "ville_pj": "Sérézin du Rhône",
+    "telephone": "04 37 65 07 07",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Dacia Thivolle Concessionnaire",
+    "adresse_pj": "avenue Aqueduc de Beaunant 69110 Sainte Foy lès Lyon",
+    "code_postal_pj": "69110",
+    "ville_pj": "Sainte Foy lès Lyon",
+    "telephone": "04 72 39 76 76",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Autos Occasions Lyon",
+    "adresse_pj": "14 rue Honoré de Balzac 69150 Décines Charpieu",
+    "code_postal_pj": "69150",
+    "ville_pj": "Décines Charpieu",
+    "telephone": "07 81 71 34 25",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Volvo Lyon Sud - Félix Faure Automobiles",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=07472234&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "51 rue Roger Salengro 69200 Vénissieux",
+    "code_postal_pj": "69200",
+    "ville_pj": "Vénissieux",
+    "telephone": "04 72 60 01 01",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Mitsubishi Motors Lyon Concessionnaire",
+    "adresse_pj": "49 boulevard Lucien Sampaix 69190 Saint Fons",
+    "code_postal_pj": "69190",
+    "ville_pj": "Saint Fons",
+    "telephone": "04 81 13 25 85",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Naudé Automobiles - Chaponost",
+    "adresse_pj": "12 route Francheville 69630 Chaponost",
+    "code_postal_pj": "69630",
+    "ville_pj": "Chaponost",
+    "telephone": "0587496047",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Iziauto",
+    "adresse_pj": "243 route Grenoble 69800 Saint Priest",
+    "code_postal_pj": "69800",
+    "ville_pj": "Saint Priest",
+    "telephone": "04 28 29 40 65",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "BYD Sérézin-du-Rhône - Groupe Chopard",
+    "adresse_pj": "Les Echos 12 chemin départemental 12 69360 Sérézin du Rhône",
+    "code_postal_pj": "69360",
+    "ville_pj": "Sérézin du Rhône",
+    "telephone": "04 72 72 07 00",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Nissan Utilitaires Services Vul Concessionnaire",
+    "adresse_pj": "11 rue Champ Dolin 69800 Saint Priest",
+    "code_postal_pj": "69800",
+    "ville_pj": "Saint Priest",
+    "telephone": "04 72 21 91 80",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Ks-line Automobile",
+    "adresse_pj": "130 avenue Industrie 69140 Rillieux la Pape",
+    "code_postal_pj": "69140",
+    "ville_pj": "Rillieux la Pape",
+    "telephone": "06 56 80 49 97",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Garage Boyer",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=06254074&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "rue Marius Martin 69200 Vénissieux",
+    "code_postal_pj": "69200",
+    "ville_pj": "Vénissieux",
+    "telephone": "04 72 50 15 67",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Skoda BymyCar Lyon Sud Concessionnaire",
+    "adresse_pj": "10 rue Frères Bertrand 69200 Vénissieux",
+    "code_postal_pj": "69200",
+    "ville_pj": "Vénissieux",
+    "telephone": "04 37 23 56 13",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "AUDI OCCASION PLUS BYmyCAR Champagne au Mont-d'Or Concessionnaire",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=56809072&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "12 chemin Tronchon 69410 Champagne au Mont d'Or",
+    "code_postal_pj": "69410",
+    "ville_pj": "Champagne au Mont d'Or",
+    "telephone": "04 82 29 14 90",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Garage Claudy",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00594216&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "35 Bis rue Colin 69100 Villeurbanne",
+    "code_postal_pj": "69100",
+    "ville_pj": "Villeurbanne",
+    "telephone": "04 78 84 25 23",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Jeep Stellantis &You Venissieux",
+    "adresse_pj": "51 rue Roger Salengro 69200 Vénissieux",
+    "code_postal_pj": "69200",
+    "ville_pj": "Vénissieux",
+    "telephone": "04 78 77 17 17",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Suzuki Garage Richard Drevet Concessionnaire",
+    "adresse_pj": "81 83  83 rue Louis Becker 69100 Villeurbanne",
+    "code_postal_pj": "69100",
+    "ville_pj": "Villeurbanne",
+    "telephone": "04 78 68 56 21",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "ORA 7",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=09549105&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "impasse Tuillières 69360 Sérézin du Rhône",
+    "code_postal_pj": "69360",
+    "ville_pj": "Sérézin du Rhône",
+    "telephone": "04 37 65 07 07",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Gauduel Lyon Nord",
+    "adresse_pj": "29 rue Etang 69760 Limonest",
+    "code_postal_pj": "69760",
+    "ville_pj": "Limonest",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Privilege Auto Lyon",
+    "adresse_pj": "66 avenue 8 Mai 1945 69120 Vaulx en Velin",
+    "code_postal_pj": "69120",
+    "ville_pj": "Vaulx en Velin",
+    "telephone": "04 87 37 96 71",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Stellantis &You Business Lyon",
+    "adresse_pj": "15 avenue Charles de Gaulle 69120 Vaulx en Velin",
+    "code_postal_pj": "69120",
+    "ville_pj": "Vaulx en Velin",
+    "telephone": "04 78 79 49 49",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "CITROËN Garage du Mont Verdun Réparateur agréé",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=53984104&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "211 Le Promenoir 69380 Chasselay",
+    "code_postal_pj": "69380",
+    "ville_pj": "Chasselay",
+    "telephone": "04 78 47 62 23",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Aramisauto Lyon-Irigny",
+    "adresse_pj": "2 rue Yvours 69540 Irigny",
+    "code_postal_pj": "69540",
+    "ville_pj": "Irigny",
+    "telephone": "04 26 84 83 83",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Garage Monnier Frères",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00969825&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "105 avenue Frères Lumière 69730 Genay",
+    "code_postal_pj": "69730",
+    "ville_pj": "Genay",
+    "telephone": "04 78 91 61 10",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Garage Odin",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00465408&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "bât Devant 46 route Bordeaux 69670 Vaugneray",
+    "code_postal_pj": "69670",
+    "ville_pj": "Vaugneray",
+    "telephone": "04 78 45 81 02",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Garage Cotiere",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=05425500&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "2102 route Genève 01700 Beynost",
+    "code_postal_pj": "01700",
+    "ville_pj": "Beynost",
+    "telephone": "04 78 55 60 72",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "HP CAR",
+    "adresse_pj": "3 rue Claudia 69120 Vaulx en Velin",
+    "code_postal_pj": "69120",
+    "ville_pj": "Vaulx en Velin",
+    "telephone": "06 46 67 33 48",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Lexus",
+    "adresse_pj": "16-20 16 rue Frères Louis et Emile Bertrand 69200 Vénissieux",
+    "code_postal_pj": "69200",
+    "ville_pj": "Vénissieux",
+    "telephone": "04 72 78 50 32",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Garage Morat",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00465448&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "Za Les Andrés 180 rue Pré Magne 69126 Brindas",
+    "code_postal_pj": "69126",
+    "ville_pj": "Brindas",
+    "telephone": "04 78 45 17 49",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Cle de Voiture Lyon",
+    "adresse_pj": "82 rue Château Gaillard 69100 Villeurbanne",
+    "code_postal_pj": "69100",
+    "ville_pj": "Villeurbanne",
+    "telephone": "07 58 50 78 07",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Eurocar One",
+    "adresse_pj": "141 rue Antoine Charial 69003 Lyon",
+    "code_postal_pj": "69003",
+    "ville_pj": "Lyon",
+    "telephone": "06 63 84 60 84",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "ALPINE STORE LYON - RRG",
+    "adresse_pj": "364 route Vienne 69200 Vénissieux",
+    "code_postal_pj": "69200",
+    "ville_pj": "Vénissieux",
+    "telephone": "04 78 77 78 77",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Hunyvers",
+    "adresse_pj": "28 chemin Genas 69800 Saint Priest",
+    "code_postal_pj": "69800",
+    "ville_pj": "Saint Priest",
+    "telephone": "04 78 90 37 72",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Auto Elite",
+    "adresse_pj": "254 rue Vendôme 69003 Lyon",
+    "code_postal_pj": "69003",
+    "ville_pj": "Lyon",
+    "telephone": "06 37 34 54 68",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Dacia Thivolle Concessionnaire",
+    "adresse_pj": "avenue Aqueduc de Beaunant 69110 Sainte Foy lès Lyon",
+    "code_postal_pj": "69110",
+    "ville_pj": "Sainte Foy lès Lyon",
+    "telephone": "04 72 39 76 76",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Naudé Automobiles Lozanne",
+    "adresse_pj": "75 rue Louis Arnal 69380 Lozanne",
+    "code_postal_pj": "69380",
+    "ville_pj": "Lozanne",
+    "telephone": "04 37 46 97 29",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "BYD Sérézin-du-Rhône - Groupe Chopard",
+    "adresse_pj": "Les Echos 12 chemin départemental 12 69360 Sérézin du Rhône",
+    "code_postal_pj": "69360",
+    "ville_pj": "Sérézin du Rhône",
+    "telephone": "04 72 72 07 00",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Vanilla Sky Autos",
+    "adresse_pj": "223 rue André Philip 69003 Lyon",
+    "code_postal_pj": "69003",
+    "ville_pj": "Lyon",
+    "telephone": "06 62 71 73 82",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Garage De L'Aviation",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=04357870&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "118 avenue 8 Mai 1945 69960 Corbas",
+    "code_postal_pj": "69960",
+    "ville_pj": "Corbas",
+    "telephone": "04 72 50 20 02",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "AUDI OCCASION PLUS BYmyCAR Champagne au Mont-d'Or Concessionnaire",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=56809072&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "12 chemin Tronchon 69410 Champagne au Mont d'Or",
+    "code_postal_pj": "69410",
+    "ville_pj": "Champagne au Mont d'Or",
+    "telephone": "04 82 29 14 90",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Automobiles Saint Charles",
+    "adresse_pj": "Automobile A Lyon 11 rue St Vincent de Paul 69008 Lyon",
+    "code_postal_pj": "69008",
+    "ville_pj": "Lyon",
+    "telephone": "07 57 82 51 47",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Preview Motors",
+    "adresse_pj": "32 chemin Feyzin 69200 Vénissieux",
+    "code_postal_pj": "69200",
+    "ville_pj": "Vénissieux",
+    "telephone": "06 02 44 12 59",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Mercedes Benz Lyon CD Succursale",
+    "adresse_pj": "Zac Grandes Terres 530 rue Antoine Pinay 69740 Genas",
+    "code_postal_pj": "69740",
+    "ville_pj": "Genas",
+    "telephone": "04 72 47 36 00",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Glénan Concept Cars",
+    "adresse_pj": "185 avenue Franklin Roosevelt 69150 Décines Charpieu",
+    "code_postal_pj": "69150",
+    "ville_pj": "Décines Charpieu",
+    "telephone": "04 28 70 93 02",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "By My Car",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=61885888&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "1 boulevard Lucien Sampaix 69190 Saint Fons",
+    "code_postal_pj": "69190",
+    "ville_pj": "Saint Fons",
+    "telephone": "04 82 29 86 70",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "BonneAffaire Auto",
+    "adresse_pj": "8 rue Paul Lafargue 69100 Villeurbanne",
+    "code_postal_pj": "69100",
+    "ville_pj": "Villeurbanne",
+    "telephone": "06 75 33 90 42",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Del Auto Services",
+    "adresse_pj": "D Occasion A Bron 1 rue Laborde 69500 Bron",
+    "code_postal_pj": "69500",
+    "ville_pj": "Bron",
+    "telephone": "06 47 42 52 14",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Mondocar",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=55280186&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "1 avenue Jean Jaurès 69190 Saint Fons",
+    "code_postal_pj": "69190",
+    "ville_pj": "Saint Fons",
+    "telephone": "04 72 30 55 03",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Jeep Stellantis &You Venissieux",
+    "adresse_pj": "51 rue Roger Salengro 69200 Vénissieux",
+    "code_postal_pj": "69200",
+    "ville_pj": "Vénissieux",
+    "telephone": "04 78 77 17 17",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Fiat Pro Stellantis &You Venissieux",
+    "adresse_pj": "51 rue Roger Salengro 69200 Vénissieux",
+    "code_postal_pj": "69200",
+    "ville_pj": "Vénissieux",
+    "telephone": "04 20 92 50 37",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "BRIOCAR Lyon",
+    "adresse_pj": "3 rue Industrie 69200 Vénissieux",
+    "code_postal_pj": "69200",
+    "ville_pj": "Vénissieux",
+    "telephone": "02 57 19 00 62",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Garage marciano",
+    "adresse_pj": "67 rue Aristide Briand 69800 Saint Priest",
+    "code_postal_pj": "69800",
+    "ville_pj": "Saint Priest",
+    "telephone": "06 25 88 68 20",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Lyon Limousine",
+    "adresse_pj": "11 rue St Vincent de Paul 69008 Lyon",
+    "code_postal_pj": "69008",
+    "ville_pj": "Lyon",
+    "telephone": "06 21 68 67 63",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Peugeot Stellantis &You Lyon Carre de Soie",
+    "adresse_pj": "38-42 38 avenue Bohlen 69120 Vaulx en Velin",
+    "code_postal_pj": "69120",
+    "ville_pj": "Vaulx en Velin",
+    "telephone": "04 37 90 18 20",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Garage Verne",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00464329&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "20 rue Ambroise Paré 69330 Meyzieu",
+    "code_postal_pj": "69330",
+    "ville_pj": "Meyzieu",
+    "telephone": "04 78 49 07 42",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "CITROËN Garage du Mont Verdun Réparateur agréé",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=53984104&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "211 Le Promenoir 69380 Chasselay",
+    "code_postal_pj": "69380",
+    "ville_pj": "Chasselay",
+    "telephone": "04 78 47 62 23",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Badada Makuebo",
+    "adresse_pj": "29 rue Marietton 69009 Lyon",
+    "code_postal_pj": "69009",
+    "ville_pj": "Lyon",
+    "telephone": "09 52 38 85 10",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "MSA",
+    "adresse_pj": "320 avenue Berthelot 69371 LYON CEDEX 08",
+    "code_postal_pj": "69371",
+    "ville_pj": "LYON CEDEX 08",
+    "telephone": "04 81 10 96 93",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Beketi Mboba",
+    "adresse_pj": "11 avenue Joannès Masset 69009 Lyon",
+    "code_postal_pj": "69009",
+    "ville_pj": "Lyon",
+    "telephone": "04 26 63 33 30",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Louerune Auto",
+    "adresse_pj": "4 rue République 69001 Lyon",
+    "code_postal_pj": "69001",
+    "ville_pj": "Lyon",
+    "telephone": "09 80 80 14 14",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Garage De L'Aviation",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=04357870&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "118 avenue 8 Mai 1945 69960 Corbas",
+    "code_postal_pj": "69960",
+    "ville_pj": "Corbas",
+    "telephone": "04 72 50 20 02",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "AUDI OCCASION PLUS BYmyCAR Champagne au Mont-d'Or Concessionnaire",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=56809072&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "12 chemin Tronchon 69410 Champagne au Mont d'Or",
+    "code_postal_pj": "69410",
+    "ville_pj": "Champagne au Mont d'Or",
+    "telephone": "04 82 29 14 90",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Truckstore",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=09718907&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "zone d'aménagement concerté Les Grandes Terres 69740 Genas",
+    "code_postal_pj": "69740",
+    "ville_pj": "Genas",
+    "telephone": "04 72 47 37 10",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "ALPINE STORE LYON - RRG",
+    "adresse_pj": "364 route Vienne 69200 Vénissieux",
+    "code_postal_pj": "69200",
+    "ville_pj": "Vénissieux",
+    "telephone": "04 78 77 78 77",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Novella Automobiles Lyon Sud",
+    "adresse_pj": "365 route Vienne 69200 Vénissieux",
+    "code_postal_pj": "69200",
+    "ville_pj": "Vénissieux",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Ventes d'Occasion Perez",
+    "adresse_pj": "7 rue Roux Soignat 69003 Lyon",
+    "code_postal_pj": "69003",
+    "ville_pj": "Lyon",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "MSA",
+    "adresse_pj": "320 avenue Berthelot 69371 LYON CEDEX 08",
+    "code_postal_pj": "69371",
+    "ville_pj": "LYON CEDEX 08",
+    "telephone": "04 81 10 96 93",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "M'road Automobiles",
+    "adresse_pj": "92 rue Anatole France 69800 Saint Priest",
+    "code_postal_pj": "69800",
+    "ville_pj": "Saint Priest",
+    "telephone": "06 64 45 07 25",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Garage Monnier Frères",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00969825&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "105 avenue Frères Lumière 69730 Genay",
+    "code_postal_pj": "69730",
+    "ville_pj": "Genay",
+    "telephone": "04 78 91 61 10",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "LR.DRIVE",
+    "adresse_pj": "15 avenue Sidoine Apollinaire 69009 Lyon",
+    "code_postal_pj": "69009",
+    "ville_pj": "Lyon",
+    "telephone": "07 82 67 80 86",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "BYD Sérézin-du-Rhône - Groupe Chopard",
+    "adresse_pj": "Les Echos 12 chemin départemental 12 69360 Sérézin du Rhône",
+    "code_postal_pj": "69360",
+    "ville_pj": "Sérézin du Rhône",
+    "telephone": "04 72 72 07 00",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "LT Negoce",
+    "adresse_pj": "48 Bis avenue Grandclément 69120 Vaulx en Velin",
+    "code_postal_pj": "69120",
+    "ville_pj": "Vaulx en Velin",
+    "telephone": "04 37 57 46 76",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Preview Motors",
+    "adresse_pj": "32 chemin Feyzin 69200 Vénissieux",
+    "code_postal_pj": "69200",
+    "ville_pj": "Vénissieux",
+    "telephone": "06 02 44 12 59",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Automobiles Saint Charles",
+    "adresse_pj": "Automobile A Lyon 11 rue St Vincent de Paul 69008 Lyon",
+    "code_postal_pj": "69008",
+    "ville_pj": "Lyon",
+    "telephone": "07 57 82 51 47",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Laure Bichany",
+    "adresse_pj": "122 rue Boileau 69006 Lyon",
+    "code_postal_pj": "69006",
+    "ville_pj": "Lyon",
+    "telephone": "09 54 67 96 08",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "JC Automobiles",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=55810016&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "Zac Iles 244 rue Marie Paule Rive 69380 Marcilly d'Azergues",
+    "code_postal_pj": "69380",
+    "ville_pj": "Marcilly d'Azergues",
+    "telephone": "09 83 28 75 07",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Rev Auto Lyon",
+    "adresse_pj": "8 route Nationale 6 69570 Dardilly",
+    "code_postal_pj": "69570",
+    "ville_pj": "Dardilly",
+    "telephone": "04 72 38 58 72",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Garage Verne",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00464329&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "20 rue Ambroise Paré 69330 Meyzieu",
+    "code_postal_pj": "69330",
+    "ville_pj": "Meyzieu",
+    "telephone": "04 78 49 07 42",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Abarth Stellantis &You",
+    "adresse_pj": "81 rue Marietton 69009 Lyon",
+    "code_postal_pj": "69009",
+    "ville_pj": "Lyon",
+    "telephone": "04 37 50 25 90",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "BH Auto",
+    "adresse_pj": "127 route Grenoble 69800 Saint Priest",
+    "code_postal_pj": "69800",
+    "ville_pj": "Saint Priest",
+    "telephone": "06 43 97 66 15",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "SNB",
+    "adresse_pj": "1555 avenue Hippodrome 69140 Rillieux la Pape",
+    "code_postal_pj": "69140",
+    "ville_pj": "Rillieux la Pape",
+    "telephone": "04 82 29 07 13",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Josette Ba",
+    "adresse_pj": "bât Porte Du Soleil 120 boulevard Yves Farge 69007 Lyon",
+    "code_postal_pj": "69007",
+    "ville_pj": "Lyon",
+    "telephone": "04 78 72 04 89",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Lexus Lyon Nord by Autosphère Concessionnaire",
+    "adresse_pj": "6 chemin Anciennes Vignes 69410 Champagne au Mont d'Or",
+    "code_postal_pj": "69410",
+    "ville_pj": "Champagne au Mont d'Or",
+    "telephone": "04 72 52 91 91",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "ALPINE STORE LYON - RRG",
+    "adresse_pj": "364 route Vienne 69200 Vénissieux",
+    "code_postal_pj": "69200",
+    "ville_pj": "Vénissieux",
+    "telephone": "04 78 77 78 77",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Europetra",
+    "adresse_pj": "16 Bis rue Maurice Bouchor 69007 Lyon",
+    "code_postal_pj": "69007",
+    "ville_pj": "Lyon",
+    "telephone": "06 51 61 69 38",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Ventes d'Occasion Perez",
+    "adresse_pj": "7 rue Roux Soignat 69003 Lyon",
+    "code_postal_pj": "69003",
+    "ville_pj": "Lyon",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Concept Auto Lyon",
+    "adresse_pj": "143 avenue Franklin Roosevelt 69150 Décines Charpieu",
+    "code_postal_pj": "69150",
+    "ville_pj": "Décines Charpieu",
+    "telephone": "04 27 44 04 38",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Hunyvers",
+    "adresse_pj": "28 chemin Genas 69800 Saint Priest",
+    "code_postal_pj": "69800",
+    "ville_pj": "Saint Priest",
+    "telephone": "04 78 90 37 72",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "AM69200",
+    "adresse_pj": "25 rue Carnot 69200 Vénissieux",
+    "code_postal_pj": "69200",
+    "ville_pj": "Vénissieux",
+    "telephone": "09 54 47 88 94",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Lyon Seven Car",
+    "adresse_pj": "92 route Grenoble 69800 Saint Priest",
+    "code_postal_pj": "69800",
+    "ville_pj": "Saint Priest",
+    "telephone": "06 73 04 92 29",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Gauduel Lyon Nord",
+    "adresse_pj": "29 rue Etang 69760 Limonest",
+    "code_postal_pj": "69760",
+    "ville_pj": "Limonest",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Garage Beglaryan Sergey",
+    "adresse_pj": "93 route Pont Chabrol 69126 Brindas",
+    "code_postal_pj": "69126",
+    "ville_pj": "Brindas",
+    "telephone": "09 80 54 36 35",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "BR Auto",
+    "adresse_pj": "8 rue Rouget de Lisle 69200 Vénissieux",
+    "code_postal_pj": "69200",
+    "ville_pj": "Vénissieux",
+    "telephone": "04 87 38 07 71",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Occasion Rhône Automobile 7",
+    "adresse_pj": "C1et M7 53 avenue Carnot 69250 Neuville sur Saône",
+    "code_postal_pj": "69250",
+    "ville_pj": "Neuville sur Saône",
+    "telephone": "04 78 98 07 07",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Tayeb Mayou",
+    "adresse_pj": "4 rue Vladimir Komarov 69200 Vénissieux",
+    "code_postal_pj": "69200",
+    "ville_pj": "Vénissieux",
+    "telephone": "04 26 63 17 68",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Dacia Thivolle Concessionnaire",
+    "adresse_pj": "avenue Aqueduc de Beaunant 69110 Sainte Foy lès Lyon",
+    "code_postal_pj": "69110",
+    "ville_pj": "Sainte Foy lès Lyon",
+    "telephone": "04 72 39 76 76",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "By My Car",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=61885888&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "1 boulevard Lucien Sampaix 69190 Saint Fons",
+    "code_postal_pj": "69190",
+    "ville_pj": "Saint Fons",
+    "telephone": "04 82 29 86 70",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Cle de Voiture Lyon",
+    "adresse_pj": "82 rue Château Gaillard 69100 Villeurbanne",
+    "code_postal_pj": "69100",
+    "ville_pj": "Villeurbanne",
+    "telephone": "07 58 50 78 07",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "H C Auto-Negoce",
+    "adresse_pj": "123 route Genas 69120 Vaulx en Velin",
+    "code_postal_pj": "69120",
+    "ville_pj": "Vaulx en Velin",
+    "telephone": "04 78 06 50 40",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Lyon les lauriers",
+    "adresse_pj": "35 rue Joseph Chapelle 69008 Lyon",
+    "code_postal_pj": "69008",
+    "ville_pj": "Lyon",
+    "telephone": "09 81 83 38 08",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Deliah Cars",
+    "adresse_pj": "18 rue Albert Camus 69200 Vénissieux",
+    "code_postal_pj": "69200",
+    "ville_pj": "Vénissieux",
+    "telephone": "04 37 25 00 25",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Del Auto Services",
+    "adresse_pj": "D Occasion A Bron 1 rue Laborde 69500 Bron",
+    "code_postal_pj": "69500",
+    "ville_pj": "Bron",
+    "telephone": "06 47 42 52 14",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "GVA BYmyCar Lyon",
+    "adresse_pj": "10 rue Frères Louis et Emile Bertrand 69200 Vénissieux",
+    "code_postal_pj": "69200",
+    "ville_pj": "Vénissieux",
+    "telephone": "04 82 29 26 07",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "BonneAffaire Auto",
+    "adresse_pj": "8 rue Paul Lafargue 69100 Villeurbanne",
+    "code_postal_pj": "69100",
+    "ville_pj": "Villeurbanne",
+    "telephone": "06 75 33 90 42",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "BH Auto",
+    "adresse_pj": "127 route Grenoble 69800 Saint Priest",
+    "code_postal_pj": "69800",
+    "ville_pj": "Saint Priest",
+    "telephone": "06 43 97 66 15",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Garage de Verdun",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=04370982&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "261 avenue Verdun 69330 Meyzieu",
+    "code_postal_pj": "69330",
+    "ville_pj": "Meyzieu",
+    "telephone": "04 78 31 71 75",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Glénan Concept Cars",
+    "adresse_pj": "185 avenue Franklin Roosevelt 69150 Décines Charpieu",
+    "code_postal_pj": "69150",
+    "ville_pj": "Décines Charpieu",
+    "telephone": "04 28 70 93 02",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Drivite",
+    "adresse_pj": "12 rue Part Dieu 69003 Lyon",
+    "code_postal_pj": "69003",
+    "ville_pj": "Lyon",
+    "telephone": "04 11 66 56 11",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Tdl",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=57439537&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "62 Bis rue Lyon 69890 La Tour de Salvagny",
+    "code_postal_pj": "69890",
+    "ville_pj": "La Tour de Salvagny",
+    "telephone": "06 08 77 85 02",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Traian Covaci",
+    "adresse_pj": "175 cours Emile Zola 69100 Villeurbanne",
+    "code_postal_pj": "69100",
+    "ville_pj": "Villeurbanne",
+    "telephone": "06 47 49 25 59",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "ADECHOKAN BOUCHIRA",
+    "adresse_pj": "203 route Vienne 69008 Lyon",
+    "code_postal_pj": "69008",
+    "ville_pj": "Lyon",
+    "telephone": "04 87 77 97 48",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Car Star",
+    "adresse_pj": "90 rue Courpillière 69800 Saint Priest",
+    "code_postal_pj": "69800",
+    "ville_pj": "Saint Priest",
+    "telephone": "06 63 14 35 27",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "AVS PRESTIGE",
+    "adresse_pj": "71 rue Georges Bizet 69150 Décines Charpieu",
+    "code_postal_pj": "69150",
+    "ville_pj": "Décines Charpieu",
+    "telephone": "04 78 61 20 38",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Car-Mania",
+    "adresse_pj": "142 route Grenoble 69800 Saint Priest",
+    "code_postal_pj": "69800",
+    "ville_pj": "Saint Priest",
+    "telephone": "06 14 83 31 26",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "VP MOBILITE",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=63263860&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "3 rue Lilas 69290 Craponne",
+    "code_postal_pj": "69290",
+    "ville_pj": "Craponne",
+    "telephone": "04 78 07 40 66",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Saffet Akbulut",
+    "adresse_pj": "40 rue Guynemer 69500 Bron",
+    "code_postal_pj": "69500",
+    "ville_pj": "Bron",
+    "telephone": "04 78 41 49 35",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "My Exclusive Car",
+    "adresse_pj": "Zone Industrielle Braille 42 route Nationale 6 69380 Lissieu",
+    "code_postal_pj": "69380",
+    "ville_pj": "Lissieu",
+    "telephone": "06 09 85 40 05",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Rachid Tetah",
+    "adresse_pj": "9 rue 11 Novembre 1918 69320 Feyzin",
+    "code_postal_pj": "69320",
+    "ville_pj": "Feyzin",
+    "telephone": "04 72 50 37 79",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Naudé Automobiles Lozanne",
+    "adresse_pj": "75 rue Louis Arnal 69380 Lozanne",
+    "code_postal_pj": "69380",
+    "ville_pj": "Lozanne",
+    "telephone": "04 37 46 97 29",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Alban Prudent Automobiles",
+    "adresse_pj": "73 rue Aristide Briand 69800 Saint Priest",
+    "code_postal_pj": "69800",
+    "ville_pj": "Saint Priest",
+    "telephone": "07 83 95 84 47",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Pa Point Auto",
+    "adresse_pj": "12 Ter avenue Eugène Hénaff 69120 Vaulx en Velin",
+    "code_postal_pj": "69120",
+    "ville_pj": "Vaulx en Velin",
+    "telephone": "06 95 44 82 79",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Groupe Cantral Autos",
+    "adresse_pj": "3 allée Gay Lussac 69230 Saint Genis Laval",
+    "code_postal_pj": "69230",
+    "ville_pj": "Saint Genis Laval",
+    "telephone": "04 81 65 93 70",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Cle de Voiture Lyon",
+    "adresse_pj": "82 rue Château Gaillard 69100 Villeurbanne",
+    "code_postal_pj": "69100",
+    "ville_pj": "Villeurbanne",
+    "telephone": "07 58 50 78 07",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "S3 Auto",
+    "adresse_pj": "159 route Grenoble 69800 Saint Priest",
+    "code_postal_pj": "69800",
+    "ville_pj": "Saint Priest",
+    "telephone": "06 69 41 90 90",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Concept Auto Lyon",
+    "adresse_pj": "143 avenue Franklin Roosevelt 69150 Décines Charpieu",
+    "code_postal_pj": "69150",
+    "ville_pj": "Décines Charpieu",
+    "telephone": "04 27 44 04 38",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Ventes d'Occasion Perez",
+    "adresse_pj": "7 rue Roux Soignat 69003 Lyon",
+    "code_postal_pj": "69003",
+    "ville_pj": "Lyon",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Garage marciano",
+    "adresse_pj": "67 rue Aristide Briand 69800 Saint Priest",
+    "code_postal_pj": "69800",
+    "ville_pj": "Saint Priest",
+    "telephone": "06 25 88 68 20",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Rachid Tetah",
+    "adresse_pj": "9 rue 11 Novembre 1918 69320 Feyzin",
+    "code_postal_pj": "69320",
+    "ville_pj": "Feyzin",
+    "telephone": "04 72 50 37 79",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "BRIOCAR Lyon",
+    "adresse_pj": "3 rue Industrie 69200 Vénissieux",
+    "code_postal_pj": "69200",
+    "ville_pj": "Vénissieux",
+    "telephone": "02 57 19 00 62",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "SNB",
+    "adresse_pj": "1555 avenue Hippodrome 69140 Rillieux la Pape",
+    "code_postal_pj": "69140",
+    "ville_pj": "Rillieux la Pape",
+    "telephone": "04 82 29 07 13",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Garage Verne",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00464329&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "20 rue Ambroise Paré 69330 Meyzieu",
+    "code_postal_pj": "69330",
+    "ville_pj": "Meyzieu",
+    "telephone": "04 78 49 07 42",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Gauduel Lyon Nord",
+    "adresse_pj": "29 rue Etang 69760 Limonest",
+    "code_postal_pj": "69760",
+    "ville_pj": "Limonest",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Sarah Hamadou",
+    "adresse_pj": "63 avenue Jules Guesde 69200 Vénissieux",
+    "code_postal_pj": "69200",
+    "ville_pj": "Vénissieux",
+    "telephone": "07 68 11 80 30",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Leapmotor Stellantis &You",
+    "adresse_pj": "Le Perollier 5 chemin Jean Marie Vianney 69130 Ecully",
+    "code_postal_pj": "69130",
+    "ville_pj": "Ecully",
+    "telephone": "04 78 66 76 60",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Citroen PMS Autos Agree",
+    "adresse_pj": "790 avenue Burago di Molgora 69360 Saint Symphorien d'Ozon",
+    "code_postal_pj": "69360",
+    "ville_pj": "Saint Symphorien d'Ozon",
+    "telephone": "04 78 02 71 33",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Point S Groupe Chopard",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=63302082&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "12 route départementale 312 69360 Sérézin du Rhône",
+    "code_postal_pj": "69360",
+    "ville_pj": "Sérézin du Rhône",
+    "telephone": "04 72 70 70 70",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Khorsi SAMIR",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=58556291&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "25 rue Beethoven 69200 Vénissieux",
+    "code_postal_pj": "69200",
+    "ville_pj": "Vénissieux",
+    "telephone": "07 81 10 62 42",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Avl Auto",
+    "adresse_pj": "7 chemin Ecoliers 69320 Feyzin",
+    "code_postal_pj": "69320",
+    "ville_pj": "Feyzin",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Europetra",
+    "adresse_pj": "16 Bis rue Maurice Bouchor 69007 Lyon",
+    "code_postal_pj": "69007",
+    "ville_pj": "Lyon",
+    "telephone": "06 51 61 69 38",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Tayeb Mayou",
+    "adresse_pj": "4 rue Vladimir Komarov 69200 Vénissieux",
+    "code_postal_pj": "69200",
+    "ville_pj": "Vénissieux",
+    "telephone": "04 26 63 17 68",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Lyon les lauriers",
+    "adresse_pj": "35 rue Joseph Chapelle 69008 Lyon",
+    "code_postal_pj": "69008",
+    "ville_pj": "Lyon",
+    "telephone": "09 81 83 38 08",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "FG Cars",
+    "adresse_pj": "rue Lucie Guimet 69250 Neuville sur Saône",
+    "code_postal_pj": "69250",
+    "ville_pj": "Neuville sur Saône",
+    "telephone": "06 18 86 60 86",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "S.L.D.A.",
+    "adresse_pj": "3 allée Levant 69890 La Tour de Salvagny",
+    "code_postal_pj": "69890",
+    "ville_pj": "La Tour de Salvagny",
+    "telephone": "04 78 57 36 45",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Point S Groupe Chopard",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=63302082&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "12 route départementale 312 69360 Sérézin du Rhône",
+    "code_postal_pj": "69360",
+    "ville_pj": "Sérézin du Rhône",
+    "telephone": "04 72 70 70 70",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "F.C.N. Autos",
+    "adresse_pj": "39 rue Auguste Rodin 69150 Décines Charpieu",
+    "code_postal_pj": "69150",
+    "ville_pj": "Décines Charpieu",
+    "telephone": "04 78 49 56 35",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Auto yoel",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=64159411&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "32 rue Auguste Rodin 69150 Décines Charpieu",
+    "code_postal_pj": "69150",
+    "ville_pj": "Décines Charpieu",
+    "telephone": "06 21 13 37 02",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "2lconvoi",
+    "adresse_pj": "12 chemin Maurice Ferréol 69120 Vaulx en Velin",
+    "code_postal_pj": "69120",
+    "ville_pj": "Vaulx en Velin",
+    "telephone": "07 77 97 51 53",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "D'Ozon Automotive",
+    "adresse_pj": "16 avenue Robert Schumann 69360 Saint Symphorien d'Ozon",
+    "code_postal_pj": "69360",
+    "ville_pj": "Saint Symphorien d'Ozon",
+    "telephone": "07 77 77 27 69",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Aifa Taïeb",
+    "adresse_pj": "9 Ter rue Jules Vallès 69100 Villeurbanne",
+    "code_postal_pj": "69100",
+    "ville_pj": "Villeurbanne",
+    "telephone": "04 26 63 80 01",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Lyon Seven Car",
+    "adresse_pj": "92 route Grenoble 69800 Saint Priest",
+    "code_postal_pj": "69800",
+    "ville_pj": "Saint Priest",
+    "telephone": "06 73 04 92 29",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Chrono & Passion",
+    "adresse_pj": "6 rue Aulnes 69410 Champagne au Mont d'Or",
+    "code_postal_pj": "69410",
+    "ville_pj": "Champagne au Mont d'Or",
+    "telephone": "06 09 84 99 73",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Kallite",
+    "adresse_pj": "26 rue Paul et Marc Barbezat 69150 Décines Charpieu",
+    "code_postal_pj": "69150",
+    "ville_pj": "Décines Charpieu",
+    "telephone": "07 53 64 60 11",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "S.L.D.A.",
+    "adresse_pj": "3 allée Levant 69890 La Tour de Salvagny",
+    "code_postal_pj": "69890",
+    "ville_pj": "La Tour de Salvagny",
+    "telephone": "04 78 57 36 45",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "ENERDIS",
+    "adresse_pj": "3 rue Alexandre Dumas 69140 Rillieux la Pape",
+    "code_postal_pj": "69140",
+    "ville_pj": "Rillieux la Pape",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Sis auto",
+    "adresse_pj": "37 route Genas 69120 Vaulx en Velin",
+    "code_postal_pj": "69120",
+    "ville_pj": "Vaulx en Velin",
+    "telephone": "09 83 81 03 15",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Saada Rachedi",
+    "adresse_pj": "1 rue Paul Villard 69680 Chassieu",
+    "code_postal_pj": "69680",
+    "ville_pj": "Chassieu",
+    "telephone": "09 86 59 02 37",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Citroen PMS Autos Agree",
+    "adresse_pj": "790 avenue Burago di Molgora 69360 Saint Symphorien d'Ozon",
+    "code_postal_pj": "69360",
+    "ville_pj": "Saint Symphorien d'Ozon",
+    "telephone": "04 78 02 71 33",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Auto Elite",
+    "adresse_pj": "92 route Grenoble 69800 Saint Priest",
+    "code_postal_pj": "69800",
+    "ville_pj": "Saint Priest",
+    "telephone": "07 83 80 27 60",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Access'Autos",
+    "adresse_pj": "3 avenue Karl Marx 69120 Vaulx en Velin",
+    "code_postal_pj": "69120",
+    "ville_pj": "Vaulx en Velin",
+    "telephone": "09 73 11 90 11",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Central Autos Holding",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=62255021&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "49 Bis boulevard Lucien Sampaix 69190 Saint Fons",
+    "code_postal_pj": "69190",
+    "ville_pj": "Saint Fons",
+    "telephone": "04 72 28 97 00",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Arraha",
+    "adresse_pj": "9 rue Francfort 69140 Rillieux la Pape",
+    "code_postal_pj": "69140",
+    "ville_pj": "Rillieux la Pape",
+    "telephone": "04 27 11 18 69",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Trade Trucks Export",
+    "adresse_pj": "87 rue Raspail 69150 Décines Charpieu",
+    "code_postal_pj": "69150",
+    "ville_pj": "Décines Charpieu",
+    "telephone": "04 78 00 51 68",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "BC REMARKETING",
+    "adresse_pj": "6 avenue Industrie 69960 Corbas",
+    "code_postal_pj": "69960",
+    "ville_pj": "Corbas",
+    "telephone": "04 72 14 50 50",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Arthur Vlasyan",
+    "adresse_pj": "8 Bis rue Capit Ferber 69300 Caluire et Cuire",
+    "code_postal_pj": "69300",
+    "ville_pj": "Caluire et Cuire",
+    "telephone": "09 80 96 30 20",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "AMB PASSION",
+    "adresse_pj": "22 zone industrielle Porte du Grand Lyon 01700 Neyron",
+    "code_postal_pj": "01700",
+    "ville_pj": "Neyron",
+    "telephone": "06 25 71 62 28",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "E.K Motors Lyon",
+    "adresse_pj": "rue Louis Aulagne 69600 Oullins",
+    "code_postal_pj": "69600",
+    "ville_pj": "Oullins",
+    "telephone": "07 66 74 73 08",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Jean-Marie Nanja",
+    "adresse_pj": "22 rue Carnot 69190 Saint Fons",
+    "code_postal_pj": "69190",
+    "ville_pj": "Saint Fons",
+    "telephone": "04 27 89 38 75",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Rapid cars",
+    "adresse_pj": "9 rue Léon Blum 69320 Feyzin",
+    "code_postal_pj": "69320",
+    "ville_pj": "Feyzin",
+    "telephone": "06 50 01 18 22",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Car-Mania",
+    "adresse_pj": "142 route Grenoble 69800 Saint Priest",
+    "code_postal_pj": "69800",
+    "ville_pj": "Saint Priest",
+    "telephone": "06 14 83 31 26",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "BC REMARKETING",
+    "adresse_pj": "6 avenue Industrie 69960 Corbas",
+    "code_postal_pj": "69960",
+    "ville_pj": "Corbas",
+    "telephone": "04 72 14 50 50",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Garage Beglaryan Sergey",
+    "adresse_pj": "93 route Pont Chabrol 69126 Brindas",
+    "code_postal_pj": "69126",
+    "ville_pj": "Brindas",
+    "telephone": "09 80 54 36 35",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Kallite",
+    "adresse_pj": "26 rue Paul et Marc Barbezat 69150 Décines Charpieu",
+    "code_postal_pj": "69150",
+    "ville_pj": "Décines Charpieu",
+    "telephone": "07 53 64 60 11",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "RB Motor's",
+    "adresse_pj": "29 avenue Pablo Picasso 69120 Vaulx en Velin",
+    "code_postal_pj": "69120",
+    "ville_pj": "Vaulx en Velin",
+    "telephone": "07 67 38 76 13",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Select Car",
+    "adresse_pj": "Zac Des Iles zone d'aménagement concerté Iles 69380 Marcilly d'Azergues",
+    "code_postal_pj": "69380",
+    "ville_pj": "Marcilly d'Azergues",
+    "telephone": "06 76 31 84 89",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Alex Autopro",
+    "adresse_pj": "384 avenue Charles de Gaulle 69200 Vénissieux",
+    "code_postal_pj": "69200",
+    "ville_pj": "Vénissieux",
+    "telephone": "06 70 68 03 55",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Sis auto",
+    "adresse_pj": "37 route Genas 69120 Vaulx en Velin",
+    "code_postal_pj": "69120",
+    "ville_pj": "Vaulx en Velin",
+    "telephone": "09 83 81 03 15",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Access'Autos",
+    "adresse_pj": "3 avenue Karl Marx 69120 Vaulx en Velin",
+    "code_postal_pj": "69120",
+    "ville_pj": "Vaulx en Velin",
+    "telephone": "09 73 11 90 11",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "2lconvoi",
+    "adresse_pj": "12 chemin Maurice Ferréol 69120 Vaulx en Velin",
+    "code_postal_pj": "69120",
+    "ville_pj": "Vaulx en Velin",
+    "telephone": "07 77 97 51 53",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Renault Garage des Pierres Agent",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=04355649&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "CD 12 E ccal Les Pierres route Neuve 69360 Ternay",
+    "code_postal_pj": "69360",
+    "ville_pj": "Ternay",
+    "telephone": "04 72 24 77 02",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Mohamed Bouzid",
+    "adresse_pj": "3 rue Guy de Maupassant 69800 Saint Priest",
+    "code_postal_pj": "69800",
+    "ville_pj": "Saint Priest",
+    "telephone": "09 50 78 44 69",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Tdl",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=57439537&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "62 Bis rue Lyon 69890 La Tour de Salvagny",
+    "code_postal_pj": "69890",
+    "ville_pj": "La Tour de Salvagny",
+    "telephone": "06 08 77 85 02",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Auto Elite",
+    "adresse_pj": "92 route Grenoble 69800 Saint Priest",
+    "code_postal_pj": "69800",
+    "ville_pj": "Saint Priest",
+    "telephone": "07 83 80 27 60",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "S.L.D.A.",
+    "adresse_pj": "3 allée Levant 69890 La Tour de Salvagny",
+    "code_postal_pj": "69890",
+    "ville_pj": "La Tour de Salvagny",
+    "telephone": "04 78 57 36 45",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Kallite",
+    "adresse_pj": "26 rue Paul et Marc Barbezat 69150 Décines Charpieu",
+    "code_postal_pj": "69150",
+    "ville_pj": "Décines Charpieu",
+    "telephone": "07 53 64 60 11",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Auto Select",
+    "adresse_pj": "386 avenue Charles de Gaulle 69200 Vénissieux",
+    "code_postal_pj": "69200",
+    "ville_pj": "Vénissieux",
+    "telephone": "06 15 98 26 92",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Pa Point Auto",
+    "adresse_pj": "12 Ter avenue Eugène Hénaff 69120 Vaulx en Velin",
+    "code_postal_pj": "69120",
+    "ville_pj": "Vaulx en Velin",
+    "telephone": "06 95 44 82 79",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Ahmed Louhichi",
+    "adresse_pj": "27 rue Garibaldi 69800 Saint Priest",
+    "code_postal_pj": "69800",
+    "ville_pj": "Saint Priest",
+    "telephone": "04 69 60 02 43",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Trade Trucks Export",
+    "adresse_pj": "87 rue Raspail 69150 Décines Charpieu",
+    "code_postal_pj": "69150",
+    "ville_pj": "Décines Charpieu",
+    "telephone": "04 78 00 51 68",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Rhône Inter-Transit",
+    "adresse_pj": "370 route Genas 69500 Bron",
+    "code_postal_pj": "69500",
+    "ville_pj": "Bron",
+    "telephone": "06 62 88 34 89",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "ENERDIS",
+    "adresse_pj": "3 rue Alexandre Dumas 69140 Rillieux la Pape",
+    "code_postal_pj": "69140",
+    "ville_pj": "Rillieux la Pape",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "James Auto",
+    "adresse_pj": "90 route Grenoble 69800 Saint Priest",
+    "code_postal_pj": "69800",
+    "ville_pj": "Saint Priest",
+    "telephone": "04 87 62 58 28",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Agency Motors Lyon Ouest",
+    "adresse_pj": "5 rue Marius Berliet 69380 Chazay d'Azergues",
+    "code_postal_pj": "69380",
+    "ville_pj": "Chazay d'Azergues",
+    "telephone": "04 78 40 97 57",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "HATTAB ABDELHAMID FATIHA AUTOMOBILES",
+    "adresse_pj": "52 avenue Gén Leclerc 69300 Caluire et Cuire",
+    "code_postal_pj": "69300",
+    "ville_pj": "Caluire et Cuire",
+    "telephone": "06 67 53 65 15",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "M.A AUTO LOCATION M.A AUTO LOCATION",
+    "adresse_pj": "Bat 2 97 allée Alexandre Borodine 69800 Saint Priest",
+    "code_postal_pj": "69800",
+    "ville_pj": "Saint Priest",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "E.K Motors Lyon",
+    "adresse_pj": "rue Louis Aulagne 69600 Oullins",
+    "code_postal_pj": "69600",
+    "ville_pj": "Oullins",
+    "telephone": "07 66 74 73 08",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Alex Autopro",
+    "adresse_pj": "384 avenue Charles de Gaulle 69200 Vénissieux",
+    "code_postal_pj": "69200",
+    "ville_pj": "Vénissieux",
+    "telephone": "06 70 68 03 55",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Green Motors Auto",
+    "adresse_pj": "9 rue Progrès 69800 Saint Priest",
+    "code_postal_pj": "69800",
+    "ville_pj": "Saint Priest",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Sis auto",
+    "adresse_pj": "37 route Genas 69120 Vaulx en Velin",
+    "code_postal_pj": "69120",
+    "ville_pj": "Vaulx en Velin",
+    "telephone": "09 83 81 03 15",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "7eme Autos Lyon",
+    "adresse_pj": "11 rue Paul Bert 69190 Saint Fons",
+    "code_postal_pj": "69190",
+    "ville_pj": "Saint Fons",
+    "telephone": "06 35 73 81 80",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Origin Occasion",
+    "adresse_pj": "145 route Grenoble 69800 Saint Priest",
+    "code_postal_pj": "69800",
+    "ville_pj": "Saint Priest",
+    "telephone": "04 69 00 17 73",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Central Autos Holding",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=62255021&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "49 Bis boulevard Lucien Sampaix 69190 Saint Fons",
+    "code_postal_pj": "69190",
+    "ville_pj": "Saint Fons",
+    "telephone": "04 72 28 97 00",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Lyon Seven Car",
+    "adresse_pj": "151 route Grenoble 69800 Saint Priest",
+    "code_postal_pj": "69800",
+    "ville_pj": "Saint Priest",
+    "telephone": "09 72 66 91 06",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Vedrines Automobiles",
+    "adresse_pj": "7 chemin Vie Guerse 69680 Chassieu",
+    "code_postal_pj": "69680",
+    "ville_pj": "Chassieu",
+    "telephone": "04 78 26 42 23",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "RENAULT GARAGE BACONNIER",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00322843&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "bât Garage Baconnier 1078 route Lyon 01600 Reyrieux",
+    "code_postal_pj": "01600",
+    "ville_pj": "Reyrieux",
+    "telephone": "04 74 00 02 05",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Jolie Beau Tonda",
+    "adresse_pj": "81 rue Charton 69600 Oullins",
+    "code_postal_pj": "69600",
+    "ville_pj": "Oullins",
+    "telephone": "06 66 46 25 76",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "2lconvoi",
+    "adresse_pj": "12 chemin Maurice Ferréol 69120 Vaulx en Velin",
+    "code_postal_pj": "69120",
+    "ville_pj": "Vaulx en Velin",
+    "telephone": "07 77 97 51 53",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "AUTO SERVICE 69",
+    "adresse_pj": "25 montée Forts 69300 Caluire et Cuire",
+    "code_postal_pj": "69300",
+    "ville_pj": "Caluire et Cuire",
+    "telephone": "06 26 90 53 53",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Ewigo",
+    "adresse_pj": "22 route Lyon 69530 Brignais",
+    "code_postal_pj": "69530",
+    "ville_pj": "Brignais",
+    "telephone": "04 22 97 12 60",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Lyon Seven Car",
+    "adresse_pj": "151 route Grenoble 69800 Saint Priest",
+    "code_postal_pj": "69800",
+    "ville_pj": "Saint Priest",
+    "telephone": "09 72 66 91 06",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "TOP AUTO SERVICES",
+    "adresse_pj": "30 rue Egalité 69330 Meyzieu",
+    "code_postal_pj": "69330",
+    "ville_pj": "Meyzieu",
+    "telephone": "07 60 36 13 47",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Sis auto",
+    "adresse_pj": "37 route Genas 69120 Vaulx en Velin",
+    "code_postal_pj": "69120",
+    "ville_pj": "Vaulx en Velin",
+    "telephone": "09 83 81 03 15",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Loc.RD Cars",
+    "adresse_pj": "1 allée Peupliers 69310 Pierre Bénite",
+    "code_postal_pj": "69310",
+    "ville_pj": "Pierre Bénite",
+    "telephone": "06 13 71 70 76",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Vedrines Automobiles",
+    "adresse_pj": "7 chemin Vie Guerse 69680 Chassieu",
+    "code_postal_pj": "69680",
+    "ville_pj": "Chassieu",
+    "telephone": "04 78 26 42 23",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Mohamed Bouzid",
+    "adresse_pj": "3 rue Guy de Maupassant 69800 Saint Priest",
+    "code_postal_pj": "69800",
+    "ville_pj": "Saint Priest",
+    "telephone": "09 50 78 44 69",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Central Autos Holding",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=62255021&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "49 Bis boulevard Lucien Sampaix 69190 Saint Fons",
+    "code_postal_pj": "69190",
+    "ville_pj": "Saint Fons",
+    "telephone": "04 72 28 97 00",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Sl",
+    "adresse_pj": "300 route Nationale 6 69760 Limonest",
+    "code_postal_pj": "69760",
+    "ville_pj": "Limonest",
+    "telephone": "07 81 54 64 29",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Access'Autos",
+    "adresse_pj": "3 avenue Karl Marx 69120 Vaulx en Velin",
+    "code_postal_pj": "69120",
+    "ville_pj": "Vaulx en Velin",
+    "telephone": "09 73 11 90 11",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Reflex auto",
+    "adresse_pj": "297 route Genas 69100 Villeurbanne",
+    "code_postal_pj": "69100",
+    "ville_pj": "Villeurbanne",
+    "telephone": "06 14 78 55 12",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Amar Laib",
+    "adresse_pj": "44 rue François Guillard 69120 Vaulx en Velin",
+    "code_postal_pj": "69120",
+    "ville_pj": "Vaulx en Velin",
+    "telephone": "06 20 77 52 27",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Vh Automobiles",
+    "adresse_pj": "2 chemin Courriers 69380 Lissieu",
+    "code_postal_pj": "69380",
+    "ville_pj": "Lissieu",
+    "telephone": "06 07 32 72 52",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "E.K Motors Lyon",
+    "adresse_pj": "rue Louis Aulagne 69600 Oullins",
+    "code_postal_pj": "69600",
+    "ville_pj": "Oullins",
+    "telephone": "07 66 74 73 08",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Peugeot Citroën La Boisse",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=02765174&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "521 route Nationale 01120 La Boisse",
+    "code_postal_pj": "01120",
+    "ville_pj": "La Boisse",
+    "telephone": "04 72 25 10 03",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "D'Ozon Automotive",
+    "adresse_pj": "16 avenue Robert Schumann 69360 Saint Symphorien d'Ozon",
+    "code_postal_pj": "69360",
+    "ville_pj": "Saint Symphorien d'Ozon",
+    "telephone": "07 77 77 27 69",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "GARAGE DES 4 CHEMINS - PEUGEOT",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=12347028&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "588 route Balan 01120 Dagneux",
+    "code_postal_pj": "01120",
+    "ville_pj": "Dagneux",
+    "telephone": "0397900004",
+    "site_web": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x47f4b6e0389cf6bb:0xaefc20226a24f3fb?sa=X&ved=1t:8290&ictx=111",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "SOCIETE D'ASSISTANCE TOURING-SECOURS SATS",
+    "adresse_pj": "1760 route Trévoux 69730 Genay",
+    "code_postal_pj": "69730",
+    "ville_pj": "Genay",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "HATTAB ABDELHAMID FATIHA AUTOMOBILES",
+    "adresse_pj": "52 avenue Gén Leclerc 69300 Caluire et Cuire",
+    "code_postal_pj": "69300",
+    "ville_pj": "Caluire et Cuire",
+    "telephone": "06 67 53 65 15",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Rifat Ciftci",
+    "adresse_pj": "9 rue Jules Védrines 69500 Bron",
+    "code_postal_pj": "69500",
+    "ville_pj": "Bron",
+    "telephone": "09 54 43 69 78",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Garage Pozet",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=09063089&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "215 route Lyon 01600 Trévoux",
+    "code_postal_pj": "01600",
+    "ville_pj": "Trévoux",
+    "telephone": "04 74 00 46 09",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "American Car City ACC",
+    "adresse_pj": "1 chemin Voyageurs 69360 Sérézin du Rhône",
+    "code_postal_pj": "69360",
+    "ville_pj": "Sérézin du Rhône",
+    "telephone": "04 72 70 88 88",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Gilbert Rivat",
+    "adresse_pj": "25 avenue Gén Brosset 69390 Vourles",
+    "code_postal_pj": "69390",
+    "ville_pj": "Vourles",
+    "telephone": "04 78 05 42 15",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "AD Carrosserie & Garage Ad Expert JP Auto Loisirs",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00732234&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "2 rue Genêts 01600 Reyrieux",
+    "code_postal_pj": "01600",
+    "ville_pj": "Reyrieux",
+    "telephone": "04 74 00 52 93",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Lyon Seven Car",
+    "adresse_pj": "151 route Grenoble 69800 Saint Priest",
+    "code_postal_pj": "69800",
+    "ville_pj": "Saint Priest",
+    "telephone": "09 72 66 91 06",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Temsys",
+    "adresse_pj": "145 route Grenoble 69800 Saint Priest",
+    "code_postal_pj": "69800",
+    "ville_pj": "Saint Priest",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "T.L.A Pallard",
+    "adresse_pj": "9 rue Calmette 69740 Genas",
+    "code_postal_pj": "69740",
+    "ville_pj": "Genas",
+    "telephone": "06 68 40 48 20",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Jacquemond",
+    "adresse_pj": "chemin Fonderie 69530 Brignais",
+    "code_postal_pj": "69530",
+    "ville_pj": "Brignais",
+    "telephone": "06 07 72 30 85",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Mass Trucks",
+    "adresse_pj": "22 rue Ambroise Paré 69800 Saint Priest",
+    "code_postal_pj": "69800",
+    "ville_pj": "Saint Priest",
+    "telephone": "09 67 37 82 86",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Atlas Auto",
+    "adresse_pj": "24 route Limonest 69380 Chasselay",
+    "code_postal_pj": "69380",
+    "ville_pj": "Chasselay",
+    "telephone": "06 52 22 58 93",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Garage Morretton Christian",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=51043951&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "5 route Ternay 69360 Communay",
+    "code_postal_pj": "69360",
+    "ville_pj": "Communay",
+    "telephone": "04 72 24 65 50",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Ankidine Ahmed",
+    "adresse_pj": "107 place Henri Barbusse 69800 Saint Priest",
+    "code_postal_pj": "69800",
+    "ville_pj": "Saint Priest",
+    "telephone": "04 51 24 72 65",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Toyota Montluel Groupe Autosphere",
+    "adresse_pj": "1247 rue Chartinieres 01120 Dagneux",
+    "code_postal_pj": "01120",
+    "ville_pj": "Dagneux",
+    "telephone": "0810300000",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "MDG AUTOS",
+    "adresse_pj": "6 rue Perrières 69380 Chazay d'Azergues",
+    "code_postal_pj": "69380",
+    "ville_pj": "Chazay d'Azergues",
+    "telephone": "06 29 98 70 67",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Peugeot Givors - Groupe Chopard",
+    "adresse_pj": "Village Automobile 3 avenue Georges Charpak 69700 Givors",
+    "code_postal_pj": "69700",
+    "ville_pj": "Givors",
+    "telephone": "04 78 07 44 10",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "AMG Sport Garage",
+    "adresse_pj": "55 avenue Jean Moulin 69520 Grigny",
+    "code_postal_pj": "69520",
+    "ville_pj": "Grigny",
+    "telephone": "06 50 17 42 80",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Bkr Auto",
+    "adresse_pj": "4 avenue Pays Bas 69330 Meyzieu",
+    "code_postal_pj": "69330",
+    "ville_pj": "Meyzieu",
+    "telephone": "06 05 71 37 79",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Station Bp",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=55878395&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "ccal les Pierres CD 12 E route Neuve 69360 Ternay",
+    "code_postal_pj": "69360",
+    "ville_pj": "Ternay",
+    "telephone": "04 72 24 77 02",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "T.L.A Pallard",
+    "adresse_pj": "9 rue Calmette 69740 Genas",
+    "code_postal_pj": "69740",
+    "ville_pj": "Genas",
+    "telephone": "06 68 40 48 20",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Givors Automobiles",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00466707&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "Renault Givors Auto 2 avenue Georges Charpak 69700 Givors",
+    "code_postal_pj": "69700",
+    "ville_pj": "Givors",
+    "telephone": "04 78 73 87 38",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Mg Loisirs",
+    "adresse_pj": "7 rue Neuve 69330 Jonage",
+    "code_postal_pj": "69330",
+    "ville_pj": "Jonage",
+    "telephone": "06 16 78 33 45",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Toyota Givors - Groupe Autosphere",
+    "adresse_pj": "7 avenue Georges Charpak 69700 Givors",
+    "code_postal_pj": "69700",
+    "ville_pj": "Givors",
+    "telephone": "04 72 24 24 00",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Garage Morais",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=02766585&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "Zone Industrielle De Feta 765 allée Filiéristes 01600 Trévoux",
+    "code_postal_pj": "01600",
+    "ville_pj": "Trévoux",
+    "telephone": "04 74 00 35 88",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "DAGNEUX OCCASION",
+    "adresse_pj": "1331 avenue Prés Seigneurs 01120 Dagneux",
+    "code_postal_pj": "01120",
+    "ville_pj": "Dagneux",
+    "telephone": "04 27 02 43 90",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Opel Atlantic Automobiles Concessionnaire",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00466681&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "1 avenue Georges Charpak 69700 Givors",
+    "code_postal_pj": "69700",
+    "ville_pj": "Givors",
+    "telephone": "04 78 73 13 07",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Garage Rongeat",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00803399&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "633 rue Villefranche 69480 Anse",
+    "code_postal_pj": "69480",
+    "ville_pj": "Anse",
+    "telephone": "04 74 67 03 35",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Chantelot",
+    "adresse_pj": "11 avenue Chantelot 69520 Grigny",
+    "code_postal_pj": "69520",
+    "ville_pj": "Grigny",
+    "telephone": "04 78 05 40 78",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Carrosserie Des Chasseres",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=53648461&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "chemin Goules 38670 Chasse sur Rhône",
+    "code_postal_pj": "38670",
+    "ville_pj": "Chasse sur Rhône",
+    "telephone": "04 69 67 68 90",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Mkr Autos",
+    "adresse_pj": "183 chemin Bief 69480 Lucenay",
+    "code_postal_pj": "69480",
+    "ville_pj": "Lucenay",
+    "telephone": "04 74 67 15 04",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Garage Ts Auto",
+    "adresse_pj": "10 Les Bruyères 01600 Sainte Euphémie",
+    "code_postal_pj": "01600",
+    "ville_pj": "Sainte Euphémie",
+    "telephone": "06 68 40 23 15",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "SM Cars69",
+    "adresse_pj": "Za Champ Du Roy 219 chemin Goules 38670 Chasse sur Rhône",
+    "code_postal_pj": "38670",
+    "ville_pj": "Chasse sur Rhône",
+    "telephone": "07 76 58 70 57",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Ideal Cars",
+    "adresse_pj": "272 route Beaucaire 69700 Loire sur Rhône",
+    "code_postal_pj": "69700",
+    "ville_pj": "Loire sur Rhône",
+    "telephone": "04 78 44 89 57",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Ney Motors",
+    "adresse_pj": "24 chemin Moines 01120 Montluel",
+    "code_postal_pj": "01120",
+    "ville_pj": "Montluel",
+    "telephone": "06 34 37 78 99",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "A.F.S",
+    "adresse_pj": "35 avenue Champlevert 69520 Grigny",
+    "code_postal_pj": "69520",
+    "ville_pj": "Grigny",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Lyon Autos Expo",
+    "adresse_pj": "560 avenue Lossburg 69480 Anse",
+    "code_postal_pj": "69480",
+    "ville_pj": "Anse",
+    "telephone": "04 74 67 56 27",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Ilyes Ben Anamari",
+    "adresse_pj": "7 rue Anne Frank 69700 Givors",
+    "code_postal_pj": "69700",
+    "ville_pj": "Givors",
+    "telephone": "09 84 00 88 35",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Auto Deals 69",
+    "adresse_pj": "50 rue Vivaldi 38670 Chasse sur Rhône",
+    "code_postal_pj": "38670",
+    "ville_pj": "Chasse sur Rhône",
+    "telephone": "06 50 31 27 42",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "LOIRE AUTOS - AGENT RENAULT",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=06507330&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "1239 route Beaucaire 69700 Loire sur Rhône",
+    "code_postal_pj": "69700",
+    "ville_pj": "Loire sur Rhône",
+    "telephone": "04 72 24 33 94",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Auto Conseil Location",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=55329194&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "1790 rue Villefranche 69480 Anse",
+    "code_postal_pj": "69480",
+    "ville_pj": "Anse",
+    "telephone": "04 74 02 11 64",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "LOCA BEN",
+    "adresse_pj": "415 chemin Renard 01600 Saint Didier de Formans",
+    "code_postal_pj": "01600",
+    "ville_pj": "Saint Didier de Formans",
+    "telephone": "06 64 51 00 48",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Peugeot Gonçalves Automobiles",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=58678056&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "1293 route Beaucaire 69700 Loire sur Rhône",
+    "code_postal_pj": "69700",
+    "ville_pj": "Loire sur Rhône",
+    "telephone": "04 78 73 29 08",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Sf Autos",
+    "adresse_pj": "210 rue Arenes 01120 Dagneux",
+    "code_postal_pj": "01120",
+    "ville_pj": "Dagneux",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Garage Lecat Et Fils",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00708101&code_localite=Z06912300&code_rubrique=061240",
+    "adresse_pj": "18 rue Anatole France 71200 Le Creusot",
+    "code_postal_pj": "71200",
+    "ville_pj": "Le Creusot",
+    "telephone": "03 85 77 45 95",
+    "search_category": "concession automobile"
   }
 ]
