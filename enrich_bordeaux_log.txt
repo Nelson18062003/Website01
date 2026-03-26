@@ -55,4 +55,5 @@ Fichier charge: 727 entreprises
 [50/727] JEREMI JEAN (JEAN JEREMI) (SIREN: 533970224)... rien trouve
   [Progression sauvegardee: 50/727]
 [51/727] CAP 33 AUTOMOBILE (SIREN: 411517477)... tel=05 56 04 25 63 | web=https://www.allbiz.fr/centre-glass-auto-cap-automo
-[52/727] DAMIEN CASTAGNERA (ALLORAYURES.COM) (SIREN: 493282230)... 
+[52/727] DAMIEN CASTAGNERA (ALLORAYURES.COM) (SIREN: 493282230)... rien trouve
+[53/727] JALEL JELASSI (SIREN: 100292929)... 
