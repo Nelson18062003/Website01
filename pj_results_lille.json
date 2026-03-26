@@ -1,479 +1,687 @@
 [
   {
-    "nom_pj": "Garage Burgana Peugeot-Citroën Concessionnaire",
-    "adresse_pj": "48 avenue République 33380 Mios",
-    "code_postal_pj": "33380",
-    "ville_pj": "Mios",
-    "telephone": "05 57 17 02 12",
-    "search_category": "garage automobile"
-  },
-  {
-    "nom_pj": "Bull Car Auto",
-    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=62329871&code_localite=L03324650&code_rubrique=061240",
-    "adresse_pj": "2 allée Caussat 33380 Mios",
-    "code_postal_pj": "33380",
-    "ville_pj": "Mios",
-    "telephone": "06 10 57 18 28",
-    "search_category": "garage automobile"
-  },
-  {
-    "nom_pj": "CARGLASS Pare-Brise Biganos",
-    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=53987040&code_localite=L03324650&code_rubrique=388310",
-    "adresse_pj": "196 avenue Côte d'Argent 33380 Biganos",
-    "code_postal_pj": "33380",
-    "ville_pj": "Biganos",
+    "nom_pj": "CARGLASS Pare-Brise Roubaix",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=06174095&code_localite=Z05935000&code_rubrique=388310",
+    "adresse_pj": "83 boulevard Gambetta 59100 Roubaix",
+    "code_postal_pj": "59100",
+    "ville_pj": "Roubaix",
     "telephone": "09 77 40 19 20",
-    "search_category": "garage automobile"
+    "search_category": "garages-automobiles"
   },
   {
-    "nom_pj": "Renault Dacia Cote d'Argent Concessionnaire",
-    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=09112887&code_localite=L03324650&code_rubrique=061240",
-    "adresse_pj": "32 rue Fonderies 33380 Biganos",
-    "code_postal_pj": "33380",
-    "ville_pj": "Biganos",
-    "telephone": "05 57 17 17 17",
-    "search_category": "garage automobile"
+    "nom_pj": "Garage Tourbier",
+    "adresse_pj": "210 rue Bourreliers 59320 Hallennes lez Haubourdin",
+    "code_postal_pj": "59320",
+    "ville_pj": "Hallennes lez Haubourdin",
+    "telephone": "03 20 07 38 56",
+    "search_category": "garages-automobiles"
   },
   {
-    "nom_pj": "LEYR'AUTOS",
-    "adresse_pj": "59 avenue République 33380 Mios",
-    "code_postal_pj": "33380",
-    "ville_pj": "Mios",
-    "telephone": "05 64 31 16 00",
-    "search_category": "garage automobile"
+    "nom_pj": "Aramisauto Lille",
+    "adresse_pj": "7 rue Rouge Bouton 59113 Seclin",
+    "code_postal_pj": "59113",
+    "ville_pj": "Seclin",
+    "telephone": "03 66 33 06 70",
+    "site_web": "https://www.aramisauto.com/contact/prise-rdv",
+    "search_category": "garages-automobiles"
   },
   {
-    "nom_pj": "Carrosserie Biganos",
-    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=08242760&code_localite=L03324650&code_rubrique=388310",
-    "adresse_pj": "528 rue Gustave Eiffel 33380 Biganos",
-    "code_postal_pj": "33380",
-    "ville_pj": "Biganos",
-    "telephone": "05 56 82 70 05",
-    "search_category": "garage automobile"
-  },
-  {
-    "nom_pj": "CONTROLE BIGANOS AUTO",
-    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=56453951&code_localite=L03324650&code_rubrique=388310",
-    "adresse_pj": "bât 7c 164 avenue Côte d'Argent 33380 Biganos",
-    "code_postal_pj": "33380",
-    "ville_pj": "Biganos",
-    "telephone": "05 57 17 37 35",
-    "search_category": "garage automobile"
-  },
-  {
-    "nom_pj": "Serva",
-    "adresse_pj": "215 avenue Côte d'Argent 33380 Biganos",
-    "code_postal_pj": "33380",
-    "ville_pj": "Biganos",
-    "telephone": "05 56 26 76 27",
-    "search_category": "garage automobile",
-    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=06666590&code_localite=L03324650&code_rubrique=061240"
-  },
-  {
-    "nom_pj": "MONDIAL PARE BRISE",
-    "adresse_pj": "371 Quinquies rue Gustave Eiffel 33380 Biganos",
-    "code_postal_pj": "33380",
-    "ville_pj": "Biganos",
-    "telephone": "05 56 03 49 82",
-    "site_web": "https://www.mondialparebrise.fr/priserdvmpb.asp",
-    "search_category": "garage automobile"
-  },
-  {
-    "nom_pj": "ADS 33",
-    "adresse_pj": "C 10 chemin Hardit 33380 Mios",
-    "code_postal_pj": "33380",
-    "ville_pj": "Mios",
-    "telephone": "06 17 15 54 62",
-    "search_category": "garage automobile"
-  },
-  {
-    "nom_pj": "Cimm-Bdx",
-    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=55739902&code_localite=L03324650&code_rubrique=061800",
-    "adresse_pj": "238 avenue Côte d'Argent 33380 Biganos",
-    "code_postal_pj": "33380",
-    "ville_pj": "Biganos",
-    "telephone": "05 57 18 35 98",
-    "search_category": "garage automobile"
-  },
-  {
-    "nom_pj": "Garage Delphin Garcia",
-    "adresse_pj": "81 avenue Libération 33380 Mios",
-    "code_postal_pj": "33380",
-    "ville_pj": "Mios",
-    "telephone": "05 56 26 47 81",
-    "search_category": "garage automobile"
-  },
-  {
-    "nom_pj": "Garage de la Côte d'Argent",
-    "adresse_pj": "46 avenue Côte d'Argent 33380 Biganos",
-    "code_postal_pj": "33380",
-    "ville_pj": "Biganos",
-    "telephone": "0960000473",
-    "search_category": "garage automobile"
-  },
-  {
-    "nom_pj": "SH AUTO 33",
-    "adresse_pj": "35 E route Douils 33380 Mios",
-    "code_postal_pj": "33380",
-    "ville_pj": "Mios",
-    "telephone": "05 56 33 37 27",
-    "search_category": "garage automobile"
-  },
-  {
-    "nom_pj": "Garage Feeling Auto",
-    "adresse_pj": "220 avenue Côte d'Argent 33380 Biganos",
-    "code_postal_pj": "33380",
-    "ville_pj": "Biganos",
-    "telephone": "05 56 82 74 34",
-    "search_category": "garage automobile",
-    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00680686&code_localite=L03324650&code_rubrique=061240"
-  },
-  {
-    "nom_pj": "Sud Ouest 4 X 4",
-    "adresse_pj": "120 rue Joseph Marie Jacquard 33380 Biganos",
-    "code_postal_pj": "33380",
-    "ville_pj": "Biganos",
-    "telephone": "05 57 70 60 40",
-    "search_category": "garage automobile",
-    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=08690652&code_localite=L03324650&code_rubrique=061240"
-  },
-  {
-    "nom_pj": "La vente Automobile Biganos",
-    "adresse_pj": "258 avenue Côte d'Argent 33380 Biganos",
-    "code_postal_pj": "33380",
-    "ville_pj": "Biganos",
-    "telephone": "05 57 70 58 87",
-    "search_category": "garage automobile"
-  },
-  {
-    "nom_pj": "GAETAN MECANIQUE AUTO",
-    "adresse_pj": "chemin Rouberts 33380 Mios",
-    "code_postal_pj": "33380",
-    "ville_pj": "Mios",
-    "telephone": "06 50 47 06 51",
-    "search_category": "garage automobile"
-  },
-  {
-    "nom_pj": "Renault Mobility",
-    "adresse_pj": "Centre Commercial Auchan 32 rue Fonderies 33380 Biganos",
-    "code_postal_pj": "33380",
-    "ville_pj": "Biganos",
-    "telephone": "05 57 17 17 17",
-    "search_category": "garage automobile"
-  },
-  {
-    "nom_pj": "Garage Mecartech",
-    "adresse_pj": "2 Bis rue Gustave Eiffel 33380 Mios",
-    "code_postal_pj": "33380",
-    "ville_pj": "Mios",
-    "telephone": "06 22 24 05 61",
-    "search_category": "garage automobile"
-  },
-  {
-    "nom_pj": "Dacia  - Côte D'Argent Concessionnaire",
-    "adresse_pj": "Centre Commercial Auchan 32 rue Fonderies 33380 Biganos",
-    "code_postal_pj": "33380",
-    "ville_pj": "Biganos",
-    "telephone": "05 57 17 17 17",
-    "search_category": "garage automobile"
-  },
-  {
-    "nom_pj": "Garage car Factory Service",
-    "adresse_pj": "63 rue 4 Routes 33380 Mios",
-    "code_postal_pj": "33380",
-    "ville_pj": "Mios",
-    "telephone": "07 80 83 93 54",
-    "search_category": "garage automobile"
-  },
-  {
-    "nom_pj": "Garage Marcheprime -Neveu Jacques",
-    "adresse_pj": "19 ALLEE REGANEAU 26 avenue Aquitaine 33380 Marcheprime",
-    "code_postal_pj": "33380",
-    "ville_pj": "Marcheprime",
-    "telephone": "0525980000",
-    "search_category": "garage automobile"
-  },
-  {
-    "nom_pj": "Garage Millot",
-    "adresse_pj": "108 avenue Bordeaux 33510 Andernos les Bains",
-    "code_postal_pj": "33510",
-    "ville_pj": "Andernos les Bains",
-    "telephone": "05 56 82 13 05",
-    "search_category": "garage automobile",
-    "site_web": "https://www.garagemillot.fr/",
-    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00314556&code_localite=L03324650&code_rubrique=388310"
-  },
-  {
-    "nom_pj": "Garage Bordelais",
-    "adresse_pj": "970 route Douc 40410 Liposthey",
-    "code_postal_pj": "40410",
-    "ville_pj": "Liposthey",
-    "telephone": "05 58 82 30 27",
-    "search_category": "garage automobile"
-  },
-  {
-    "nom_pj": "CARGLASS Pare-Brise Pessac",
-    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=63110855&code_localite=L03324650&code_rubrique=388310",
-    "adresse_pj": "88 avenue Jean Jaurès 33600 Pessac",
-    "code_postal_pj": "33600",
-    "ville_pj": "Pessac",
+    "nom_pj": "CARGLASS Pare-Brise Roncq",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=57900507&code_localite=Z05935000&code_rubrique=388310",
+    "adresse_pj": "Centre Commercial Auchan 324 rue Henri Barbusse 59223 Roncq",
+    "code_postal_pj": "59223",
+    "ville_pj": "Roncq",
     "telephone": "09 77 40 19 20",
-    "search_category": "garage automobile"
+    "search_category": "garages-automobiles"
   },
   {
-    "nom_pj": "CARGLASS Pare-Brise Merignac",
-    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=07678714&code_localite=L03324650&code_rubrique=388310",
-    "adresse_pj": "12 avenue Somme 33700 Mérignac",
-    "code_postal_pj": "33700",
-    "ville_pj": "Mérignac",
+    "nom_pj": "CARGLASS Pare-Brise Marquette lez Lille",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=07096522&code_localite=Z05935000&code_rubrique=388310",
+    "adresse_pj": "ZAC du Haut Touquet 7 rue Moissons 59520 Marquette lez Lille",
+    "code_postal_pj": "59520",
+    "ville_pj": "Marquette lez Lille",
     "telephone": "09 77 40 19 20",
-    "search_category": "garage automobile"
+    "search_category": "garages-automobiles"
   },
   {
-    "nom_pj": "CARGLASS Pare-Brise Le Haillan",
-    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=57091722&code_localite=L03324650&code_rubrique=388310",
-    "adresse_pj": "Rond Point des 5 Chemins 5 avenue Magudas 33185 Le Haillan",
-    "code_postal_pj": "33185",
-    "ville_pj": "Le Haillan",
+    "nom_pj": "CARGLASS Pare-Brise Tourcoing",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=07491952&code_localite=Z05935000&code_rubrique=388310",
+    "adresse_pj": "30 rue Wailly 59200 Tourcoing",
+    "code_postal_pj": "59200",
+    "ville_pj": "Tourcoing",
     "telephone": "09 77 40 19 20",
-    "search_category": "garage automobile"
+    "search_category": "garages-automobiles"
   },
   {
-    "nom_pj": "CARGLASS Pare-Brise Begles",
-    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=06021729&code_localite=L03324650&code_rubrique=388310",
-    "adresse_pj": "13 rue Du Lugan 33130 Bègles",
-    "code_postal_pj": "33130",
-    "ville_pj": "Bègles",
+    "nom_pj": "CARGLASS Pare-Brise Seclin",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=52853786&code_localite=Z05935000&code_rubrique=388310",
+    "adresse_pj": "Village Auto 29 route Lille 59113 Seclin",
+    "code_postal_pj": "59113",
+    "ville_pj": "Seclin",
     "telephone": "09 77 40 19 20",
-    "search_category": "garage automobile"
+    "search_category": "garages-automobiles"
   },
   {
-    "nom_pj": "CARGLASS Pare-Brise Latresne",
-    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=64033823&code_localite=L03324650&code_rubrique=388310",
-    "adresse_pj": "Zone d'activités Lartigot zone industrielle Artigot 33360 Latresne",
-    "code_postal_pj": "33360",
-    "ville_pj": "Latresne",
-    "telephone": "09 77 40 19 20",
-    "search_category": "garage automobile"
+    "nom_pj": "Garage D'Esquermes",
+    "adresse_pj": "107 rue Esquermes 59000 Lille",
+    "code_postal_pj": "59000",
+    "ville_pj": "Lille",
+    "telephone": "03 20 93 49 15",
+    "search_category": "garages-automobiles",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00395118&code_localite=Z05935000&code_rubrique=061240"
   },
   {
-    "nom_pj": "CARGLASS Pare-Brise Bordeaux",
-    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=56250237&code_localite=L03324650&code_rubrique=388310",
-    "adresse_pj": "116 quai Souys 33100 Bordeaux",
-    "code_postal_pj": "33100",
-    "ville_pj": "Bordeaux",
-    "telephone": "09 77 40 19 20",
-    "search_category": "garage automobile"
+    "nom_pj": "Ad Carrosserie Flament Merlin",
+    "adresse_pj": "80 boulevard Montebello 59000 Lille",
+    "code_postal_pj": "59000",
+    "ville_pj": "Lille",
+    "telephone": "03 20 09 11 60",
+    "site_web": "https://www.ad.fr/garage/ad-carrosserie-flament-merlin/contact",
+    "search_category": "garages-automobiles"
   },
   {
-    "nom_pj": "CARGLASS Pare-Brise Lormont",
-    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=06022280&code_localite=L03324650&code_rubrique=388310",
-    "adresse_pj": "ZA La Gardette rue Cantelaudette 33310 Lormont",
-    "code_postal_pj": "33310",
-    "ville_pj": "Lormont",
-    "telephone": "09 77 40 19 20",
-    "search_category": "garage automobile"
+    "nom_pj": "InterCar",
+    "adresse_pj": "57 rue Nationale 59000 Lille",
+    "code_postal_pj": "59000",
+    "ville_pj": "Lille",
+    "telephone": "07 80 94 39 84",
+    "search_category": "garages-automobiles"
   },
   {
-    "nom_pj": "CARGLASS Pare-Brise Langon",
-    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=55465317&code_localite=L03324650&code_rubrique=388310",
-    "adresse_pj": "16 route Bordeaux 33210 Langon",
-    "code_postal_pj": "33210",
-    "ville_pj": "Langon",
-    "telephone": "09 77 40 19 20",
-    "search_category": "garage automobile"
+    "nom_pj": "Autoworks TD",
+    "adresse_pj": "33 rue Victor Tilmant 59000 Lille",
+    "code_postal_pj": "59000",
+    "ville_pj": "Lille",
+    "telephone": "0468230000",
+    "search_category": "garages-automobiles"
   },
   {
-    "nom_pj": "Ets Gachet",
-    "adresse_pj": "12 rue Condorcet 33210 Langon",
-    "code_postal_pj": "33210",
-    "ville_pj": "Langon",
-    "telephone": "05 56 63 13 44",
-    "search_category": "garage automobile"
+    "nom_pj": "Atelier Solidaire",
+    "adresse_pj": "55 rue Flers 59800 Lille",
+    "code_postal_pj": "59800",
+    "ville_pj": "Lille",
+    "telephone": "07 59 11 87 05",
+    "search_category": "garages-automobiles"
   },
   {
-    "nom_pj": "CARGLASS Pare-Brise St Andre de Cubzac",
-    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=55400137&code_localite=L03324650&code_rubrique=388310",
-    "adresse_pj": "ZAC de la Garosse - Lieu dit Peyrot 175 rue Droits de l'Homme 33240 Saint André de Cubzac",
-    "code_postal_pj": "33240",
-    "ville_pj": "Saint André de Cubzac",
-    "telephone": "09 77 40 19 20",
-    "search_category": "garage automobile"
+    "nom_pj": "Euromaster Lille - Centre Auto VL",
+    "adresse_pj": "20 rue Isly 59000 Lille",
+    "code_postal_pj": "59000",
+    "ville_pj": "Lille",
+    "telephone": "03 20 00 17 20",
+    "search_category": "garages-automobiles"
   },
   {
-    "nom_pj": "CARGLASS Pare-Brise Libourne",
-    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=06021613&code_localite=L03324650&code_rubrique=388310",
-    "adresse_pj": "153 avenue Gén de Gaulle 33500 Libourne",
-    "code_postal_pj": "33500",
-    "ville_pj": "Libourne",
-    "telephone": "09 77 40 19 20",
-    "search_category": "garage automobile"
+    "nom_pj": "STA Lille SARL",
+    "adresse_pj": "270 rue Faubourg d'Arras 59000 Lille",
+    "code_postal_pj": "59000",
+    "ville_pj": "Lille",
+    "telephone": "03 20 53 03 33",
+    "search_category": "garages-automobiles"
   },
   {
-    "nom_pj": "CARGLASS Pare-Brise Lesparre Medoc",
-    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=54733093&code_localite=L03324650&code_rubrique=388310",
-    "adresse_pj": "61 cours Gén de Gaulle 33340 Lesparre Médoc",
-    "code_postal_pj": "33340",
-    "ville_pj": "Lesparre Médoc",
-    "telephone": "09 77 40 19 20",
-    "search_category": "garage automobile"
+    "nom_pj": "Motrio Saint Maurice",
+    "adresse_pj": "144 rue Faubourg de Roubaix 59800 Lille",
+    "code_postal_pj": "59800",
+    "ville_pj": "Lille",
+    "telephone": "03 20 06 28 34",
+    "search_category": "garages-automobiles",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00938588&code_localite=Z05935000&code_rubrique=061240"
   },
   {
-    "nom_pj": "Soubzmaigne Port St Foy Centre Point S",
-    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=04553063&code_localite=L03324650&code_rubrique=388310",
-    "adresse_pj": "zone artisanale Grand Pont Ouest 33220 Port Sainte Foy et Ponchapt",
-    "code_postal_pj": "33220",
-    "ville_pj": "Port Sainte Foy et Ponchapt",
-    "telephone": "05 53 24 76 00",
-    "search_category": "garage automobile"
+    "nom_pj": "Carrosserie Alexandre",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00879264&code_localite=Z05935000&code_rubrique=388310",
+    "adresse_pj": "145 Bis rue Louise Michel 59290 Wasquehal",
+    "code_postal_pj": "59290",
+    "ville_pj": "Wasquehal",
+    "telephone": "03 20 26 92 60",
+    "search_category": "garages-automobiles"
   },
   {
-    "nom_pj": "Auto Pièce Burguière",
-    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00417265&code_localite=L03324650&code_rubrique=061800",
-    "adresse_pj": "Za Peyrolebade Rte De Millau lieu-dit Glebes 12500 Espalion",
-    "code_postal_pj": "12500",
-    "ville_pj": "Espalion",
-    "telephone": "05 65 48 19 32",
-    "search_category": "garage automobile"
+    "nom_pj": "Midas",
+    "adresse_pj": "1 boulevard Lorraine 59800 Lille",
+    "code_postal_pj": "59800",
+    "ville_pj": "Lille",
+    "telephone": "03 20 40 20 40",
+    "search_category": "garages-automobiles"
   },
   {
-    "nom_pj": "Palfinger Service ACI Le Barp",
-    "adresse_pj": "Zae Eyrialis 7 rue Guy Pellerin 33114 Le Barp",
-    "code_postal_pj": "33114",
-    "ville_pj": "Le Barp",
-    "telephone": "05 56 88 63 25",
-    "search_category": "garage automobile"
+    "nom_pj": "Garage Asloun",
+    "adresse_pj": "13 rue Salomé 59800 Lille",
+    "code_postal_pj": "59800",
+    "ville_pj": "Lille",
+    "telephone": "03 20 56 40 83",
+    "search_category": "garages-automobiles",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=06096554&code_localite=Z05935000&code_rubrique=061240"
   },
   {
-    "nom_pj": "Nanni Industries",
-    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=03768896&code_localite=L03324650&code_rubrique=131900",
-    "adresse_pj": "Zone Industrielle Bp 107 11 avenue Abbé Edmé Mariotte 33260 La Teste de Buch",
-    "code_postal_pj": "33260",
-    "ville_pj": "La Teste de Buch",
-    "telephone": "05 56 22 30 60",
-    "search_category": "garage automobile"
+    "nom_pj": "Lille Diffusion Auto",
+    "adresse_pj": "118 rue Jules Guesde 59650 Villeneuve d'Ascq",
+    "code_postal_pj": "59650",
+    "ville_pj": "Villeneuve d'Ascq",
+    "telephone": "03 20 04 19 19",
+    "search_category": "garages-automobiles"
   },
   {
-    "nom_pj": "Autobahn",
-    "adresse_pj": "51 Bis avenue Gén Leclerc 33260 La Teste de Buch",
-    "code_postal_pj": "33260",
-    "ville_pj": "La Teste de Buch",
-    "search_category": "garage automobile"
+    "nom_pj": "Harfang Automobile",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=62116120&code_localite=Z05935000&code_rubrique=388310",
+    "adresse_pj": "9 rue Rivage 59320 Sequedin",
+    "code_postal_pj": "59320",
+    "ville_pj": "Sequedin",
+    "telephone": "03 74 09 54 05",
+    "search_category": "garages-automobiles"
   },
   {
-    "nom_pj": "Multi Boites Services",
-    "adresse_pj": "rue Masquet 33380 Mios",
-    "code_postal_pj": "33380",
-    "ville_pj": "Mios",
-    "telephone": "05 56 03 01 72",
-    "search_category": "carrosserie automobile"
+    "nom_pj": "Garage Weynants",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00398704&code_localite=Z05935000&code_rubrique=061240",
+    "adresse_pj": "2 avenue Pierre Mauroy 59290 Wasquehal",
+    "code_postal_pj": "59290",
+    "ville_pj": "Wasquehal",
+    "telephone": "03 28 09 91 00",
+    "search_category": "concessionnaires-automobiles"
   },
   {
-    "nom_pj": "Casse Auto Liposthey",
-    "adresse_pj": "971 route Douc 40410 Liposthey",
-    "code_postal_pj": "40410",
-    "ville_pj": "Liposthey",
-    "telephone": "06 72 35 93 58",
-    "search_category": "carrosserie automobile"
+    "nom_pj": "BMW Bayern Lille",
+    "adresse_pj": "16 rue Haut de la Cruppe 59650 Villeneuve d'Ascq",
+    "code_postal_pj": "59650",
+    "ville_pj": "Villeneuve d'Ascq",
+    "telephone": "03 20 66 27 27",
+    "search_category": "concessionnaires-automobiles"
   },
   {
-    "nom_pj": "Martin Seb Casse Poids Lourds",
-    "adresse_pj": "19 route Nieul 17250 Soulignonnes",
-    "code_postal_pj": "17250",
-    "ville_pj": "Soulignonnes",
-    "telephone": "05 46 93 90 06",
-    "search_category": "carrosserie automobile"
+    "nom_pj": "Renault",
+    "adresse_pj": "Ccal Englos Les Géants 3 rue Hem 59320 Sequedin",
+    "code_postal_pj": "59320",
+    "ville_pj": "Sequedin",
+    "telephone": "03 20 00 97 00",
+    "search_category": "concessionnaires-automobiles"
   },
   {
-    "nom_pj": "Récup Autos 24 SARL",
-    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00704924&code_localite=L03324650&code_rubrique=025710",
-    "adresse_pj": "Rte Nationale 89 2 route Périgueux 24110 Montrem",
-    "code_postal_pj": "24110",
-    "ville_pj": "Montrem",
-    "telephone": "0430000008",
-    "site_web": "https://www.recupauto24.fr/",
-    "search_category": "carrosserie automobile"
+    "nom_pj": "Volkswagen Lesaffre Automobiles",
+    "adresse_pj": "16 chemin Margueritois 59155 Faches Thumesnil",
+    "code_postal_pj": "59155",
+    "ville_pj": "Faches Thumesnil",
+    "telephone": "0535770000",
+    "search_category": "concessionnaires-automobiles"
   },
   {
-    "nom_pj": "Titane Motor",
-    "adresse_pj": "23 allée Ferdinand de Lesseps 33470 Gujan Mestras",
-    "code_postal_pj": "33470",
-    "ville_pj": "Gujan Mestras",
-    "telephone": "0800000446",
-    "search_category": "concession moto"
+    "nom_pj": "Dugardin Styles Automobiles",
+    "adresse_pj": "455 avenue Gén Leclerc 59155 Faches Thumesnil",
+    "code_postal_pj": "59155",
+    "ville_pj": "Faches Thumesnil",
+    "telephone": "03 20 16 08 08",
+    "search_category": "concessionnaires-automobiles"
   },
   {
-    "nom_pj": "Triumph BordeauxConnu sous : Moto Bordeaux",
-    "adresse_pj": "6 rue Gutenberg 33700 Mérignac",
-    "code_postal_pj": "33700",
-    "ville_pj": "Mérignac",
-    "telephone": "05 57 29 00 00",
-    "site_web": "https://www.triumphmotorcycles.fr/bikes/r%C3%A9servez-votre-essai",
-    "search_category": "concession moto"
+    "nom_pj": "Ford Store Lille Groupe Dugardin",
+    "adresse_pj": "boulevard Ouest 59650 Villeneuve d'Ascq",
+    "code_postal_pj": "59650",
+    "ville_pj": "Villeneuve d'Ascq",
+    "telephone": "03 20 79 99 99",
+    "search_category": "concessionnaires-automobiles"
   },
   {
-    "nom_pj": "Ducati BordeauxConnu sous : DUCATI ZR CONCESSIONNAIRE",
-    "adresse_pj": "6 rue Gutenberg 33700 Mérignac",
-    "code_postal_pj": "33700",
-    "ville_pj": "Mérignac",
-    "telephone": "05 57 29 00 01",
-    "search_category": "concession moto"
+    "nom_pj": "Garage Saint Maur",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00676743&code_localite=Z05935000&code_rubrique=061240",
+    "adresse_pj": "154 rue Buisson 59700 Marcq en Baroeul",
+    "code_postal_pj": "59700",
+    "ville_pj": "Marcq en Baroeul",
+    "telephone": "03 20 55 02 02",
+    "search_category": "concessionnaires-automobiles"
   },
   {
-    "nom_pj": "MOTO AXXE LIBOURNE",
-    "adresse_pj": "Za Des Dagueys 2 rue Firmin Didot 33500 Libourne",
-    "code_postal_pj": "33500",
-    "ville_pj": "Libourne",
-    "telephone": "05 57 51 56 03",
-    "search_category": "concession moto",
-    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=50601072&code_localite=L03324650&code_rubrique=545800"
+    "nom_pj": "All'Auto",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=56994096&code_localite=Z05935000&code_rubrique=061240",
+    "adresse_pj": "91 rue Jules Guesde 59390 Lys Lez Lannoy",
+    "code_postal_pj": "59390",
+    "ville_pj": "Lys Lez Lannoy",
+    "telephone": "03 20 98 27 01",
+    "search_category": "concessionnaires-automobiles"
   },
   {
-    "nom_pj": "MX33",
-    "adresse_pj": "zone d'aménagement concerté Mios 2000 33380 Mios",
-    "code_postal_pj": "33380",
-    "ville_pj": "Mios",
-    "search_category": "concession moto"
+    "nom_pj": "Mazda Kodo Automobiles Concessionnaire",
+    "adresse_pj": "5 rue Frénelet 59650 Villeneuve d'Ascq",
+    "code_postal_pj": "59650",
+    "ville_pj": "Villeneuve d'Ascq",
+    "telephone": "03 28 14 07 08",
+    "search_category": "concessionnaires-automobiles"
   },
   {
-    "nom_pj": "Charles-Edouard Philippe",
-    "adresse_pj": "52 route Douils 33380 Mios",
-    "code_postal_pj": "33380",
-    "ville_pj": "Mios",
-    "telephone": "05 56 89 21 87",
-    "search_category": "concession moto"
+    "nom_pj": "Nissan Nyxo By Autosphere Concessionnaire",
+    "adresse_pj": "8-10 8 rue Lavoisier  59160 Lomme",
+    "code_postal_pj": "59160",
+    "ville_pj": "Lomme",
+    "telephone": "03 20 38 88 38",
+    "search_category": "concessionnaires-automobiles"
   },
   {
-    "nom_pj": "R.G Motos Roland Garcia",
-    "adresse_pj": "10 avenue Libération Facture 33380 Biganos",
-    "code_postal_pj": "33380",
-    "ville_pj": "Biganos",
-    "telephone": "05 56 82 60 92",
-    "search_category": "concession moto"
+    "nom_pj": "Joly Automobile EUROREPAR",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=60653922&code_localite=Z05935000&code_rubrique=061240",
+    "adresse_pj": "5 rue Eugène Descamps  59160 Lomme",
+    "code_postal_pj": "59160",
+    "ville_pj": "Lomme",
+    "telephone": "03 20 92 46 99",
+    "search_category": "concessionnaires-automobiles"
   },
   {
-    "nom_pj": "All Wheel Motor",
-    "adresse_pj": "3 Bis allée Nay 33470 Gujan Mestras",
-    "code_postal_pj": "33470",
-    "ville_pj": "Gujan Mestras",
-    "telephone": "06 99 84 53 44",
-    "search_category": "concession moto"
+    "nom_pj": "Centre Alpine Lille",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=50013804&code_localite=Z05935000&code_rubrique=061240",
+    "adresse_pj": "6 rue Lavoisier  59160 Lomme",
+    "code_postal_pj": "59160",
+    "ville_pj": "Lomme",
+    "telephone": "03 20 93 52 68",
+    "search_category": "concessionnaires-automobiles"
   },
   {
-    "nom_pj": "Triumph Bordeaux",
-    "adresse_pj": "6 rue Gutenberg 33700 Mérignac",
-    "code_postal_pj": "33700",
-    "ville_pj": "Mérignac",
-    "telephone": "05 57 29 00 00",
-    "site_web": "https://www.triumphmotorcycles.fr/bikes/r%C3%A9servez-votre-essai",
-    "search_category": "garage moto"
+    "nom_pj": "Métropole Automobiles",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=06089510&code_localite=Z05935000&code_rubrique=061240",
+    "adresse_pj": "Zac Villeneuve D'ascq 3 rue Frénelet 59650 Villeneuve d'Ascq",
+    "code_postal_pj": "59650",
+    "ville_pj": "Villeneuve d'Ascq",
+    "telephone": "03 20 04 36 46",
+    "search_category": "concessionnaires-automobiles"
   },
   {
-    "nom_pj": "Ducati Bordeaux",
-    "adresse_pj": "6 rue Gutenberg 33700 Mérignac",
-    "code_postal_pj": "33700",
-    "ville_pj": "Mérignac",
-    "telephone": "05 57 29 00 01",
-    "search_category": "garage moto"
+    "nom_pj": "Fca Motor Village Villeneuve d'Ascq",
+    "adresse_pj": "boulevard Ouest 59650 Villeneuve d'Ascq",
+    "code_postal_pj": "59650",
+    "ville_pj": "Villeneuve d'Ascq",
+    "telephone": "03 20 79 99 50",
+    "search_category": "concessionnaires-automobiles"
+  },
+  {
+    "nom_pj": "Renault GGP Auto Concessionnaire",
+    "adresse_pj": "Hellemmes Lille 3 chemin Prieuré Hellemmes Lille 59260 Lille",
+    "code_postal_pj": "59260",
+    "ville_pj": "Lille",
+    "telephone": "03 59 61 44 44",
+    "search_category": "concessionnaires-automobiles"
+  },
+  {
+    "nom_pj": "Auto & Utilitaires",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=52018809&code_localite=Z05935000&code_rubrique=142320",
+    "adresse_pj": "245 rue Gamand 59810 Lesquin",
+    "code_postal_pj": "59810",
+    "ville_pj": "Lesquin",
+    "telephone": "03 20 32 05 04",
+    "search_category": "carrosseries-automobiles"
+  },
+  {
+    "nom_pj": "Etablissement Guy Marin",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00357602&code_localite=Z05935000&code_rubrique=142320",
+    "adresse_pj": "chemin Escobecques 59320 Hallennes lez Haubourdin",
+    "code_postal_pj": "59320",
+    "ville_pj": "Hallennes lez Haubourdin",
+    "telephone": "03 20 10 10 10",
+    "site_web": "http://www.rachat-vehicule-guymarin.fr",
+    "search_category": "carrosseries-automobiles"
+  },
+  {
+    "nom_pj": "Garage Renault Gambetta SecoConnu sous : CARROSSERIE GAMBETTA SÉCO",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00395042&code_localite=Z05935000&code_rubrique=388310",
+    "adresse_pj": "391 rue Léon Gambetta 59000 Lille",
+    "code_postal_pj": "59000",
+    "ville_pj": "Lille",
+    "telephone": "03 20 57 29 67",
+    "search_category": "carrosseries-automobiles"
+  },
+  {
+    "nom_pj": "Auto Controle Du Vieux LilleConnu sous : Carrosserie du Vieux Lille",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=08780792&code_localite=Z05935000&code_rubrique=142320",
+    "adresse_pj": "6 place St André 59800 Lille",
+    "code_postal_pj": "59800",
+    "ville_pj": "Lille",
+    "telephone": "03 20 21 82 82",
+    "search_category": "carrosseries-automobiles"
+  },
+  {
+    "nom_pj": "Del Fabro",
+    "adresse_pj": "32 rue Bapaume 59000 Lille",
+    "code_postal_pj": "59000",
+    "ville_pj": "Lille",
+    "telephone": "03 20 63 99 88",
+    "search_category": "carrosseries-automobiles"
+  },
+  {
+    "nom_pj": "Citroen Garage de la Haute Borne",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00397661&code_localite=Z05935000&code_rubrique=142320",
+    "adresse_pj": "186 rue Fusillés 59493 Villeneuve d'Ascq",
+    "code_postal_pj": "59493",
+    "ville_pj": "Villeneuve d'Ascq",
+    "telephone": "0791000003",
+    "search_category": "carrosseries-automobiles"
+  },
+  {
+    "nom_pj": "Garage De La RoseraieConnu sous : CARROSSERIE DE LA ROSERAIE",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00396354&code_localite=Z05935000&code_rubrique=388310",
+    "adresse_pj": "10 avenue Mar De Lattre de Tassigny 59350 Saint André lez Lille",
+    "code_postal_pj": "59350",
+    "ville_pj": "Saint André lez Lille",
+    "telephone": "0745460000",
+    "search_category": "carrosseries-automobiles"
+  },
+  {
+    "nom_pj": "Garage Planque",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00397965&code_localite=Z05935000&code_rubrique=388310",
+    "adresse_pj": "136 rue Gén de Gaulle 59139 Wattignies",
+    "code_postal_pj": "59139",
+    "ville_pj": "Wattignies",
+    "telephone": "03 20 97 35 35",
+    "site_web": "https://rendezvousenligne.citroen.fr/fr-FR/rendez-vous-garage-citroen/france/garage-planque-sarl/0000038694",
+    "search_category": "carrosseries-automobiles"
+  },
+  {
+    "nom_pj": "Garage WeynantsConnu sous : F. WEYNANTS",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00398704&code_localite=Z05935000&code_rubrique=388310",
+    "adresse_pj": "2 avenue Pierre Mauroy 59290 Wasquehal",
+    "code_postal_pj": "59290",
+    "ville_pj": "Wasquehal",
+    "telephone": "03 28 09 91 00",
+    "search_category": "carrosseries-automobiles"
+  },
+  {
+    "nom_pj": "PALINSKI SARL",
+    "adresse_pj": "281 rue Pierre Legrand 59007 Lille",
+    "code_postal_pj": "59007",
+    "ville_pj": "Lille",
+    "telephone": "03 20 04 35 05",
+    "search_category": "carrosseries-automobiles"
+  },
+  {
+    "nom_pj": "Caréco Molins Créauto",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00559481&code_localite=Z05935000&code_rubrique=142320",
+    "adresse_pj": "29 route Lille 59113 Seclin",
+    "code_postal_pj": "59113",
+    "ville_pj": "Seclin",
+    "telephone": "03 20 32 40 40",
+    "search_category": "carrosseries-automobiles"
+  },
+  {
+    "nom_pj": "E.B CARROSSERIE",
+    "adresse_pj": "56 rue Montagnards 59800 Lille",
+    "code_postal_pj": "59800",
+    "ville_pj": "Lille",
+    "telephone": "06 51 82 20 85",
+    "search_category": "carrosseries-automobiles"
+  },
+  {
+    "nom_pj": "M.Autoclinic EURL",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=62676137&code_localite=Z05935000&code_rubrique=142320",
+    "adresse_pj": "215 route d'Arras  1 rue Nouvelle 59155 Faches Thumesnil",
+    "code_postal_pj": "59155",
+    "ville_pj": "Faches Thumesnil",
+    "telephone": "03 20 96 54 50",
+    "search_category": "carrosseries-automobiles"
+  },
+  {
+    "nom_pj": "Garage Duquesne",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00397507&code_localite=Z05935000&code_rubrique=388310",
+    "adresse_pj": "30 rue Gén Leclerc 59510 Hem",
+    "code_postal_pj": "59510",
+    "ville_pj": "Hem",
+    "telephone": "03 20 81 21 58",
+    "search_category": "carrosseries-automobiles"
+  },
+  {
+    "nom_pj": "Carrosserie Flament Merlin",
+    "adresse_pj": "route Lille 59113 Seclin",
+    "code_postal_pj": "59113",
+    "ville_pj": "Seclin",
+    "telephone": "03 20 16 04 16",
+    "site_web": "https://www.ad.fr/garage/ad-carrosserie-flament-merlin/contact",
+    "search_category": "carrosseries-automobiles"
+  },
+  {
+    "nom_pj": "Meca-CustomConnu sous : Atelier Carrosserie",
+    "adresse_pj": "175 Bis rue Sadi Carnot 59320 Haubourdin",
+    "code_postal_pj": "59320",
+    "ville_pj": "Haubourdin",
+    "telephone": "0451472000",
+    "search_category": "carrosseries-automobiles"
+  },
+  {
+    "nom_pj": "Citroën Garage Dubois Réparateur Agréé",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00396773&code_localite=Z05935000&code_rubrique=388310",
+    "adresse_pj": "36 rue Bernard Ruyant 59110 La Madeleine",
+    "code_postal_pj": "59110",
+    "ville_pj": "La Madeleine",
+    "telephone": "03 20 55 09 57",
+    "search_category": "carrosseries-automobiles"
+  },
+  {
+    "nom_pj": "Profil A Neuf",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=07959346&code_localite=Z05935000&code_rubrique=388310",
+    "adresse_pj": "9 rue Boulevard 59290 Wasquehal",
+    "code_postal_pj": "59290",
+    "ville_pj": "Wasquehal",
+    "telephone": "03 20 27 81 85",
+    "search_category": "carrosseries-automobiles"
+  },
+  {
+    "nom_pj": "Piaggio Lille",
+    "adresse_pj": "23 rue Inkermann 59000 Lille",
+    "code_postal_pj": "59000",
+    "ville_pj": "Lille",
+    "search_category": "motos-concessions"
+  },
+  {
+    "nom_pj": "MT Moto",
+    "adresse_pj": "15 rue Gustave Delory 59800 Lille",
+    "code_postal_pj": "59800",
+    "ville_pj": "Lille",
+    "telephone": "03 66 19 15 60",
+    "search_category": "motos-concessions",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=56417481&code_localite=Z05935000&code_rubrique=259510"
+  },
+  {
+    "nom_pj": "Boxer Evasion",
+    "adresse_pj": "1 rue Faubourg d'Arras 59000 Lille",
+    "code_postal_pj": "59000",
+    "ville_pj": "Lille",
+    "telephone": "03 28 77 77 28",
+    "search_category": "motos-concessions"
+  },
+  {
+    "nom_pj": "Triumph Lille Avenir Moto",
+    "adresse_pj": "220 rue Artisanat 59113 Seclin",
+    "code_postal_pj": "59113",
+    "ville_pj": "Seclin",
+    "telephone": "03 28 77 77 19",
+    "search_category": "motos-concessions"
+  },
+  {
+    "nom_pj": "E-bikes Gallery LILLE",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=60255114&code_localite=Z05935000&code_rubrique=545800",
+    "adresse_pj": "145 avenue République 59110 La Madeleine",
+    "code_postal_pj": "59110",
+    "ville_pj": "La Madeleine",
+    "telephone": "07 61 47 32 73",
+    "search_category": "motos-concessions"
+  },
+  {
+    "nom_pj": "Roxad Motors Seclin",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=63085164&code_localite=Z05935000&code_rubrique=259510",
+    "adresse_pj": "225 rue Industrie 59113 Seclin",
+    "code_postal_pj": "59113",
+    "ville_pj": "Seclin",
+    "telephone": "03 27 23 84 76",
+    "search_category": "motos-concessions"
+  },
+  {
+    "nom_pj": "FunMobility Service",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=56432758&code_localite=Z05935000&code_rubrique=259510",
+    "adresse_pj": "191 rue Mar Foch 59120 Loos",
+    "code_postal_pj": "59120",
+    "ville_pj": "Loos",
+    "telephone": "03 28 77 87 78",
+    "search_category": "motos-concessions"
+  },
+  {
+    "nom_pj": "Scooter MIX",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=09185002&code_localite=Z05935000&code_rubrique=259510",
+    "adresse_pj": "6 rue Poincaré 59160 Capinghem",
+    "code_postal_pj": "59160",
+    "ville_pj": "Capinghem",
+    "telephone": "03 20 00 60 50",
+    "search_category": "motos-concessions"
+  },
+  {
+    "nom_pj": "Motoblouz",
+    "adresse_pj": "rue Industrie 59113 Seclin",
+    "code_postal_pj": "59113",
+    "ville_pj": "Seclin",
+    "telephone": "03 20 97 66 26",
+    "search_category": "motos-concessions"
+  },
+  {
+    "nom_pj": "Day Moto",
+    "adresse_pj": "Zac De L'epinette 318 rue Industrie 59113 Seclin",
+    "code_postal_pj": "59113",
+    "ville_pj": "Seclin",
+    "telephone": "03 20 97 77 24",
+    "search_category": "motos-concessions"
+  },
+  {
+    "nom_pj": "ODM Motos",
+    "adresse_pj": "3 rue Source 59320 Hallennes lez Haubourdin",
+    "code_postal_pj": "59320",
+    "ville_pj": "Hallennes lez Haubourdin",
+    "telephone": "0230000017",
+    "search_category": "motos-concessions",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=58557366&code_localite=Z05935000&code_rubrique=259510"
+  },
+  {
+    "nom_pj": "Motoland",
+    "adresse_pj": "Zac De L'epinette rue Industrie 59113 Seclin",
+    "code_postal_pj": "59113",
+    "ville_pj": "Seclin",
+    "telephone": "03 28 16 24 61",
+    "search_category": "motos-concessions",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=51337404&code_localite=Z05935000&code_rubrique=259510"
+  },
+  {
+    "nom_pj": "Boxer Evasion Lille-Bmw Motorrad",
+    "adresse_pj": "9 rue Hôtellerie 59113 Seclin",
+    "code_postal_pj": "59113",
+    "ville_pj": "Seclin",
+    "telephone": "03 28 77 77 28",
+    "search_category": "motos-concessions"
+  },
+  {
+    "nom_pj": "Castel Motos",
+    "adresse_pj": "32 rue Mar Foch 59100 Roubaix",
+    "code_postal_pj": "59100",
+    "ville_pj": "Roubaix",
+    "telephone": "03 20 73 12 59",
+    "search_category": "motos-concessions",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00398576&code_localite=Z05935000&code_rubrique=259510"
+  },
+  {
+    "nom_pj": "Yamaha Nord Moto Service",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00400543&code_localite=Z05935000&code_rubrique=259510",
+    "adresse_pj": "24 rue Charles Wattinne 59200 Tourcoing",
+    "code_postal_pj": "59200",
+    "ville_pj": "Tourcoing",
+    "telephone": "03 20 26 51 29",
+    "search_category": "motos-concessions"
+  },
+  {
+    "nom_pj": "Lyliz",
+    "adresse_pj": "4 rue Prof Langevin 59000 Lille",
+    "code_postal_pj": "59000",
+    "ville_pj": "Lille",
+    "telephone": "09 81 91 80 95",
+    "search_category": "motos-concessions"
+  },
+  {
+    "nom_pj": "La Scooterie",
+    "adresse_pj": "1 rue Jules Verne 59790 Ronchin",
+    "code_postal_pj": "59790",
+    "ville_pj": "Ronchin",
+    "telephone": "03 28 77 87 70",
+    "search_category": "motos-concessions",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=51269842&code_localite=Z05935000&code_rubrique=259510"
+  },
+  {
+    "nom_pj": "De Doncker Motos",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00395500&code_localite=Z05935000&code_rubrique=259510",
+    "adresse_pj": "Zac De L'epinette rue Artisanat 59113 Seclin",
+    "code_postal_pj": "59113",
+    "ville_pj": "Seclin",
+    "telephone": "03 20 06 63 53",
+    "search_category": "motos-concessions"
+  },
+  {
+    "nom_pj": "Le Village du MotardConnu sous : MOTO 3000",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=51947178&code_localite=Z05935000&code_rubrique=259510",
+    "adresse_pj": "1 rue Jules Verne 59790 Ronchin",
+    "code_postal_pj": "59790",
+    "ville_pj": "Ronchin",
+    "telephone": "03 28 77 87 78",
+    "search_category": "motos-concessions"
+  },
+  {
+    "nom_pj": "Can-Am JPS Quad SSV Spyder Concessionnaire",
+    "adresse_pj": "152 boulevard Ouest 59650 Villeneuve d'Ascq",
+    "code_postal_pj": "59650",
+    "ville_pj": "Villeneuve d'Ascq",
+    "telephone": "03 27 37 95 33",
+    "search_category": "motos-concessions"
+  },
+  {
+    "nom_pj": "Seb’Iclou",
+    "adresse_pj": "151 rue Gaston Baratte 59493 Villeneuve d'Ascq",
+    "code_postal_pj": "59493",
+    "ville_pj": "Villeneuve d'Ascq",
+    "telephone": "03 20 83 24 52",
+    "search_category": "reparation-motos"
+  },
+  {
+    "nom_pj": "Maxxess",
+    "adresse_pj": "Zone Industrielle Epinette rue Artisanat 59113 Seclin",
+    "code_postal_pj": "59113",
+    "ville_pj": "Seclin",
+    "telephone": "0360001759",
+    "search_category": "reparation-motos"
+  },
+  {
+    "nom_pj": "TOP MOBILITE",
+    "adresse_pj": "82 rue Artois 59000 Lille",
+    "code_postal_pj": "59000",
+    "ville_pj": "Lille",
+    "telephone": "03 61 97 95 50",
+    "search_category": "reparation-motos"
+  },
+  {
+    "nom_pj": "Comete Byke",
+    "adresse_pj": "41 boulevard Léon Jouhaux 59150 Wattrelos",
+    "code_postal_pj": "59150",
+    "ville_pj": "Wattrelos",
+    "telephone": "06 14 30 62 97",
+    "search_category": "reparation-motos"
+  },
+  {
+    "nom_pj": "Le Village du Motard",
+    "adresse_pj": "1 rue Jules Verne 59790 Ronchin",
+    "code_postal_pj": "59790",
+    "ville_pj": "Ronchin",
+    "telephone": "03 28 77 87 78",
+    "search_category": "reparation-motos"
+  },
+  {
+    "nom_pj": "Danjou-Méca Jardins Loisirs",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00894539&code_localite=Z05935000&code_rubrique=259510",
+    "adresse_pj": "2 avenue Victoire 59290 Wasquehal",
+    "code_postal_pj": "59290",
+    "ville_pj": "Wasquehal",
+    "search_category": "reparation-motos"
+  },
+  {
+    "nom_pj": "Concept K Kawasaki",
+    "adresse_pj": "705 rue Industrie 59113 Seclin",
+    "code_postal_pj": "59113",
+    "ville_pj": "Seclin",
+    "telephone": "03 20 97 50 20",
+    "search_category": "reparation-motos"
   }
 ]

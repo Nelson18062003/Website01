@@ -1,236 +1,234 @@
 #!/usr/bin/env python3
 """
-Scrape PagesJaunes by category for Lyon area, then fuzzy-match
-with split_lyon.json to enrich company records.
+Scrape Pages Jaunes by category for Lyon area businesses,
+then match results with split_lyon.json entries.
+Based on the working Bordeaux scraper approach using curl_cffi.
 """
 
 import json
-import re
 import time
-import os
+import re
 import sys
-from urllib.parse import quote
+import os
+import base64
+from urllib.parse import quote, unquote
 from difflib import SequenceMatcher
 
 try:
-    import requests
+    from curl_cffi import requests as cffi_requests
     from bs4 import BeautifulSoup
 except ImportError:
-    print("Installing required packages...")
-    os.system("pip install requests beautifulsoup4 lxml")
-    import requests
+    import subprocess
+    subprocess.check_call([sys.executable, '-m', 'pip', 'install', 'curl_cffi', 'beautifulsoup4', 'lxml'])
+    from curl_cffi import requests as cffi_requests
     from bs4 import BeautifulSoup
 
-# ── Config ──────────────────────────────────────────────────────────────
-BASE_DIR = "/home/user/Website01"
-SOURCE_FILE = os.path.join(BASE_DIR, "split_lyon.json")
-OUTPUT_FILE = os.path.join(BASE_DIR, "enriched_lyon_pj.json")
-PJ_CACHE_FILE = os.path.join(BASE_DIR, "pj_results_cache.json")
-
 HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
-    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
-    "Accept-Language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7",
-    "Accept-Encoding": "gzip, deflate, br",
-    "Connection": "keep-alive",
-    "Upgrade-Insecure-Requests": "1",
-    "Cache-Control": "max-age=0",
+    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8',
+    'Accept-Language': 'fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7',
+    'Referer': 'https://www.pagesjaunes.fr/',
 }
 
+BASE_URL = "https://www.pagesjaunes.fr"
+
+# Use direct annuaire URLs as specified
 CATEGORIES = [
-    ("garage automobile", "garage%20automobile"),
-    ("concession automobile", "concession%20automobile"),
-    ("carrosserie automobile", "carrosserie%20automobile"),
-    ("concession moto", "concession%20moto"),
-    ("garage moto", "garage%20moto"),
+    ("garages-automobiles", "/annuaire/lyon-69/garages-automobiles"),
+    ("concessionnaires-automobiles", "/annuaire/lyon-69/concessionnaires-automobiles"),
+    ("carrosseries-automobiles", "/annuaire/lyon-69/carrosseries-automobiles"),
+    ("motos-concessions", "/annuaire/lyon-69/motos-concessions"),
+    ("reparation-motos", "/annuaire/lyon-69/reparation-motos"),
 ]
 
-DELAY = 2  # seconds between requests
+PJ_CACHE_FILE = "/home/user/Website01/pj_cache_lyon.json"
+OUTPUT_FILE = "/home/user/Website01/pj_results_lyon.json"
+ENRICHED_FILE = "/home/user/Website01/enriched_lyon_final.json"
+SOURCE_FILE = "/home/user/Website01/split_lyon.json"
 
 
-def extract_listings_from_page(html):
-    """Extract business listings from a PagesJaunes HTML page."""
-    soup = BeautifulSoup(html, "lxml")
-    results = []
+def load_cache():
+    if os.path.exists(PJ_CACHE_FILE):
+        with open(PJ_CACHE_FILE, 'r', encoding='utf-8') as f:
+            return json.load(f)
+    return {}
 
-    # PagesJaunes lists results in <li> elements with class 'bi-generic' or similar
-    listings = soup.select("li.bi-generic, li.bi")
-    if not listings:
-        # Try alternative selectors
-        listings = soup.select("[id^='bloc-liste-'] li, .bi-bloc, .bi-content-wrapper")
-    if not listings:
-        # Another try - each listing often has data-pjid
-        listings = soup.select("[data-pjid]")
-    if not listings:
-        # Broader: any div/article with class containing 'bi'
-        listings = soup.select("article.bi, div.bi-bloc")
 
-    for item in listings:
+def save_cache(cache):
+    with open(PJ_CACHE_FILE, 'w', encoding='utf-8') as f:
+        json.dump(cache, f, ensure_ascii=False, indent=2)
+
+
+def decode_pjlb_url(data_pjlb_str):
+    """Decode base64-encoded URL from data-pjlb attribute."""
+    try:
+        data = json.loads(data_pjlb_str)
+        url_b64 = data.get('url', '')
+        if url_b64:
+            padding = 4 - len(url_b64) % 4
+            if padding != 4:
+                url_b64 += '=' * padding
+            decoded = base64.b64decode(url_b64).decode('utf-8', errors='ignore')
+            return decoded
+    except Exception:
+        pass
+    return ''
+
+
+def extract_listings(soup):
+    """Extract business listings from a PagesJaunes results page."""
+    listings = []
+    blocks = soup.select('li.bi')
+
+    for block in blocks:
         entry = {}
 
         # Name
-        name_el = item.select_one("h3 a, .denomination-links a, .bi-denomination a, a.bi-denomination, .bi-header-title a, h2 a")
-        if not name_el:
-            name_el = item.select_one("h3, .bi-denomination, .denomination-links")
-        if name_el:
-            entry["pj_nom"] = name_el.get_text(strip=True)
-        else:
-            continue  # skip if no name
+        denom = block.select_one('.bi-denomination')
+        if denom:
+            entry['nom_pj'] = denom.get_text(strip=True)
+            pjlb = denom.get('data-pjlb', '')
+            if pjlb:
+                detail_path = decode_pjlb_url(pjlb)
+                if detail_path and detail_path.startswith('/'):
+                    entry['url_pj'] = BASE_URL + detail_path
+
+        if not entry.get('nom_pj'):
+            continue
 
         # Address
-        addr_el = item.select_one(".bi-address, .bi-adresse, .address, .bi-address-street")
-        if addr_el:
-            entry["pj_adresse"] = addr_el.get_text(" ", strip=True)
-        else:
-            # Try combining street + city
-            street = item.select_one(".bi-address-street, .street-address")
-            city = item.select_one(".bi-address-city, .locality")
-            parts = []
-            if street:
-                parts.append(street.get_text(strip=True))
-            if city:
-                parts.append(city.get_text(strip=True))
-            if parts:
-                entry["pj_adresse"] = " ".join(parts)
+        addr_link = block.select_one('a.bi-address, [class*="bi-address"]')
+        if not addr_link:
+            addr_link = block.select_one('.bi-adresse a, .address')
 
-        # Phone
-        phone_el = item.select_one(".bi-phone-number, .click_phone_number, a[href^='tel:'], .bi-phone a, .number-phone, [data-phone]")
-        if phone_el:
-            phone_text = phone_el.get("href", "") or phone_el.get("data-phone", "") or phone_el.get_text(strip=True)
-            phone_text = phone_text.replace("tel:", "").strip()
-            if phone_text:
-                entry["pj_telephone"] = phone_text
+        if addr_link:
+            addr_text = addr_link.get_text(' ', strip=True)
+            addr_text = re.sub(r'Voir le plan.*', '', addr_text).strip()
+            addr_text = re.sub(r'Site web.*', '', addr_text).strip()
+            entry['adresse_pj'] = addr_text
 
-        # Also check for phone number in data attribute
-        if "pj_telephone" not in entry:
-            phone_data = item.select_one("[data-num]")
-            if phone_data:
-                entry["pj_telephone"] = phone_data.get("data-num", "")
+            m = re.search(r'(\d{5})\s+(.+)$', addr_text)
+            if m:
+                entry['code_postal_pj'] = m.group(1)
+                entry['ville_pj'] = m.group(2).strip()
+
+        # Phone - extract from raw HTML
+        html_str = str(block)
+        phones = re.findall(r'0[1-9][\s.]?\d{2}[\s.]?\d{2}[\s.]?\d{2}[\s.]?\d{2}', html_str)
+        valid_phones = []
+        for p in phones:
+            clean = p.replace(' ', '').replace('.', '')
+            if not clean.startswith('0300') and len(clean) == 10:
+                valid_phones.append(p)
+        if valid_phones:
+            entry['telephone'] = valid_phones[0]
 
         # Website
-        web_el = item.select_one("a.bi-website, a[data-pjlabel='site_internet'], a.pj-link--website, a[title*='site'], a.bi-site-internet")
+        web_el = block.select_one('a.bi-website')
         if web_el:
-            href = web_el.get("href", "")
-            if href and "pagesjaunes" not in href:
-                entry["pj_site_web"] = href
-            else:
-                entry["pj_site_web"] = web_el.get_text(strip=True)
+            pjlb = web_el.get('data-pjlb', '')
+            if pjlb:
+                url = decode_pjlb_url(pjlb)
+                if url and url.startswith('http'):
+                    entry['site_web'] = url
 
-        # Email - rarely visible on listing pages
-        email_el = item.select_one("a[href^='mailto:']")
-        if email_el:
-            entry["pj_email"] = email_el.get("href", "").replace("mailto:", "").strip()
+        if not entry.get('site_web'):
+            for a_tag in block.select('a.btn_external_link, a[data-pjlb]'):
+                pjlb = a_tag.get('data-pjlb', '')
+                if pjlb:
+                    url = decode_pjlb_url(pjlb)
+                    if url and url.startswith('http') and 'pagesjaunes' not in url:
+                        entry['site_web'] = url
+                        break
 
-        if entry.get("pj_nom"):
-            results.append(entry)
+        listings.append(entry)
 
-    return results, soup
-
-
-def has_next_page(soup):
-    """Check if there's a next page link."""
-    next_link = soup.select_one("a.link_pagination.next, a[id='pagination-next'], a.pagination-next, li.next a, a[title='Page suivante']")
-    if next_link:
-        return next_link.get("href")
-    # Check for pagination numbers
-    pages = soup.select("a.link_pagination, .pagination a")
-    return None
+    return listings
 
 
 def get_total_pages(soup):
-    """Try to determine total number of pages from pagination."""
-    pages = soup.select("a.link_pagination, .pagination a, span.pagination-number")
-    max_page = 1
-    for p in pages:
-        text = p.get_text(strip=True)
-        if text.isdigit():
-            max_page = max(max_page, int(text))
-    return max_page
+    """Determine the total number of result pages."""
+    pag = soup.select_one('.pagination-compteur')
+    if pag:
+        text = pag.get_text()
+        m = re.search(r'/\s*(\d+)', text)
+        if m:
+            return int(m.group(1))
+    return 1
 
 
-def scrape_category(session, cat_name, cat_url_part):
-    """Scrape all pages for a given category in Lyon."""
-    all_results = []
-    base_url = f"https://www.pagesjaunes.fr/annuaire/lyon-69/{cat_url_part}"
+def scrape_category(cat_name, cat_path, session, cache):
+    """Scrape all pages for a given category using annuaire URLs."""
+    cache_key = f"cat_{cat_name}"
+    if cache_key in cache and len(cache[cache_key]) > 0:
+        print(f"  [CACHE] {cat_name}: {len(cache[cache_key])} results already cached")
+        return cache[cache_key]
+
+    all_listings = []
+    max_pages = 50
+
     page = 1
-
-    print(f"\n{'='*60}")
-    print(f"Scraping category: {cat_name}")
-    print(f"{'='*60}")
-
-    while True:
-        if page == 1:
-            url = base_url
-        else:
-            url = f"{base_url}/page-{page}"
+    while page <= max_pages:
+        url = BASE_URL + cat_path
+        if page > 1:
+            url += f"/page-{page}"
 
         print(f"  Page {page}: {url}")
+
         try:
             resp = session.get(url, headers=HEADERS, timeout=30)
-            print(f"    Status: {resp.status_code}")
-
-            if resp.status_code == 404:
-                print(f"    Page not found, stopping pagination.")
-                break
+            if resp.status_code == 403:
+                print(f"    HTTP 403 - blocked, waiting 10s and retrying...")
+                time.sleep(10)
+                resp = session.get(url, headers=HEADERS, timeout=30)
             if resp.status_code != 200:
-                print(f"    Non-200 status, stopping.")
+                print(f"    HTTP {resp.status_code}, stopping")
                 break
-
-            listings, soup = extract_listings_from_page(resp.text)
-            print(f"    Found {len(listings)} listings")
-
-            if not listings:
-                # Maybe blocked or end of results
-                # Save HTML for debugging first page only
-                if page == 1:
-                    debug_path = os.path.join(BASE_DIR, f"debug_pj_{cat_url_part.replace('%20','_')}.html")
-                    with open(debug_path, "w", encoding="utf-8") as f:
-                        f.write(resp.text)
-                    print(f"    Saved debug HTML to {debug_path}")
-                break
-
-            all_results.extend(listings)
-
-            # Check total pages on first page
-            if page == 1:
-                total = get_total_pages(soup)
-                print(f"    Estimated total pages: {total}")
-
-            # Check for next page
-            next_href = has_next_page(soup)
-            if next_href:
-                page += 1
-                time.sleep(DELAY)
-            else:
-                # Try incrementing page anyway up to reasonable limit
-                if page < 20 and len(listings) >= 10:
-                    page += 1
-                    time.sleep(DELAY)
-                else:
-                    break
-
         except Exception as e:
             print(f"    Error: {e}")
             break
 
-        time.sleep(DELAY)
+        soup = BeautifulSoup(resp.text, 'lxml')
 
-    print(f"  Total for '{cat_name}': {len(all_results)} listings")
-    return all_results
+        if page == 1:
+            total = get_total_pages(soup)
+            max_pages = min(total, 50)
+            print(f"    Total pages: {total} (fetching up to {max_pages})")
+
+        listings = extract_listings(soup)
+        print(f"    Found {len(listings)} listings")
+
+        if not listings:
+            if page == 1:
+                debug_file = f"/home/user/Website01/debug_pj_lyon_{cat_name}.html"
+                with open(debug_file, 'w', encoding='utf-8') as f:
+                    f.write(resp.text)
+                print(f"    No listings on page 1 - saved debug HTML to {debug_file}")
+            break
+
+        all_listings.extend(listings)
+
+        # Save progress after each page
+        cache[cache_key] = all_listings
+        save_cache(cache)
+
+        page += 1
+        delay = 1.5 + (page % 3) * 0.5
+        time.sleep(delay)
+
+    cache[cache_key] = all_listings
+    save_cache(cache)
+    print(f"  => Total for '{cat_name}': {len(all_listings)} listings")
+    return all_listings
 
 
 def normalize_name(name):
-    """Normalize a company name for matching."""
+    """Normalize a business name for matching."""
     if not name:
         return ""
     name = name.upper()
-    # Remove common suffixes/prefixes
-    name = re.sub(r'\b(SARL|SAS|SA|EURL|SCI|SNC|AUTO|AUTOMOBILES?|GARAGE|CARROSSERIE)\b', '', name)
-    # Remove parenthetical content
-    name = re.sub(r'\(.*?\)', '', name)
-    # Remove punctuation
-    name = re.sub(r'[^A-Z0-9\s]', '', name)
-    # Collapse whitespace
+    name = re.sub(r'\b(SARL|SAS|SA|EURL|SCI|SASU|SNC|ETS|ETABLISSEMENTS?)\b', '', name)
+    name = re.sub(r'\([^)]*\)', '', name)
+    name = re.sub(r'[^A-Z0-9\s]', ' ', name)
     name = re.sub(r'\s+', ' ', name).strip()
     return name
 
@@ -240,178 +238,186 @@ def normalize_address(addr):
     if not addr:
         return ""
     addr = addr.upper()
-    addr = re.sub(r'[^A-Z0-9\s]', '', addr)
+    addr = re.sub(r'\bAV\b\.?', 'AVENUE', addr)
+    addr = re.sub(r'\bBD\b\.?', 'BOULEVARD', addr)
+    addr = re.sub(r'\bPL\b\.?', 'PLACE', addr)
+    addr = re.sub(r'\bALL\b\.?', 'ALLEE', addr)
+    addr = re.sub(r'[^A-Z0-9\s]', ' ', addr)
     addr = re.sub(r'\s+', ' ', addr).strip()
     return addr
 
 
-def extract_street_number_and_name(addr):
-    """Extract street number and street name from address."""
-    if not addr:
-        return "", ""
-    addr = addr.upper().strip()
-    m = re.match(r'^(\d+)\s+(.+?)(?:\s+\d{5}\s+.*)?$', addr)
-    if m:
-        return m.group(1), m.group(2).strip()
-    return "", addr
+def fuzzy_match(s1, s2):
+    return SequenceMatcher(None, s1, s2).ratio()
 
 
-def fuzzy_match(name1, name2, threshold=0.55):
-    """Return similarity ratio between two names."""
-    n1 = normalize_name(name1)
-    n2 = normalize_name(name2)
-    if not n1 or not n2:
-        return 0.0
-    return SequenceMatcher(None, n1, n2).ratio()
+def match_listings(source_data, pj_listings):
+    """Match PJ listings to source entries using fuzzy matching."""
+    matched_count = 0
 
+    pj_normalized = []
+    for pj in pj_listings:
+        pj_normalized.append({
+            'orig': pj,
+            'name': normalize_name(pj.get('nom_pj', '')),
+            'addr': normalize_address(pj.get('adresse_pj', '')),
+            'cp': pj.get('code_postal_pj', ''),
+            'ville': pj.get('ville_pj', '').upper(),
+        })
 
-def address_match(addr1, addr2, threshold=0.6):
-    """Check if two addresses match."""
-    a1 = normalize_address(addr1)
-    a2 = normalize_address(addr2)
-    if not a1 or not a2:
-        return 0.0
-    return SequenceMatcher(None, a1, a2).ratio()
+    for entry in source_data:
+        src_name = normalize_name(entry.get('nom', ''))
+        src_addr = normalize_address(entry.get('adresse', ''))
+        src_cp = entry.get('code_postal', '')
+        src_ville = entry.get('ville', '').upper()
 
-
-def match_pj_to_source(pj_results, source_data):
-    """Match PagesJaunes results to source file entries."""
-    matches = {}  # source index -> best PJ match
-
-    for pj in pj_results:
-        pj_name = pj.get("pj_nom", "")
-        pj_addr = pj.get("pj_adresse", "")
-
+        best_match = None
         best_score = 0
-        best_idx = None
+        best_name_score = 0
 
-        for idx, src in enumerate(source_data):
-            src_name = src.get("nom", "")
-            src_addr = src.get("adresse", "")
+        for pjn in pj_normalized:
+            pj_name = pjn['name']
+            pj_addr = pjn['addr']
+            pj_cp = pjn['cp']
+            pj_ville = pjn['ville']
 
-            # Name similarity
-            name_score = fuzzy_match(pj_name, src_name)
+            name_score = fuzzy_match(src_name, pj_name)
 
-            # Address similarity
-            addr_score = address_match(pj_addr, src_addr)
+            contains_bonus = 0
+            if src_name and pj_name:
+                if src_name in pj_name or pj_name in src_name:
+                    if len(min(src_name, pj_name, key=len)) > 4:
+                        contains_bonus = 0.3
+                src_words = set(w for w in src_name.split() if len(w) > 3)
+                pj_words = set(w for w in pj_name.split() if len(w) > 3)
+                if src_words and pj_words:
+                    common = src_words & pj_words
+                    overlap = len(common) / max(len(src_words), len(pj_words))
+                    if overlap > 0.5:
+                        contains_bonus = max(contains_bonus, overlap * 0.25)
 
-            # Combined score - name is more important
-            combined = name_score * 0.65 + addr_score * 0.35
+            addr_score = 0
+            if src_addr and pj_addr:
+                addr_score = fuzzy_match(src_addr, pj_addr)
 
-            # Bonus if both name and address are decent matches
-            if name_score > 0.5 and addr_score > 0.5:
-                combined += 0.1
+            location_bonus = 0
+            if src_cp and pj_cp:
+                if src_cp == pj_cp:
+                    location_bonus = 0.15
+                elif src_cp[:2] == pj_cp[:2]:
+                    location_bonus = 0.05
+            elif src_ville and pj_ville:
+                if src_ville == pj_ville or src_ville in pj_ville or pj_ville in src_ville:
+                    location_bonus = 0.1
 
-            # Also check if PJ name contains key words from source or vice versa
-            pj_words = set(normalize_name(pj_name).split())
-            src_words = set(normalize_name(src_name).split())
-            if pj_words and src_words:
-                common = pj_words & src_words
-                if len(common) >= 2:
-                    combined += 0.1
-                elif len(common) >= 1 and len(min(pj_words, src_words, key=len)) <= 2:
-                    combined += 0.05
+            score = name_score * 0.6 + contains_bonus + addr_score * 0.25 + location_bonus
 
-            if combined > best_score and combined > 0.45:
-                best_score = combined
-                best_idx = idx
+            if score > best_score:
+                best_score = score
+                best_name_score = name_score
+                best_match = pjn['orig']
 
-        if best_idx is not None:
-            if best_idx not in matches or matches[best_idx][1] < best_score:
-                matches[best_idx] = (pj, best_score)
+        accept = False
+        if best_score >= 0.65 and best_match:
+            accept = True
+        elif best_score >= 0.6 and best_name_score >= 0.8:
+            accept = True
 
-    return matches
+        if accept:
+            matched_count += 1
+            entry['telephone'] = best_match.get('telephone', '')
+            entry['site_web'] = best_match.get('site_web', '')
+            entry['nom_pj'] = best_match.get('nom_pj', '')
+            entry['adresse_pj'] = best_match.get('adresse_pj', '')
+            entry['ville_pj'] = best_match.get('ville_pj', '')
+            entry['code_postal_pj'] = best_match.get('code_postal_pj', '')
+            entry['url_pj'] = best_match.get('url_pj', '')
+            entry['match_score'] = round(best_score, 3)
+            entry['enrichi'] = True
+        else:
+            entry['enrichi'] = False
+
+    return source_data, matched_count
 
 
 def main():
-    # Load source data
-    print("Loading source data...")
-    with open(SOURCE_FILE, "r", encoding="utf-8") as f:
-        source_data = json.load(f)
-    print(f"Loaded {len(source_data)} companies")
+    print("=" * 60)
+    print("Pages Jaunes Scraper - Lyon Auto/Moto Businesses")
+    print("=" * 60)
 
-    # Check for cached PJ results
-    all_pj_results = []
-    if os.path.exists(PJ_CACHE_FILE):
-        print("Loading cached PJ results...")
-        with open(PJ_CACHE_FILE, "r", encoding="utf-8") as f:
-            all_pj_results = json.load(f)
-        print(f"Loaded {len(all_pj_results)} cached results")
+    session = cffi_requests.Session(impersonate="chrome")
+    cache = load_cache()
 
-    if not all_pj_results:
-        # Scrape PagesJaunes
-        session = requests.Session()
+    all_pj_listings = []
 
-        for cat_name, cat_url in CATEGORIES:
-            results = scrape_category(session, cat_name, cat_url)
-            all_pj_results.extend(results)
+    for cat_name, cat_path in CATEGORIES:
+        print(f"\n{'=' * 40}")
+        print(f"Category: {cat_name}")
+        print(f"{'=' * 40}")
+        listings = scrape_category(cat_name, cat_path, session, cache)
 
-            # Save intermediate cache
-            with open(PJ_CACHE_FILE, "w", encoding="utf-8") as f:
-                json.dump(all_pj_results, f, ensure_ascii=False, indent=2)
-            print(f"  Cached {len(all_pj_results)} total results so far")
+        for l in listings:
+            l['search_category'] = cat_name
 
-            time.sleep(3)  # Extra delay between categories
+        all_pj_listings.extend(listings)
 
-        print(f"\nTotal PJ results scraped: {len(all_pj_results)}")
+        # Save intermediate results
+        with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
+            json.dump(all_pj_listings, f, ensure_ascii=False, indent=2)
+        print(f"  Saved {len(all_pj_listings)} total PJ listings")
 
-    # Deduplicate PJ results by name
-    seen = set()
-    unique_pj = []
-    for r in all_pj_results:
-        key = normalize_name(r.get("pj_nom", ""))
+        time.sleep(2)
+
+    # Deduplicate by normalized name
+    seen = {}
+    unique_listings = []
+    for l in all_pj_listings:
+        key = normalize_name(l.get('nom_pj', ''))
         if key and key not in seen:
-            seen.add(key)
-            unique_pj.append(r)
-    print(f"Unique PJ results after dedup: {len(unique_pj)}")
+            seen[key] = l
+            unique_listings.append(l)
+        elif key and key in seen:
+            existing = seen[key]
+            for field in ['telephone', 'site_web', 'adresse_pj', 'ville_pj', 'url_pj', 'code_postal_pj']:
+                if not existing.get(field) and l.get(field):
+                    existing[field] = l[field]
 
-    # Match and enrich
-    print("\nMatching PJ results to source data...")
-    matches = match_pj_to_source(unique_pj, source_data)
-    print(f"Found {len(matches)} matches")
+    print(f"\n{'=' * 60}")
+    print(f"Total PJ listings: {len(all_pj_listings)}")
+    print(f"Unique PJ listings: {len(unique_listings)}")
 
-    # Enrich source data
-    enriched = []
-    matched_count = 0
-    for idx, company in enumerate(source_data):
-        entry = dict(company)
-        if idx in matches:
-            pj_data, score = matches[idx]
-            entry["pj_telephone"] = pj_data.get("pj_telephone", "")
-            entry["pj_site_web"] = pj_data.get("pj_site_web", "")
-            entry["pj_email"] = pj_data.get("pj_email", "")
-            entry["pj_adresse"] = pj_data.get("pj_adresse", "")
-            entry["pj_nom_match"] = pj_data.get("pj_nom", "")
-            entry["pj_match_score"] = round(score, 3)
-            entry["pj_enriched"] = True
-            matched_count += 1
-        else:
-            entry["pj_telephone"] = ""
-            entry["pj_site_web"] = ""
-            entry["pj_email"] = ""
-            entry["pj_adresse_pj"] = ""
-            entry["pj_nom_match"] = ""
-            entry["pj_match_score"] = 0
-            entry["pj_enriched"] = False
-        enriched.append(entry)
+    with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
+        json.dump(unique_listings, f, ensure_ascii=False, indent=2)
 
-    # Save enriched data
-    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+    with_phone = sum(1 for l in unique_listings if l.get('telephone'))
+    with_web = sum(1 for l in unique_listings if l.get('site_web'))
+    with_addr = sum(1 for l in unique_listings if l.get('adresse_pj'))
+    print(f"PJ data quality: {with_phone} with phone, {with_web} with website, {with_addr} with address")
+
+    # Load source and match
+    print(f"\nLoading source data from {SOURCE_FILE}...")
+    with open(SOURCE_FILE, 'r', encoding='utf-8') as f:
+        source_data = json.load(f)
+    print(f"Source entries: {len(source_data)}")
+
+    print("Matching PJ listings to source entries...")
+    enriched, matched = match_listings(source_data, unique_listings)
+
+    with_phone_enriched = sum(1 for e in enriched if e.get('telephone'))
+    with_web_enriched = sum(1 for e in enriched if e.get('site_web'))
+
+    print(f"\n{'=' * 60}")
+    print(f"ENRICHMENT RESULTS")
+    print(f"{'=' * 60}")
+    print(f"Total source entries: {len(enriched)}")
+    print(f"Matched with PJ: {matched}")
+    print(f"With phone: {with_phone_enriched}")
+    print(f"With website: {with_web_enriched}")
+
+    with open(ENRICHED_FILE, 'w', encoding='utf-8') as f:
         json.dump(enriched, f, ensure_ascii=False, indent=2)
-
-    print(f"\nDone! Enriched {matched_count}/{len(source_data)} companies")
-    print(f"Saved to {OUTPUT_FILE}")
-
-    # Print some stats on matches
-    if matched_count > 0:
-        scores = [matches[i][1] for i in matches]
-        print(f"Match scores: min={min(scores):.3f}, max={max(scores):.3f}, avg={sum(scores)/len(scores):.3f}")
-        print("\nSample matches:")
-        for idx in list(matches.keys())[:10]:
-            pj, score = matches[idx]
-            src = source_data[idx]
-            print(f"  {src['nom'][:40]:40s} <-> {pj['pj_nom'][:40]:40s} (score: {score:.3f})")
+    print(f"\nSaved enriched data to {ENRICHED_FILE}")
 
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     main()

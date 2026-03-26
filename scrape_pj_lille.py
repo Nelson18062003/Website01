@@ -2,8 +2,7 @@
 """
 Scrape Pages Jaunes by category for Lille area businesses,
 then match results with split_lille.json entries.
-
-Uses direct annuaire URLs with /page-N pagination.
+Adapted from the working Bordeaux scraper.
 """
 
 import json
@@ -32,13 +31,13 @@ HEADERS = {
 
 BASE_URL = "https://www.pagesjaunes.fr"
 
-# Direct annuaire URLs as specified
+# Direct annuaire URLs as specified, with pagination via /page-N
 CATEGORIES = [
-    ("garages automobiles",       "/annuaire/lille-59/garages-automobiles"),
-    ("concessionnaires automobiles", "/annuaire/lille-59/concessionnaires-automobiles"),
-    ("carrosseries automobiles",  "/annuaire/lille-59/carrosseries-automobiles"),
-    ("motos concessions",         "/annuaire/lille-59/motos-concessions"),
-    ("reparation motos",          "/annuaire/lille-59/reparation-motos"),
+    ("garages-automobiles", "/annuaire/lille-59/garages-automobiles"),
+    ("concessionnaires-automobiles", "/annuaire/lille-59/concessionnaires-automobiles"),
+    ("carrosseries-automobiles", "/annuaire/lille-59/carrosseries-automobiles"),
+    ("motos-concessions", "/annuaire/lille-59/motos-concessions"),
+    ("reparation-motos", "/annuaire/lille-59/reparation-motos"),
 ]
 
 PJ_CACHE_FILE = "/home/user/Website01/pj_cache_lille.json"
@@ -65,6 +64,7 @@ def decode_pjlb_url(data_pjlb_str):
         data = json.loads(data_pjlb_str)
         url_b64 = data.get('url', '')
         if url_b64:
+            # Fix base64 padding
             padding = 4 - len(url_b64) % 4
             if padding != 4:
                 url_b64 += '=' * padding
@@ -83,6 +83,7 @@ def extract_listings(soup):
     for block in blocks:
         entry = {}
 
+        # Name
         denom = block.select_one('.bi-denomination')
         if denom:
             entry['nom_pj'] = denom.get_text(strip=True)
@@ -157,14 +158,14 @@ def get_total_pages(soup):
 
 
 def scrape_category(cat_name, cat_path, session, cache):
-    """Scrape all pages for a given category using /page-N pagination."""
+    """Scrape all pages for a given category using annuaire URLs with /page-N pagination."""
     cache_key = f"cat_{cat_name}"
     if cache_key in cache and len(cache[cache_key]) > 0:
         print(f"  [CACHE] {cat_name}: {len(cache[cache_key])} results already cached")
         return cache[cache_key]
 
     all_listings = []
-    max_pages = 50
+    max_pages = 50  # safety limit
 
     page = 1
     while page <= max_pages:
@@ -181,6 +182,9 @@ def scrape_category(cat_name, cat_path, session, cache):
                 print(f"    HTTP 403 - blocked, waiting 10s and retrying...")
                 time.sleep(10)
                 resp = session.get(url, headers=HEADERS, timeout=30)
+            if resp.status_code == 404:
+                print(f"    HTTP 404 - no more pages")
+                break
             if resp.status_code != 200:
                 print(f"    HTTP {resp.status_code}, stopping")
                 break
@@ -200,7 +204,7 @@ def scrape_category(cat_name, cat_path, session, cache):
 
         if not listings:
             if page == 1:
-                debug_file = f"/home/user/Website01/debug_pj_lille_{cat_name.replace(' ', '_')}.html"
+                debug_file = f"/home/user/Website01/debug_pj_lille_{cat_name}.html"
                 with open(debug_file, 'w', encoding='utf-8') as f:
                     f.write(resp.text)
                 print(f"    No listings on page 1 - saved debug HTML to {debug_file}")
@@ -208,10 +212,12 @@ def scrape_category(cat_name, cat_path, session, cache):
 
         all_listings.extend(listings)
 
+        # Save progress after each page
         cache[cache_key] = all_listings
         save_cache(cache)
 
         page += 1
+        # Respectful delay 1.5-2.5s
         delay = 1.5 + (page % 3) * 0.5
         time.sleep(delay)
 
@@ -251,10 +257,20 @@ def fuzzy_match(s1, s2):
     return SequenceMatcher(None, s1, s2).ratio()
 
 
+def extract_postal_and_city(ville_pj):
+    if not ville_pj:
+        return '', ''
+    match = re.match(r'(\d{5})\s+(.*)', ville_pj.strip())
+    if match:
+        return match.group(1), match.group(2).upper()
+    return '', ville_pj.upper()
+
+
 def match_listings(source_data, pj_listings):
     """Match PJ listings to source entries using fuzzy matching."""
     matched_count = 0
 
+    # Pre-compute normalized PJ data
     pj_normalized = []
     for pj in pj_listings:
         pj_normalized.append({
@@ -281,8 +297,10 @@ def match_listings(source_data, pj_listings):
             pj_cp = pjn['cp']
             pj_ville = pjn['ville']
 
+            # Name similarity
             name_score = fuzzy_match(src_name, pj_name)
 
+            # Containment bonus
             contains_bonus = 0
             if src_name and pj_name:
                 if src_name in pj_name or pj_name in src_name:
@@ -296,20 +314,27 @@ def match_listings(source_data, pj_listings):
                     if overlap > 0.5:
                         contains_bonus = max(contains_bonus, overlap * 0.25)
 
+            # Address similarity
             addr_score = 0
             if src_addr and pj_addr:
                 addr_score = fuzzy_match(src_addr, pj_addr)
 
+            # Location match
             location_bonus = 0
+            location_match = False
             if src_cp and pj_cp:
                 if src_cp == pj_cp:
                     location_bonus = 0.15
+                    location_match = True
                 elif src_cp[:2] == pj_cp[:2]:
                     location_bonus = 0.05
+                    location_match = True
             elif src_ville and pj_ville:
                 if src_ville == pj_ville or src_ville in pj_ville or pj_ville in src_ville:
                     location_bonus = 0.1
+                    location_match = True
 
+            # Combined score
             score = name_score * 0.6 + contains_bonus + addr_score * 0.25 + location_bonus
 
             if score > best_score:
@@ -317,6 +342,7 @@ def match_listings(source_data, pj_listings):
                 best_name_score = name_score
                 best_match = pjn['orig']
 
+        # Threshold
         accept = False
         if best_score >= 0.65 and best_match:
             accept = True
@@ -342,7 +368,7 @@ def match_listings(source_data, pj_listings):
 
 def main():
     print("=" * 60)
-    print("Pages Jaunes Scraper - Lille Auto/Moto Businesses")
+    print("Pages Jaunes Scraper - Lille Auto & Moto Businesses")
     print("=" * 60)
 
     session = cffi_requests.Session(impersonate="chrome")
@@ -361,6 +387,7 @@ def main():
 
         all_pj_listings.extend(listings)
 
+        # Save intermediate results
         with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
             json.dump(all_pj_listings, f, ensure_ascii=False, indent=2)
         print(f"  Saved {len(all_pj_listings)} total PJ listings")
@@ -388,6 +415,7 @@ def main():
     with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
         json.dump(unique_listings, f, ensure_ascii=False, indent=2)
 
+    # Stats on PJ data quality
     with_phone = sum(1 for l in unique_listings if l.get('telephone'))
     with_web = sum(1 for l in unique_listings if l.get('site_web'))
     with_addr = sum(1 for l in unique_listings if l.get('adresse_pj'))

@@ -69,6 +69,10 @@ SKIP_DOMAINS = {
     "contact-infos.", "annuairepro.", "infonet.fr", "tel.fr",
     "horairesdouverture24.", "horairesdouverture.", "ouvert-le-dimanche.",
     "openingtimes.", "cybo.", "foursquare.", "pagesjaunes.ca",
+    "whitepages.", "automobile.e-pro.", "e-pro.fr", "linternaute.com",
+    "lagazettefrance.", "lagazette.", "pages-blanches.", "pagesblanches.",
+    "copainsdavant.", "trombi.", "kelest.", "annuaire-mairie.",
+    "gralon.", "commune-mairie.", "habitatpresto.", "travaux.com",
 }
 
 # ---------------------------------------------------------------------------

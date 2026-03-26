@@ -31,11 +31,11 @@ HEADERS = {
 BASE_URL = "https://www.pagesjaunes.fr"
 
 SEARCHES = [
-    ("garage automobile", "garage+automobile", "lyon+33"),
-    ("concession automobile", "concession+automobile", "lyon+33"),
-    ("carrosserie automobile", "carrosserie+automobile", "lyon+33"),
-    ("concession moto", "concession+moto", "lyon+33"),
-    ("garage moto", "garage+moto", "lyon+33"),
+    ("garage automobile", "garage+automobile", "lyon+69"),
+    ("concession automobile", "concession+automobile", "lyon+69"),
+    ("carrosserie automobile", "carrosserie+automobile", "lyon+69"),
+    ("concession moto", "concession+moto", "lyon+69"),
+    ("garage moto", "garage+moto", "lyon+69"),
 ]
 
 PJ_CACHE_FILE = "/home/user/Website01/pj_cache_lyon.json"

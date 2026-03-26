@@ -59,4 +59,12 @@ Fichier charge: 727 entreprises
 [53/727] JALEL JELASSI (SIREN: 100292929)... web=https://infonet.fr/dirigeants/66aa96e75da7ac2c4bd4
 [54/727] RAVEZIES AUTOMOBILES (SIREN: 389750993)... rien trouve
 [55/727] NOVAUTO (SIREN: 504187642)... rien trouve
-[56/727] CARROSSERIE ARCOS (SIREN: 793154626)... 
+[56/727] CARROSSERIE ARCOS (SIREN: 793154626)... rien trouve
+[57/727] MG5 AUTOMOBILES (MG5 AUTOMOBILES) (SIREN: 521402750)... web=https://www.autosumo.fr/france/bordeaux/profession
+[58/727] ATME AUTO (SIREN: 522032531)... tel=05 56 38 53 00 | email=pschordeaux.entreprises@socgen.com
+[59/727] WALID BEDJOU (SIREN: 802780809)... web=https://rocketreach.co/walid-bedjou-email_81264688
+[60/727] NEOVAP' (NEOVAP'EURL) (SIREN: 800381451)... rien trouve
+  [Progression sauvegardee: 60/727]
+[61/727] NELSON ALVES LOUREIRO (SIREN: 800617961)... rien trouve
+[62/727] DIDIER BOURNAZEAU (DETAILING SHINE & COLORS) (SIREN: 510617954)... rien trouve
+[63/727] EXCELLENCE AUTOMOBILE (SIREN: 511298317)... 
