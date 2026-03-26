@@ -73,6 +73,11 @@ SKIP_DOMAINS = {
     "lagazettefrance.", "lagazette.", "pages-blanches.", "pagesblanches.",
     "copainsdavant.", "trombi.", "kelest.", "annuaire-mairie.",
     "gralon.", "commune-mairie.", "habitatpresto.", "travaux.com",
+    "pagesblanchesfrance.", "le-site-de.com", "garageauto.net",
+    "societe.politologue.", "politologue.com", "artisan-en-ligne.",
+    "artisandepannage.", "toutlocal.", "aladom.", "123pages.",
+    "companycheck.", "rocketreach.", "zoominfo.", "crunchbase.",
+    "glassdoor.", "indeed.", "monster.", "emploi.", "pole-emploi.",
 }
 
 # ---------------------------------------------------------------------------
