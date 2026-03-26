@@ -14860,6 +14860,596 @@
       "code_postal_pj": "69270",
       "ville_pj": "Cailloux sur Fontaines",
       "telephone": "06 08 31 66 36"
+    },
+    {
+      "nom_pj": "Carrosserie GT",
+      "adresse_pj": "8 rue Jean Rostand 69740 Genas",
+      "code_postal_pj": "69740",
+      "ville_pj": "Genas",
+      "telephone": "07 58 48 19 49"
+    },
+    {
+      "nom_pj": "Carrosserie RS Auto",
+      "adresse_pj": "25 avenue Gabriel Péri 69960 Corbas",
+      "code_postal_pj": "69960",
+      "ville_pj": "Corbas",
+      "telephone": "06 64 13 62 82"
+    },
+    {
+      "nom_pj": "AKM AUTO",
+      "adresse_pj": "7 rue Javelot 69120 Vaulx en Velin",
+      "code_postal_pj": "69120",
+      "ville_pj": "Vaulx en Velin",
+      "telephone": "07 69 36 20 89"
+    },
+    {
+      "nom_pj": "Carrosserie Delgado",
+      "adresse_pj": "11 rue François Guillard 69120 Vaulx en Velin",
+      "code_postal_pj": "69120",
+      "ville_pj": "Vaulx en Velin",
+      "telephone": "04 78 80 91 15"
+    },
+    {
+      "nom_pj": "AUTOREPAR",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=60167542&code_localite=Z06912300&code_rubrique=388310",
+      "adresse_pj": "5 avenue Pays Bas 69330 Meyzieu",
+      "code_postal_pj": "69330",
+      "ville_pj": "Meyzieu",
+      "telephone": "04 37 48 84 84"
+    },
+    {
+      "nom_pj": "My Carrosserie",
+      "adresse_pj": "4 rue Arsenal 69200 Vénissieux",
+      "code_postal_pj": "69200",
+      "ville_pj": "Vénissieux",
+      "telephone": "04 78 90 13 68"
+    },
+    {
+      "nom_pj": "D'Boss Et Renov Auto",
+      "adresse_pj": "12 avenue Frères Montgolfier 69680 Chassieu",
+      "code_postal_pj": "69680",
+      "ville_pj": "Chassieu",
+      "telephone": "07 83 52 83 07"
+    },
+    {
+      "nom_pj": "OGH AUTO",
+      "adresse_pj": "63 rue Paul et Marc Barbezat 69150 Décines Charpieu",
+      "code_postal_pj": "69150",
+      "ville_pj": "Décines Charpieu",
+      "telephone": "06 51 91 00 87"
+    },
+    {
+      "nom_pj": "Chapelle",
+      "adresse_pj": "16 rue Industrie 69530 Brignais",
+      "code_postal_pj": "69530",
+      "ville_pj": "Brignais",
+      "telephone": "04 78 51 43 09"
+    },
+    {
+      "nom_pj": "Garage Leo",
+      "adresse_pj": "672 rue Mercières 69140 Rillieux la Pape",
+      "code_postal_pj": "69140",
+      "ville_pj": "Rillieux la Pape",
+      "telephone": "06 01 33 67 10"
+    },
+    {
+      "nom_pj": "Multi Marque Auto",
+      "adresse_pj": "1 rue Marius Vivier Merle 69200 Vénissieux",
+      "code_postal_pj": "69200",
+      "ville_pj": "Vénissieux",
+      "telephone": "07 51 54 57 65"
+    },
+    {
+      "nom_pj": "Garage Des PlatanesConnu sous : CARROSSERIE DU GARAGE DES PLATANES",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=09398124&code_localite=Z06912300&code_rubrique=388310",
+      "adresse_pj": "6 rue Marius Berliet 69380 Chazay d'Azergues",
+      "code_postal_pj": "69380",
+      "ville_pj": "Chazay d'Azergues",
+      "telephone": "04 78 43 62 65"
+    },
+    {
+      "nom_pj": "Pa Point Auto",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=57894501&code_localite=Z06912300&code_rubrique=142320",
+      "adresse_pj": "12 Ter avenue Eugène Hénaff 69120 Vaulx en Velin",
+      "code_postal_pj": "69120",
+      "ville_pj": "Vaulx en Velin",
+      "telephone": "06 95 44 82 79"
+    },
+    {
+      "nom_pj": "CARROSSERIE MP AUTO",
+      "adresse_pj": "63 rue Paul et Marc Barbezat 69150 Décines Charpieu",
+      "code_postal_pj": "69150",
+      "ville_pj": "Décines Charpieu",
+      "telephone": "07 43 62 76 87"
+    },
+    {
+      "nom_pj": "Peugeot Citroën La Boisse",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=02765174&code_localite=Z06912300&code_rubrique=388310",
+      "adresse_pj": "521 route Nationale 01120 La Boisse",
+      "code_postal_pj": "01120",
+      "ville_pj": "La Boisse",
+      "telephone": "04 72 25 10 03"
+    },
+    {
+      "nom_pj": "ATLAS CARROSSERIE",
+      "adresse_pj": "1 impasse Baco 69800 Saint Priest",
+      "code_postal_pj": "69800",
+      "ville_pj": "Saint Priest",
+      "telephone": "06 52 68 67 00"
+    },
+    {
+      "nom_pj": "Auto Belle",
+      "adresse_pj": "12 rue Serrières 69540 Irigny",
+      "code_postal_pj": "69540",
+      "ville_pj": "Irigny",
+      "telephone": "06 21 28 47 15"
+    },
+    {
+      "nom_pj": "Flash Carrosserie",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=63453831&code_localite=Z06912300&code_rubrique=388310",
+      "adresse_pj": "37 avenue 8 Mai 1945 69120 Vaulx en Velin",
+      "code_postal_pj": "69120",
+      "ville_pj": "Vaulx en Velin",
+      "telephone": "06 19 91 22 39"
+    },
+    {
+      "nom_pj": "La Carrosserie Paul Fernandes",
+      "adresse_pj": "bât 1 rue Levée 69730 Genay",
+      "code_postal_pj": "69730",
+      "ville_pj": "Genay",
+      "telephone": "04 78 32 17 00"
+    },
+    {
+      "nom_pj": "Garage auto de la conventionConnu sous : Auto Carrosserie De La Convention",
+      "adresse_pj": "15 rue Gén de Gaulle 69530 Brignais",
+      "code_postal_pj": "69530",
+      "ville_pj": "Brignais",
+      "telephone": "04 78 05 09 40"
+    },
+    {
+      "nom_pj": "Auto Belle",
+      "adresse_pj": "12 rue Serrières 69540 Irigny",
+      "code_postal_pj": "69540",
+      "ville_pj": "Irigny",
+      "telephone": "06 21 28 47 15"
+    },
+    {
+      "nom_pj": "Carrosserie RS Auto",
+      "adresse_pj": "25 avenue Gabriel Péri 69960 Corbas",
+      "code_postal_pj": "69960",
+      "ville_pj": "Corbas",
+      "telephone": "06 64 13 62 82"
+    },
+    {
+      "nom_pj": "Carrosserie City",
+      "adresse_pj": "1 avenue Gare 01700 Miribel",
+      "code_postal_pj": "01700",
+      "ville_pj": "Miribel",
+      "telephone": "06 95 35 71 94"
+    },
+    {
+      "nom_pj": "CARROSSERIE MP AUTO",
+      "adresse_pj": "63 rue Paul et Marc Barbezat 69150 Décines Charpieu",
+      "code_postal_pj": "69150",
+      "ville_pj": "Décines Charpieu",
+      "telephone": "07 43 62 76 87"
+    },
+    {
+      "nom_pj": "La Carrosserie Paul Fernandes",
+      "adresse_pj": "bât 1 rue Levée 69730 Genay",
+      "code_postal_pj": "69730",
+      "ville_pj": "Genay",
+      "telephone": "04 78 32 17 00"
+    },
+    {
+      "nom_pj": "CR Carrosserie",
+      "adresse_pj": "80 avenue Bruyères 69150 Décines Charpieu",
+      "code_postal_pj": "69150",
+      "ville_pj": "Décines Charpieu",
+      "telephone": "09 80 26 28 40"
+    },
+    {
+      "nom_pj": "Chapelle",
+      "adresse_pj": "16 rue Industrie 69530 Brignais",
+      "code_postal_pj": "69530",
+      "ville_pj": "Brignais",
+      "telephone": "04 78 51 43 09"
+    },
+    {
+      "nom_pj": "Carro'Styl",
+      "adresse_pj": "3 avenue Orcha 69120 Vaulx en Velin",
+      "code_postal_pj": "69120",
+      "ville_pj": "Vaulx en Velin",
+      "telephone": "04 82 53 02 38"
+    },
+    {
+      "nom_pj": "Rue du Pare BriseConnu sous : CARROSSERIE AUTO GUILLARD",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=53521893&code_localite=Z06912300&code_rubrique=388310",
+      "adresse_pj": "9 boulevard Europe 69310 Pierre Bénite",
+      "code_postal_pj": "69310",
+      "ville_pj": "Pierre Bénite",
+      "telephone": "04 78 81 09 43"
+    },
+    {
+      "nom_pj": "Ace Héritage",
+      "adresse_pj": "63 chemin Begonnière 69230 Saint Genis Laval",
+      "code_postal_pj": "69230",
+      "ville_pj": "Saint Genis Laval",
+      "telephone": "06 67 75 19 18"
+    },
+    {
+      "nom_pj": "MS Automobiles",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=61479610&code_localite=Z06912300&code_rubrique=388310",
+      "adresse_pj": "104 rue Fleury Jay 69520 Grigny",
+      "code_postal_pj": "69520",
+      "ville_pj": "Grigny",
+      "telephone": "04 28 38 70 00"
+    },
+    {
+      "nom_pj": "S.M.P. DALLANConnu sous : DALLAN CARROSSERIE",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00466129&code_localite=Z06912300&code_rubrique=388310",
+      "adresse_pj": "23 allée Rtde 306 Ex Rn 6 69380 Les Chères",
+      "code_postal_pj": "69380",
+      "ville_pj": "Les Chères",
+      "telephone": "04 78 47 66 73"
+    },
+    {
+      "nom_pj": "Carrosserie Mircen",
+      "adresse_pj": "83 route Genas 69120 Vaulx en Velin",
+      "code_postal_pj": "69120",
+      "ville_pj": "Vaulx en Velin",
+      "telephone": "06 18 22 56 67"
+    },
+    {
+      "nom_pj": "Autopro",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=07278154&code_localite=Z06912300&code_rubrique=388310",
+      "adresse_pj": "90 route Heyrieux 69360 Saint Symphorien d'Ozon",
+      "code_postal_pj": "69360",
+      "ville_pj": "Saint Symphorien d'Ozon",
+      "telephone": "04 78 02 78 60"
+    },
+    {
+      "nom_pj": "My Carrosserie",
+      "adresse_pj": "4 rue Arsenal 69200 Vénissieux",
+      "code_postal_pj": "69200",
+      "ville_pj": "Vénissieux",
+      "telephone": "04 78 90 13 68"
+    },
+    {
+      "nom_pj": "Cara-pro",
+      "adresse_pj": "3 allée Bernard de Palissy 69780 Mions",
+      "code_postal_pj": "69780",
+      "ville_pj": "Mions",
+      "telephone": "07 61 52 24 99"
+    },
+    {
+      "nom_pj": "Carrosserie Bornicat SARL",
+      "adresse_pj": "57 rue Fraternité 69740 Genas",
+      "code_postal_pj": "69740",
+      "ville_pj": "Genas",
+      "telephone": "04 78 90 41 87"
+    },
+    {
+      "nom_pj": "Garage Pozet",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=09063089&code_localite=Z06912300&code_rubrique=388310",
+      "adresse_pj": "215 route Lyon 01600 Trévoux",
+      "code_postal_pj": "01600",
+      "ville_pj": "Trévoux",
+      "telephone": "04 74 00 46 09"
+    },
+    {
+      "nom_pj": "AD Carrosserie & Garage Ad Expert JP Auto Loisirs",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00732234&code_localite=Z06912300&code_rubrique=388310",
+      "adresse_pj": "2 rue Genêts 01600 Reyrieux",
+      "code_postal_pj": "01600",
+      "ville_pj": "Reyrieux",
+      "telephone": "04 74 00 52 93"
+    },
+    {
+      "nom_pj": "CARROSSERIE CERANO",
+      "adresse_pj": "4 rue Marius Berliet 69380 Chazay d'Azergues",
+      "code_postal_pj": "69380",
+      "ville_pj": "Chazay d'Azergues",
+      "telephone": "04 78 83 57 59"
+    },
+    {
+      "nom_pj": "Axial",
+      "adresse_pj": "16 rue Industrie 69530 Brignais",
+      "code_postal_pj": "69530",
+      "ville_pj": "Brignais",
+      "telephone": "04 78 51 43 09"
+    },
+    {
+      "nom_pj": "Garage Etoile Auto",
+      "adresse_pj": "Zac Des Iles 12 impasse Caraïbes 69380 Marcilly d'Azergues",
+      "code_postal_pj": "69380",
+      "ville_pj": "Marcilly d'Azergues",
+      "telephone": "09 56 30 63 41"
+    },
+    {
+      "nom_pj": "Atc Automobile",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=56431563&code_localite=Z06912300&code_rubrique=388310",
+      "adresse_pj": "36 rue Pré Loup 01120 Dagneux",
+      "code_postal_pj": "01120",
+      "ville_pj": "Dagneux",
+      "telephone": "09 86 24 67 17",
+      "site_web": "https://rendezvousenligne.citroen.fr/fr-FR/rendez-vous-garage-citroen/france/atc-automobile/0000048828"
+    },
+    {
+      "nom_pj": "AD Carrosserie & Garage Ad Expert JP Auto Loisirs",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00732234&code_localite=Z06912300&code_rubrique=388310",
+      "adresse_pj": "2 rue Genêts 01600 Reyrieux",
+      "code_postal_pj": "01600",
+      "ville_pj": "Reyrieux",
+      "telephone": "04 74 00 52 93"
+    },
+    {
+      "nom_pj": "Carrosserie City",
+      "adresse_pj": "1 avenue Gare 01700 Miribel",
+      "code_postal_pj": "01700",
+      "ville_pj": "Miribel",
+      "telephone": "06 95 35 71 94"
+    },
+    {
+      "nom_pj": "Autopro",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=07278154&code_localite=Z06912300&code_rubrique=388310",
+      "adresse_pj": "90 route Heyrieux 69360 Saint Symphorien d'Ozon",
+      "code_postal_pj": "69360",
+      "ville_pj": "Saint Symphorien d'Ozon",
+      "telephone": "04 78 02 78 60"
+    },
+    {
+      "nom_pj": "Peugeot Citroën La Boisse",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=02765174&code_localite=Z06912300&code_rubrique=388310",
+      "adresse_pj": "521 route Nationale 01120 La Boisse",
+      "code_postal_pj": "01120",
+      "ville_pj": "La Boisse",
+      "telephone": "04 72 25 10 03"
+    },
+    {
+      "nom_pj": "Calandre SARLConnu sous : Garage Ad Carrosserie Calandre",
+      "adresse_pj": "317 rue Chartinieres 01120 Dagneux",
+      "code_postal_pj": "01120",
+      "ville_pj": "Dagneux",
+      "telephone": "04 72 25 73 50"
+    },
+    {
+      "nom_pj": "Peugeot Givors - Groupe ChopardConnu sous : MORET AUTOMOBILES",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00466667&code_localite=Z06912300&code_rubrique=142320",
+      "adresse_pj": "Village Automobile 3 avenue Georges Charpak 69700 Givors",
+      "code_postal_pj": "69700",
+      "ville_pj": "Givors",
+      "telephone": "04 78 07 44 10"
+    },
+    {
+      "nom_pj": "Full Covering",
+      "adresse_pj": "21 rue Francine Fromont 69120 Vaulx en Velin",
+      "code_postal_pj": "69120",
+      "ville_pj": "Vaulx en Velin",
+      "telephone": "07 81 98 83 99"
+    },
+    {
+      "nom_pj": "SpeedyConnu sous : VP Auto",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=61656783&code_localite=Z06912300&code_rubrique=388310",
+      "adresse_pj": "1021 rue Craz 01120 Dagneux",
+      "code_postal_pj": "01120",
+      "ville_pj": "Dagneux",
+      "telephone": "09 88 05 21 53"
+    },
+    {
+      "nom_pj": "Carrosserie Bornicat SARL",
+      "adresse_pj": "57 rue Fraternité 69740 Genas",
+      "code_postal_pj": "69740",
+      "ville_pj": "Genas",
+      "telephone": "04 78 90 41 87"
+    },
+    {
+      "nom_pj": "Garage Pozet",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=09063089&code_localite=Z06912300&code_rubrique=388310",
+      "adresse_pj": "215 route Lyon 01600 Trévoux",
+      "code_postal_pj": "01600",
+      "ville_pj": "Trévoux",
+      "telephone": "04 74 00 46 09"
+    },
+    {
+      "nom_pj": "RENAULT GARAGE BACONNIER",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00322843&code_localite=Z06912300&code_rubrique=388310",
+      "adresse_pj": "bât Garage Baconnier 1078 route Lyon 01600 Reyrieux",
+      "code_postal_pj": "01600",
+      "ville_pj": "Reyrieux",
+      "telephone": "04 74 00 02 05"
+    },
+    {
+      "nom_pj": "CITROËN Garage Ducret Agent",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00466706&code_localite=Z06912300&code_rubrique=388310",
+      "adresse_pj": "38 route Départementale 386 69520 Grigny",
+      "code_postal_pj": "69520",
+      "ville_pj": "Grigny",
+      "telephone": "04 78 73 00 83"
+    },
+    {
+      "nom_pj": "Carrosserie JMP",
+      "adresse_pj": "444 rue Jonchères 69730 Genay",
+      "code_postal_pj": "69730",
+      "ville_pj": "Genay",
+      "telephone": "04 78 08 87 20"
+    },
+    {
+      "nom_pj": "Garage Morretton Christian",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=51043951&code_localite=Z06912300&code_rubrique=388310",
+      "adresse_pj": "5 route Ternay 69360 Communay",
+      "code_postal_pj": "69360",
+      "ville_pj": "Communay",
+      "telephone": "04 72 24 65 50"
+    },
+    {
+      "nom_pj": "BG Motors",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00848644&code_localite=Z06912300&code_rubrique=388310",
+      "adresse_pj": "331 ancienne route Nievroz 01120 Dagneux",
+      "code_postal_pj": "01120",
+      "ville_pj": "Dagneux",
+      "telephone": "0200361000",
+      "site_web": "http://www.bgmotors-garage.fr"
+    },
+    {
+      "nom_pj": "Durand Services Auto",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00943527&code_localite=Z06912300&code_rubrique=142320",
+      "adresse_pj": "269 route Givors 38670 Chasse sur Rhône",
+      "code_postal_pj": "38670",
+      "ville_pj": "Chasse sur Rhône",
+      "telephone": "04 72 49 19 40"
+    },
+    {
+      "nom_pj": "BBH AUTO",
+      "adresse_pj": "31 rue Jules Ferry 69520 Grigny",
+      "code_postal_pj": "69520",
+      "ville_pj": "Grigny",
+      "telephone": "06 50 82 89 84"
+    },
+    {
+      "nom_pj": "HTZ Carrosserie",
+      "adresse_pj": "141 rue Vauzel 69480 Ambérieux",
+      "code_postal_pj": "69480",
+      "ville_pj": "Ambérieux",
+      "telephone": "09 83 95 82 31"
+    },
+    {
+      "nom_pj": "CKN Auto",
+      "adresse_pj": "45 avenue Zac de Chassagne 69360 Ternay",
+      "code_postal_pj": "69360",
+      "ville_pj": "Ternay",
+      "telephone": "06 33 85 18 87"
+    },
+    {
+      "nom_pj": "Garage Europe Bosch Car Service AdhConnu sous : CARROSSERIE GARAGE DE L'EUROPE",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=02405299&code_localite=Z06912300&code_rubrique=388310",
+      "adresse_pj": "62 rue Jean Ligonnet 69700 Givors",
+      "code_postal_pj": "69700",
+      "ville_pj": "Givors",
+      "telephone": "04 72 24 27 21"
+    },
+    {
+      "nom_pj": "Givors Automobiles",
+      "adresse_pj": "Renault Givors Auto 2 avenue Georges Charpak 69700 Givors",
+      "code_postal_pj": "69700",
+      "ville_pj": "Givors",
+      "telephone": "04 78 73 87 38"
+    },
+    {
+      "nom_pj": "Carrosserie Des Chasseres",
+      "adresse_pj": "chemin Goules 38670 Chasse sur Rhône",
+      "code_postal_pj": "38670",
+      "ville_pj": "Chasse sur Rhône",
+      "telephone": "04 69 67 68 90"
+    },
+    {
+      "nom_pj": "Carrosserie Latge",
+      "adresse_pj": "28 rue Jean Ligonnet 69700 Givors",
+      "code_postal_pj": "69700",
+      "ville_pj": "Givors",
+      "telephone": "04 72 24 39 60"
+    },
+    {
+      "nom_pj": "Garage des Tilleuls",
+      "adresse_pj": "402 rue Neuve 01120 Montluel",
+      "code_postal_pj": "01120",
+      "ville_pj": "Montluel",
+      "telephone": "04 78 06 38 68"
+    },
+    {
+      "nom_pj": "Carrosserie Givordine",
+      "adresse_pj": "Zi La Saulaie 203 chemin Saulaie 38670 Chasse sur Rhône",
+      "code_postal_pj": "38670",
+      "ville_pj": "Chasse sur Rhône",
+      "telephone": "04 78 73 18 13"
+    },
+    {
+      "nom_pj": "Garage Buathier",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=05213833&code_localite=Z06912300&code_rubrique=388310",
+      "adresse_pj": "Zac Forquevaux 390 avenue Formans 01600 Trévoux",
+      "code_postal_pj": "01600",
+      "ville_pj": "Trévoux",
+      "telephone": "04 74 00 28 77"
+    },
+    {
+      "nom_pj": "Carstar",
+      "adresse_pj": "15 rue République 69700 Givors",
+      "code_postal_pj": "69700",
+      "ville_pj": "Givors",
+      "telephone": "07 58 62 09 17"
+    },
+    {
+      "nom_pj": "Durand Services Auto",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00943527&code_localite=Z06912300&code_rubrique=142320",
+      "adresse_pj": "269 route Givors 38670 Chasse sur Rhône",
+      "code_postal_pj": "38670",
+      "ville_pj": "Chasse sur Rhône",
+      "telephone": "04 72 49 19 40"
+    },
+    {
+      "nom_pj": "Pierre De Sousa Automobile",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=04355590&code_localite=Z06912300&code_rubrique=388310",
+      "adresse_pj": "25 chemin Terrier 69360 Ternay",
+      "code_postal_pj": "69360",
+      "ville_pj": "Ternay",
+      "telephone": "04 72 24 62 62"
+    },
+    {
+      "nom_pj": "Carrosserie Automobile Ansoise",
+      "adresse_pj": "835 route Villefranche 69480 Anse",
+      "code_postal_pj": "69480",
+      "ville_pj": "Anse",
+      "telephone": "0632000096"
+    },
+    {
+      "nom_pj": "Garage Morais",
+      "adresse_pj": "Zone Industrielle De Feta 765 allée Filiéristes 01600 Trévoux",
+      "code_postal_pj": "01600",
+      "ville_pj": "Trévoux",
+      "telephone": "04 74 00 35 88"
+    },
+    {
+      "nom_pj": "Givors Carrosserie",
+      "adresse_pj": "7 rue Moulin 69700 Givors",
+      "code_postal_pj": "69700",
+      "ville_pj": "Givors",
+      "telephone": "04 78 73 43 00"
+    },
+    {
+      "nom_pj": "SD AUTO",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=50734369&code_localite=Z06912300&code_rubrique=388310",
+      "adresse_pj": "160 rue Copernic 38670 Chasse sur Rhône",
+      "code_postal_pj": "38670",
+      "ville_pj": "Chasse sur Rhône",
+      "telephone": "04 78 73 90 69"
+    },
+    {
+      "nom_pj": "Evora Classic",
+      "adresse_pj": "5965 chemin Gillard 01120 Dagneux",
+      "code_postal_pj": "01120",
+      "ville_pj": "Dagneux",
+      "telephone": "04 72 25 90 06"
+    },
+    {
+      "nom_pj": "L'artisan Carrossier",
+      "adresse_pj": "lieu-dit Les Cornets 69700 Givors",
+      "code_postal_pj": "69700",
+      "ville_pj": "Givors",
+      "telephone": "04 78 45 35 47"
+    },
+    {
+      "nom_pj": "LOIRE AUTOS - AGENT RENAULT",
+      "adresse_pj": "1239 route Beaucaire 69700 Loire sur Rhône",
+      "code_postal_pj": "69700",
+      "ville_pj": "Loire sur Rhône",
+      "telephone": "04 72 24 33 94"
+    },
+    {
+      "nom_pj": "AS DSP AUTO",
+      "adresse_pj": "300 chemin Genêts 01600 Toussieux",
+      "code_postal_pj": "01600",
+      "ville_pj": "Toussieux",
+      "telephone": "07 66 10 92 31"
     }
   ]
 }
