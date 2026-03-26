@@ -196,13 +196,16 @@ def extract_emails_from_text(text):
 def extract_websites_from_text(text, company_name=""):
     """Extract plausible company websites from HTML text.
 
-    Only returns sites that have at least one company name word in the domain,
-    or are short domains (likely the company's own site).
+    STRICT: Only returns sites where a company name word appears in the DOMAIN.
+    This avoids annuaire/directory pages that mention the company in the path.
     """
     urls = re.findall(r'href="(https?://[^"]+)"', text)
     name_words = set(re.sub(r'[^a-zA-Z\s]', '', company_name.lower()).split())
-    # Filter meaningful words (>3 chars)
-    name_words = {w for w in name_words if len(w) > 3}
+    # Filter meaningful words (>3 chars), exclude common words
+    common_words = {"auto", "cars", "moto", "pare", "brise", "clean", "garage",
+                    "service", "services", "france", "lyon", "paris", "centre",
+                    "express", "plus", "tout", "monsieur", "madame", "sarl"}
+    name_words = {w for w in name_words if len(w) > 3 and w not in common_words}
 
     candidates = []
     for u in urls:
@@ -219,30 +222,24 @@ def extract_websites_from_text(text, company_name=""):
         if not domain:
             continue
 
-        # Skip if the path is too deep (likely an annuaire page about the company)
-        path = parsed.path.rstrip("/")
-        path_depth = len([p for p in path.split("/") if p])
+        # ONLY accept if company name word appears in domain
+        domain_score = sum(1 for w in name_words if w in domain)
+        if domain_score > 0:
+            candidates.append((domain_score, u_clean))
 
-        # Score: company name words in domain (much more valuable than in path)
-        domain_score = sum(2 for w in name_words if w in domain)
-        # Only count path matches if domain also partially matches
-        path_score = sum(1 for w in name_words if w in path.lower()) if domain_score > 0 else 0
-        score = domain_score + path_score
-
-        # Accept if: name word in domain, OR domain is short and path is shallow
-        if score > 0:
-            candidates.append((score, u_clean))
-        elif path_depth <= 1 and len(domain) < 30:
-            # Could be a company site with a non-matching name
-            candidates.append((0, u_clean))
-
-    # Sort by score descending
+    # Sort by score descending, return unique domains
     candidates.sort(key=lambda x: -x[0])
-    # Only return sites with score > 0 (name match) if available
-    high_score = [c[1] for c in candidates if c[0] > 0]
-    if high_score:
-        return high_score
-    return [c[1] for c in candidates[:1]]  # at most one fallback
+    seen_domains = set()
+    results = []
+    for score, u in candidates:
+        try:
+            d = urllib.parse.urlparse(u).netloc.lower().replace("www.", "")
+        except Exception:
+            continue
+        if d not in seen_domains:
+            seen_domains.add(d)
+            results.append(u)
+    return results
 
 
 # ---------------------------------------------------------------------------

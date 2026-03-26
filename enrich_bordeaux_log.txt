@@ -113,4 +113,9 @@ Fichier charge: 727 entreprises
 [102/727] AMIR ABDOU (SIREN: 803082536)... tel=02 22 12 22 25 | web=https://infonet.fr/dirigeants/66aa4fd55da7ac2c4b09
 [103/727] MATTHIAS MANANT (SIREN: 522097898)... web=https://www.artisan-en-ligne.com/artisan-manant-ma
 [104/727] OSMA (SIREN: 529940108)... tel=05 56 10 37 69 | web=https://www.toutendroit.com/article-osma-1550667/
-[105/727] ANDRE JUILLARD (SIREN: 781783832)... 
+[105/727] ANDRE JUILLARD (SIREN: 781783832)... rien trouve
+[106/727] AMINE LEFHAL (AUTO LUXE) (SIREN: 890738933)... web=https://www.allovoisins.com/p/aminelefhal
+[107/727] CHRISTOPHER CHOUC (AC-NETTOYAGE) (SIREN: 849104419)... web=https://nettoyagentretien.com/ville/carbon-blanc_3
+[108/727] CHRISTINE BENBELGACEM (MOIZEAU) ([ND]) (SIREN: 880831623)... rien trouve
+[109/727] ABS AUTO MECA PNEU (ABS AUTO MECA PNEU) (SIREN: 921343596)... tel=05 57 85 85 00 | web=https://lesgarages.fr/33/bordeaux/abs-auto-meca-pn
+[110/727] JIMMY LEEMAN (SIREN: 921553905)... 
