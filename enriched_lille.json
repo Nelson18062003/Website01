@@ -13,9 +13,9 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "03 20 30 66 29",
     "email": "",
-    "site_web": ""
+    "site_web": "https://www.ad.fr/garage/garage-ad-expert-sarl-pole-position"
   },
   {
     "nom": "COMPAGNIE PARISIENNE DE SERVICES (CPS)",
@@ -51,7 +51,7 @@
     "zone_recherche": "Lille",
     "telephone": "06 04 72 65 49",
     "email": "",
-    "site_web": ""
+    "site_web": "https://www.midas.fr/centres-auto-midas/hauts-de-france/nord/lille/marcq-en-baroeul_1019"
   },
   {
     "nom": "STIMCAR FRANCE",
@@ -87,7 +87,8 @@
     "zone_recherche": "Lille",
     "telephone": "01 43 43 35 41",
     "email": "",
-    "site_web": ""
+    "site_web": "",
+    "telephone_note": "siege_possible"
   },
   {
     "nom": "REPAIR AND RUN (REPAIR & RUN)",
@@ -103,7 +104,7 @@
     "effectif": "01",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "03 20 40 67 18",
     "email": "",
     "site_web": ""
   },
@@ -122,7 +123,7 @@
     "categorie": "garage",
     "zone_recherche": "Lille",
     "telephone": "09 73 25 39 82",
-    "email": "",
+    "email": "lillesales@tesla.com",
     "site_web": ""
   },
   {
@@ -176,8 +177,8 @@
     "categorie": "garage",
     "zone_recherche": "Lille",
     "telephone": "03 21 42 15 72",
-    "email": "",
-    "site_web": ""
+    "email": "lille@citroen-retail.fr",
+    "site_web": "https://reseau.citroen.fr/lomme"
   },
   {
     "nom": "PRO CLASSICS",
@@ -211,9 +212,9 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "03 72 27 04 60",
     "email": "",
-    "site_web": ""
+    "site_web": "https://www.mitsubishi-motors-miho.fr/"
   },
   {
     "nom": "GSL (GSL)",
@@ -231,7 +232,8 @@
     "zone_recherche": "Lille",
     "telephone": "01 42 78 60 64",
     "email": "",
-    "site_web": ""
+    "site_web": "",
+    "telephone_note": "siege_possible"
   },
   {
     "nom": "SHINE UP (CAP LAVAGE)",
@@ -247,9 +249,9 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "03 20 30 35 20",
     "email": "",
-    "site_web": ""
+    "site_web": "https://asian-autoparts.com/"
   },
   {
     "nom": "AUTOREFINE",
@@ -265,9 +267,9 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "03 62 26 37 30",
     "email": "",
-    "site_web": ""
+    "site_web": "https://centre.franceparebrise.fr/reparation-pare-brise/hauts-de-france/nord/villeneuve-dascq/villeneuve-dascq"
   },
   {
     "nom": "CARROSSERIE LESPINEUX",
@@ -285,7 +287,7 @@
     "zone_recherche": "Lille",
     "telephone": "03 20 55 03 88",
     "email": "",
-    "site_web": ""
+    "site_web": "https://www.renault.fr/trouver-un-etablissement.html"
   },
   {
     "nom": "UNIVERSAL SERVICE (US)",
@@ -411,7 +413,8 @@
     "zone_recherche": "Lille",
     "telephone": "05 53 51 74 94",
     "email": "",
-    "site_web": ""
+    "site_web": "https://www.france-galerie.com/",
+    "telephone_note": "siege_possible"
   },
   {
     "nom": "PAC PRO AUTO CENTRE (PAC PRO AUTO CENTRE)",
@@ -537,7 +540,7 @@
     "zone_recherche": "Lille",
     "telephone": "03 85 76 62 63",
     "email": "",
-    "site_web": ""
+    "site_web": "https://www.acn-carrosserie-lille.fr"
   },
   {
     "nom": "CARROSSERIE ALEXANDRE",
@@ -555,7 +558,8 @@
     "zone_recherche": "Lille",
     "telephone": "04 78 59 35 80",
     "email": "",
-    "site_web": ""
+    "site_web": "https://www.renault.fr/trouver-un-etablissement.html",
+    "telephone_note": "siege_possible"
   },
   {
     "nom": "ETS VAN LAECKE",
@@ -679,7 +683,7 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "09 83 43 00 61",
     "email": "",
     "site_web": ""
   },
@@ -698,8 +702,9 @@
     "categorie": "garage",
     "zone_recherche": "Lille",
     "telephone": "05 61 58 39 99",
-    "email": "",
-    "site_web": ""
+    "email": "lillesales@tesla.com",
+    "site_web": "",
+    "telephone_note": "siege_possible"
   },
   {
     "nom": "MARC PHILIPPE (OLD'S SERVICE)",
@@ -805,7 +810,7 @@
     "effectif": "03",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "03 20 93 83 42",
     "email": "",
     "site_web": ""
   },
@@ -843,7 +848,8 @@
     "zone_recherche": "Lille",
     "telephone": "04 74 59 00 41",
     "email": "",
-    "site_web": ""
+    "site_web": "",
+    "telephone_note": "siege_possible"
   },
   {
     "nom": "SARL PERTHAME",
@@ -879,7 +885,7 @@
     "zone_recherche": "Lille",
     "telephone": "02 32 24 69 90",
     "email": "",
-    "site_web": ""
+    "site_web": "https://reseau.citroen.fr/reparateur-haubourdin/?location=HAUBOURDIN%7C0"
   },
   {
     "nom": "GARAGE BIENVENUE",
@@ -897,7 +903,8 @@
     "zone_recherche": "Lille",
     "telephone": "01 69 20 86 76",
     "email": "",
-    "site_web": ""
+    "site_web": "",
+    "telephone_note": "siege_possible"
   },
   {
     "nom": "MOHAMAD AHMAD (AYA SERVICES)",
@@ -951,7 +958,8 @@
     "zone_recherche": "Lille",
     "telephone": "04 93 04 75 41",
     "email": "",
-    "site_web": ""
+    "site_web": "https://concessions.peugeot.fr/perenchies/",
+    "telephone_note": "siege_possible"
   },
   {
     "nom": "SINEO LILLE",
@@ -1003,9 +1011,9 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "telephone": "",
-    "email": "",
-    "site_web": ""
+    "telephone": "03 59 54 32 24",
+    "email": "contact@premium-autopieces.fr",
+    "site_web": "https://premium-autopieces.fr/"
   },
   {
     "nom": "NOUREDDINE AID (REVIS-CAR)",
@@ -1165,9 +1173,9 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "03 20 30 66 29",
     "email": "",
-    "site_web": ""
+    "site_web": "https://www.ad.fr/garage/garage-ad-expert-sarl-pole-position"
   },
   {
     "nom": "ISMAIL SAKAL",
@@ -1257,7 +1265,8 @@
     "zone_recherche": "Lille",
     "telephone": "04 76 87 56 94",
     "email": "",
-    "site_web": ""
+    "site_web": "",
+    "telephone_note": "siege_possible"
   },
   {
     "nom": "MOUSTAPHA AZAOUAGH (MI PNEUS AUTOS)",
@@ -1363,7 +1372,7 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "03 20 57 29 67",
     "email": "",
     "site_web": ""
   },
@@ -1453,9 +1462,9 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "03 28 55 50 00",
     "email": "",
-    "site_web": ""
+    "site_web": "http://www.feuvert.fr/centres-auto/wattignies/feu-vert-wattignies/409.html?setcenter=409"
   },
   {
     "nom": "JEFFREY BOURSIER (SUPREME AUTO)",
@@ -1527,7 +1536,7 @@
     "zone_recherche": "Lille",
     "telephone": "03 84 33 04 77",
     "email": "",
-    "site_web": ""
+    "site_web": "https://www.points.fr/centre/starom-villeneuve-dascq/"
   },
   {
     "nom": "ADRIEN JACTA (DEDETAILS)",
@@ -1615,9 +1624,9 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "03 20 07 18 62",
     "email": "",
-    "site_web": ""
+    "site_web": "https://www.carrosserie-rouze.com/"
   },
   {
     "nom": "SULLYVAN TUYBENS (NET'AUTO)",
@@ -1687,7 +1696,7 @@
     "effectif": "01",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "03 20 08 59 70",
     "email": "",
     "site_web": ""
   },
@@ -1705,7 +1714,7 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "03 20 72 21 03",
     "email": "",
     "site_web": ""
   },
@@ -1761,7 +1770,7 @@
     "zone_recherche": "Lille",
     "telephone": "09 51 26 23 41",
     "email": "",
-    "site_web": ""
+    "site_web": "https://www.midas.fr/centres-auto-midas/hauts-de-france/nord/lille/marcq-en-baroeul_1019"
   },
   {
     "nom": "OTHMANE ALILOU (AUTOMAN)",
@@ -1831,9 +1840,9 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "03 62 26 37 30",
     "email": "",
-    "site_web": ""
+    "site_web": "https://centre.franceparebrise.fr/reparation-pare-brise/hauts-de-france/nord/villeneuve-dascq/villeneuve-dascq"
   },
   {
     "nom": "GHANEM ABDELMOUMENE",
@@ -1849,7 +1858,7 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "03 20 51 42 75",
     "email": "",
     "site_web": ""
   },
@@ -1905,7 +1914,8 @@
     "zone_recherche": "Lille",
     "telephone": "01 64 90 66 36",
     "email": "",
-    "site_web": ""
+    "site_web": "",
+    "telephone_note": "siege_possible"
   },
   {
     "nom": "RAPIDO PNEU",
@@ -2067,7 +2077,8 @@
     "zone_recherche": "Lille",
     "telephone": "04 50 57 80 92",
     "email": "",
-    "site_web": ""
+    "site_web": "",
+    "telephone_note": "siege_possible"
   },
   {
     "nom": "PAL (PREMIUM AUTO LILLE)",
@@ -2139,7 +2150,8 @@
     "zone_recherche": "Lille",
     "telephone": "05 44 31 59 01",
     "email": "",
-    "site_web": ""
+    "site_web": "",
+    "telephone_note": "siege_possible"
   },
   {
     "nom": "K-MOBILE",
@@ -2191,9 +2203,9 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "03 66 19 15 60",
     "email": "",
-    "site_web": ""
+    "site_web": "https://www.mt-moto.fr/"
   },
   {
     "nom": "AUTOMOBILE DU DRONCKAERT (AUTOMOBILE DU DRONCKAERT)",
@@ -2209,9 +2221,9 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "telephone": "",
-    "email": "",
-    "site_web": ""
+    "telephone": "03 20 63 99 88",
+    "email": "brigitte.del_fabro.lille04@reseau.renault.fr",
+    "site_web": "https://www.garage-del-fabro.fr/"
   },
   {
     "nom": "MOHAMED FATH ALLAH",
@@ -2228,7 +2240,7 @@
     "categorie": "garage",
     "zone_recherche": "Lille",
     "telephone": "09 55 97 15 10",
-    "email": "",
+    "email": "jmdmaillard@nordnet.fr",
     "site_web": ""
   },
   {
@@ -2263,9 +2275,9 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "03 20 72 39 39",
     "email": "",
-    "site_web": ""
+    "site_web": "https://www.saga.mercedes-benz.fr"
   },
   {
     "nom": "TSHIBALA KALONJI (GARAGE CENASAL MOBILE)",
@@ -2281,8 +2293,8 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "telephone": "",
-    "email": "",
+    "telephone": "03 59 82 80 72",
+    "email": "lillesales@tesla.com",
     "site_web": ""
   },
   {
@@ -2319,7 +2331,8 @@
     "zone_recherche": "Lille",
     "telephone": "01 43 62 62 12",
     "email": "",
-    "site_web": ""
+    "site_web": "",
+    "telephone_note": "siege_possible"
   },
   {
     "nom": "RABAH BOUDINA",
@@ -2427,7 +2440,8 @@
     "zone_recherche": "Lille",
     "telephone": "04 74 80 03 62",
     "email": "",
-    "site_web": ""
+    "site_web": "",
+    "telephone_note": "siege_possible"
   },
   {
     "nom": "ABDELKADER RHAZI",
@@ -2461,9 +2475,9 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "03 20 30 35 20",
     "email": "",
-    "site_web": ""
+    "site_web": "https://asian-autoparts.com/"
   },
   {
     "nom": "SULAIMAN KAKAR (KAKAR)",
@@ -2479,9 +2493,9 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "03 20 30 35 20",
     "email": "",
-    "site_web": ""
+    "site_web": "https://asian-autoparts.com/"
   },
   {
     "nom": "ABDELATI BELBARAKA (A - M - GARAGE)",
@@ -2517,7 +2531,8 @@
     "zone_recherche": "Lille",
     "telephone": "04 94 60 74 79",
     "email": "",
-    "site_web": ""
+    "site_web": "",
+    "telephone_note": "siege_possible"
   },
   {
     "nom": "GARAGE RIGAUT (GARAGE RIGAUT)",
@@ -2553,7 +2568,8 @@
     "zone_recherche": "Lille",
     "telephone": "05 49 72 70 36",
     "email": "",
-    "site_web": ""
+    "site_web": "",
+    "telephone_note": "siege_possible"
   },
   {
     "nom": "CEDRIC SANTAMARIA",
@@ -2589,7 +2605,8 @@
     "zone_recherche": "Lille",
     "telephone": "04 91 94 59 33",
     "email": "",
-    "site_web": ""
+    "site_web": "",
+    "telephone_note": "siege_possible"
   },
   {
     "nom": "MICKAEL CHERY (MC'SERVICES)",
@@ -2661,7 +2678,8 @@
     "zone_recherche": "Lille",
     "telephone": "04 73 79 92 21",
     "email": "",
-    "site_web": ""
+    "site_web": "",
+    "telephone_note": "siege_possible"
   },
   {
     "nom": "VANCAR",
@@ -2731,7 +2749,7 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "03 20 93 52 68",
     "email": "",
     "site_web": ""
   },
@@ -2913,7 +2931,8 @@
     "zone_recherche": "Lille",
     "telephone": "04 78 67 03 96",
     "email": "",
-    "site_web": ""
+    "site_web": "https://www.ad.fr/garage/garage-ad-expert-sarl-pole-position",
+    "telephone_note": "siege_possible"
   },
   {
     "nom": "LS MECA AUTO",
@@ -2931,7 +2950,8 @@
     "zone_recherche": "Lille",
     "telephone": "04 75 27 70 40",
     "email": "",
-    "site_web": ""
+    "site_web": "",
+    "telephone_note": "siege_possible"
   },
   {
     "nom": "HAMZA GHILACI",
@@ -3037,9 +3057,9 @@
     "effectif": "01",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "03 20 04 00 40",
     "email": "",
-    "site_web": ""
+    "site_web": "https://www.points.fr/centre/starom-villeneuve-dascq/"
   },
   {
     "nom": "BG AUTOS",
@@ -3073,7 +3093,7 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "03 20 93 49 15",
     "email": "",
     "site_web": ""
   },
@@ -3109,7 +3129,7 @@
     "effectif": "02",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "03 20 46 89 94",
     "email": "",
     "site_web": ""
   },
@@ -3129,7 +3149,7 @@
     "zone_recherche": "Lille",
     "telephone": "03 27 60 49 95",
     "email": "",
-    "site_web": ""
+    "site_web": "https://inter-car.fr"
   },
   {
     "nom": "KADA KADDAR (HDF PARE-BRISE)",
@@ -3217,7 +3237,7 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "06 23 02 55 28",
     "email": "",
     "site_web": ""
   },
@@ -3235,9 +3255,9 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "03 20 08 75 06",
     "email": "",
-    "site_web": ""
+    "site_web": "https://concessions.peugeot.fr/perenchies/"
   },
   {
     "nom": "MOHAMED BOUDEBOUZ (LAVAGE AUTO)",
@@ -3307,7 +3327,7 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "03 20 40 67 18",
     "email": "",
     "site_web": ""
   },
@@ -3343,9 +3363,9 @@
     "effectif": "01",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "03 20 16 98 80",
     "email": "",
-    "site_web": ""
+    "site_web": "https://www.euromaster.fr/centres/hauts-de-france/lesquin/euromaster-lesquin-vehicules-legers"
   },
   {
     "nom": "RELAI PREMS AUTO",
@@ -3361,9 +3381,9 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "03 20 30 35 20",
     "email": "",
-    "site_web": ""
+    "site_web": "https://asian-autoparts.com/"
   },
   {
     "nom": "AUTO SERVICE",
@@ -3417,7 +3437,8 @@
     "zone_recherche": "Lille",
     "telephone": "05 61 89 11 76",
     "email": "",
-    "site_web": ""
+    "site_web": "",
+    "telephone_note": "siege_possible"
   },
   {
     "nom": "HAMID CHAHED (CH-AUTOMOBILE)",
@@ -3471,7 +3492,8 @@
     "zone_recherche": "Lille",
     "telephone": "01 39 93 47 24",
     "email": "",
-    "site_web": ""
+    "site_web": "https://www.carter-cash.com/magasins/capinghem-59160",
+    "telephone_note": "siege_possible"
   },
   {
     "nom": "IBRAHIM KONE (MECA AMBULANT)",
@@ -3595,9 +3617,9 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "telephone": "",
-    "email": "",
-    "site_web": ""
+    "telephone": "03 59 54 32 24",
+    "email": "contact@premium-autopieces.fr",
+    "site_web": "https://premium-autopieces.fr/"
   },
   {
     "nom": "MOHAMED BENHMIDA (SAIMO AUTO)",
@@ -3649,7 +3671,7 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "03 20 72 21 03",
     "email": "",
     "site_web": ""
   },
@@ -3703,7 +3725,7 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "03 20 93 83 42",
     "email": "",
     "site_web": ""
   },
@@ -3723,7 +3745,8 @@
     "zone_recherche": "Lille",
     "telephone": "01 69 10 90 97",
     "email": "",
-    "site_web": ""
+    "site_web": "",
+    "telephone_note": "siege_possible"
   },
   {
     "nom": "ELOUAN BOSSART (ELOBOSS NETTOYAGE)",
@@ -3739,9 +3762,9 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "03 20 04 00 40",
     "email": "",
-    "site_web": ""
+    "site_web": "https://www.points.fr/centre/starom-villeneuve-dascq/"
   },
   {
     "nom": "SACHA ROHEL (MA VOITURE PROPRE)",
@@ -3793,7 +3816,7 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "03 20 93 52 68",
     "email": "",
     "site_web": ""
   },
@@ -3919,7 +3942,7 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "03 20 51 42 75",
     "email": "",
     "site_web": ""
   },
@@ -3955,9 +3978,9 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "03 20 15 55 00",
     "email": "",
-    "site_web": ""
+    "site_web": "https://reseau.citroen.fr/ventes-societes-lille"
   },
   {
     "nom": "FLANDRE AUTOMOBILE",
@@ -4045,9 +4068,9 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "03 20 89 49 33",
     "email": "",
-    "site_web": ""
+    "site_web": "https://www.midas.fr/centres-auto-midas/hauts-de-france/nord/lille/marcq-en-baroeul_1019"
   },
   {
     "nom": "EUROPIECES (EUROPIECES)",
@@ -4119,7 +4142,8 @@
     "zone_recherche": "Lille",
     "telephone": "05 62 47 94 00",
     "email": "",
-    "site_web": ""
+    "site_web": "",
+    "telephone_note": "siege_possible"
   },
   {
     "nom": "CENTRE DE BEAUTE AUTOMOBILE (CBA)",
@@ -4135,9 +4159,9 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "03 20 79 99 99",
     "email": "",
-    "site_web": ""
+    "site_web": "https://www.forddugardin.fr/"
   },
   {
     "nom": "CAR NET",
@@ -4227,7 +4251,8 @@
     "zone_recherche": "Lille",
     "telephone": "04 91 02 23 27",
     "email": "",
-    "site_web": ""
+    "site_web": "",
+    "telephone_note": "siege_possible"
   },
   {
     "nom": "MECANIQUES LILLE FIVES",
@@ -4243,9 +4268,9 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "03 20 72 39 39",
     "email": "",
-    "site_web": ""
+    "site_web": "https://www.saga.mercedes-benz.fr"
   },
   {
     "nom": "N.S AUTOS",
@@ -4263,7 +4288,8 @@
     "zone_recherche": "Lille",
     "telephone": "04 77 37 19 65",
     "email": "",
-    "site_web": ""
+    "site_web": "",
+    "telephone_note": "siege_possible"
   },
   {
     "nom": "STELLANTIS &YOU FRANCE SAS",
@@ -4281,7 +4307,8 @@
     "zone_recherche": "Lille",
     "telephone": "04 72 85 95 75",
     "email": "",
-    "site_web": ""
+    "site_web": "https://concessions.peugeot.fr/englos/nous-contacter/info-utiles/",
+    "telephone_note": "siege_possible"
   },
   {
     "nom": "WKDA FRANCE",
@@ -4299,7 +4326,7 @@
     "zone_recherche": "Lille",
     "telephone": "09 54 75 56 13",
     "email": "",
-    "site_web": ""
+    "site_web": "https://concessionnaires.skoda.fr/nord-59/valauto-233"
   },
   {
     "nom": "FRAIKIN FRANCE",
@@ -4317,7 +4344,8 @@
     "zone_recherche": "Lille",
     "telephone": "04 72 26 51 94",
     "email": "",
-    "site_web": ""
+    "site_web": "",
+    "telephone_note": "siege_possible"
   },
   {
     "nom": "RENAULT RETAIL GROUP",
@@ -4353,7 +4381,8 @@
     "zone_recherche": "Lille",
     "telephone": "04 75 62 60 56",
     "email": "",
-    "site_web": ""
+    "site_web": "https://concessions.peugeot.fr/verbaere-lomme/",
+    "telephone_note": "siege_possible"
   },
   {
     "nom": "AUTOSPHERE E-MOTION (GROUPE AUTOSPHERE)",
@@ -4387,9 +4416,9 @@
     "effectif": "01",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "03 20 66 27 27",
     "email": "",
-    "site_web": ""
+    "site_web": "https://www.bmw-lille.fr/"
   },
   {
     "nom": "QARSON",
@@ -4407,7 +4436,8 @@
     "zone_recherche": "Lille",
     "telephone": "05 56 17 96 48",
     "email": "",
-    "site_web": ""
+    "site_web": "",
+    "telephone_note": "siege_possible"
   },
   {
     "nom": "SAGA NORD",
@@ -4441,9 +4471,9 @@
     "effectif": "11",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "03 20 19 01 50",
     "email": "",
-    "site_web": ""
+    "site_web": "https://www.nissan-lille.fr/"
   },
   {
     "nom": "GGPC",
@@ -4461,7 +4491,8 @@
     "zone_recherche": "Lille",
     "telephone": "01 42 28 04 98",
     "email": "",
-    "site_web": ""
+    "site_web": "",
+    "telephone_note": "siege_possible"
   },
   {
     "nom": "GGPE",
@@ -4495,9 +4526,9 @@
     "effectif": "21",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "03 20 00 97 00",
     "email": "",
-    "site_web": ""
+    "site_web": "https://www.dacia-englos.fr/"
   },
   {
     "nom": "MB AUTOS",
@@ -4515,7 +4546,8 @@
     "zone_recherche": "Lille",
     "telephone": "04 67 72 59 69",
     "email": "",
-    "site_web": ""
+    "site_web": "",
+    "telephone_note": "siege_possible"
   },
   {
     "nom": "ROND POINT AUTO",
@@ -4533,7 +4565,8 @@
     "zone_recherche": "Lille",
     "telephone": "01 34 42 63 86",
     "email": "",
-    "site_web": ""
+    "site_web": "https://www.points.fr/centre/starom-villeneuve-dascq/",
+    "telephone_note": "siege_possible"
   },
   {
     "nom": "MAS DESCAMPS",
@@ -4567,9 +4600,9 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "07 67 52 56 38",
     "email": "",
-    "site_web": ""
+    "site_web": "https://www.restorfxlille.fr/"
   },
   {
     "nom": "OPALE DRIVE",
@@ -4585,9 +4618,9 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "03 66 72 55 09",
     "email": "",
-    "site_web": ""
+    "site_web": "https://www.france-galerie.com/"
   },
   {
     "nom": "KEOS ENGLOS BY AUTOSPHERE (GROUPE AUTOSPHERE)",
@@ -4603,9 +4636,9 @@
     "effectif": "21",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "03 20 00 97 00",
     "email": "",
-    "site_web": ""
+    "site_web": "https://www.renault-englos.fr/"
   },
   {
     "nom": "AUGUSTIN ALLAN",
@@ -4621,9 +4654,9 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "03 20 07 19 92",
     "email": "",
-    "site_web": ""
+    "site_web": "https://reseau.citroen.fr/reparateur-haubourdin/?location=HAUBOURDIN%7C0"
   },
   {
     "nom": "MONDIAL CAR",
@@ -4659,7 +4692,7 @@
     "zone_recherche": "Lille",
     "telephone": "09 63 55 75 65",
     "email": "",
-    "site_web": ""
+    "site_web": "https://www.ad.fr/garage/garage-ad-expert-sarl-pole-position"
   },
   {
     "nom": "CORMONTOISE D'AUTOMOBILES",
@@ -4693,9 +4726,9 @@
     "effectif": "12",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "07 80 94 39 84",
     "email": "",
-    "site_web": ""
+    "site_web": "https://inter-car.fr"
   },
   {
     "nom": "MICHEL HRYCENKO",
@@ -4981,9 +5014,9 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "03 20 07 18 62",
     "email": "",
-    "site_web": ""
+    "site_web": "https://www.carrosserie-rouze.com/"
   },
   {
     "nom": "SARL GARAGE DUBECQUEREL",
@@ -4999,7 +5032,7 @@
     "effectif": "01",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "03 20 93 49 15",
     "email": "",
     "site_web": ""
   },
@@ -5017,9 +5050,9 @@
     "effectif": "03",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "03 20 60 54 48",
     "email": "",
-    "site_web": ""
+    "site_web": "https://concessions.peugeot.fr/verbaere-lomme/"
   },
   {
     "nom": "GARAGE GAMBETTA SECO",
@@ -5251,7 +5284,7 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "03 20 72 21 03",
     "email": "",
     "site_web": ""
   },
@@ -5305,9 +5338,9 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "03 20 72 39 39",
     "email": "",
-    "site_web": ""
+    "site_web": "https://www.saga.mercedes-benz.fr"
   },
   {
     "nom": "PETER CARS",
@@ -5359,9 +5392,9 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "03 20 04 00 40",
     "email": "",
-    "site_web": ""
+    "site_web": "https://www.points.fr/centre/starom-villeneuve-dascq/"
   },
   {
     "nom": "MICHEL FERNANDEZ (FDZ AUTO)",
@@ -5395,7 +5428,7 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "03 20 72 21 03",
     "email": "",
     "site_web": ""
   },
@@ -5451,7 +5484,8 @@
     "zone_recherche": "Lille",
     "telephone": "04 73 15 15 30",
     "email": "",
-    "site_web": ""
+    "site_web": "",
+    "telephone_note": "siege_possible"
   },
   {
     "nom": "EURAUTO",
@@ -5469,7 +5503,8 @@
     "zone_recherche": "Lille",
     "telephone": "04 99 04 93 57",
     "email": "",
-    "site_web": ""
+    "site_web": "https://centres.norauto.fr/nord/loos/92-rue-georges-potie",
+    "telephone_note": "siege_possible"
   },
   {
     "nom": "METROPOLE AUTOMOBILES",
@@ -5575,9 +5610,9 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "03 20 38 81 91",
     "email": "",
-    "site_web": ""
+    "site_web": "https://centres.norauto.fr/nord/loos/92-rue-georges-potie"
   },
   {
     "nom": "AZMAUTOMOBILE (AZMA)",
@@ -5631,7 +5666,8 @@
     "zone_recherche": "Lille",
     "telephone": "01 39 02 38 38",
     "email": "",
-    "site_web": ""
+    "site_web": "",
+    "telephone_note": "siege_possible"
   },
   {
     "nom": "KAMEL BOUCHABBA (AUTO BOUCHABBA)",
@@ -5719,9 +5755,9 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "03 20 19 01 50",
     "email": "",
-    "site_web": ""
+    "site_web": "https://www.nissan-lille.fr/"
   },
   {
     "nom": "RICQUIER AUTOMOBILES",
@@ -5757,7 +5793,7 @@
     "zone_recherche": "Lille",
     "telephone": "03 21 04 93 99",
     "email": "",
-    "site_web": ""
+    "site_web": "https://www.ad.fr/garage/garage-ad-expert-sarl-pole-position"
   },
   {
     "nom": "L'OCCAZ DU PRO",
@@ -5917,9 +5953,9 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "03 20 22 12 12",
     "email": "",
-    "site_web": ""
+    "site_web": "https://www.garage-top.fr/"
   },
   {
     "nom": "CLC VALENCIENNES",
@@ -5935,7 +5971,7 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "03 20 51 42 75",
     "email": "",
     "site_web": ""
   },
@@ -5955,7 +5991,7 @@
     "zone_recherche": "Lille",
     "telephone": "",
     "email": "",
-    "site_web": ""
+    "site_web": "https://dhenin.autodistribution.fr/"
   },
   {
     "nom": "CARROSSERIE LILLOISE",
@@ -6009,7 +6045,8 @@
     "zone_recherche": "Lille",
     "telephone": "01 46 82 47 93",
     "email": "",
-    "site_web": ""
+    "site_web": "",
+    "telephone_note": "siege_possible"
   },
   {
     "nom": "SARL PALINSKI",
@@ -6063,7 +6100,7 @@
     "zone_recherche": "Lille",
     "telephone": "03 54 22 69 93",
     "email": "",
-    "site_web": ""
+    "site_web": "https://www.ad.fr/garage/garage-ad-expert-sarl-pole-position"
   },
   {
     "nom": "PATRICK CYMBALIST",
@@ -6097,9 +6134,9 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "03 20 30 35 20",
     "email": "",
-    "site_web": ""
+    "site_web": "https://asian-autoparts.com/"
   },
   {
     "nom": "CARSYSTEM",
@@ -6135,7 +6172,8 @@
     "zone_recherche": "Lille",
     "telephone": "04 78 08 87 20",
     "email": "",
-    "site_web": ""
+    "site_web": "",
+    "telephone_note": "siege_possible"
   },
   {
     "nom": "GROUPE A.B INDUSTRIES",
@@ -6151,9 +6189,9 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "03 20 87 90 60",
     "email": "",
-    "site_web": ""
+    "site_web": "https://www.euromaster.fr/centres/hauts-de-france/lesquin/euromaster-lesquin-vehicules-industriels"
   },
   {
     "nom": "GEBRAYEL MENEEM",
@@ -6169,7 +6207,7 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "03 20 51 42 75",
     "email": "",
     "site_web": ""
   },
@@ -6279,7 +6317,7 @@
     "zone_recherche": "Lille",
     "telephone": "",
     "email": "",
-    "site_web": ""
+    "site_web": "https://www.carter-cash.com/magasins/capinghem-59160"
   },
   {
     "nom": "TOUMA AUTO",
@@ -6313,7 +6351,7 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "03 20 51 42 75",
     "email": "",
     "site_web": ""
   },
@@ -6349,9 +6387,9 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "03 72 27 04 60",
     "email": "",
-    "site_web": ""
+    "site_web": "https://www.mitsubishi-motors-miho.fr/"
   },
   {
     "nom": "SAS UNIVERS AUTO EXPORT (SAS UNIVERS AUTO EXPORT)",
@@ -6457,7 +6495,7 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "03 20 57 29 67",
     "email": "",
     "site_web": ""
   },
@@ -6475,8 +6513,8 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "telephone": "",
-    "email": "",
+    "telephone": "03 59 82 80 72",
+    "email": "lillesales@tesla.com",
     "site_web": ""
   },
   {
@@ -6531,7 +6569,7 @@
     "zone_recherche": "Lille",
     "telephone": "09 84 39 58 83",
     "email": "",
-    "site_web": ""
+    "site_web": "https://www.restorfxlille.fr/"
   },
   {
     "nom": "AVISS LALEYE",
@@ -6709,9 +6747,9 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "03 20 07 19 92",
     "email": "",
-    "site_web": ""
+    "site_web": "https://reseau.citroen.fr/reparateur-haubourdin/?location=HAUBOURDIN%7C0"
   },
   {
     "nom": "PETRU RADULESCU (PETRU IMPORT/EXPORT)",
@@ -6727,9 +6765,9 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "03 20 45 90 20",
     "email": "",
-    "site_web": ""
+    "site_web": "https://concessions.peugeot.fr/duquesne-marcq-en-baroeul/nous-contacter/info-utiles/"
   },
   {
     "nom": "RACHID TOUATI (H AUTO)",
@@ -7015,9 +7053,9 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "03 20 01 03 35",
     "email": "",
-    "site_web": ""
+    "site_web": "https://www.easy-motors.fr/"
   },
   {
     "nom": "CORENTIN TROADEC (CARSFAST)",
@@ -7089,7 +7127,8 @@
     "zone_recherche": "Lille",
     "telephone": "05 57 43 54 81",
     "email": "",
-    "site_web": ""
+    "site_web": "",
+    "telephone_note": "siege_possible"
   },
   {
     "nom": "ARMEN TONOYAN (EREVAN MOTORS)",
@@ -7141,9 +7180,9 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "03 20 79 99 99",
     "email": "",
-    "site_web": ""
+    "site_web": "https://www.forddugardin.fr/"
   },
   {
     "nom": "PLUS TETANG QUINKELEX (AUTOPLUS)",
@@ -7197,7 +7236,8 @@
     "zone_recherche": "Lille",
     "telephone": "04 56 29 63 26",
     "email": "",
-    "site_web": ""
+    "site_web": "",
+    "telephone_note": "siege_possible"
   },
   {
     "nom": "JORDAN BIBAUT (BJ AUTOMOBILE)",
@@ -7285,9 +7325,9 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "03 20 01 03 35",
     "email": "",
-    "site_web": ""
+    "site_web": "https://www.easy-motors.fr/"
   },
   {
     "nom": "UMIT YULARCI - DEMIR (YULARCI) (UMDAUTOS)",
@@ -7357,9 +7397,9 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "03 20 15 55 00",
     "email": "",
-    "site_web": ""
+    "site_web": "https://reseau.citroen.fr/ventes-societes-lille"
   },
   {
     "nom": "YACINE NACER (J AND T)",
@@ -7375,9 +7415,9 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "03 20 30 35 20",
     "email": "",
-    "site_web": ""
+    "site_web": "https://asian-autoparts.com/"
   },
   {
     "nom": "MOISE DEMESTRE (AUTO DEMESTRE)",
@@ -7411,9 +7451,9 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "03 20 30 35 20",
     "email": "",
-    "site_web": ""
+    "site_web": "https://asian-autoparts.com/"
   },
   {
     "nom": "DHP AUTO",
@@ -7465,9 +7505,9 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "03 66 72 55 09",
     "email": "",
-    "site_web": ""
+    "site_web": "https://www.france-galerie.com/"
   },
   {
     "nom": "ABDELILAH AMSAKOUM (GOOD CARS 59)",
@@ -7501,9 +7541,9 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "03 20 04 19 19",
     "email": "",
-    "site_web": ""
+    "site_web": "https://www.seat-lille.fr/"
   },
   {
     "nom": "SAMUEL LEBRUN (AUTO JACOB)",
@@ -7519,9 +7559,9 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "03 20 07 19 92",
     "email": "",
-    "site_web": ""
+    "site_web": "https://reseau.citroen.fr/reparateur-haubourdin/?location=HAUBOURDIN%7C0"
   },
   {
     "nom": "CAR AUTOMOBILE",
@@ -7539,7 +7579,8 @@
     "zone_recherche": "Lille",
     "telephone": "04 67 96 12 07",
     "email": "",
-    "site_web": ""
+    "site_web": "",
+    "telephone_note": "siege_possible"
   },
   {
     "nom": "JORDAN DEMESTRE (JD AUTOLUX)",
@@ -7573,9 +7614,9 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "03 20 38 88 38",
     "email": "",
-    "site_web": ""
+    "site_web": "https://www.nissan-lomme.fr/"
   },
   {
     "nom": "COHEN AUTOMOBILE",
@@ -7647,7 +7688,8 @@
     "zone_recherche": "Lille",
     "telephone": "01 39 78 75 58",
     "email": "",
-    "site_web": ""
+    "site_web": "https://inter-car.fr",
+    "telephone_note": "siege_possible"
   },
   {
     "nom": "AUTO SPORT EXPORT",
@@ -7681,9 +7723,9 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "03 20 38 81 91",
     "email": "",
-    "site_web": ""
+    "site_web": "https://centres.norauto.fr/nord/loos/92-rue-georges-potie"
   },
   {
     "nom": "LILLE AUTO 59",
@@ -7755,7 +7797,8 @@
     "zone_recherche": "Lille",
     "telephone": "04 66 05 81 25",
     "email": "",
-    "site_web": ""
+    "site_web": "",
+    "telephone_note": "siege_possible"
   },
   {
     "nom": "ABEO AUTOMOTIVE (ABEO)",
@@ -7789,9 +7832,9 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "03 20 08 70 70",
     "email": "",
-    "site_web": ""
+    "site_web": "https://www.acn-carrosserie-lille.fr"
   },
   {
     "nom": "TVV AUTO",
@@ -7845,7 +7888,8 @@
     "zone_recherche": "Lille",
     "telephone": "05 49 63 48 91",
     "email": "",
-    "site_web": ""
+    "site_web": "",
+    "telephone_note": "siege_possible"
   },
   {
     "nom": "DAILYAUTO",
@@ -7879,7 +7923,7 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "03 20 93 83 42",
     "email": "",
     "site_web": ""
   },
@@ -7953,7 +7997,8 @@
     "zone_recherche": "Lille",
     "telephone": "05 56 94 05 00",
     "email": "",
-    "site_web": ""
+    "site_web": "",
+    "telephone_note": "siege_possible"
   },
   {
     "nom": "CEDRIC DELAHAYE (PHOENIX-CAR)",
@@ -8025,7 +8070,8 @@
     "zone_recherche": "Lille",
     "telephone": "04 50 35 67 62",
     "email": "",
-    "site_web": ""
+    "site_web": "",
+    "telephone_note": "siege_possible"
   },
   {
     "nom": "THE CREW (SF CARS)",
@@ -8041,9 +8087,9 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "07 80 94 39 84",
     "email": "",
-    "site_web": ""
+    "site_web": "https://inter-car.fr"
   },
   {
     "nom": "LOUIS LALLART",
@@ -8187,7 +8233,8 @@
     "zone_recherche": "Lille",
     "telephone": "04 73 61 78 56",
     "email": "",
-    "site_web": ""
+    "site_web": "",
+    "telephone_note": "siege_possible"
   },
   {
     "nom": "AUTO-CHRIST",
@@ -8223,7 +8270,8 @@
     "zone_recherche": "Lille",
     "telephone": "05 49 80 10 10",
     "email": "",
-    "site_web": ""
+    "site_web": "",
+    "telephone_note": "siege_possible"
   },
   {
     "nom": "CAMILLE HEMMACHE (MH AUTOS)",
@@ -8313,7 +8361,8 @@
     "zone_recherche": "Lille",
     "telephone": "04 67 72 17 64",
     "email": "",
-    "site_web": ""
+    "site_web": "",
+    "telephone_note": "siege_possible"
   },
   {
     "nom": "JAOUAD OIHDAN",
@@ -8329,9 +8378,9 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "03 20 43 21 10",
     "email": "",
-    "site_web": ""
+    "site_web": "https://www.audi-lille.fr/"
   },
   {
     "nom": "MECATRON (MECATRON)",
@@ -8491,8 +8540,8 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "telephone": "",
-    "email": "",
+    "telephone": "03 20 44 94 94",
+    "email": "jmdmaillard@nordnet.fr",
     "site_web": ""
   },
   {
@@ -8547,7 +8596,8 @@
     "zone_recherche": "Lille",
     "telephone": "01 30 98 95 04",
     "email": "",
-    "site_web": ""
+    "site_web": "",
+    "telephone_note": "siege_possible"
   },
   {
     "nom": "MILLENIUM CAR (MILLENIUM CAR)",
@@ -8583,7 +8633,8 @@
     "zone_recherche": "Lille",
     "telephone": "05 57 40 04 26",
     "email": "",
-    "site_web": ""
+    "site_web": "",
+    "telephone_note": "siege_possible"
   },
   {
     "nom": "ERUDIT AUTOMOBILE",
@@ -8653,9 +8704,9 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "03 20 79 99 99",
     "email": "",
-    "site_web": ""
+    "site_web": "https://www.forddugardin.fr/"
   },
   {
     "nom": "TWD MOTORS",
@@ -8709,7 +8760,8 @@
     "zone_recherche": "Lille",
     "telephone": "04 91 96 04 04",
     "email": "",
-    "site_web": ""
+    "site_web": "",
+    "telephone_note": "siege_possible"
   },
   {
     "nom": "A.V.L",
@@ -8743,9 +8795,9 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "03 66 72 55 09",
     "email": "",
-    "site_web": ""
+    "site_web": "https://www.france-galerie.com/"
   },
   {
     "nom": "DINAUTO",
@@ -8761,9 +8813,9 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "03 20 38 81 91",
     "email": "",
-    "site_web": ""
+    "site_web": "https://centres.norauto.fr/nord/loos/92-rue-georges-potie"
   },
   {
     "nom": "A.B CARS (A.B CARS LOCATION) (ABCARS)",
@@ -8779,9 +8831,9 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "03 20 07 19 92",
     "email": "",
-    "site_web": ""
+    "site_web": "https://reseau.citroen.fr/reparateur-haubourdin/?location=HAUBOURDIN%7C0"
   },
   {
     "nom": "NEXTDRIVE",
@@ -8817,7 +8869,7 @@
     "zone_recherche": "Lille",
     "telephone": "",
     "email": "",
-    "site_web": ""
+    "site_web": "https://www.renault.fr/trouver-un-etablissement.html"
   },
   {
     "nom": "DKI NEGOCE",
@@ -9049,9 +9101,9 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "03 20 30 66 29",
     "email": "",
-    "site_web": ""
+    "site_web": "https://www.ad.fr/garage/garage-ad-expert-sarl-pole-position"
   },
   {
     "nom": "STYLE'CARS",
@@ -9123,7 +9175,8 @@
     "zone_recherche": "Lille",
     "telephone": "04 50 01 24 27",
     "email": "",
-    "site_web": ""
+    "site_web": "",
+    "telephone_note": "siege_possible"
   },
   {
     "nom": "STEPHANE VIGOT",
@@ -9141,7 +9194,8 @@
     "zone_recherche": "Lille",
     "telephone": "05 56 31 13 62",
     "email": "",
-    "site_web": ""
+    "site_web": "",
+    "telephone_note": "siege_possible"
   },
   {
     "nom": "VEO",
@@ -9159,7 +9213,8 @@
     "zone_recherche": "Lille",
     "telephone": "04 67 43 12 11",
     "email": "",
-    "site_web": ""
+    "site_web": "",
+    "telephone_note": "siege_possible"
   },
   {
     "nom": "MAHBOOBSHA ABDULSHA",
@@ -9193,9 +9248,9 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "03 20 19 01 50",
     "email": "",
-    "site_web": ""
+    "site_web": "https://www.nissan-lille.fr/"
   },
   {
     "nom": "VERTEVOITURE",
@@ -9211,9 +9266,9 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "03 68 31 85 20",
     "email": "",
-    "site_web": ""
+    "site_web": "https://www.vendezvotrevoiture.fr/agences/lille-villeneuve-d-ascq/"
   },
   {
     "nom": "2M NOVA SERVICES (2M NOVA SERVICES)",
@@ -9267,7 +9322,7 @@
     "zone_recherche": "Lille",
     "telephone": "",
     "email": "",
-    "site_web": ""
+    "site_web": "https://www.renault.fr/trouver-un-etablissement.html"
   },
   {
     "nom": "OLIVIER BRUNELLE (VERSA AUTO-CONSULTING)",
@@ -9285,7 +9340,7 @@
     "zone_recherche": "Lille",
     "telephone": "",
     "email": "",
-    "site_web": ""
+    "site_web": "https://www.yakarouler.com/infos/magasins.html"
   },
   {
     "nom": "BAYERN LILLE BY AUTOSPHERE (GROUPE AUTOSPHERE)",
@@ -9301,9 +9356,9 @@
     "effectif": "21",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "03 20 19 01 50",
     "email": "",
-    "site_web": ""
+    "site_web": "https://www.nissan-lille.fr/"
   },
   {
     "nom": "SOCIETE NOUVELLE LAURENT",
@@ -9355,9 +9410,9 @@
     "effectif": "21",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "03 20 19 01 50",
     "email": "",
-    "site_web": ""
+    "site_web": "https://www.nissan-lille.fr/"
   },
   {
     "nom": "BIGO-CAR",
@@ -9445,7 +9500,7 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "03 20 51 42 75",
     "email": "",
     "site_web": ""
   },
@@ -9483,7 +9538,7 @@
     "zone_recherche": "Lille",
     "telephone": "09 52 24 13 63",
     "email": "",
-    "site_web": ""
+    "site_web": "https://www.euromaster.fr/centres/hauts-de-france/lesquin/euromaster-lesquin-vehicules-industriels"
   },
   {
     "nom": "EURL VASSEUR",
@@ -9535,7 +9590,7 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "03 20 40 67 18",
     "email": "",
     "site_web": ""
   },
@@ -9555,7 +9610,8 @@
     "zone_recherche": "Lille",
     "telephone": "05 56 69 71 30",
     "email": "",
-    "site_web": ""
+    "site_web": "",
+    "telephone_note": "siege_possible"
   },
   {
     "nom": "AUTO EUROPE",
@@ -9573,7 +9629,7 @@
     "zone_recherche": "Lille",
     "telephone": "03 82 33 65 65",
     "email": "",
-    "site_web": ""
+    "site_web": "https://www.euromaster.fr/centres/hauts-de-france/mons-en-baroeul/euromaster-mons-en-baroeul"
   },
   {
     "nom": "TOP SPOT",
@@ -9645,7 +9701,8 @@
     "zone_recherche": "Lille",
     "telephone": "04 90 03 11 00",
     "email": "",
-    "site_web": ""
+    "site_web": "",
+    "telephone_note": "siege_possible"
   },
   {
     "nom": "VALAUTO PROFESSIONNELS (VALAUTO PROFESSIONNELS)",
@@ -9733,7 +9790,7 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "03 20 22 71 71",
     "email": "",
     "site_web": ""
   },
@@ -9771,7 +9828,7 @@
     "zone_recherche": "Lille",
     "telephone": "03 27 08 50 00",
     "email": "",
-    "site_web": ""
+    "site_web": "https://concessions.peugeot.fr/verbaere-lomme/"
   },
   {
     "nom": "MOHAMMED AYAD (FR AUTOS)",
@@ -9787,8 +9844,8 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "telephone": "",
-    "email": "",
+    "telephone": "03 20 44 94 94",
+    "email": "jmdmaillard@nordnet.fr",
     "site_web": ""
   },
   {
@@ -9823,9 +9880,9 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "03 72 27 04 60",
     "email": "",
-    "site_web": ""
+    "site_web": "https://www.mitsubishi-motors-miho.fr/"
   },
   {
     "nom": "HAKIM MEZRED (TRANSAKIMPORTAUTOMOBILES)",
@@ -9897,7 +9954,7 @@
     "zone_recherche": "Lille",
     "telephone": "03 82 58 52 74",
     "email": "",
-    "site_web": ""
+    "site_web": "https://asian-autoparts.com/"
   },
   {
     "nom": "AUTO BULLY",
@@ -9949,9 +10006,9 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "03 20 30 35 20",
     "email": "",
-    "site_web": ""
+    "site_web": "https://asian-autoparts.com/"
   },
   {
     "nom": "MAXIME FOUQUET",
@@ -9985,7 +10042,7 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "03 20 72 21 03",
     "email": "",
     "site_web": ""
   },
@@ -10023,7 +10080,8 @@
     "zone_recherche": "Lille",
     "telephone": "01 48 76 54 51",
     "email": "",
-    "site_web": ""
+    "site_web": "https://centre.franceparebrise.fr/reparation-pare-brise/hauts-de-france/nord/villeneuve-dascq/villeneuve-dascq",
+    "telephone_note": "siege_possible"
   },
   {
     "nom": "PRESTIGE AUTOS",
@@ -10041,7 +10099,8 @@
     "zone_recherche": "Lille",
     "telephone": "04 93 78 67 44",
     "email": "",
-    "site_web": ""
+    "site_web": "",
+    "telephone_note": "siege_possible"
   },
   {
     "nom": "ADRIEN GOETGHELUCK",
@@ -10059,7 +10118,7 @@
     "zone_recherche": "Lille",
     "telephone": "09 54 46 00 02",
     "email": "",
-    "site_web": ""
+    "site_web": "https://www.dacia-englos.fr/"
   },
   {
     "nom": "COMPTOIR DES VEHICULES ELECTRIQUES",
@@ -10075,9 +10134,9 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "03 20 87 90 60",
     "email": "",
-    "site_web": ""
+    "site_web": "https://www.euromaster.fr/centres/hauts-de-france/lesquin/euromaster-lesquin-vehicules-industriels"
   },
   {
     "nom": "ALAIN DUPREZ (D-A TRANS-AUTOS)",
@@ -10093,7 +10152,7 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "03 20 93 52 68",
     "email": "",
     "site_web": ""
   },
@@ -10147,9 +10206,9 @@
     "effectif": "NN",
     "categorie": "carrossier",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "03 20 16 98 80",
     "email": "",
-    "site_web": ""
+    "site_web": "https://www.euromaster.fr/centres/hauts-de-france/lesquin/euromaster-lesquin-vehicules-legers"
   },
   {
     "nom": "SOCIETE DE DIFFUSION ET D APPLICATIONS TECHNIQUES AUTOMOBILES (DATA)",
@@ -10185,7 +10244,8 @@
     "zone_recherche": "Lille",
     "telephone": "05 49 09 65 08",
     "email": "",
-    "site_web": ""
+    "site_web": "https://www.mt-moto.fr/",
+    "telephone_note": "siege_possible"
   },
   {
     "nom": "POOL SARL",
@@ -10203,7 +10263,8 @@
     "zone_recherche": "Lille",
     "telephone": "04 66 52 58 41",
     "email": "",
-    "site_web": ""
+    "site_web": "",
+    "telephone_note": "siege_possible"
   },
   {
     "nom": "ECYCLUM",
@@ -10219,9 +10280,9 @@
     "effectif": "00",
     "categorie": "moto",
     "zone_recherche": "Lille",
-    "telephone": "",
-    "email": "",
-    "site_web": ""
+    "telephone": "09 60 08 51 63",
+    "email": "meca-custom@orange.fr",
+    "site_web": "https://www.carrosserie-mecacustom.fr/"
   },
   {
     "nom": "D3T DISTRIBUTION",
@@ -10239,7 +10300,7 @@
     "zone_recherche": "Lille",
     "telephone": "",
     "email": "",
-    "site_web": ""
+    "site_web": "https://dhenin.autodistribution.fr/"
   },
   {
     "nom": "BOXER EVASION",
@@ -10365,7 +10426,7 @@
     "zone_recherche": "Lille",
     "telephone": "02 41 70 75 32",
     "email": "",
-    "site_web": ""
+    "site_web": "https://www.mt-moto.fr/"
   },
   {
     "nom": "ROBLIN",
@@ -10383,7 +10444,8 @@
     "zone_recherche": "Lille",
     "telephone": "05 53 28 61 98",
     "email": "",
-    "site_web": ""
+    "site_web": "",
+    "telephone_note": "siege_possible"
   },
   {
     "nom": "MOTO LINE",
@@ -10437,7 +10499,7 @@
     "zone_recherche": "Lille",
     "telephone": "03 20 06 23 23",
     "email": "",
-    "site_web": ""
+    "site_web": "https://centres.norauto.fr/nord/loos/92-rue-georges-potie"
   },
   {
     "nom": "ON TRAKC (ON TRACK)",
@@ -10489,9 +10551,9 @@
     "effectif": "02",
     "categorie": "moto",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "03 66 19 15 60",
     "email": "",
-    "site_web": ""
+    "site_web": "https://www.mt-moto.fr/"
   },
   {
     "nom": "MASTEREX (MASTEREX)",
@@ -10507,9 +10569,9 @@
     "effectif": "NN",
     "categorie": "moto",
     "zone_recherche": "Lille",
-    "telephone": "",
+    "telephone": "03 20 04 88 08",
     "email": "",
-    "site_web": ""
+    "site_web": "https://www.euromaster.fr/centres/hauts-de-france/mons-en-baroeul/euromaster-mons-en-baroeul"
   },
   {
     "nom": "TOP MOBILITE",

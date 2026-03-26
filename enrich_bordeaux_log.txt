@@ -3,4 +3,9 @@ Fichier charge: 727 entreprises
 [2/727] IMMOJET (SIREN: 390022531)... tel=01 43 45 64 64 | web=https://www.allo-garagistes.fr/Paris-12eme-75012/l
 [3/727] AQUITAINE DEPANNAGE SERVICE (ADS) (SIREN: 377529573)... rien trouve
 [4/727] E.M.G (SIREN: 447572058)... web=https://www.le-site-de.com/e-m-g-sarl-foulayronnes
-[5/727] MERIC (SIREN: 445402050)... 
+[5/727] MERIC (SIREN: 445402050)... rien trouve
+[6/727] AGORA (SIREN: 390356483)... tel=05 56 38 02 85 | web=http://www.depannageautomobile.com/fiche-garage_16
+[7/727] CAR WAX (CAR WAX) (SIREN: 444692115)... rien trouve
+[8/727] AUTO VITRAGE BORDEAUX OUEST (AVBO) (AVBO) (SIREN: 491603106)... tel=01 47 78 91 91
+[9/727] BACHIR BENAHMED (SIREN: 393231162)... rien trouve
+[10/727] CARROSSERIE MARC DUMAS (SIREN: 472203900)... 
