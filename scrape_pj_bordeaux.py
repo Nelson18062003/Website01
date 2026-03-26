@@ -14,28 +14,18 @@ from urllib.parse import quote, unquote
 from difflib import SequenceMatcher
 
 try:
-    import requests
+    from curl_cffi import requests as cffi_requests
     from bs4 import BeautifulSoup
 except ImportError:
     import subprocess
-    subprocess.check_call([sys.executable, '-m', 'pip', 'install', 'requests', 'beautifulsoup4', 'lxml'])
-    import requests
+    subprocess.check_call([sys.executable, '-m', 'pip', 'install', 'curl_cffi', 'beautifulsoup4', 'lxml'])
+    from curl_cffi import requests as cffi_requests
     from bs4 import BeautifulSoup
 
 HEADERS = {
-    'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
     'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8',
     'Accept-Language': 'fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7',
-    'Accept-Encoding': 'gzip, deflate, br',
-    'Connection': 'keep-alive',
     'Referer': 'https://www.pagesjaunes.fr/',
-    'sec-ch-ua': '"Chromium";v="124", "Google Chrome";v="124"',
-    'sec-ch-ua-mobile': '?0',
-    'sec-ch-ua-platform': '"Linux"',
-    'Sec-Fetch-Dest': 'document',
-    'Sec-Fetch-Mode': 'navigate',
-    'Sec-Fetch-Site': 'same-origin',
-    'Sec-Fetch-User': '?1',
 }
 
 BASE_URL = "https://www.pagesjaunes.fr"
@@ -354,7 +344,7 @@ def main():
     print("Pages Jaunes Scraper - Bordeaux Auto Businesses")
     print("=" * 60)
 
-    session = requests.Session()
+    session = cffi_requests.Session(impersonate="chrome")
     cache = load_cache()
 
     all_pj_listings = []

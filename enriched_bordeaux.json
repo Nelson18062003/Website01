@@ -13,9 +13,9 @@
     "effectif": "12",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "telephone": "09 69 36 60 44",
+    "telephone": "",
     "email": "",
-    "site_web": "https://www.infolegale.fr/"
+    "site_web": ""
   },
   {
     "nom": "IMMOJET",
@@ -33,7 +33,7 @@
     "zone_recherche": "Bordeaux",
     "telephone": "05 57 54 49 84",
     "email": "",
-    "site_web": "https://www.infolegale.fr/"
+    "site_web": "https://www.my-procar.com/centre/6350-immojet-75012-paris"
   },
   {
     "nom": "AQUITAINE DEPANNAGE SERVICE (ADS)",
@@ -49,9 +49,9 @@
     "effectif": "11",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "telephone": "05 56 02 53 11",
-    "email": "groulet@verneuilconseil.com",
-    "site_web": "https://www.infolegale.fr/"
+    "telephone": "",
+    "email": "",
+    "site_web": ""
   },
   {
     "nom": "E.M.G",
@@ -69,7 +69,7 @@
     "zone_recherche": "Bordeaux",
     "telephone": "",
     "email": "",
-    "site_web": "https://www.infolegale.fr/"
+    "site_web": ""
   },
   {
     "nom": "MERIC",
@@ -85,7 +85,7 @@
     "effectif": "02",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "telephone": "05 56 49 36 11",
+    "telephone": "",
     "email": "",
     "site_web": ""
   }

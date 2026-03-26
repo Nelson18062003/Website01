@@ -218,9 +218,40 @@ def is_company_website(url):
         'infolegale.fr', 'altares.com', 'coface.', 'creditorwatch.',
         'bilans.net', 'bilans-gratuits', 'comptedesresultats.',
         'avis-situation-sirene', 'boamp.fr', 'marches-publics.',
+        'garageauto.net', 'garage-auto.info', 'allogarage.fr',
+        'meilleursgarages.com', 'vroomly.com', 'izyspot.com',
+        'my-garage.fr', 'oscaro.com', 'mister-auto.com',
+        'centralepneus.fr', 'feu-vert.fr', 'norauto.fr',
+        'auto-selection.com', 'autosphere.fr', 'lacentrale.fr',
+        'automobile.fr', 'auto-journal.fr', 'largus.fr',
+        'cylex-locale.fr', 'cylex.fr', '118000.fr', '118218.fr',
+        'e-pro.fr', 'nettoyage-voiture.net', 'auto-selection.com',
+        'justacote.com', 'yelp.', 'foursquare.com', 'tripadvisor.',
+        'horaires-douverture.fr', 'horaire.com', 'telephone.city',
+        'infobel.com', 'mappy.com', 'waze.com', 'openstreetmap.org',
+        'local.fr', 'bonial.fr', 'pj.fr', 'kelest.fr',
+        'annuaire-inverse', 'numero-inverse', '118712.fr',
+        'starofservice.com', 'aladom.fr', 'habitatpresto.com',
+        'toplien.fr', 'listeentreprises.fr', 'hoodspot.fr',
+        'entreprises.lefigaro.fr', 'dirigeant.societe.com',
+        'tel.fr', 'pages-24.fr', 'pages24.fr', 'telephone.fr',
+        'annuaire-mairie.fr', 'pratique.fr', 'linternaute.com',
+        'aufeminin.com', 'journaldunet.com', 'comment-economiser.fr',
     ]
-    domain = urllib.parse.urlparse(url).netloc.lower()
+    parsed = urllib.parse.urlparse(url)
+    domain = parsed.netloc.lower()
+    path = parsed.path.lower()
+
     if any(d in domain for d in skip_domains):
+        return False
+
+    # Reject URLs that look like directory listings (path contains listing-like patterns)
+    listing_patterns = [
+        '/fiche/', '/entreprise/', '/professionnel/', '/pro/',
+        '/annuaire/', '/recherche/', '/search', '/listing/',
+        '/avis/', '/rating/'
+    ]
+    if any(p in path for p in listing_patterns):
         return False
 
     return True
@@ -267,22 +298,21 @@ def extract_websites_from_search(html):
     More permissive than extract_websites since search results contain company links."""
     sites = []
 
-    # DuckDuckGo result links
-    for match in re.finditer(r'class="result__url"[^>]*href="(https?://[^"]+)"', html):
-        site = match.group(1)
+    # DuckDuckGo: extract URLs from uddg redirect links
+    for match in re.finditer(r'uddg=(https?%3A%2F%2F[^&"]+)', html):
+        site = urllib.parse.unquote(match.group(1))
+        # Also decode &amp;
+        site = site.replace('&amp;', '&')
         if is_company_website(site) and site not in sites:
             sites.append(site)
 
-    # DuckDuckGo result snippets with URLs
-    for match in re.finditer(r'class="result__a"[^>]*href="(https?://[^"]+)"', html):
-        site = match.group(1)
-        # Clean DuckDuckGo redirect
-        if 'duckduckgo.com' in site:
-            m = re.search(r'[?&]uddg=(https?://[^&]+)', site)
-            if m:
-                site = urllib.parse.unquote(m.group(1))
-        if is_company_website(site) and site not in sites:
-            sites.append(site)
+    # DuckDuckGo: result__url span (plain text URL display)
+    for match in re.finditer(r'class="result__url"[^>]*>([^<]+)</span>', html):
+        url_text = match.group(1).strip()
+        if not url_text.startswith("http"):
+            url_text = "https://" + url_text
+        if is_company_website(url_text) and url_text not in sites:
+            sites.append(url_text)
 
     # Bing result links
     for match in re.finditer(r'<cite[^>]*>(https?://[^<]+)</cite>', html):
@@ -290,8 +320,8 @@ def extract_websites_from_search(html):
         if is_company_website(site) and site not in sites:
             sites.append(site)
 
-    # Generic href links as fallback for search results
-    for match in re.finditer(r'href="(https?://(?:www\.)?[a-zA-Z0-9][\w.-]+\.[a-zA-Z]{2,}/?)"', html):
+    # Bing: href in search results
+    for match in re.finditer(r'<h2><a[^>]*href="(https?://[^"]+)"', html):
         site = match.group(1)
         if is_company_website(site) and site not in sites:
             sites.append(site)
@@ -459,18 +489,18 @@ def enrich_entreprise(entreprise, index, total):
 
     print(f"[{index+1}/{total}] {nom} (SIREN: {siren})...", end=" ", flush=True)
 
-    # 1) API annuaire-entreprises (rapide, gratuit)
+    # 1) API annuaire-entreprises (rapide, gratuit, fiable -- mais rarement des telephones)
     try:
         r = search_annuaire_entreprises_api(siren)
         merge_result(result, r)
     except Exception:
         pass
 
-    # 2) societe.com
+    # 2) DuckDuckGo (meilleure source pour telephones via snippets)
     if not result["telephone"] or not result["site_web"]:
         time.sleep(random.uniform(DELAY_MIN, DELAY_MAX))
         try:
-            r = search_societe_com(siren)
+            r = search_duckduckgo(nom, ville)
             merge_result(result, r)
         except Exception:
             pass
@@ -484,11 +514,11 @@ def enrich_entreprise(entreprise, index, total):
         except Exception:
             pass
 
-    # 4) DuckDuckGo
-    if not result["telephone"] or not result["site_web"]:
+    # 4) societe.com (phones are JS-rendered, so limited value)
+    if not result["telephone"] or not result["email"]:
         time.sleep(random.uniform(DELAY_MIN, DELAY_MAX))
         try:
-            r = search_duckduckgo(nom, ville)
+            r = search_societe_com(siren)
             merge_result(result, r)
         except Exception:
             pass
