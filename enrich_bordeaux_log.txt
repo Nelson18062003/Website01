@@ -121,4 +121,12 @@ Fichier charge: 727 entreprises
 [110/727] JIMMY LEEMAN (SIREN: 921553905)... rien trouve
   [Progression sauvegardee: 110/727]
 [111/727] KY AUTO (KY AUTO) (SIREN: 922501622)... web=https://www.applivoiture.fr/garages/eysines-33320/
-[112/727] THOMAS KOUMDA-LACHAUD (SIREN: 924180334)... 
+[112/727] THOMAS KOUMDA-LACHAUD (SIREN: 924180334)... web=https://infonet.fr/dirigeants/66aa91625da7ac2c4b6b
+[113/727] GVD GARAGE & CO (GVD GARAGE & CO) (SIREN: 924903305)... tel=02 79 05 00 22 | email=quentin.fourez@notaires.fr | web=https://www.bottin.fr/fiche-locale/baccbfjjidbifgi
+[114/727] BOUABDALLAH TABTI (ALLIE GARAGE) (SIREN: 901128082)... web=https://www.allovoisins.com/p/alliegarage
+[115/727] GARAGE CENTRE AUTO MERIADECK (SIREN: 850137142)... web=https://www.au-magasin.fr/33000-bordeaux/centre-au
+[116/727] PHILIPPE TCHAKATOU (CARROSSERIE BONI) (SIREN: 851733998)... tel=06 94 04 34 37 | email=carrosserieboni@gmail.om | web=https://www.todosbiz.com/fr-GF/carrosserie-boni-06
+[117/727] GUL NAZARI (NAZARI CAR WASH) (SIREN: 951317742)... tel=06 09 51 94 11 | web=https://infonet.fr/dirigeants/66aa97075da7ac2c4bd7
+[118/727] SLAH GHAZEIL (SIREN: 944712124)... rien trouve
+[119/727] MANUEL BATISTA PEREIRA (SMC AUTO DOMICILE) (SIREN: 941740672)... web=https://app.dataprospects.fr/entreprises/MONSIEUR-
+[120/727] MAUD SAILLAND (CRIC IT UP) (SIREN: 941934770)... 
