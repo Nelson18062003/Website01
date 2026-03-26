@@ -60,6 +60,15 @@ SKIP_DOMAINS = {
     "annuaire-inverse", "justacote.", "starofservice.", "cylex.",
     "hoodspot.", "infoisinfo.", "hotfrog.", "fr.kompass.", "telephone.city",
     "local.infobel.", "pratique.fr", "allopneus.", "encontre-se.",
+    "dnb.com", "yellowpages.", "net1901.org", "dataprospects.fr",
+    "auto-selection.com", "soundcloud.com", "lyon.fr/lieu",
+    "entreprises.lefigaro.fr", "app.dataprospects.", "geneanet.",
+    "zipcodestogo.", "garage-fr.com", "lesgarages.fr", "118218.",
+    "societeinfo.com", "sirene.fr", "near-place.com", "placeslocales.",
+    "endroit-ede.", "cylex-locale.", "localfr.", "ville-data.com",
+    "contact-infos.", "annuairepro.", "infonet.fr", "tel.fr",
+    "horairesdouverture24.", "horairesdouverture.", "ouvert-le-dimanche.",
+    "openingtimes.", "cybo.", "foursquare.", "pagesjaunes.ca",
 }
 
 # ---------------------------------------------------------------------------
@@ -116,16 +125,48 @@ def is_valid_phone(phone_str):
     return True
 
 
-def extract_phones_from_text(text):
-    """Extract all French phone numbers from text."""
-    # Pattern for French numbers with various separators
-    pattern = r'(?<!\d)(?:\+33\s?[\s.\-]?)?0[1-9][\s.\-]?\d{2}[\s.\-]?\d{2}[\s.\-]?\d{2}[\s.\-]?\d{2}(?!\d)'
-    raw_phones = re.findall(pattern, text)
+def extract_phones_from_text(text, siren="", siret=""):
+    """Extract all French phone numbers from text, avoiding SVG/path false positives."""
+    # First, strip out SVG elements and path data to avoid false positives
+    text_clean = re.sub(r'<svg[^>]*>.*?</svg>', ' ', text, flags=re.S|re.I)
+    text_clean = re.sub(r'\bd="[^"]*"', ' ', text_clean)
+    text_clean = re.sub(r'<path[^>]*>', ' ', text_clean, flags=re.I)
+    # Also strip numeric sequences that look like coordinates (digits.digits)
+    text_clean = re.sub(r'\d+\.\d+\s+\d+\.\d+', ' ', text_clean)
+
+    # Pattern: phone must have at least one separator (space, dot, dash) between groups
+    # OR be in a tel: link, OR preceded by known labels
+    patterns = [
+        # Phone with separators: 04 78 83 24 81 or 04.78.83.24.81
+        r'(?<!\d)(?:\+33\s?[\s.\-]?)?0[1-9][\s.\-]\d{2}[\s.\-]\d{2}[\s.\-]\d{2}[\s.\-]\d{2}(?!\d)',
+        # tel: link
+        r'tel:[\s]*((?:\+33|0)[1-9][\d\s.\-]{8,})',
+    ]
+    raw_phones = []
+    for pattern in patterns:
+        raw_phones.extend(re.findall(pattern, text_clean))
+
+    # Deduplicate and validate
+    seen = set()
     cleaned = []
+    # Build set of numbers to exclude (SIREN, SIRET digits)
+    exclude_digits = set()
+    if siren:
+        exclude_digits.add(siren)
+    if siret:
+        exclude_digits.add(siret)
+
     for p in raw_phones:
         c = clean_phone(p)
-        if c and is_valid_phone(c):
-            cleaned.append(c)
+        if not c or not is_valid_phone(c):
+            continue
+        digits = re.sub(r"\s", "", c)
+        if digits in exclude_digits:
+            continue
+        if digits in seen:
+            continue
+        seen.add(digits)
+        cleaned.append(c)
     return cleaned
 
 
@@ -168,7 +209,7 @@ def extract_websites_from_text(text, company_name=""):
 # ---------------------------------------------------------------------------
 # Source 1: societe.com via search
 # ---------------------------------------------------------------------------
-def extract_from_societe_com(siren, nom):
+def extract_from_societe_com(siren, nom, siret=""):
     """Search societe.com via SIREN to find company page, extract data."""
     phone, email, website = "", "", ""
     if not siren:
@@ -183,7 +224,7 @@ def extract_from_societe_com(siren, nom):
     page = html_mod.unescape(page)
 
     # Phone - societe.com often obfuscates, but sometimes visible
-    phones = extract_phones_from_text(page)
+    phones = extract_phones_from_text(page, siren=siren, siret=siret)
     if phones:
         phone = phones[0]
 
@@ -283,6 +324,7 @@ def extract_from_google(nom, ville):
 def enrich_company(company):
     """Enrich a single company with phone, email, site_web using multiple sources."""
     siren = company.get("siren", "")
+    siret = company.get("siret", "")
     nom = company.get("nom", "")
     ville = company.get("ville", "")
 
@@ -297,7 +339,7 @@ def enrich_company(company):
 
     # Source 2: societe.com (via SIREN search)
     if not phone or not website:
-        p, e, w = extract_from_societe_com(siren, nom)
+        p, e, w = extract_from_societe_com(siren, nom, siret)
         phone = phone or p
         email = email or e
         website = website or w

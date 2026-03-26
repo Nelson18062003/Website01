@@ -45,7 +45,15 @@
     "effectif": "11",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 57 71 00 00",
+    "site_web": "",
+    "nom_pj": "AS AUTO AQUITAINE SERVICE AUTO",
+    "adresse_pj": "impasse Billaoude 33610 Cestas",
+    "ville_pj": "Cestas",
+    "code_postal_pj": "33610",
+    "url_pj": "",
+    "match_score": 0.663,
+    "enrichi": true
   },
   {
     "nom": "E.M.G",
@@ -93,7 +101,15 @@
     "effectif": "11",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 56 38 02 85",
+    "site_web": "",
+    "nom_pj": "Agora",
+    "adresse_pj": "4 rue Frères Lumière 33560 Carbon Blanc",
+    "ville_pj": "Carbon Blanc",
+    "code_postal_pj": "33560",
+    "url_pj": "",
+    "match_score": 1.276,
+    "enrichi": true
   },
   {
     "nom": "CAR WAX (CAR WAX)",
@@ -125,7 +141,15 @@
     "effectif": "01",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 56 12 45 45",
+    "site_web": "",
+    "nom_pj": "DS Store Bordeaux",
+    "adresse_pj": "94 avenue Argonne 33700 Mérignac",
+    "ville_pj": "Mérignac",
+    "code_postal_pj": "33700",
+    "url_pj": "",
+    "match_score": 0.684,
+    "enrichi": true
   },
   {
     "nom": "BACHIR BENAHMED",
@@ -157,7 +181,15 @@
     "effectif": "03",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 56 24 25 27",
+    "site_web": "",
+    "nom_pj": "Carrosserie Marc Dumas",
+    "adresse_pj": "37 rue Cestas 33000 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33000",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00772959&code_localite=Z03306300&code_rubrique=388310",
+    "match_score": 1.287,
+    "enrichi": true
   },
   {
     "nom": "AQUIPAS BERGERAC",
@@ -189,7 +221,15 @@
     "effectif": "Non renseigné",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 56 52 24 88",
+    "site_web": "",
+    "nom_pj": "Garage Robin",
+    "adresse_pj": "54 rue St Joseph 33000 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33000",
+    "url_pj": "",
+    "match_score": 0.695,
+    "enrichi": true
   },
   {
     "nom": "EURL POURAILLY LAVAGE AUTO",
@@ -269,7 +309,15 @@
     "effectif": "Non renseigné",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 57 89 54 23",
+    "site_web": "",
+    "nom_pj": "Tom auto lavage",
+    "adresse_pj": "145 boulevard Godard 33110 Le Bouscat",
+    "ville_pj": "Le Bouscat",
+    "code_postal_pj": "33110",
+    "url_pj": "",
+    "match_score": 1.001,
+    "enrichi": true
   },
   {
     "nom": "ETOILE CAR WASH",
@@ -301,7 +349,15 @@
     "effectif": "Non renseigné",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 57 88 96 93",
+    "site_web": "",
+    "nom_pj": "Atelier Solutions Moto",
+    "adresse_pj": "9 rue Francis Garnier 33300 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33300",
+    "url_pj": "",
+    "match_score": 0.711,
+    "enrichi": true
   },
   {
     "nom": "KING PNEUS",
@@ -381,7 +437,15 @@
     "effectif": "11",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 56 11 84 40",
+    "site_web": "",
+    "nom_pj": "Carrosserie des Chartrons",
+    "adresse_pj": "91 cours St Louis 33300 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33300",
+    "url_pj": "",
+    "match_score": 1.187,
+    "enrichi": true
   },
   {
     "nom": "CAUDERAN AUTOMOBILES",
@@ -397,7 +461,15 @@
     "effectif": "00",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 56 64 71 46",
+    "site_web": "",
+    "nom_pj": "ACTIV AUTOMOBILES",
+    "adresse_pj": "82 rue Marie Curie 33127 Saint Jean d'Illac",
+    "ville_pj": "Saint Jean d'Illac",
+    "code_postal_pj": "33127",
+    "url_pj": "",
+    "match_score": 0.791,
+    "enrichi": true
   },
   {
     "nom": "GARAGE PASCAL PEREZ",
@@ -413,7 +485,15 @@
     "effectif": "01",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 56 92 76 70",
+    "site_web": "",
+    "nom_pj": "Garage Pascal Perez",
+    "adresse_pj": "29 rue Pascal Mothes 33800 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33800",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00313943&code_localite=Z03306300&code_rubrique=388310",
+    "match_score": 1.222,
+    "enrichi": true
   },
   {
     "nom": "BHL SAS",
@@ -461,7 +541,15 @@
     "effectif": "Non renseigné",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "09 70 19 59 59",
+    "site_web": "",
+    "nom_pj": "E-Mobility",
+    "adresse_pj": "28 avenue Périgord 33370 Artigues près Bordeaux",
+    "ville_pj": "Artigues près Bordeaux",
+    "code_postal_pj": "33370",
+    "url_pj": "",
+    "match_score": 0.873,
+    "enrichi": true
   },
   {
     "nom": "DIGITAL CAR",
@@ -493,7 +581,15 @@
     "effectif": "03",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 56 08 70 50",
+    "site_web": "",
+    "nom_pj": "PZ Garage Bordeaux Wilson",
+    "adresse_pj": "273 boulevard Prés Wilson 33200 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33200",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=59935782&code_localite=Z03306300&code_rubrique=388310",
+    "match_score": 0.884,
+    "enrichi": true
   },
   {
     "nom": "ADRISH REPROG",
@@ -525,7 +621,15 @@
     "effectif": "Non renseigné",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 57 88 96 93",
+    "site_web": "",
+    "nom_pj": "Atelier Solutions Moto",
+    "adresse_pj": "9 rue Francis Garnier 33300 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33300",
+    "url_pj": "",
+    "match_score": 1.267,
+    "enrichi": true
   },
   {
     "nom": "JB AUTOS",
@@ -541,7 +645,15 @@
     "effectif": "Non renseigné",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "07 71 28 92 81",
+    "site_web": "",
+    "nom_pj": "JB Autos",
+    "adresse_pj": "25 rue Lajaunie 33100 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33100",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=63795004&code_localite=Z03306300&code_rubrique=388310",
+    "match_score": 1.077,
+    "enrichi": true
   },
   {
     "nom": "JEROME REMY (GARAGE PRESTATION SERVICES)",
@@ -621,7 +733,15 @@
     "effectif": "03",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 56 96 30 83",
+    "site_web": "",
+    "nom_pj": "C.A.M.A Carrosserie Automobile Mécanique Aquitaine",
+    "adresse_pj": "267 rue Judaïque 33000 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33000",
+    "url_pj": "",
+    "match_score": 0.88,
+    "enrichi": true
   },
   {
     "nom": "CARROSSERIE ROBERT COUTURAS",
@@ -637,7 +757,15 @@
     "effectif": "02",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 56 24 04 34",
+    "site_web": "",
+    "nom_pj": "CARROSSERIE ROBERT COUTURAS",
+    "adresse_pj": "37 boulevard Antoine Gautier 33000 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33000",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00313839&code_localite=Z03306300&code_rubrique=388310",
+    "match_score": 1.3,
+    "enrichi": true
   },
   {
     "nom": "MOURAD BEN BRAHIM (SUBLIME CAR)",
@@ -701,7 +829,15 @@
     "effectif": "Non renseigné",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 56 02 44 88",
+    "site_web": "",
+    "nom_pj": "Jungle's 4x4",
+    "adresse_pj": "164 avenue Libération 33700 Mérignac",
+    "ville_pj": "Mérignac",
+    "code_postal_pj": "33700",
+    "url_pj": "",
+    "match_score": 1.268,
+    "enrichi": true
   },
   {
     "nom": "LESZEK DRZAKOWSKI",
@@ -749,7 +885,15 @@
     "effectif": "02",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 56 98 35 85",
+    "site_web": "https://www.top-garage.fr/rendez-vous/?rdv=R0748",
+    "nom_pj": "GARAGE GALLIENI",
+    "adresse_pj": "26 cours Mar Galliéni 33400 Talence",
+    "ville_pj": "Talence",
+    "code_postal_pj": "33400",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00317940&code_localite=Z03306300&code_rubrique=388310",
+    "match_score": 1.277,
+    "enrichi": true
   },
   {
     "nom": "SERVICE AUTO MOTO",
@@ -765,7 +909,15 @@
     "effectif": "Non renseigné",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 57 26 99 87",
+    "site_web": "",
+    "nom_pj": "Service Auto 21",
+    "adresse_pj": "157 avenue Beutre 33600 Pessac",
+    "ville_pj": "Pessac",
+    "code_postal_pj": "33600",
+    "url_pj": "",
+    "match_score": 0.825,
+    "enrichi": true
   },
   {
     "nom": "MARIO SOARES COELHO (SO.CO MECA)",
@@ -813,7 +965,15 @@
     "effectif": "11",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "06 83 19 94 67",
+    "site_web": "",
+    "nom_pj": "JL Automobile",
+    "adresse_pj": "63 impasse Ernest Deniges 33127 Saint Jean d'Illac",
+    "ville_pj": "Saint Jean d'Illac",
+    "code_postal_pj": "33127",
+    "url_pj": "",
+    "match_score": 0.929,
+    "enrichi": true
   },
   {
     "nom": "DAMIEN CASTAGNERA (ALLORAYURES.COM)",
@@ -861,7 +1021,15 @@
     "effectif": "Non renseigné",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 56 11 35 41",
+    "site_web": "",
+    "nom_pj": "Ravezies Automobiles",
+    "adresse_pj": "14 rue Gustave Danflou 33300 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33300",
+    "url_pj": "",
+    "match_score": 1.3,
+    "enrichi": true
   },
   {
     "nom": "NOVAUTO",
@@ -877,7 +1045,15 @@
     "effectif": "Non renseigné",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 57 57 22 00",
+    "site_web": "",
+    "nom_pj": "Norauto",
+    "adresse_pj": "centre commercial Lac 33300 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33300",
+    "url_pj": "",
+    "match_score": 0.801,
+    "enrichi": true
   },
   {
     "nom": "CARROSSERIE ARCOS",
@@ -893,7 +1069,15 @@
     "effectif": "Non renseigné",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 56 86 01 07",
+    "site_web": "",
+    "nom_pj": "Carrosserie Arcos",
+    "adresse_pj": "2 zone artisanale Grand Chemin 33370 Yvrac",
+    "ville_pj": "Yvrac",
+    "code_postal_pj": "33370",
+    "url_pj": "",
+    "match_score": 1.039,
+    "enrichi": true
   },
   {
     "nom": "MG5 AUTOMOBILES (MG5 AUTOMOBILES)",
@@ -909,7 +1093,15 @@
     "effectif": "03",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "06 32 30 36 19",
+    "site_web": "",
+    "nom_pj": "B M Automobiles",
+    "adresse_pj": "9 rue Garies 33700 Mérignac",
+    "ville_pj": "Mérignac",
+    "code_postal_pj": "33700",
+    "url_pj": "",
+    "match_score": 0.914,
+    "enrichi": true
   },
   {
     "nom": "ATME AUTO",
@@ -925,7 +1117,15 @@
     "effectif": "01",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "06 03 35 02 27",
+    "site_web": "",
+    "nom_pj": "ATME AUTO",
+    "adresse_pj": "96 quai Souys 33100 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33100",
+    "url_pj": "",
+    "match_score": 1.038,
+    "enrichi": true
   },
   {
     "nom": "WALID BEDJOU",
@@ -1005,7 +1205,15 @@
     "effectif": "Non renseigné",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 56 86 00 56",
+    "site_web": "",
+    "nom_pj": "Excellence Automobile",
+    "adresse_pj": "279 avenue Thiers 33100 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33100",
+    "url_pj": "",
+    "match_score": 1.3,
+    "enrichi": true
   },
   {
     "nom": "ABDERAHIM DOURARI",
@@ -1069,7 +1277,15 @@
     "effectif": "01",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "06 37 23 48 53",
+    "site_web": "",
+    "nom_pj": "ED Motors",
+    "adresse_pj": "10 rue La Motte Picquet 33300 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33300",
+    "url_pj": "",
+    "match_score": 1.3,
+    "enrichi": true
   },
   {
     "nom": "THIBAULT EBZANT (PHX - CREATEUR D ELEGANCE)",
@@ -1101,7 +1317,15 @@
     "effectif": "02",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 56 24 24 72",
+    "site_web": "",
+    "nom_pj": "Garage Fleuranceau",
+    "adresse_pj": "145 rue Liberté 33200 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33200",
+    "url_pj": "",
+    "match_score": 1.273,
+    "enrichi": true
   },
   {
     "nom": "CARROSSERIE PELISSOU",
@@ -1117,7 +1341,15 @@
     "effectif": "03",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 57 87 02 73",
+    "site_web": "",
+    "nom_pj": "Carrosserie Pelissou",
+    "adresse_pj": "26 rue Paul Berthelot 33300 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33300",
+    "url_pj": "",
+    "match_score": 1.3,
+    "enrichi": true
   },
   {
     "nom": "KAMAL ABDELLAOUI",
@@ -1149,7 +1381,15 @@
     "effectif": "03",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 57 19 09 29",
+    "site_web": "",
+    "nom_pj": "MANDRON AUTOMOBILES",
+    "adresse_pj": "262 Bis rue Mandron 33000 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33000",
+    "url_pj": "",
+    "match_score": 1.272,
+    "enrichi": true
   },
   {
     "nom": "SARL GARAGE MARMANDE",
@@ -1165,7 +1405,15 @@
     "effectif": "Non renseigné",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 56 92 56 05",
+    "site_web": "",
+    "nom_pj": "GARAGE DE LA GARE SARL",
+    "adresse_pj": "37 rue Charles Domercq 33800 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33800",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00314027&code_localite=Z03306300&code_rubrique=061240",
+    "match_score": 0.696,
+    "enrichi": true
   },
   {
     "nom": "PHILIPPE DE BRITO",
@@ -1181,7 +1429,15 @@
     "effectif": "Non renseigné",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 56 50 75 14",
+    "site_web": "",
+    "nom_pj": "Philippe De Brito",
+    "adresse_pj": "285 cours Balguerie Stuttenberg 33300 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33300",
+    "url_pj": "",
+    "match_score": 1.289,
+    "enrichi": true
   },
   {
     "nom": "DANIEL ARCENNATHURY (NETT CAR / NETT HOME)",
@@ -1277,7 +1533,15 @@
     "effectif": "02",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 56 86 21 33",
+    "site_web": "",
+    "nom_pj": "Garage Mercier",
+    "adresse_pj": "166 rue Benauge 33100 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33100",
+    "url_pj": "",
+    "match_score": 0.674,
+    "enrichi": true
   },
   {
     "nom": "CONCEPT AUTO CARROSSERIE",
@@ -1293,7 +1557,15 @@
     "effectif": "Non renseigné",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 56 34 41 68",
+    "site_web": "",
+    "nom_pj": "ACCI-AUTO CARROSSERIE",
+    "adresse_pj": "rue Diamant 33185 Le Haillan",
+    "ville_pj": "Le Haillan",
+    "code_postal_pj": "33185",
+    "url_pj": "",
+    "match_score": 0.848,
+    "enrichi": true
   },
   {
     "nom": "BENJAMIN GANDON (ART CLASSIC CAR)",
@@ -1389,7 +1661,15 @@
     "effectif": "02",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "07 51 29 52 41",
+    "site_web": "",
+    "nom_pj": "Maz Méca Clean",
+    "adresse_pj": "35 rue Bourbon 33300 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33300",
+    "url_pj": "",
+    "match_score": 0.799,
+    "enrichi": true
   },
   {
     "nom": "BADR EL AOULA (SPEED GLASS 33)",
@@ -1421,7 +1701,15 @@
     "effectif": "Non renseigné",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "06 37 75 45 21",
+    "site_web": "",
+    "nom_pj": "Mon Agent Automobile - Courtier Automobile",
+    "adresse_pj": "7 rue Francin 33800 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33800",
+    "url_pj": "",
+    "match_score": 0.696,
+    "enrichi": true
   },
   {
     "nom": "VLADIMIR CERNESCU",
@@ -1437,7 +1725,15 @@
     "effectif": "Non renseigné",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 24 61 13 42",
+    "site_web": "",
+    "nom_pj": "Vladimir Cernescu",
+    "adresse_pj": "6 avenue Canada 33600 Pessac",
+    "ville_pj": "Pessac",
+    "code_postal_pj": "33600",
+    "url_pj": "",
+    "match_score": 1.287,
+    "enrichi": true
   },
   {
     "nom": "WADII",
@@ -1501,7 +1797,15 @@
     "effectif": "01",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "06 74 72 85 01",
+    "site_web": "",
+    "nom_pj": "Les carrossiers mobiles",
+    "adresse_pj": "16 rue Chanterelles 33370 Artigues près Bordeaux",
+    "ville_pj": "Artigues près Bordeaux",
+    "code_postal_pj": "33370",
+    "url_pj": "",
+    "match_score": 0.676,
+    "enrichi": true
   },
   {
     "nom": "DAVY GRAZIOTIN (RETRO PEINTURE(S) GRAZIOTIN)",
@@ -1597,7 +1901,15 @@
     "effectif": "01",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 56 34 41 68",
+    "site_web": "",
+    "nom_pj": "ACCI-AUTO CARROSSERIE",
+    "adresse_pj": "rue Diamant 33185 Le Haillan",
+    "ville_pj": "Le Haillan",
+    "code_postal_pj": "33185",
+    "url_pj": "",
+    "match_score": 0.866,
+    "enrichi": true
   },
   {
     "nom": "YASSINE KERCHAOUI (YASSINE KERCHAOUI)",
@@ -1741,7 +2053,15 @@
     "effectif": "Non renseigné",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "07 49 07 48 21",
+    "site_web": "",
+    "nom_pj": "ABS Auto meca pneus",
+    "adresse_pj": "146 rue Bègles 33800 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33800",
+    "url_pj": "",
+    "match_score": 1.263,
+    "enrichi": true
   },
   {
     "nom": "JIMMY LEEMAN",
@@ -1773,7 +2093,15 @@
     "effectif": "02",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "06 65 78 10 53",
+    "site_web": "",
+    "nom_pj": "Kév-Auto",
+    "adresse_pj": "51 rue Hortense 33100 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33100",
+    "url_pj": "",
+    "match_score": 0.942,
+    "enrichi": true
   },
   {
     "nom": "THOMAS KOUMDA-LACHAUD",
@@ -1805,7 +2133,15 @@
     "effectif": "Non renseigné",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 56 02 85 42",
+    "site_web": "",
+    "nom_pj": "Garage LJB",
+    "adresse_pj": "47 avenue Gén Leclerc 33200 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33200",
+    "url_pj": "",
+    "match_score": 0.799,
+    "enrichi": true
   },
   {
     "nom": "BOUABDALLAH TABTI (ALLIE GARAGE)",
@@ -1917,7 +2253,15 @@
     "effectif": "Non renseigné",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "07 51 29 52 41",
+    "site_web": "",
+    "nom_pj": "Maz Méca Clean",
+    "adresse_pj": "35 rue Bourbon 33300 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33300",
+    "url_pj": "",
+    "match_score": 0.651,
+    "enrichi": true
   },
   {
     "nom": "SAMVEL ARAKELYAN (SAMVEL SERVICES)",
@@ -1981,7 +2325,15 @@
     "effectif": "Non renseigné",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 57 81 07 08",
+    "site_web": "",
+    "nom_pj": "Carte Grise Bordeaux",
+    "adresse_pj": "100 cours Québec 33300 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33300",
+    "url_pj": "",
+    "match_score": 0.698,
+    "enrichi": true
   },
   {
     "nom": "OWEN MENARD (OWEN AUTO SERVICES)",
@@ -2269,7 +2621,15 @@
     "effectif": "Non renseigné",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 56 29 59 92",
+    "site_web": "",
+    "nom_pj": "Carrosserie T Marques",
+    "adresse_pj": "13 rue Joseph Brunet 33300 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33300",
+    "url_pj": "",
+    "match_score": 1.3,
+    "enrichi": true
   },
   {
     "nom": "R.M.AUTO-NEUF",
@@ -2285,7 +2645,15 @@
     "effectif": "Non renseigné",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 56 55 92 30",
+    "site_web": "",
+    "nom_pj": "J.N AUTO",
+    "adresse_pj": "133 avenue Alouette 33700 Mérignac",
+    "ville_pj": "Mérignac",
+    "code_postal_pj": "33700",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=62288531&code_localite=Z03306300&code_rubrique=388310",
+    "match_score": 0.651,
+    "enrichi": true
   },
   {
     "nom": "MAXIME POULIQUEN",
@@ -2333,7 +2701,15 @@
     "effectif": "Non renseigné",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 56 08 14 32",
+    "site_web": "",
+    "nom_pj": "Jacques Chennebault",
+    "adresse_pj": "22 rue Gloris 33200 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33200",
+    "url_pj": "",
+    "match_score": 1.3,
+    "enrichi": true
   },
   {
     "nom": "OLIVIER REY",
@@ -2349,7 +2725,15 @@
     "effectif": "Non renseigné",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "06 68 31 98 04",
+    "site_web": "",
+    "nom_pj": "Olivier Rey",
+    "adresse_pj": "10 rue Chanzy 33110 Le Bouscat",
+    "ville_pj": "Le Bouscat",
+    "code_postal_pj": "33110",
+    "url_pj": "",
+    "match_score": 1.069,
+    "enrichi": true
   },
   {
     "nom": "MIRCEA POP",
@@ -2397,7 +2781,15 @@
     "effectif": "02",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 56 92 76 70",
+    "site_web": "",
+    "nom_pj": "Garage Pascal Perez",
+    "adresse_pj": "29 rue Pascal Mothes 33800 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33800",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00313943&code_localite=Z03306300&code_rubrique=388310",
+    "match_score": 0.808,
+    "enrichi": true
   },
   {
     "nom": "JEAN RICHARD",
@@ -2461,7 +2853,15 @@
     "effectif": "02",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 56 86 50 21",
+    "site_web": "",
+    "nom_pj": "Carrosserie Laoué Sté Exploitation",
+    "adresse_pj": "77 rue Bouthier 33100 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33100",
+    "url_pj": "",
+    "match_score": 0.752,
+    "enrichi": true
   },
   {
     "nom": "LAURENT FRANCES",
@@ -2493,7 +2893,15 @@
     "effectif": "Non renseigné",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 56 32 75 23",
+    "site_web": "",
+    "nom_pj": "M.ou Mme Iriondo Isidro",
+    "adresse_pj": "53 rue Paul Camelle 33100 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33100",
+    "url_pj": "",
+    "match_score": 0.899,
+    "enrichi": true
   },
   {
     "nom": "CEDRIC ERCEAU",
@@ -2525,7 +2933,15 @@
     "effectif": "01",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 56 94 77 80",
+    "site_web": "",
+    "nom_pj": "Michel Carillo",
+    "adresse_pj": "26 rue Vilaris 33800 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33800",
+    "url_pj": "",
+    "match_score": 0.979,
+    "enrichi": true
   },
   {
     "nom": "GARAGE GRAMOND",
@@ -2541,7 +2957,15 @@
     "effectif": "03",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 56 52 22 78",
+    "site_web": "",
+    "nom_pj": "Garage Gramond",
+    "adresse_pj": "149 rue Palais Gallien 33000 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33000",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=06024072&code_localite=Z03306300&code_rubrique=061240",
+    "match_score": 1.29,
+    "enrichi": true
   },
   {
     "nom": "DIDIER BASOUIN",
@@ -2605,7 +3029,15 @@
     "effectif": "02",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 56 85 75 75",
+    "site_web": "",
+    "nom_pj": "ATELIER SEBASTIEN FOSSEY",
+    "adresse_pj": "139 rue Pierre Renaudel 33130 Bègles",
+    "ville_pj": "Bègles",
+    "code_postal_pj": "33130",
+    "url_pj": "",
+    "match_score": 1.293,
+    "enrichi": true
   },
   {
     "nom": "AUTO STAR PREPARATION AUTOMOBILE ASPA (A S P A AUTO STAR PREPARATION AUTOMOBILE)",
@@ -2621,7 +3053,15 @@
     "effectif": "12",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "06 87 01 64 29",
+    "site_web": "",
+    "nom_pj": "Aspa Auto Star Préparation Automobile",
+    "adresse_pj": "22 rue 19 Mars 1962 33320 Eysines",
+    "ville_pj": "Eysines",
+    "code_postal_pj": "33320",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=09508796&code_localite=Z03306300&code_rubrique=388310",
+    "match_score": 1.092,
+    "enrichi": true
   },
   {
     "nom": "SARL GARAGE ALFRED DANEY",
@@ -2637,7 +3077,15 @@
     "effectif": "03",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 56 43 11 84",
+    "site_web": "",
+    "nom_pj": "Garage Alfred Daney",
+    "adresse_pj": "289 boulevard Alfred Daney 33300 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33300",
+    "url_pj": "",
+    "match_score": 1.3,
+    "enrichi": true
   },
   {
     "nom": "CARROSSERIE AUTOMOBILE COOPERATIVE",
@@ -2653,7 +3101,15 @@
     "effectif": "11",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "0759000094",
+    "site_web": "",
+    "nom_pj": "Carrosserie Automobile Coopérative",
+    "adresse_pj": "58 rue Guillaume Leblanc 33000 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33000",
+    "url_pj": "",
+    "match_score": 0.976,
+    "enrichi": true
   },
   {
     "nom": "CARROSSERIE LAHITETTE BORDEAUX",
@@ -2669,7 +3125,15 @@
     "effectif": "03",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 56 91 48 27",
+    "site_web": "",
+    "nom_pj": "Carrosserie Lahitette",
+    "adresse_pj": "78 rue Henri IV 33000 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33000",
+    "url_pj": "",
+    "match_score": 1.194,
+    "enrichi": true
   },
   {
     "nom": "ALI KOURA (AUTO PRESTA 33)",
@@ -2701,7 +3165,15 @@
     "effectif": "00",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 67 80 57 63",
+    "site_web": "",
+    "nom_pj": "GARAGE BRONCHAL",
+    "adresse_pj": "137 cours Mar Galliéni 33000 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33000",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00771444&code_localite=Z03306300&code_rubrique=061240",
+    "match_score": 1.27,
+    "enrichi": true
   },
   {
     "nom": "DAVID GUIONIE",
@@ -2749,7 +3221,15 @@
     "effectif": "Non renseigné",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "09 51 99 71 60",
+    "site_web": "",
+    "nom_pj": "Robert Marek Krzewinski",
+    "adresse_pj": "6 rue Belle Rose 33130 Bègles",
+    "ville_pj": "Bègles",
+    "code_postal_pj": "33130",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=56451782&code_localite=Z03306300&code_rubrique=061240",
+    "match_score": 1.03,
+    "enrichi": true
   },
   {
     "nom": "CARROSSERIE AUTO AQUITAINE",
@@ -2765,7 +3245,15 @@
     "effectif": "02",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 57 61 42 38",
+    "site_web": "",
+    "nom_pj": "Carrosserie Auto Aquitaine",
+    "adresse_pj": "12 avenue Blanqui 33270 Floirac",
+    "ville_pj": "Floirac",
+    "code_postal_pj": "33270",
+    "url_pj": "",
+    "match_score": 1.3,
+    "enrichi": true
   },
   {
     "nom": "EURL BEST AUTO (BEST AUTO)",
@@ -2781,7 +3269,15 @@
     "effectif": "02",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 56 86 12 01",
+    "site_web": "",
+    "nom_pj": "Best Auto",
+    "adresse_pj": "village Artisanal du Clouet 33370 Pompignac",
+    "ville_pj": "Pompignac",
+    "code_postal_pj": "33370",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=53806186&code_localite=Z03306300&code_rubrique=388310",
+    "match_score": 1.3,
+    "enrichi": true
   },
   {
     "nom": "BORDEAUX MARITIME CARROSSERIE (BORDEAUX MARITIME CARROSSERIE) (BMC)",
@@ -2797,7 +3293,15 @@
     "effectif": "02",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 47 47 65 11",
+    "site_web": "",
+    "nom_pj": "BMCConnu sous : BORDEAUX MARITIME CARROSSERIE",
+    "adresse_pj": "24 rue Pourmann 33300 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33300",
+    "url_pj": "",
+    "match_score": 1.183,
+    "enrichi": true
   },
   {
     "nom": "XAVIER FOLEA",
@@ -2845,7 +3349,15 @@
     "effectif": "03",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "0463072000",
+    "site_web": "",
+    "nom_pj": "Garage Auto Richelieu",
+    "adresse_pj": "24 quai Souys 33100 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33100",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=09322139&code_localite=Z03306300&code_rubrique=388310",
+    "match_score": 1.276,
+    "enrichi": true
   },
   {
     "nom": "POWER TECH SYSTEM",
@@ -2957,7 +3469,15 @@
     "effectif": "03",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 56 08 11 87",
+    "site_web": "",
+    "nom_pj": "Percot- Rapaud",
+    "adresse_pj": "358 rue Pasteur 33200 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33200",
+    "url_pj": "",
+    "match_score": 1.3,
+    "enrichi": true
   },
   {
     "nom": "SAMIR BENLAMRI (S.A.M SERVICE AUTO MOTO)",
@@ -2989,7 +3509,15 @@
     "effectif": "02",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 56 52 24 88",
+    "site_web": "",
+    "nom_pj": "Garage Robin",
+    "adresse_pj": "54 rue St Joseph 33000 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33000",
+    "url_pj": "",
+    "match_score": 0.691,
+    "enrichi": true
   },
   {
     "nom": "DAVID JAUMOUILLIE",
@@ -3053,7 +3581,15 @@
     "effectif": "02",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "07 81 68 51 23",
+    "site_web": "",
+    "nom_pj": "SVP Utilitaires",
+    "adresse_pj": "20 rue Pierre Baour 33300 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33300",
+    "url_pj": "",
+    "match_score": 1.3,
+    "enrichi": true
   },
   {
     "nom": "LAVAGE CHRISTOPHE GOBESSI (LAVAGE CHRISTOPHE GOBESSI) (LCG)",
@@ -3069,7 +3605,15 @@
     "effectif": "01",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 57 87 59 20",
+    "site_web": "",
+    "nom_pj": "Christophe Gobessi",
+    "adresse_pj": "30 avenue Alsace Lorraine 33200 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33200",
+    "url_pj": "",
+    "match_score": 1.202,
+    "enrichi": true
   },
   {
     "nom": "ALI AMAIRIA (AUTO ASSIL ALG 24)",
@@ -3229,7 +3773,15 @@
     "effectif": "Non renseigné",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 56 02 85 42",
+    "site_web": "",
+    "nom_pj": "Garage LJB",
+    "adresse_pj": "47 avenue Gén Leclerc 33200 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33200",
+    "url_pj": "",
+    "match_score": 1.165,
+    "enrichi": true
   },
   {
     "nom": "ADAM GINTER (GINTER GLASS PROTECTION)",
@@ -3277,7 +3829,15 @@
     "effectif": "Non renseigné",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "06 14 65 32 59",
+    "site_web": "",
+    "nom_pj": "Mondial Pare-Brise",
+    "adresse_pj": "48 D rue Gare 33290 Parempuyre",
+    "ville_pj": "Parempuyre",
+    "code_postal_pj": "33290",
+    "url_pj": "",
+    "match_score": 0.699,
+    "enrichi": true
   },
   {
     "nom": "HYBRID CAR CENTER",
@@ -3405,7 +3965,15 @@
     "effectif": "02",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 56 36 98 19",
+    "site_web": "",
+    "nom_pj": "GM BORDEAUX AUTO",
+    "adresse_pj": "1 avenue Nontraste 33300 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33300",
+    "url_pj": "",
+    "match_score": 1.204,
+    "enrichi": true
   },
   {
     "nom": "CS BIO 33",
@@ -3485,7 +4053,15 @@
     "effectif": "Non renseigné",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "09 51 58 44 06",
+    "site_web": "",
+    "nom_pj": "Mohamed El Agdi",
+    "adresse_pj": "8 rue Permentade 33000 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33000",
+    "url_pj": "",
+    "match_score": 0.668,
+    "enrichi": true
   },
   {
     "nom": "NIKOLA ZECOVIC",
@@ -3565,7 +4141,15 @@
     "effectif": "Non renseigné",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 56 28 52 17",
+    "site_web": "",
+    "nom_pj": "Fix Auto Bordeaux",
+    "adresse_pj": "10 rue Breteil 33320 Eysines",
+    "ville_pj": "Eysines",
+    "code_postal_pj": "33320",
+    "url_pj": "",
+    "match_score": 0.842,
+    "enrichi": true
   },
   {
     "nom": "MOHAMED SAIDANI",
@@ -3645,7 +4229,15 @@
     "effectif": "02",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 67 80 57 63",
+    "site_web": "",
+    "nom_pj": "GARAGE BRONCHAL",
+    "adresse_pj": "137 cours Mar Galliéni 33000 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33000",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00771444&code_localite=Z03306300&code_rubrique=061240",
+    "match_score": 1.087,
+    "enrichi": true
   },
   {
     "nom": "KARIM TOUISS (T K MECA SERVICES)",
@@ -3693,7 +4285,15 @@
     "effectif": "Non renseigné",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "06 32 30 36 19",
+    "site_web": "",
+    "nom_pj": "B M Automobiles",
+    "adresse_pj": "9 rue Garies 33700 Mérignac",
+    "ville_pj": "Mérignac",
+    "code_postal_pj": "33700",
+    "url_pj": "",
+    "match_score": 0.772,
+    "enrichi": true
   },
   {
     "nom": "ADELINE DEL VECCHIO (AD CLEAN DETAILING)",
@@ -3725,7 +4325,15 @@
     "effectif": "Non renseigné",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 56 36 98 19",
+    "site_web": "",
+    "nom_pj": "GM BORDEAUX AUTO",
+    "adresse_pj": "1 avenue Nontraste 33300 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33300",
+    "url_pj": "",
+    "match_score": 0.95,
+    "enrichi": true
   },
   {
     "nom": "ROBIN COGNAULT",
@@ -3773,7 +4381,15 @@
     "effectif": "Non renseigné",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 56 49 41 83",
+    "site_web": "",
+    "nom_pj": "AUTO BILAN FRANCE",
+    "adresse_pj": "56 route Toulouse 33800 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33800",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=07276569&code_localite=Z03306300&code_rubrique=388310",
+    "match_score": 0.651,
+    "enrichi": true
   },
   {
     "nom": "THOMAS YANSA (THOMAS EXPRESS NETTOYAGE)",
@@ -3805,7 +4421,15 @@
     "effectif": "Non renseigné",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "07 56 10 87 27",
+    "site_web": "",
+    "nom_pj": "Vit'Glass",
+    "adresse_pj": "5 allées Tourny 33000 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33000",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=63222520&code_localite=Z03306300&code_rubrique=142320",
+    "match_score": 0.693,
+    "enrichi": true
   },
   {
     "nom": "NODESK",
@@ -3853,7 +4477,15 @@
     "effectif": "Non renseigné",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "07 51 29 52 41",
+    "site_web": "",
+    "nom_pj": "Maz Méca Clean",
+    "adresse_pj": "35 rue Bourbon 33300 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33300",
+    "url_pj": "",
+    "match_score": 0.808,
+    "enrichi": true
   },
   {
     "nom": "GARAGE DE LESCURE",
@@ -3869,7 +4501,15 @@
     "effectif": "Non renseigné",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 56 52 24 88",
+    "site_web": "",
+    "nom_pj": "Garage Robin",
+    "adresse_pj": "54 rue St Joseph 33000 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33000",
+    "url_pj": "",
+    "match_score": 0.666,
+    "enrichi": true
   },
   {
     "nom": "CAPADOCE AUTO",
@@ -3885,7 +4525,15 @@
     "effectif": "Non renseigné",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "06 03 35 02 27",
+    "site_web": "",
+    "nom_pj": "ATME AUTO",
+    "adresse_pj": "96 quai Souys 33100 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33100",
+    "url_pj": "",
+    "match_score": 0.681,
+    "enrichi": true
   },
   {
     "nom": "DOCKAUTO",
@@ -3901,7 +4549,15 @@
     "effectif": "Non renseigné",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 57 57 22 00",
+    "site_web": "",
+    "nom_pj": "Norauto",
+    "adresse_pj": "centre commercial Lac 33300 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33300",
+    "url_pj": "",
+    "match_score": 0.707,
+    "enrichi": true
   },
   {
     "nom": "CARROSSERIE LACARRIERE",
@@ -3917,7 +4573,15 @@
     "effectif": "Non renseigné",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 56 91 48 27",
+    "site_web": "",
+    "nom_pj": "Carrosserie Lahitette",
+    "adresse_pj": "78 rue Henri IV 33000 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33000",
+    "url_pj": "",
+    "match_score": 0.771,
+    "enrichi": true
   },
   {
     "nom": "LAQU'AUTO",
@@ -3965,7 +4629,15 @@
     "effectif": "Non renseigné",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "09 67 40 61 96",
+    "site_web": "",
+    "nom_pj": "Top-Wash",
+    "adresse_pj": "bât A 123 rue Pierre Ramond 33160 Saint Médard en Jalles",
+    "ville_pj": "Saint Médard en Jalles",
+    "code_postal_pj": "33160",
+    "url_pj": "",
+    "match_score": 0.702,
+    "enrichi": true
   },
   {
     "nom": "GARAGE POINT",
@@ -3981,7 +4653,15 @@
     "effectif": "Non renseigné",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "06 47 50 48 25",
+    "site_web": "",
+    "nom_pj": "Garage du Rond-Point Sarl",
+    "adresse_pj": "94 avenue Montaigne 33160 Saint Médard en Jalles",
+    "ville_pj": "Saint Médard en Jalles",
+    "code_postal_pj": "33160",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=55871641&code_localite=Z03306300&code_rubrique=388310",
+    "match_score": 0.774,
+    "enrichi": true
   },
   {
     "nom": "CAR CLEAN GROUPE HELLIAS SERVICES",
@@ -4029,7 +4709,15 @@
     "effectif": "Non renseigné",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 56 85 78 05",
+    "site_web": "",
+    "nom_pj": "Garage Cless SARL",
+    "adresse_pj": "302 route Toulouse 33130 Bègles",
+    "ville_pj": "Bègles",
+    "code_postal_pj": "33130",
+    "url_pj": "",
+    "match_score": 0.703,
+    "enrichi": true
   },
   {
     "nom": "B.A.B. UTILITAIRES",
@@ -4045,7 +4733,15 @@
     "effectif": "Non renseigné",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "07 81 68 51 23",
+    "site_web": "",
+    "nom_pj": "SVP Utilitaires",
+    "adresse_pj": "20 rue Pierre Baour 33300 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33300",
+    "url_pj": "",
+    "match_score": 0.893,
+    "enrichi": true
   },
   {
     "nom": "NUNOCAR 54",
@@ -4077,7 +4773,15 @@
     "effectif": "Non renseigné",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "",
+    "site_web": "",
+    "nom_pj": "Auto Confort 33",
+    "adresse_pj": "Zone Industrielle La Gravette chemin Gravette 33140 Cadaujac",
+    "ville_pj": "Cadaujac",
+    "code_postal_pj": "33140",
+    "url_pj": "",
+    "match_score": 0.75,
+    "enrichi": true
   },
   {
     "nom": "E.U.R.L. MANEIRO",
@@ -4109,7 +4813,15 @@
     "effectif": "Non renseigné",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 57 71 00 00",
+    "site_web": "",
+    "nom_pj": "AS AUTO AQUITAINE SERVICE AUTO",
+    "adresse_pj": "impasse Billaoude 33610 Cestas",
+    "ville_pj": "Cestas",
+    "code_postal_pj": "33610",
+    "url_pj": "",
+    "match_score": 0.715,
+    "enrichi": true
   },
   {
     "nom": "ALIENOR PNEUS SERVICES",
@@ -4141,7 +4853,15 @@
     "effectif": "Non renseigné",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "",
+    "site_web": "",
+    "nom_pj": "RAPID AUTO RAPID AUTO",
+    "adresse_pj": "401 route Toulouse 33140 Villenave d'Ornon",
+    "ville_pj": "Villenave d'Ornon",
+    "code_postal_pj": "33140",
+    "url_pj": "",
+    "match_score": 0.679,
+    "enrichi": true
   },
   {
     "nom": "GARAGE DU SOURDIS",
@@ -4157,7 +4877,15 @@
     "effectif": "Non renseigné",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 56 52 24 88",
+    "site_web": "",
+    "nom_pj": "Garage Robin",
+    "adresse_pj": "54 rue St Joseph 33000 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33000",
+    "url_pj": "",
+    "match_score": 0.68,
+    "enrichi": true
   },
   {
     "nom": "DIAMOND AUTO CLEAN",
@@ -4173,7 +4901,15 @@
     "effectif": "Non renseigné",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "07 51 29 52 41",
+    "site_web": "",
+    "nom_pj": "Maz Méca Clean",
+    "adresse_pj": "35 rue Bourbon 33300 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33300",
+    "url_pj": "",
+    "match_score": 0.676,
+    "enrichi": true
   },
   {
     "nom": "EL HABIB BOUAZZA ([ND])",
@@ -4237,7 +4973,15 @@
     "effectif": "Non renseigné",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 56 49 41 83",
+    "site_web": "",
+    "nom_pj": "AUTO BILAN FRANCE",
+    "adresse_pj": "56 route Toulouse 33800 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33800",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=07276569&code_localite=Z03306300&code_rubrique=388310",
+    "match_score": 0.746,
+    "enrichi": true
   },
   {
     "nom": "GARAGE DE GARONNE",
@@ -4253,7 +4997,15 @@
     "effectif": "Non renseigné",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 56 50 91 33",
+    "site_web": "",
+    "nom_pj": "Le Garage Moderne",
+    "adresse_pj": "176 rue Achard 33300 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33300",
+    "url_pj": "",
+    "match_score": 0.712,
+    "enrichi": true
   },
   {
     "nom": "GARAGE AUTO",
@@ -4269,7 +5021,15 @@
     "effectif": "Non renseigné",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 54 68 00 00",
+    "site_web": "",
+    "nom_pj": "Garage R Auto",
+    "adresse_pj": "21 avenue Melac 33370 Tresses",
+    "ville_pj": "Tresses",
+    "code_postal_pj": "33370",
+    "url_pj": "",
+    "match_score": 0.929,
+    "enrichi": true
   },
   {
     "nom": "MANDRON SERVICES AUTO",
@@ -4285,7 +5045,15 @@
     "effectif": "Non renseigné",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 57 19 09 29",
+    "site_web": "",
+    "nom_pj": "MANDRON AUTOMOBILES",
+    "adresse_pj": "262 Bis rue Mandron 33000 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33000",
+    "url_pj": "",
+    "match_score": 0.729,
+    "enrichi": true
   },
   {
     "nom": "JEAN SOUCHAL",
@@ -4317,7 +5085,15 @@
     "effectif": "Non renseigné",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "07 49 07 48 21",
+    "site_web": "",
+    "nom_pj": "ABS Auto meca pneus",
+    "adresse_pj": "146 rue Bègles 33800 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33800",
+    "url_pj": "",
+    "match_score": 0.662,
+    "enrichi": true
   },
   {
     "nom": "SARL BPI",
@@ -4365,7 +5141,15 @@
     "effectif": "Non renseigné",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "",
+    "site_web": "",
+    "nom_pj": "DJCARS",
+    "adresse_pj": "Bureau 3 9 rue Condé 33000 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33000",
+    "url_pj": "",
+    "match_score": 0.663,
+    "enrichi": true
   },
   {
     "nom": "CAR REPAR",
@@ -4381,7 +5165,15 @@
     "effectif": "Non renseigné",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "06 68 18 53 59",
+    "site_web": "",
+    "nom_pj": "CAR CONCEPT",
+    "adresse_pj": "195 cours Somme 33800 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33800",
+    "url_pj": "",
+    "match_score": 0.663,
+    "enrichi": true
   },
   {
     "nom": "BEN'S AUTOMOBILE",
@@ -4397,7 +5189,15 @@
     "effectif": "Non renseigné",
     "categorie": "garage",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "06 15 58 06 46",
+    "site_web": "https://garagelautomobile.fr/contact/",
+    "nom_pj": "L'Automobile",
+    "adresse_pj": "3 rue Lamarque 33360 Carignan de Bordeaux",
+    "ville_pj": "Carignan de Bordeaux",
+    "code_postal_pj": "33360",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=55380085&code_localite=Z03306300&code_rubrique=388310",
+    "match_score": 0.91,
+    "enrichi": true
   },
   {
     "nom": "ARISTOCAR (ARISTOCAR) (ARISTOCAR)",
@@ -4429,7 +5229,15 @@
     "effectif": "22",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "06 82 84 25 67",
+    "site_web": "",
+    "nom_pj": "Npm auto",
+    "adresse_pj": "7 rue Landotte 33450 Izon",
+    "ville_pj": "Izon",
+    "code_postal_pj": "33450",
+    "url_pj": "",
+    "match_score": 0.823,
+    "enrichi": true
   },
   {
     "nom": "AUTOMOBILES PALAU",
@@ -4445,7 +5253,15 @@
     "effectif": "22",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "0796700004",
+    "site_web": "",
+    "nom_pj": "Automobiles Palau",
+    "adresse_pj": "423 route Médoc 33520 Bruges",
+    "ville_pj": "Bruges",
+    "code_postal_pj": "33520",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00316537&code_localite=Z03306300&code_rubrique=061240",
+    "match_score": 1.042,
+    "enrichi": true
   },
   {
     "nom": "GCA BORDEAUX",
@@ -4461,7 +5277,15 @@
     "effectif": "22",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 56 16 76 10",
+    "site_web": "",
+    "nom_pj": "Tea Bordeaux",
+    "adresse_pj": "Chem Palue de Sabarèges avenue Industries 33440 Ambarès et Lagrave",
+    "ville_pj": "Ambarès et Lagrave",
+    "code_postal_pj": "33440",
+    "url_pj": "",
+    "match_score": 0.881,
+    "enrichi": true
   },
   {
     "nom": "KOP.K (WESTERN FLYERS)",
@@ -4493,7 +5317,15 @@
     "effectif": "03",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "07 83 62 52 97",
+    "site_web": "",
+    "nom_pj": "L'atelier du Deux Roues",
+    "adresse_pj": "rue Roullet 33800 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33800",
+    "url_pj": "",
+    "match_score": 0.654,
+    "enrichi": true
   },
   {
     "nom": "MERCEDES-BENZ FRANCE (A MERCEDES-BENZ GROUP AG COMPAGNY)",
@@ -4509,7 +5341,15 @@
     "effectif": "41",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 57 88 23 30",
+    "site_web": "",
+    "nom_pj": "BPM Pro - Mercedes-Benz Tresses",
+    "adresse_pj": "41 avenue Desclaud 33370 Tresses",
+    "ville_pj": "Tresses",
+    "code_postal_pj": "33370",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=56690490&code_localite=Z03306300&code_rubrique=131900",
+    "match_score": 0.677,
+    "enrichi": true
   },
   {
     "nom": "CITADINE LOCATION",
@@ -4541,7 +5381,15 @@
     "effectif": "03",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "06 98 18 24 60",
+    "site_web": "",
+    "nom_pj": "Automotive International Rétailer A.I.R.",
+    "adresse_pj": "16 rue Isaac Newton 33700 Mérignac",
+    "ville_pj": "Mérignac",
+    "code_postal_pj": "33700",
+    "url_pj": "",
+    "match_score": 0.776,
+    "enrichi": true
   },
   {
     "nom": "INTER V.O FRANCE",
@@ -4557,7 +5405,15 @@
     "effectif": "11",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 57 19 85 85",
+    "site_web": "",
+    "nom_pj": "INTER V.O FRANCE",
+    "adresse_pj": "rue Jacques Prévert 33700 Mérignac",
+    "ville_pj": "Mérignac",
+    "code_postal_pj": "33700",
+    "url_pj": "",
+    "match_score": 1.275,
+    "enrichi": true
   },
   {
     "nom": "DEKRA AUTOMOTIVE SOLUTIONS FRANCE (DEKRA AUTOMOTIVE SOLUTIONS - AUTOCONTACT - CARSAT - OPLUS - EXLINEA SERVICES - EURO SERVICES - ARTSA)",
@@ -4685,7 +5541,15 @@
     "effectif": "03",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "07 88 81 10 11",
+    "site_web": "",
+    "nom_pj": "Leaderforce",
+    "adresse_pj": "4 rue Stéphanie Kwolek 33185 Le Haillan",
+    "ville_pj": "Le Haillan",
+    "code_postal_pj": "33185",
+    "url_pj": "",
+    "match_score": 1.026,
+    "enrichi": true
   },
   {
     "nom": "LES 4 S",
@@ -4749,7 +5613,15 @@
     "effectif": "11",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 56 16 76 10",
+    "site_web": "",
+    "nom_pj": "Tea Bordeaux",
+    "adresse_pj": "Chem Palue de Sabarèges avenue Industries 33440 Ambarès et Lagrave",
+    "ville_pj": "Ambarès et Lagrave",
+    "code_postal_pj": "33440",
+    "url_pj": "",
+    "match_score": 1.233,
+    "enrichi": true
   },
   {
     "nom": "BRUNO SIGALAS (JAGALFA)",
@@ -4765,7 +5637,15 @@
     "effectif": "Non renseigné",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "",
+    "site_web": "",
+    "nom_pj": "Bruno Sigalas",
+    "adresse_pj": "116 avenue Jean Jaurès 33520 Bruges",
+    "ville_pj": "Bruges",
+    "code_postal_pj": "33520",
+    "url_pj": "",
+    "match_score": 1.293,
+    "enrichi": true
   },
   {
     "nom": "IES (AUTO-IES)",
@@ -4845,7 +5725,15 @@
     "effectif": "02",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 56 24 25 27",
+    "site_web": "",
+    "nom_pj": "Carrosserie Marc Dumas",
+    "adresse_pj": "37 rue Cestas 33000 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33000",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00772959&code_localite=Z03306300&code_rubrique=388310",
+    "match_score": 0.677,
+    "enrichi": true
   },
   {
     "nom": "SARL RSANGELAUTO (RS ANGELAUTO)",
@@ -4861,7 +5749,15 @@
     "effectif": "01",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "06 03 35 02 27",
+    "site_web": "",
+    "nom_pj": "ATME AUTO",
+    "adresse_pj": "96 quai Souys 33100 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33100",
+    "url_pj": "",
+    "match_score": 0.685,
+    "enrichi": true
   },
   {
     "nom": "YANIS SIMONTE ([ND])",
@@ -5005,7 +5901,15 @@
     "effectif": "Non renseigné",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 57 19 03 00",
+    "site_web": "",
+    "nom_pj": "Mondauto",
+    "adresse_pj": "7 rue Jacques Prévert 33700 Mérignac",
+    "ville_pj": "Mérignac",
+    "code_postal_pj": "33700",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=08075211&code_localite=Z03306300&code_rubrique=061240",
+    "match_score": 1.043,
+    "enrichi": true
   },
   {
     "nom": "CHABOT SPORT AQUITAINE",
@@ -5021,7 +5925,15 @@
     "effectif": "21",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 57 26 21 21",
+    "site_web": "",
+    "nom_pj": "Technic Hayon Aquitaine",
+    "adresse_pj": "6 avenue Gustave Eiffel 33600 Pessac",
+    "ville_pj": "Pessac",
+    "code_postal_pj": "33600",
+    "url_pj": "",
+    "match_score": 0.701,
+    "enrichi": true
   },
   {
     "nom": "AUTO LUXURY FRANCE (AUTO LUXURY FRANCE)",
@@ -5037,7 +5949,15 @@
     "effectif": "Non renseigné",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 56 49 41 83",
+    "site_web": "",
+    "nom_pj": "AUTO BILAN FRANCE",
+    "adresse_pj": "56 route Toulouse 33800 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33800",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=07276569&code_localite=Z03306300&code_rubrique=388310",
+    "match_score": 0.812,
+    "enrichi": true
   },
   {
     "nom": "SOUNGALO OUATTARA",
@@ -5085,7 +6005,15 @@
     "effectif": "Non renseigné",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "06 74 04 03 45",
+    "site_web": "",
+    "nom_pj": "EB Trading",
+    "adresse_pj": "52 rue Minvielle 33000 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33000",
+    "url_pj": "",
+    "match_score": 0.719,
+    "enrichi": true
   },
   {
     "nom": "EMOTIONAL CARS",
@@ -5181,7 +6109,15 @@
     "effectif": "Non renseigné",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "0463072000",
+    "site_web": "",
+    "nom_pj": "Garage Auto Richelieu",
+    "adresse_pj": "24 quai Souys 33100 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33100",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=09322139&code_localite=Z03306300&code_rubrique=388310",
+    "match_score": 0.803,
+    "enrichi": true
   },
   {
     "nom": "JET-SET AUTOS (JET-SET AUTOS)",
@@ -5197,7 +6133,15 @@
     "effectif": "Non renseigné",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "07 71 28 92 81",
+    "site_web": "",
+    "nom_pj": "JB Autos",
+    "adresse_pj": "25 rue Lajaunie 33100 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33100",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=63795004&code_localite=Z03306300&code_rubrique=388310",
+    "match_score": 0.878,
+    "enrichi": true
   },
   {
     "nom": "VO AND CO",
@@ -5341,7 +6285,15 @@
     "effectif": "Non renseigné",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 57 19 09 29",
+    "site_web": "",
+    "nom_pj": "MANDRON AUTOMOBILES",
+    "adresse_pj": "262 Bis rue Mandron 33000 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33000",
+    "url_pj": "",
+    "match_score": 0.737,
+    "enrichi": true
   },
   {
     "nom": "FRANCK SCHATZER",
@@ -5373,7 +6325,15 @@
     "effectif": "Non renseigné",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 57 19 09 29",
+    "site_web": "",
+    "nom_pj": "MANDRON AUTOMOBILES",
+    "adresse_pj": "262 Bis rue Mandron 33000 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33000",
+    "url_pj": "",
+    "match_score": 0.734,
+    "enrichi": true
   },
   {
     "nom": "TIMUR CHABABIAN (TOPBIZ AUTOMOBILE)",
@@ -5453,7 +6413,15 @@
     "effectif": "01",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "07 52 56 44 35",
+    "site_web": "",
+    "nom_pj": "BA AUTO",
+    "adresse_pj": "16 rue Alembert 33400 Talence",
+    "ville_pj": "Talence",
+    "code_postal_pj": "33400",
+    "url_pj": "",
+    "match_score": 0.884,
+    "enrichi": true
   },
   {
     "nom": "BLACK DRIVE 44",
@@ -5661,7 +6629,15 @@
     "effectif": "Non renseigné",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 54 54 58 44",
+    "site_web": "",
+    "nom_pj": "Autopau",
+    "adresse_pj": "19 rue Francis Garnier 33300 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33300",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=62778915&code_localite=Z03306300&code_rubrique=061240",
+    "match_score": 1.084,
+    "enrichi": true
   },
   {
     "nom": "JACQUES ROSSIAUD",
@@ -5821,7 +6797,15 @@
     "effectif": "Non renseigné",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 56 89 25 04",
+    "site_web": "",
+    "nom_pj": "Gradignan Automobiles Services",
+    "adresse_pj": "21 rue Serpolet 33170 Gradignan",
+    "ville_pj": "Gradignan",
+    "code_postal_pj": "33170",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00315630&code_localite=Z03306300&code_rubrique=061240",
+    "match_score": 0.931,
+    "enrichi": true
   },
   {
     "nom": "001 SDT SERVICES DRIVERS TECHNOLOGIES (001 SDT)",
@@ -5869,7 +6853,15 @@
     "effectif": "02",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "06 81 46 07 83",
+    "site_web": "",
+    "nom_pj": "Patrice Durandet",
+    "adresse_pj": "14 cours Intendance 33000 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33000",
+    "url_pj": "",
+    "match_score": 0.933,
+    "enrichi": true
   },
   {
     "nom": "ABDALLAH BELGOUIZA (AB 33 AUTO)",
@@ -6013,7 +7005,15 @@
     "effectif": "Non renseigné",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "06 14 22 09 06",
+    "site_web": "",
+    "nom_pj": "Abdérrahmane Omary",
+    "adresse_pj": "15 allée Bords de Jalle 33290 Le Pian Médoc",
+    "ville_pj": "Le Pian Médoc",
+    "code_postal_pj": "33290",
+    "url_pj": "",
+    "match_score": 0.604,
+    "enrichi": true
   },
   {
     "nom": "FATIMA ZAZOULI (SABLE MENTHE CREATIONS)",
@@ -6045,7 +7045,15 @@
     "effectif": "03",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 56 92 56 05",
+    "site_web": "",
+    "nom_pj": "GARAGE DE LA GARE SARL",
+    "adresse_pj": "37 rue Charles Domercq 33800 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33800",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00314027&code_localite=Z03306300&code_rubrique=061240",
+    "match_score": 1.3,
+    "enrichi": true
   },
   {
     "nom": "KARIM NOUAL (AUTO 33)",
@@ -6077,7 +7085,15 @@
     "effectif": "Non renseigné",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 56 49 51 73",
+    "site_web": "",
+    "nom_pj": "AF AUTO",
+    "adresse_pj": "576 Bis route Toulouse 33140 Villenave d'Ornon",
+    "ville_pj": "Villenave d'Ornon",
+    "code_postal_pj": "33140",
+    "url_pj": "",
+    "match_score": 0.643,
+    "enrichi": true
   },
   {
     "nom": "WEB AUTO 37",
@@ -6093,7 +7109,15 @@
     "effectif": "Non renseigné",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "06 73 33 01 78",
+    "site_web": "",
+    "nom_pj": "MB-Auto 33",
+    "adresse_pj": "8 rue Hermite 33520 Bruges",
+    "ville_pj": "Bruges",
+    "code_postal_pj": "33520",
+    "url_pj": "",
+    "match_score": 0.871,
+    "enrichi": true
   },
   {
     "nom": "NEGOCE AUTO SAHA",
@@ -6109,7 +7133,15 @@
     "effectif": "Non renseigné",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "06 08 89 87 79",
+    "site_web": "",
+    "nom_pj": "Vente Auto's Saha",
+    "adresse_pj": "6001 rue Leybardie 33300 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33300",
+    "url_pj": "",
+    "match_score": 0.74,
+    "enrichi": true
   },
   {
     "nom": "MOHAMMED BENMOUSSA",
@@ -6173,7 +7205,15 @@
     "effectif": "03",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 56 50 50 40",
+    "site_web": "",
+    "nom_pj": "100 Scoot's",
+    "adresse_pj": "Za Alfred Daney 6 rue La Motte Picquet 33300 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33300",
+    "url_pj": "",
+    "match_score": 0.719,
+    "enrichi": true
   },
   {
     "nom": "AQUITAINE COMMERCE EQUIPEMENTS LIBRE SERVICE AUTOMOBILES (ACELS AUTOMOBILES)",
@@ -6205,7 +7245,15 @@
     "effectif": "Non renseigné",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "09 51 58 44 06",
+    "site_web": "",
+    "nom_pj": "Mohamed El Agdi",
+    "adresse_pj": "8 rue Permentade 33000 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33000",
+    "url_pj": "",
+    "match_score": 0.722,
+    "enrichi": true
   },
   {
     "nom": "EASYTRANSAUTO",
@@ -6333,7 +7381,15 @@
     "effectif": "00",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "06 52 27 98 19",
+    "site_web": "",
+    "nom_pj": "JH Motors Titou Auto",
+    "adresse_pj": "3 rue Golf 33700 Mérignac",
+    "ville_pj": "Mérignac",
+    "code_postal_pj": "33700",
+    "url_pj": "",
+    "match_score": 1.049,
+    "enrichi": true
   },
   {
     "nom": "KARIM CHOUIKH (GARAGE SECURAUTO)",
@@ -6381,7 +7437,15 @@
     "effectif": "Non renseigné",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "",
+    "site_web": "",
+    "nom_pj": "MONSIEUR GRAVELEAU AZDI",
+    "adresse_pj": "162 rue Billaudel 33800 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33800",
+    "url_pj": "",
+    "match_score": 0.923,
+    "enrichi": true
   },
   {
     "nom": "ROUCH AUTO",
@@ -6397,7 +7461,15 @@
     "effectif": "Non renseigné",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "07 71 72 74 37",
+    "site_web": "",
+    "nom_pj": "Rou Auto",
+    "adresse_pj": "Entree C bât Tokyo rue Marcel Cerdan 33310 Lormont",
+    "ville_pj": "Lormont",
+    "code_postal_pj": "33310",
+    "url_pj": "",
+    "match_score": 0.697,
+    "enrichi": true
   },
   {
     "nom": "ALTAF SELMI (SA AUTO)",
@@ -6461,7 +7533,15 @@
     "effectif": "Non renseigné",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "06 10 42 11 53",
+    "site_web": "",
+    "nom_pj": "Lome Collection",
+    "adresse_pj": "416 rue Dauphine 33127 Saint Jean d'Illac",
+    "ville_pj": "Saint Jean d'Illac",
+    "code_postal_pj": "33127",
+    "url_pj": "",
+    "match_score": 1.3,
+    "enrichi": true
   },
   {
     "nom": "DAVIT GHANDILYAN (DAV MOTORS)",
@@ -6717,7 +7797,15 @@
     "effectif": "Non renseigné",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "",
+    "site_web": "",
+    "nom_pj": "DJCARS",
+    "adresse_pj": "Bureau 3 9 rue Condé 33000 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33000",
+    "url_pj": "",
+    "match_score": 0.697,
+    "enrichi": true
   },
   {
     "nom": "FAYCEL GUEZOUNA (FBZ CARS)",
@@ -6813,7 +7901,15 @@
     "effectif": "Non renseigné",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "07 56 10 87 27",
+    "site_web": "",
+    "nom_pj": "Vit'Glass",
+    "adresse_pj": "5 allées Tourny 33000 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33000",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=63222520&code_localite=Z03306300&code_rubrique=142320",
+    "match_score": 0.663,
+    "enrichi": true
   },
   {
     "nom": "MIMOUN EL BACHA (ME AUTO MOTO PRO)",
@@ -6845,7 +7941,15 @@
     "effectif": "Non renseigné",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "06 05 88 98 25",
+    "site_web": "",
+    "nom_pj": "Tuning auto 33",
+    "adresse_pj": "Bureau 3 9 rue Condé 33000 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33000",
+    "url_pj": "",
+    "match_score": 0.707,
+    "enrichi": true
   },
   {
     "nom": "NIZAR BOULABSAL (NBS AUTO)",
@@ -6973,7 +8077,15 @@
     "effectif": "Non renseigné",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "09 51 58 44 06",
+    "site_web": "",
+    "nom_pj": "Mohamed El Agdi",
+    "adresse_pj": "8 rue Permentade 33000 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33000",
+    "url_pj": "",
+    "match_score": 0.736,
+    "enrichi": true
   },
   {
     "nom": "HOUSSEM BOUALEM",
@@ -7085,7 +8197,15 @@
     "effectif": "01",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 56 36 98 19",
+    "site_web": "",
+    "nom_pj": "GM BORDEAUX AUTO",
+    "adresse_pj": "1 avenue Nontraste 33300 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33300",
+    "url_pj": "",
+    "match_score": 0.924,
+    "enrichi": true
   },
   {
     "nom": "YASSINE RAFII",
@@ -7149,7 +8269,15 @@
     "effectif": "Non renseigné",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "06 05 88 98 25",
+    "site_web": "",
+    "nom_pj": "Tuning auto 33",
+    "adresse_pj": "Bureau 3 9 rue Condé 33000 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33000",
+    "url_pj": "",
+    "match_score": 0.653,
+    "enrichi": true
   },
   {
     "nom": "V-LOC BORDEAUX",
@@ -7165,7 +8293,15 @@
     "effectif": "Non renseigné",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 57 14 90 09",
+    "site_web": "",
+    "nom_pj": "OZO BORDEAUX",
+    "adresse_pj": "9 rue Duffour Dubergier 33000 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33000",
+    "url_pj": "",
+    "match_score": 1.019,
+    "enrichi": true
   },
   {
     "nom": "TORETTO MOTOR",
@@ -7197,7 +8333,15 @@
     "effectif": "Non renseigné",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "09 51 58 44 06",
+    "site_web": "",
+    "nom_pj": "Mohamed El Agdi",
+    "adresse_pj": "8 rue Permentade 33000 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33000",
+    "url_pj": "",
+    "match_score": 0.668,
+    "enrichi": true
   },
   {
     "nom": "JUANITO GABARRE (GJ AUTO)",
@@ -7293,7 +8437,15 @@
     "effectif": "Non renseigné",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "",
+    "site_web": "",
+    "nom_pj": "Bordeaux Motos",
+    "adresse_pj": "9 rue Francis Garnier 33300 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33300",
+    "url_pj": "",
+    "match_score": 0.658,
+    "enrichi": true
   },
   {
     "nom": "SEB PERFORMANCES 40",
@@ -7341,7 +8493,15 @@
     "effectif": "Non renseigné",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "06 63 94 14 44",
+    "site_web": "",
+    "nom_pj": "Space Car",
+    "adresse_pj": "16 rue 8 Mai 1945 33150 Cenon",
+    "ville_pj": "Cenon",
+    "code_postal_pj": "33150",
+    "url_pj": "",
+    "match_score": 0.67,
+    "enrichi": true
   },
   {
     "nom": "SHERAZADE BOUKLI-HACENE (KEY PROG AUTO)",
@@ -7373,7 +8533,15 @@
     "effectif": "Non renseigné",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "06 65 78 10 53",
+    "site_web": "",
+    "nom_pj": "Kév-Auto",
+    "adresse_pj": "51 rue Hortense 33100 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33100",
+    "url_pj": "",
+    "match_score": 0.948,
+    "enrichi": true
   },
   {
     "nom": "ABDELLAOUI YASSINE",
@@ -7517,7 +8685,15 @@
     "effectif": "Non renseigné",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "06 65 14 18 74",
+    "site_web": "",
+    "nom_pj": "Autos Trading 33",
+    "adresse_pj": "41 rue Prof Calmette 33150 Cenon",
+    "ville_pj": "Cenon",
+    "code_postal_pj": "33150",
+    "url_pj": "",
+    "match_score": 0.685,
+    "enrichi": true
   },
   {
     "nom": "TAHAR DJA DAOUADJI",
@@ -7549,7 +8725,15 @@
     "effectif": "Non renseigné",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 56 06 52 18",
+    "site_web": "",
+    "nom_pj": "FTE Garage",
+    "adresse_pj": "5 rue Chante L'Alouette 33440 Ambarès et Lagrave",
+    "ville_pj": "Ambarès et Lagrave",
+    "code_postal_pj": "33440",
+    "url_pj": "",
+    "match_score": 0.654,
+    "enrichi": true
   },
   {
     "nom": "PHILIPPE MARGUERITTE (USEDCARS EPAVISTE GRATUIT BORDEAUX-METROPOLE)",
@@ -7629,7 +8813,15 @@
     "effectif": "11",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "0310000328",
+    "site_web": "",
+    "nom_pj": "Peugeot Buhler West Automobiles Agent",
+    "adresse_pj": "316 avenue Taillan Médoc 33320 Eysines",
+    "ville_pj": "Eysines",
+    "code_postal_pj": "33320",
+    "url_pj": "",
+    "match_score": 1.144,
+    "enrichi": true
   },
   {
     "nom": "ALTER V.O.",
@@ -7645,7 +8837,15 @@
     "effectif": "Non renseigné",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "06 03 35 02 27",
+    "site_web": "",
+    "nom_pj": "ATME AUTO",
+    "adresse_pj": "96 quai Souys 33100 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33100",
+    "url_pj": "",
+    "match_score": 0.65,
+    "enrichi": true
   },
   {
     "nom": "KING AUTO",
@@ -7661,7 +8861,15 @@
     "effectif": "Non renseigné",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "06 65 78 10 53",
+    "site_web": "",
+    "nom_pj": "Kév-Auto",
+    "adresse_pj": "51 rue Hortense 33100 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33100",
+    "url_pj": "",
+    "match_score": 0.77,
+    "enrichi": true
   },
   {
     "nom": "SAMI SADOUNE",
@@ -7693,7 +8901,15 @@
     "effectif": "Non renseigné",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "",
+    "site_web": "",
+    "nom_pj": "SVLTOUR",
+    "adresse_pj": "10 rue Albert de Mun 33000 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33000",
+    "url_pj": "",
+    "match_score": 1.3,
+    "enrichi": true
   },
   {
     "nom": "FRANCOIS CHASTRES",
@@ -7789,7 +9005,15 @@
     "effectif": "Non renseigné",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 57 95 68 43",
+    "site_web": "",
+    "nom_pj": "Carrosserie Simo",
+    "adresse_pj": "22 rue Gravelotte 33800 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33800",
+    "url_pj": "",
+    "match_score": 0.66,
+    "enrichi": true
   },
   {
     "nom": "GHELEM REHAB BEKOUCHE (ITG 33)",
@@ -7837,7 +9061,15 @@
     "effectif": "21",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 57 35 03 03",
+    "site_web": "https://rent.bmw.fr/search/B0233&2023-12-18T08:00:00&2023-12-18T18:00:00",
+    "nom_pj": "Edenauto Premium BMW Rent",
+    "adresse_pj": "28 avenue John Fitzgerald Kennedy 33310 Lormont",
+    "ville_pj": "Lormont",
+    "code_postal_pj": "33310",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=61585203&code_localite=Z03306300&code_rubrique=061240",
+    "match_score": 0.981,
+    "enrichi": true
   },
   {
     "nom": "GARAGE SAINT AMAND",
@@ -7853,7 +9085,15 @@
     "effectif": "01",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 57 22 08 08",
+    "site_web": "",
+    "nom_pj": "Garage de Caudéran",
+    "adresse_pj": "352 avenue Mar De Lattre de Tassigny 33200 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33200",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=07671349&code_localite=Z03306300&code_rubrique=061240",
+    "match_score": 0.654,
+    "enrichi": true
   },
   {
     "nom": "WAJDI RAHAL",
@@ -7901,7 +9141,15 @@
     "effectif": "12",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "06 69 44 20 91",
+    "site_web": "",
+    "nom_pj": "Sjl Automobiles",
+    "adresse_pj": "1 rue Jacques Cartier 33700 Mérignac",
+    "ville_pj": "Mérignac",
+    "code_postal_pj": "33700",
+    "url_pj": "",
+    "match_score": 0.812,
+    "enrichi": true
   },
   {
     "nom": "ADM SARL (ADM AUTO PASSION)",
@@ -8109,7 +9357,15 @@
     "effectif": "01",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 57 22 51 80",
+    "site_web": "",
+    "nom_pj": "Crystal Automobiles",
+    "adresse_pj": "5 avenue Grange Noire 33700 Mérignac",
+    "ville_pj": "Mérignac",
+    "code_postal_pj": "33700",
+    "url_pj": "",
+    "match_score": 0.61,
+    "enrichi": true
   },
   {
     "nom": "GRIMALDI RENT",
@@ -8221,7 +9477,15 @@
     "effectif": "Non renseigné",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 56 94 77 80",
+    "site_web": "",
+    "nom_pj": "Michel Carillo",
+    "adresse_pj": "26 rue Vilaris 33800 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33800",
+    "url_pj": "",
+    "match_score": 0.658,
+    "enrichi": true
   },
   {
     "nom": "ABSOLUT MOTORS AND WATCH",
@@ -8269,7 +9533,15 @@
     "effectif": "Non renseigné",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 56 50 91 33",
+    "site_web": "",
+    "nom_pj": "Le Garage Moderne",
+    "adresse_pj": "176 rue Achard 33300 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33300",
+    "url_pj": "",
+    "match_score": 0.664,
+    "enrichi": true
   },
   {
     "nom": "MAHFOUD SLIMANI (SOVAX)",
@@ -8349,7 +9621,15 @@
     "effectif": "02",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 56 40 00 60",
+    "site_web": "",
+    "nom_pj": "Rc Motors",
+    "adresse_pj": "143 rue Bouthier 33100 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33100",
+    "url_pj": "",
+    "match_score": 1.3,
+    "enrichi": true
   },
   {
     "nom": "IBRAHIMA CAMARA (ISC AUTO)",
@@ -8541,7 +9821,15 @@
     "effectif": "Non renseigné",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "07 69 98 44 42",
+    "site_web": "",
+    "nom_pj": "Cars Auto",
+    "adresse_pj": "Parc D Activite Descartes avenue Gay Lussac 33370 Artigues près Bordeaux",
+    "ville_pj": "Artigues près Bordeaux",
+    "code_postal_pj": "33370",
+    "url_pj": "",
+    "match_score": 0.661,
+    "enrichi": true
   },
   {
     "nom": "MOHAMED MABROUK",
@@ -8573,7 +9861,15 @@
     "effectif": "Non renseigné",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 56 94 77 80",
+    "site_web": "",
+    "nom_pj": "Michel Carillo",
+    "adresse_pj": "26 rue Vilaris 33800 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33800",
+    "url_pj": "",
+    "match_score": 0.666,
+    "enrichi": true
   },
   {
     "nom": "EMAAN",
@@ -8605,7 +9901,15 @@
     "effectif": "Non renseigné",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "06 37 23 48 53",
+    "site_web": "",
+    "nom_pj": "ED Motors",
+    "adresse_pj": "10 rue La Motte Picquet 33300 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33300",
+    "url_pj": "",
+    "match_score": 0.998,
+    "enrichi": true
   },
   {
     "nom": "CARANGA",
@@ -8653,7 +9957,15 @@
     "effectif": "Non renseigné",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 33 05 40 28",
+    "site_web": "",
+    "nom_pj": "AZ Automobiles",
+    "adresse_pj": "22 route Libourne 33450 Saint Loubès",
+    "ville_pj": "Saint Loubès",
+    "code_postal_pj": "33450",
+    "url_pj": "",
+    "match_score": 0.616,
+    "enrichi": true
   },
   {
     "nom": "LL MOTORS (LL MOTORS)",
@@ -8669,7 +9981,15 @@
     "effectif": "Non renseigné",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 56 40 00 60",
+    "site_web": "",
+    "nom_pj": "Rc Motors",
+    "adresse_pj": "143 rue Bouthier 33100 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33100",
+    "url_pj": "",
+    "match_score": 0.933,
+    "enrichi": true
   },
   {
     "nom": "BGO AUTOMOBILES",
@@ -8685,7 +10005,15 @@
     "effectif": "Non renseigné",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "06 32 30 36 19",
+    "site_web": "",
+    "nom_pj": "B M Automobiles",
+    "adresse_pj": "9 rue Garies 33700 Mérignac",
+    "ville_pj": "Mérignac",
+    "code_postal_pj": "33700",
+    "url_pj": "",
+    "match_score": 0.947,
+    "enrichi": true
   },
   {
     "nom": "WHEELS",
@@ -8797,7 +10125,15 @@
     "effectif": "Non renseigné",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 56 74 98 76",
+    "site_web": "",
+    "nom_pj": "FRANCE CARS",
+    "adresse_pj": "99 avenue Jeanne d'Arc 33130 Bègles",
+    "ville_pj": "Bègles",
+    "code_postal_pj": "33130",
+    "url_pj": "",
+    "match_score": 0.885,
+    "enrichi": true
   },
   {
     "nom": "ROULEZ 33 SAS (ROULEZ 33)",
@@ -8845,7 +10181,15 @@
     "effectif": "01",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "07 68 48 37 97",
+    "site_web": "",
+    "nom_pj": "Moovly Van",
+    "adresse_pj": "9 avenue Berlincan 33160 Saint Médard en Jalles",
+    "ville_pj": "Saint Médard en Jalles",
+    "code_postal_pj": "33160",
+    "url_pj": "",
+    "match_score": 1.137,
+    "enrichi": true
   },
   {
     "nom": "PATRICK VLOEBERGHS",
@@ -8877,7 +10221,15 @@
     "effectif": "Non renseigné",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "09 75 57 93 09",
+    "site_web": "",
+    "nom_pj": "Wat Services",
+    "adresse_pj": "3820 avenue Toulouse 33140 Cadaujac",
+    "ville_pj": "Cadaujac",
+    "code_postal_pj": "33140",
+    "url_pj": "",
+    "match_score": 0.915,
+    "enrichi": true
   },
   {
     "nom": "AUTO 33 (AUTO 33)",
@@ -8893,7 +10245,15 @@
     "effectif": "Non renseigné",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "06 05 88 98 25",
+    "site_web": "",
+    "nom_pj": "Tuning auto 33",
+    "adresse_pj": "Bureau 3 9 rue Condé 33000 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33000",
+    "url_pj": "",
+    "match_score": 1.017,
+    "enrichi": true
   },
   {
     "nom": "QUEEN CARS",
@@ -8909,7 +10269,15 @@
     "effectif": "Non renseigné",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 56 75 50 41",
+    "site_web": "",
+    "nom_pj": "QUEEN",
+    "adresse_pj": "50 chemin Courréjean 33130 Bègles",
+    "ville_pj": "Bègles",
+    "code_postal_pj": "33130",
+    "url_pj": "",
+    "match_score": 0.856,
+    "enrichi": true
   },
   {
     "nom": "DJCARS",
@@ -8925,7 +10293,15 @@
     "effectif": "Non renseigné",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "",
+    "site_web": "",
+    "nom_pj": "DJCARS",
+    "adresse_pj": "Bureau 3 9 rue Condé 33000 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33000",
+    "url_pj": "",
+    "match_score": 1.286,
+    "enrichi": true
   },
   {
     "nom": "BILAL BADI (DISTRISNACKING AQUITAINE)",
@@ -8957,7 +10333,15 @@
     "effectif": "Non renseigné",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "09 70 19 59 59",
+    "site_web": "",
+    "nom_pj": "E-Mobility",
+    "adresse_pj": "28 avenue Périgord 33370 Artigues près Bordeaux",
+    "ville_pj": "Artigues près Bordeaux",
+    "code_postal_pj": "33370",
+    "url_pj": "",
+    "match_score": 0.977,
+    "enrichi": true
   },
   {
     "nom": "HEAVEN CAR LUXURY (HCL)",
@@ -9021,7 +10405,15 @@
     "effectif": "Non renseigné",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "07 60 41 77 67",
+    "site_web": "",
+    "nom_pj": "Bordeaux Vintage Cars",
+    "adresse_pj": "8 rue Gravette 33320 Eysines",
+    "ville_pj": "Eysines",
+    "code_postal_pj": "33320",
+    "url_pj": "",
+    "match_score": 1.276,
+    "enrichi": true
   },
   {
     "nom": "PHOENIX CAR",
@@ -9101,7 +10493,15 @@
     "effectif": "02",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "09 70 19 59 59",
+    "site_web": "",
+    "nom_pj": "E-Mobility",
+    "adresse_pj": "28 avenue Périgord 33370 Artigues près Bordeaux",
+    "ville_pj": "Artigues près Bordeaux",
+    "code_postal_pj": "33370",
+    "url_pj": "",
+    "match_score": 0.689,
+    "enrichi": true
   },
   {
     "nom": "FELTZER (FELTZER AUTOMOTIVES)",
@@ -9165,7 +10565,15 @@
     "effectif": "02",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 56 67 85 13",
+    "site_web": "",
+    "nom_pj": "Kdiag Auto",
+    "adresse_pj": "8 chemin Lescan 33150 Cenon",
+    "ville_pj": "Cenon",
+    "code_postal_pj": "33150",
+    "url_pj": "",
+    "match_score": 0.688,
+    "enrichi": true
   },
   {
     "nom": "ZAKARIA SOUMAKI",
@@ -9197,7 +10605,15 @@
     "effectif": "Non renseigné",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "06 41 05 44 18",
+    "site_web": "",
+    "nom_pj": "AB Auto",
+    "adresse_pj": "5 rue Jacques Thibault 33310 Lormont",
+    "ville_pj": "Lormont",
+    "code_postal_pj": "33310",
+    "url_pj": "",
+    "match_score": 1.045,
+    "enrichi": true
   },
   {
     "nom": "SEREN' AUTO",
@@ -9213,7 +10629,15 @@
     "effectif": "01",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 56 57 41 99",
+    "site_web": "",
+    "nom_pj": "Eden Auto",
+    "adresse_pj": "469 route Médoc 33520 Bruges",
+    "ville_pj": "Bruges",
+    "code_postal_pj": "33520",
+    "url_pj": "",
+    "match_score": 0.645,
+    "enrichi": true
   },
   {
     "nom": "QUAFILA CARGO",
@@ -9309,7 +10733,15 @@
     "effectif": "Non renseigné",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "07 83 07 79 79",
+    "site_web": "",
+    "nom_pj": "MSV Auto",
+    "adresse_pj": "11 rue Beaumarchais 33150 Cenon",
+    "ville_pj": "Cenon",
+    "code_postal_pj": "33150",
+    "url_pj": "",
+    "match_score": 0.907,
+    "enrichi": true
   },
   {
     "nom": "MOHAMMED HABACHI (PHOENIX MOMO AUTO)",
@@ -9357,7 +10789,15 @@
     "effectif": "Non renseigné",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 57 10 00 00",
+    "site_web": "",
+    "nom_pj": "BYD - Sipa Automobiles - Bordeaux",
+    "adresse_pj": "83 boulevard Godard 33110 Le Bouscat",
+    "ville_pj": "Le Bouscat",
+    "code_postal_pj": "33110",
+    "url_pj": "",
+    "match_score": 0.683,
+    "enrichi": true
   },
   {
     "nom": "CSP+ (CLASSIC/SPORT/PREMIUM + ; CONSEIL / SERVICES / PROMOTION +)",
@@ -9565,7 +11005,15 @@
     "effectif": "01",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "07 49 18 19 48",
+    "site_web": "",
+    "nom_pj": "Vehiculexpert",
+    "adresse_pj": "14 chemin Poudrière 33700 Mérignac",
+    "ville_pj": "Mérignac",
+    "code_postal_pj": "33700",
+    "url_pj": "",
+    "match_score": 1.245,
+    "enrichi": true
   },
   {
     "nom": "HARUTYUN BADALYAN",
@@ -9613,7 +11061,15 @@
     "effectif": "Non renseigné",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 56 49 41 83",
+    "site_web": "",
+    "nom_pj": "AUTO BILAN FRANCE",
+    "adresse_pj": "56 route Toulouse 33800 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33800",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=07276569&code_localite=Z03306300&code_rubrique=388310",
+    "match_score": 0.7,
+    "enrichi": true
   },
   {
     "nom": "CORAMES AUTOMOBILES",
@@ -9629,7 +11085,15 @@
     "effectif": "Non renseigné",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 57 19 09 29",
+    "site_web": "",
+    "nom_pj": "MANDRON AUTOMOBILES",
+    "adresse_pj": "262 Bis rue Mandron 33000 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33000",
+    "url_pj": "",
+    "match_score": 0.746,
+    "enrichi": true
   },
   {
     "nom": "BASILE BARGAS (BARGAS AUTO)",
@@ -9661,7 +11125,15 @@
     "effectif": "Non renseigné",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "07 68 85 23 51",
+    "site_web": "",
+    "nom_pj": "LOPO Auto",
+    "adresse_pj": "9 Bis rue Vincent d'Indy 33160 Saint Médard en Jalles",
+    "ville_pj": "Saint Médard en Jalles",
+    "code_postal_pj": "33160",
+    "url_pj": "",
+    "match_score": 0.632,
+    "enrichi": true
   },
   {
     "nom": "HIRAKILIANI NISI (AUTO ZONE33)",
@@ -9821,7 +11293,15 @@
     "effectif": "02",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 57 82 48 97",
+    "site_web": "",
+    "nom_pj": "Auto Contact Bouscatais",
+    "adresse_pj": "9 place Montaigne 33110 Le Bouscat",
+    "ville_pj": "Le Bouscat",
+    "code_postal_pj": "33110",
+    "url_pj": "",
+    "match_score": 1.277,
+    "enrichi": true
   },
   {
     "nom": "SAFYR BENKAMOUCHE (SAFYR AUTO PRO 33)",
@@ -9853,7 +11333,15 @@
     "effectif": "Non renseigné",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 56 40 00 60",
+    "site_web": "",
+    "nom_pj": "Rc Motors",
+    "adresse_pj": "143 rue Bouthier 33100 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33100",
+    "url_pj": "",
+    "match_score": 0.919,
+    "enrichi": true
   },
   {
     "nom": "DANIEL MARTINS MARQUES",
@@ -9917,7 +11405,15 @@
     "effectif": "Non renseigné",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "06 73 33 01 78",
+    "site_web": "",
+    "nom_pj": "MB-Auto 33",
+    "adresse_pj": "8 rue Hermite 33520 Bruges",
+    "ville_pj": "Bruges",
+    "code_postal_pj": "33520",
+    "url_pj": "",
+    "match_score": 0.836,
+    "enrichi": true
   },
   {
     "nom": "AVANTGUARD",
@@ -9965,7 +11461,15 @@
     "effectif": "Non renseigné",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 33 05 40 28",
+    "site_web": "",
+    "nom_pj": "AZ Automobiles",
+    "adresse_pj": "22 route Libourne 33450 Saint Loubès",
+    "ville_pj": "Saint Loubès",
+    "code_postal_pj": "33450",
+    "url_pj": "",
+    "match_score": 1.035,
+    "enrichi": true
   },
   {
     "nom": "CARGROUP VO",
@@ -10029,7 +11533,15 @@
     "effectif": "Non renseigné",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 54 68 00 00",
+    "site_web": "",
+    "nom_pj": "Garage R Auto",
+    "adresse_pj": "21 avenue Melac 33370 Tresses",
+    "ville_pj": "Tresses",
+    "code_postal_pj": "33370",
+    "url_pj": "",
+    "match_score": 0.964,
+    "enrichi": true
   },
   {
     "nom": "P . C . H AUTOS IMPORT / EXPORT (P . C . H AUTOS IMPORT / EXPORT)",
@@ -10125,7 +11637,15 @@
     "effectif": "Non renseigné",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 56 74 98 76",
+    "site_web": "",
+    "nom_pj": "FRANCE CARS",
+    "adresse_pj": "99 avenue Jeanne d'Arc 33130 Bègles",
+    "ville_pj": "Bègles",
+    "code_postal_pj": "33130",
+    "url_pj": "",
+    "match_score": 0.923,
+    "enrichi": true
   },
   {
     "nom": "GARAGE LORRAIN S A",
@@ -10237,7 +11757,15 @@
     "effectif": "Non renseigné",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "06 69 44 20 91",
+    "site_web": "",
+    "nom_pj": "Sjl Automobiles",
+    "adresse_pj": "1 rue Jacques Cartier 33700 Mérignac",
+    "ville_pj": "Mérignac",
+    "code_postal_pj": "33700",
+    "url_pj": "",
+    "match_score": 0.749,
+    "enrichi": true
   },
   {
     "nom": "JVAN",
@@ -10317,7 +11845,15 @@
     "effectif": "Non renseigné",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 56 28 05 30",
+    "site_web": "",
+    "nom_pj": "JMC AUTOMOBILE",
+    "adresse_pj": "76 avenue Magudas 33185 Le Haillan",
+    "ville_pj": "Le Haillan",
+    "code_postal_pj": "33185",
+    "url_pj": "",
+    "match_score": 0.666,
+    "enrichi": true
   },
   {
     "nom": "H & C AUTO (MY CAR ONLINE)",
@@ -10333,7 +11869,15 @@
     "effectif": "Non renseigné",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "06 65 78 10 53",
+    "site_web": "",
+    "nom_pj": "Kév-Auto",
+    "adresse_pj": "51 rue Hortense 33100 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33100",
+    "url_pj": "",
+    "match_score": 0.917,
+    "enrichi": true
   },
   {
     "nom": "OPTIMAL CAR SOLUTIONS",
@@ -10413,7 +11957,15 @@
     "effectif": "01",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "06 41 05 44 18",
+    "site_web": "",
+    "nom_pj": "AB Auto",
+    "adresse_pj": "5 rue Jacques Thibault 33310 Lormont",
+    "ville_pj": "Lormont",
+    "code_postal_pj": "33310",
+    "url_pj": "",
+    "match_score": 0.946,
+    "enrichi": true
   },
   {
     "nom": "RM AUTO",
@@ -10429,7 +11981,15 @@
     "effectif": "Non renseigné",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 57 95 34 85",
+    "site_web": "",
+    "nom_pj": "JR Auto",
+    "adresse_pj": "lieu-dit Esconnac 33360 Quinsac",
+    "ville_pj": "Quinsac",
+    "code_postal_pj": "33360",
+    "url_pj": "",
+    "match_score": 0.916,
+    "enrichi": true
   },
   {
     "nom": "K PRESTIGE AUTO",
@@ -10445,7 +12005,15 @@
     "effectif": "Non renseigné",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "06 05 88 98 25",
+    "site_web": "",
+    "nom_pj": "Tuning auto 33",
+    "adresse_pj": "Bureau 3 9 rue Condé 33000 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33000",
+    "url_pj": "",
+    "match_score": 0.658,
+    "enrichi": true
   },
   {
     "nom": "MOULY AUTO",
@@ -10461,7 +12029,15 @@
     "effectif": "Non renseigné",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 56 36 98 19",
+    "site_web": "",
+    "nom_pj": "GM BORDEAUX AUTO",
+    "adresse_pj": "1 avenue Nontraste 33300 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33300",
+    "url_pj": "",
+    "match_score": 0.691,
+    "enrichi": true
   },
   {
     "nom": "OKAMI ENGINEERING",
@@ -10493,7 +12069,15 @@
     "effectif": "Non renseigné",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "06 41 05 44 18",
+    "site_web": "",
+    "nom_pj": "AB Auto",
+    "adresse_pj": "5 rue Jacques Thibault 33310 Lormont",
+    "ville_pj": "Lormont",
+    "code_postal_pj": "33310",
+    "url_pj": "",
+    "match_score": 0.884,
+    "enrichi": true
   },
   {
     "nom": "COURTAGE AUTO IMPORT",
@@ -10525,7 +12109,15 @@
     "effectif": "Non renseigné",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "",
+    "site_web": "",
+    "nom_pj": "Auto Net",
+    "adresse_pj": "413 route Médoc 33520 Bruges",
+    "ville_pj": "Bruges",
+    "code_postal_pj": "33520",
+    "url_pj": "",
+    "match_score": 0.724,
+    "enrichi": true
   },
   {
     "nom": "PROXI AUTO (PROXI AUTO)",
@@ -10541,7 +12133,15 @@
     "effectif": "Non renseigné",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "06 95 17 41 33",
+    "site_web": "",
+    "nom_pj": "Presta Auto",
+    "adresse_pj": "1 rue Marcel Issartier 33700 Mérignac",
+    "ville_pj": "Mérignac",
+    "code_postal_pj": "33700",
+    "url_pj": "",
+    "match_score": 0.688,
+    "enrichi": true
   },
   {
     "nom": "D L A",
@@ -10653,7 +12253,15 @@
     "effectif": "Non renseigné",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 56 49 41 83",
+    "site_web": "",
+    "nom_pj": "AUTO BILAN FRANCE",
+    "adresse_pj": "56 route Toulouse 33800 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33800",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=07276569&code_localite=Z03306300&code_rubrique=388310",
+    "match_score": 0.68,
+    "enrichi": true
   },
   {
     "nom": "BRONCHAL AUTOMOBILE",
@@ -10669,7 +12277,15 @@
     "effectif": "Non renseigné",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 67 80 57 63",
+    "site_web": "",
+    "nom_pj": "GARAGE BRONCHALConnu sous : Bronchal Automobile",
+    "adresse_pj": "137 cours Mar Galliéni 33000 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33000",
+    "url_pj": "",
+    "match_score": 1.026,
+    "enrichi": true
   },
   {
     "nom": "INVERGEST IMPORT EXPORT",
@@ -10749,7 +12365,15 @@
     "effectif": "Non renseigné",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 56 40 00 60",
+    "site_web": "",
+    "nom_pj": "Rc Motors",
+    "adresse_pj": "143 rue Bouthier 33100 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33100",
+    "url_pj": "",
+    "match_score": 0.957,
+    "enrichi": true
   },
   {
     "nom": "AIR BAT",
@@ -10781,7 +12405,15 @@
     "effectif": "Non renseigné",
     "categorie": "concession",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 33 05 40 28",
+    "site_web": "",
+    "nom_pj": "AZ Automobiles",
+    "adresse_pj": "22 route Libourne 33450 Saint Loubès",
+    "ville_pj": "Saint Loubès",
+    "code_postal_pj": "33450",
+    "url_pj": "",
+    "match_score": 0.905,
+    "enrichi": true
   },
   {
     "nom": "ETS PIERRE BOUTEVILLE",
@@ -10797,7 +12429,15 @@
     "effectif": "11",
     "categorie": "carrossier",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 56 50 58 32",
+    "site_web": "",
+    "nom_pj": "Ets Bouteville",
+    "adresse_pj": "rue Suffren 33300 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33300",
+    "url_pj": "",
+    "match_score": 1.144,
+    "enrichi": true
   },
   {
     "nom": "AXEL DUBOS",
@@ -10893,7 +12533,15 @@
     "effectif": "Non renseigné",
     "categorie": "carrossier",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "06 65 78 10 53",
+    "site_web": "",
+    "nom_pj": "Kév-Auto",
+    "adresse_pj": "51 rue Hortense 33100 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33100",
+    "url_pj": "",
+    "match_score": 0.906,
+    "enrichi": true
   },
   {
     "nom": "P.R.C.C.",
@@ -10925,7 +12573,15 @@
     "effectif": "11",
     "categorie": "moto",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "",
+    "site_web": "",
+    "nom_pj": "Bordeaux Motos",
+    "adresse_pj": "9 rue Francis Garnier 33300 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33300",
+    "url_pj": "",
+    "match_score": 1.12,
+    "enrichi": true
   },
   {
     "nom": "PREFERENCE 64",
@@ -10941,7 +12597,15 @@
     "effectif": "11",
     "categorie": "moto",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 56 11 30 30",
+    "site_web": "",
+    "nom_pj": "BMW Préférence 33",
+    "adresse_pj": "59 rue Jacques Prévert 33700 Mérignac",
+    "ville_pj": "Mérignac",
+    "code_postal_pj": "33700",
+    "url_pj": "",
+    "match_score": 0.746,
+    "enrichi": true
   },
   {
     "nom": "CYCLINK (CYCLINK.FR)",
@@ -10989,7 +12653,15 @@
     "effectif": "Non renseigné",
     "categorie": "moto",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "",
+    "site_web": "",
+    "nom_pj": "Décibels",
+    "adresse_pj": "Parc Activite Alieno 37 rue Francis Garnier 33300 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33300",
+    "url_pj": "",
+    "match_score": 0.801,
+    "enrichi": true
   },
   {
     "nom": "SA MOTO KITS",
@@ -11021,7 +12693,15 @@
     "effectif": "02",
     "categorie": "moto",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "06 66 09 01 47",
+    "site_web": "",
+    "nom_pj": "Anima Motorcycles",
+    "adresse_pj": "167 avenue Perigord 33370 Yvrac",
+    "ville_pj": "Yvrac",
+    "code_postal_pj": "33370",
+    "url_pj": "",
+    "match_score": 1.064,
+    "enrichi": true
   },
   {
     "nom": "CARDY BORDEAUX",
@@ -11037,7 +12717,15 @@
     "effectif": "02",
     "categorie": "moto",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 57 10 26 26",
+    "site_web": "",
+    "nom_pj": "SPEEDWAY BORDEAUX",
+    "adresse_pj": "ZI,  Bd Alfred Daney 9 rue Francis Garnier 33300 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33300",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=08905938&code_localite=Z03306300&code_rubrique=259510",
+    "match_score": 0.753,
+    "enrichi": true
   },
   {
     "nom": "LOUIT MOTO",
@@ -11053,7 +12741,15 @@
     "effectif": "11",
     "categorie": "moto",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 57 29 19 00",
+    "site_web": "",
+    "nom_pj": "KAWASAKI Louit Moto Concess. Exclusif",
+    "adresse_pj": "3 rue Gutenberg 33700 Mérignac",
+    "ville_pj": "Mérignac",
+    "code_postal_pj": "33700",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=07664565&code_localite=Z03306300&code_rubrique=259510",
+    "match_score": 0.953,
+    "enrichi": true
   },
   {
     "nom": "ESPRIT CYCLES BORDEAUX",
@@ -11085,7 +12781,15 @@
     "effectif": "12",
     "categorie": "moto",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 56 11 30 30",
+    "site_web": "",
+    "nom_pj": "BMW Préférence 33",
+    "adresse_pj": "59 rue Jacques Prévert 33700 Mérignac",
+    "ville_pj": "Mérignac",
+    "code_postal_pj": "33700",
+    "url_pj": "",
+    "match_score": 0.826,
+    "enrichi": true
   },
   {
     "nom": "MAVERICK MOTORS",
@@ -11117,7 +12821,15 @@
     "effectif": "02",
     "categorie": "moto",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 56 50 50 40",
+    "site_web": "",
+    "nom_pj": "100 Scoot's",
+    "adresse_pj": "Za Alfred Daney 6 rue La Motte Picquet 33300 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33300",
+    "url_pj": "",
+    "match_score": 0.831,
+    "enrichi": true
   },
   {
     "nom": "MOTOSCOOT 33",
@@ -11133,7 +12845,15 @@
     "effectif": "03",
     "categorie": "moto",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 56 04 10 00",
+    "site_web": "",
+    "nom_pj": "Moto Scoot 33",
+    "adresse_pj": "9 rue Francis Garnier 33300 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33300",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=08896660&code_localite=Z03306300&code_rubrique=259510",
+    "match_score": 0.926,
+    "enrichi": true
   },
   {
     "nom": "MOTO CADRE",
@@ -11149,7 +12869,15 @@
     "effectif": "02",
     "categorie": "moto",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 56 69 09 12",
+    "site_web": "",
+    "nom_pj": "Moto Cadre",
+    "adresse_pj": "rue Suffren 33300 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33300",
+    "url_pj": "",
+    "match_score": 1.219,
+    "enrichi": true
   },
   {
     "nom": "SPRINT MOTORS",
@@ -11165,7 +12893,15 @@
     "effectif": "03",
     "categorie": "moto",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 56 90 08 00",
+    "site_web": "",
+    "nom_pj": "Sprint Motors",
+    "adresse_pj": "159 cours Mar Galliéni 33000 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33000",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=08601625&code_localite=Z03306300&code_rubrique=259510",
+    "match_score": 1.27,
+    "enrichi": true
   },
   {
     "nom": "MOHAMED BACHIR (UNIVERS SCOOTER)",
@@ -11245,7 +12981,15 @@
     "effectif": "Non renseigné",
     "categorie": "moto",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 57 10 26 26",
+    "site_web": "",
+    "nom_pj": "Maxxess Occasions",
+    "adresse_pj": "9 rue Francis Garnier 33300 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33300",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=07128804&code_localite=Z03306300&code_rubrique=259510",
+    "match_score": 0.657,
+    "enrichi": true
   },
   {
     "nom": "STEEL BIKE CONCEPT (STEEL BIKE CONCEPT) (SBC)",
@@ -11261,7 +13005,15 @@
     "effectif": "Non renseigné",
     "categorie": "moto",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "09 81 48 18 16",
+    "site_web": "",
+    "nom_pj": "Steel Bike Concept SARL",
+    "adresse_pj": "30 rue Francis Garnier 33300 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33300",
+    "url_pj": "",
+    "match_score": 1.3,
+    "enrichi": true
   },
   {
     "nom": "BORDEAUX LAC SPORTS (BL SPORTS)",
@@ -11277,7 +13029,15 @@
     "effectif": "01",
     "categorie": "moto",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "",
+    "site_web": "",
+    "nom_pj": "Bordeaux Motos",
+    "adresse_pj": "9 rue Francis Garnier 33300 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33300",
+    "url_pj": "",
+    "match_score": 0.753,
+    "enrichi": true
   },
   {
     "nom": "MATHIS GARCIA (MGM)",
@@ -11309,7 +13069,15 @@
     "effectif": "11",
     "categorie": "moto",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 57 93 03 04",
+    "site_web": "",
+    "nom_pj": "Baines Motos SARL",
+    "adresse_pj": "9 rue Francis Garnier 33300 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33300",
+    "url_pj": "",
+    "match_score": 1.236,
+    "enrichi": true
   },
   {
     "nom": "FABIEN CIRIA",
@@ -11405,7 +13173,15 @@
     "effectif": "11",
     "categorie": "moto",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 56 91 55 60",
+    "site_web": "",
+    "nom_pj": "New Bike",
+    "adresse_pj": "4 allée James Watt 33700 Mérignac",
+    "ville_pj": "Mérignac",
+    "code_postal_pj": "33700",
+    "url_pj": "",
+    "match_score": 1.285,
+    "enrichi": true
   },
   {
     "nom": "SARL AQUITAINE MOTO CASSE",
@@ -11421,7 +13197,15 @@
     "effectif": "02",
     "categorie": "moto",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 56 69 87 91",
+    "site_web": "",
+    "nom_pj": "Aquitaine Moto Casse",
+    "adresse_pj": "rue Suffren 33300 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33300",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=08305660&code_localite=Z03306300&code_rubrique=259510",
+    "match_score": 1.221,
+    "enrichi": true
   },
   {
     "nom": "IRON MOTORS (BASTARDS CHOPPERS)",
@@ -11437,7 +13221,15 @@
     "effectif": "Non renseigné",
     "categorie": "moto",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "06 67 55 44 11",
+    "site_web": "",
+    "nom_pj": "Passion Motors",
+    "adresse_pj": "26 rue Pont Castaing 33370 Pompignac",
+    "ville_pj": "Pompignac",
+    "code_postal_pj": "33370",
+    "url_pj": "",
+    "match_score": 0.759,
+    "enrichi": true
   },
   {
     "nom": "RETROPEDALAGE",
@@ -11533,7 +13325,15 @@
     "effectif": "Non renseigné",
     "categorie": "moto",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "07 83 62 52 97",
+    "site_web": "",
+    "nom_pj": "L'atelier du Deux Roues",
+    "adresse_pj": "rue Roullet 33800 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33800",
+    "url_pj": "",
+    "match_score": 1.204,
+    "enrichi": true
   },
   {
     "nom": "PHP (DETAIL MOTO)",
@@ -11565,7 +13365,15 @@
     "effectif": "Non renseigné",
     "categorie": "moto",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 56 90 08 00",
+    "site_web": "",
+    "nom_pj": "Sprint Motors",
+    "adresse_pj": "159 cours Mar Galliéni 33000 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33000",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=08601625&code_localite=Z03306300&code_rubrique=259510",
+    "match_score": 0.722,
+    "enrichi": true
   },
   {
     "nom": "GOSPEED FRANCE",
@@ -11581,7 +13389,15 @@
     "effectif": "Non renseigné",
     "categorie": "moto",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 56 24 93 50",
+    "site_web": "",
+    "nom_pj": "Speedy France Sas",
+    "adresse_pj": "33 boulevard Antoine Gautier 33000 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33000",
+    "url_pj": "",
+    "match_score": 0.746,
+    "enrichi": true
   },
   {
     "nom": "LA BOITE A SCOOTER",
@@ -11597,7 +13413,15 @@
     "effectif": "Non renseigné",
     "categorie": "moto",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "05 57 85 81 46",
+    "site_web": "",
+    "nom_pj": "Station Scooter",
+    "adresse_pj": "104 boulevard Prés Wilson 33000 Bordeaux",
+    "ville_pj": "Bordeaux",
+    "code_postal_pj": "33000",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=09290808&code_localite=Z03306300&code_rubrique=259510",
+    "match_score": 0.695,
+    "enrichi": true
   },
   {
     "nom": "MX33",
@@ -11629,6 +13453,14 @@
     "effectif": "Non renseigné",
     "categorie": "moto",
     "zone_recherche": "Bordeaux",
-    "enrichi": false
+    "telephone": "06 11 35 60 22",
+    "site_web": "",
+    "nom_pj": "Krol-David Motorcycles",
+    "adresse_pj": "10 rue Charles Cante 33110 Le Bouscat",
+    "ville_pj": "Le Bouscat",
+    "code_postal_pj": "33110",
+    "url_pj": "",
+    "match_score": 1.06,
+    "enrichi": true
   }
 ]

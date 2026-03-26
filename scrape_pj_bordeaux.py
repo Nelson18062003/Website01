@@ -269,8 +269,24 @@ def extract_postal_and_city(ville_pj):
 
 
 def match_listings(source_data, pj_listings):
-    """Match PJ listings to source entries using fuzzy matching."""
+    """Match PJ listings to source entries using fuzzy matching.
+
+    Uses a two-pass approach:
+    1. High-confidence matches (name score > 0.7 or exact containment + same city)
+    2. Medium-confidence matches (combined score >= 0.6 with location verification)
+    """
     matched_count = 0
+
+    # Pre-compute normalized PJ data
+    pj_normalized = []
+    for pj in pj_listings:
+        pj_normalized.append({
+            'orig': pj,
+            'name': normalize_name(pj.get('nom_pj', '')),
+            'addr': normalize_address(pj.get('adresse_pj', '')),
+            'cp': pj.get('code_postal_pj', ''),
+            'ville': pj.get('ville_pj', '').upper(),
+        })
 
     for entry in source_data:
         src_name = normalize_name(entry.get('nom', ''))
@@ -280,26 +296,30 @@ def match_listings(source_data, pj_listings):
 
         best_match = None
         best_score = 0
+        best_name_score = 0
 
-        for pj in pj_listings:
-            pj_name = normalize_name(pj.get('nom_pj', ''))
-            pj_addr = normalize_address(pj.get('adresse_pj', ''))
-            pj_cp = pj.get('code_postal_pj', '')
-            pj_ville = pj.get('ville_pj', '').upper()
+        for pjn in pj_normalized:
+            pj_name = pjn['name']
+            pj_addr = pjn['addr']
+            pj_cp = pjn['cp']
+            pj_ville = pjn['ville']
 
             # Name similarity
             name_score = fuzzy_match(src_name, pj_name)
 
-            # Containment bonus
+            # Containment bonus - only meaningful words
             contains_bonus = 0
             if src_name and pj_name:
                 if src_name in pj_name or pj_name in src_name:
-                    contains_bonus = 0.3
-                # Also check individual significant words
+                    # Only if the contained string is meaningful (> 4 chars)
+                    if len(min(src_name, pj_name, key=len)) > 4:
+                        contains_bonus = 0.3
+                # Check significant word overlap
                 src_words = set(w for w in src_name.split() if len(w) > 3)
                 pj_words = set(w for w in pj_name.split() if len(w) > 3)
                 if src_words and pj_words:
-                    overlap = len(src_words & pj_words) / max(len(src_words), len(pj_words))
+                    common = src_words & pj_words
+                    overlap = len(common) / max(len(src_words), len(pj_words))
                     if overlap > 0.5:
                         contains_bonus = max(contains_bonus, overlap * 0.25)
 
@@ -308,21 +328,39 @@ def match_listings(source_data, pj_listings):
             if src_addr and pj_addr:
                 addr_score = fuzzy_match(src_addr, pj_addr)
 
-            # Location match bonus
+            # Location match - postal code is strongest signal
             location_bonus = 0
-            if src_cp and pj_cp and src_cp == pj_cp:
-                location_bonus = 0.15
-            elif src_ville and pj_ville and (src_ville in pj_ville or pj_ville in src_ville):
-                location_bonus = 0.1
+            location_match = False
+            if src_cp and pj_cp:
+                if src_cp == pj_cp:
+                    location_bonus = 0.15
+                    location_match = True
+                elif src_cp[:2] == pj_cp[:2]:
+                    # Same department
+                    location_bonus = 0.05
+                    location_match = True
+            elif src_ville and pj_ville:
+                if src_ville == pj_ville or src_ville in pj_ville or pj_ville in src_ville:
+                    location_bonus = 0.1
+                    location_match = True
 
             # Combined score
             score = name_score * 0.6 + contains_bonus + addr_score * 0.25 + location_bonus
 
             if score > best_score:
                 best_score = score
-                best_match = pj
+                best_name_score = name_score
+                best_match = pjn['orig']
 
-        if best_score >= 0.55 and best_match:
+        # Threshold: 0.65 combined score to avoid false positives
+        # High name similarity (>0.8) can accept at 0.6
+        accept = False
+        if best_score >= 0.65 and best_match:
+            accept = True
+        elif best_score >= 0.6 and best_name_score >= 0.8:
+            accept = True
+
+        if accept:
             matched_count += 1
             entry['telephone'] = best_match.get('telephone', '')
             entry['site_web'] = best_match.get('site_web', '')

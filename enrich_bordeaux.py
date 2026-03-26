@@ -237,6 +237,16 @@ def is_company_website(url):
         'tel.fr', 'pages-24.fr', 'pages24.fr', 'telephone.fr',
         'annuaire-mairie.fr', 'pratique.fr', 'linternaute.com',
         'aufeminin.com', 'journaldunet.com', 'comment-economiser.fr',
+        'horairesdouverture', 'ville-', 'mairie-',
+        'commune-', 'communaute-', 'agglo-',
+        'pro-datas.fr', 'mairie.biz', 'annuaire-horaire.fr',
+        'my-procar.com', 'compagnons-du-devoir', 'batiactu.com',
+        'opendi.fr', 'opendi.com', 'kompass.', 'hotfrog.',
+        'findopen.', 'openingtimes.', 'firmenwissen.',
+        'eintrags.', 'stadtbranchenbuch.', 'tuugo.',
+        'sitloc.fr', 'autour-de-moi', 'autolavage.net',
+        'bizzy.org', 'station-de-lavage', 'lavage-auto.',
+        'cybo.com', 'fr.cybo.com', 'whereorg.com',
     ]
     parsed = urllib.parse.urlparse(url)
     domain = parsed.netloc.lower()
@@ -245,14 +255,26 @@ def is_company_website(url):
     if any(d in domain for d in skip_domains):
         return False
 
-    # Reject URLs that look like directory listings (path contains listing-like patterns)
+    # Reject URLs that look like directory listings
     listing_patterns = [
         '/fiche/', '/entreprise/', '/professionnel/', '/pro/',
         '/annuaire/', '/recherche/', '/search', '/listing/',
-        '/avis/', '/rating/'
+        '/avis/', '/rating/', '/societe/', '/filiale/',
+        '/centre/', '/etablissement/'
     ]
     if any(p in path for p in listing_patterns):
         return False
+
+    # Reject if domain looks like a generic directory (contains common directory words)
+    directory_domain_words = [
+        'annuaire', 'horaire', 'pages', 'avis', 'pro-data',
+        'entreprise', 'societe', 'directory', 'listing',
+        'autour-de-moi', 'station-de-', 'lavage-auto',
+        'bizzy.', 'whereorg', 'cybo.'
+    ]
+    for w in directory_domain_words:
+        if w in domain:
+            return False
 
     return True
 
