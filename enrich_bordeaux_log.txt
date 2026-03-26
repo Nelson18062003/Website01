@@ -153,4 +153,5 @@ Fichier charge: 727 entreprises
 [139/727] JEAN PAYET (JK AUTO974) (SIREN: 100764521)... rien trouve
 [140/727] ADELINE ANNEROSE (ASTIK33) (SIREN: 102164464)... rien trouve
   [Progression sauvegardee: 140/727]
-[141/727] SEQUEIRA JOSE (SIREN: 431279108)... 
+[141/727] SEQUEIRA JOSE (SIREN: 431279108)... tel=05 57 22 85 85 | web=https://icarrosserie.fr/33/bordeaux/sequeira-jose-
+[142/727] CARROSSERIE T. MARQUES (SIREN: 512792599)... 
