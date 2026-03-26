@@ -1,0 +1,4 @@
+
+--- Fetching NAF 45.20A (garage) ---
+  Page 1...
+  Total results: 462
