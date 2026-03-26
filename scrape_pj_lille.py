@@ -31,13 +31,14 @@ HEADERS = {
 
 BASE_URL = "https://www.pagesjaunes.fr"
 
-# Direct annuaire URLs as specified, with pagination via /page-N
+# Use both annuaire URLs (page 1) and search endpoint (pagination)
+# Format: (cat_name, annuaire_path, search_query, search_location)
 CATEGORIES = [
-    ("garages-automobiles", "/annuaire/lille-59/garages-automobiles"),
-    ("concessionnaires-automobiles", "/annuaire/lille-59/concessionnaires-automobiles"),
-    ("carrosseries-automobiles", "/annuaire/lille-59/carrosseries-automobiles"),
-    ("motos-concessions", "/annuaire/lille-59/motos-concessions"),
-    ("reparation-motos", "/annuaire/lille-59/reparation-motos"),
+    ("garages-automobiles", "/annuaire/lille-59/garages-automobiles", "garage+automobile", "lille+59"),
+    ("concessionnaires-automobiles", "/annuaire/lille-59/concessionnaires-automobiles", "concession+automobile", "lille+59"),
+    ("carrosseries-automobiles", "/annuaire/lille-59/carrosseries-automobiles", "carrosserie+automobile", "lille+59"),
+    ("motos-concessions", "/annuaire/lille-59/motos-concessions", "concession+moto", "lille+59"),
+    ("reparation-motos", "/annuaire/lille-59/reparation-motos", "reparation+moto", "lille+59"),
 ]
 
 PJ_CACHE_FILE = "/home/user/Website01/pj_cache_lille.json"
