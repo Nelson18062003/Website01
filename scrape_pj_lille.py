@@ -158,8 +158,8 @@ def get_total_pages(soup):
     return 1
 
 
-def scrape_category(cat_name, cat_path, session, cache):
-    """Scrape all pages for a given category using annuaire URLs with /page-N pagination."""
+def scrape_category(cat_name, cat_path, cat_query, cat_location, session, cache):
+    """Scrape all pages for a given category using search endpoint (like Bordeaux)."""
     cache_key = f"cat_{cat_name}"
     if cache_key in cache and len(cache[cache_key]) > 0:
         print(f"  [CACHE] {cat_name}: {len(cache[cache_key])} results already cached")
@@ -170,10 +170,10 @@ def scrape_category(cat_name, cat_path, session, cache):
 
     page = 1
     while page <= max_pages:
-        if page == 1:
-            url = f"{BASE_URL}{cat_path}"
-        else:
-            url = f"{BASE_URL}{cat_path}/page-{page}"
+        # Use search endpoint with query params for proper pagination
+        url = f"{BASE_URL}/annuaire/chercherlespros?quoiqui={cat_query}&ou={cat_location}"
+        if page > 1:
+            url += f"&page={page}"
 
         print(f"  Page {page}: {url}")
 
@@ -377,11 +377,11 @@ def main():
 
     all_pj_listings = []
 
-    for cat_name, cat_path in CATEGORIES:
+    for cat_name, cat_path, cat_query, cat_location in CATEGORIES:
         print(f"\n{'=' * 40}")
         print(f"Category: {cat_name}")
         print(f"{'=' * 40}")
-        listings = scrape_category(cat_name, cat_path, session, cache)
+        listings = scrape_category(cat_name, cat_path, cat_query, cat_location, session, cache)
 
         for l in listings:
             l['search_category'] = cat_name

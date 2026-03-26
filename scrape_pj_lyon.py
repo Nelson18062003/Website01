@@ -31,13 +31,13 @@ HEADERS = {
 
 BASE_URL = "https://www.pagesjaunes.fr"
 
-# Use direct annuaire URLs as specified
-CATEGORIES = [
-    ("garages-automobiles", "/annuaire/lyon-69/garages-automobiles"),
-    ("concessionnaires-automobiles", "/annuaire/lyon-69/concessionnaires-automobiles"),
-    ("carrosseries-automobiles", "/annuaire/lyon-69/carrosseries-automobiles"),
-    ("motos-concessions", "/annuaire/lyon-69/motos-concessions"),
-    ("reparation-motos", "/annuaire/lyon-69/reparation-motos"),
+# Use search URLs (chercherlespros) which support ?page= pagination
+SEARCHES = [
+    ("garage automobile", "garage+automobile", "lyon+69"),
+    ("concession automobile", "concession+automobile", "lyon+69"),
+    ("carrosserie automobile", "carrosserie+automobile", "lyon+69"),
+    ("concession moto", "concession+moto", "lyon+69"),
+    ("reparation moto", "reparation+moto", "lyon+69"),
 ]
 
 PJ_CACHE_FILE = "/home/user/Website01/pj_cache_lyon.json"
@@ -156,8 +156,8 @@ def get_total_pages(soup):
     return 1
 
 
-def scrape_category(cat_name, cat_path, session, cache):
-    """Scrape all pages for a given category using annuaire URLs."""
+def scrape_category(cat_name, cat_query, location, session, cache):
+    """Scrape all pages for a given category using search URLs."""
     cache_key = f"cat_{cat_name}"
     if cache_key in cache and len(cache[cache_key]) > 0:
         print(f"  [CACHE] {cat_name}: {len(cache[cache_key])} results already cached")
@@ -168,9 +168,9 @@ def scrape_category(cat_name, cat_path, session, cache):
 
     page = 1
     while page <= max_pages:
-        url = BASE_URL + cat_path
+        url = f"{BASE_URL}/annuaire/chercherlespros?quoiqui={cat_query}&ou={location}"
         if page > 1:
-            url += f"/page-{page}"
+            url += f"&page={page}"
 
         print(f"  Page {page}: {url}")
 
@@ -350,11 +350,11 @@ def main():
 
     all_pj_listings = []
 
-    for cat_name, cat_path in CATEGORIES:
+    for cat_name, cat_query, location in SEARCHES:
         print(f"\n{'=' * 40}")
         print(f"Category: {cat_name}")
         print(f"{'=' * 40}")
-        listings = scrape_category(cat_name, cat_path, session, cache)
+        listings = scrape_category(cat_name, cat_query, location, session, cache)
 
         for l in listings:
             l['search_category'] = cat_name

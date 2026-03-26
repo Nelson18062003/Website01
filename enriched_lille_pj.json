@@ -45,7 +45,15 @@
     "effectif": "03",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 20 66 30 20",
+    "site_web": "",
+    "nom_pj": "Midas",
+    "adresse_pj": "2 rue Jean Monnet 2 rue Gare 59170 Croix",
+    "ville_pj": "Croix",
+    "code_postal_pj": "59170",
+    "url_pj": "",
+    "match_score": 0.786,
+    "enrichi": true
   },
   {
     "nom": "STIMCAR FRANCE",
@@ -77,7 +85,15 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 20 00 60 50",
+    "site_web": "",
+    "nom_pj": "Scooter MIX",
+    "adresse_pj": "6 rue Poincaré 59160 Capinghem",
+    "ville_pj": "Capinghem",
+    "code_postal_pj": "59160",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=09185002&code_localite=Z05935000&code_rubrique=259510",
+    "match_score": 0.788,
+    "enrichi": true
   },
   {
     "nom": "REPAIR AND RUN (REPAIR & RUN)",
@@ -109,7 +125,15 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 20 26 66 75",
+    "site_web": "",
+    "nom_pj": "Carrosserie Essalmi",
+    "adresse_pj": "12 rue Trieu du Quesnoy 59115 Leers",
+    "ville_pj": "Leers",
+    "code_postal_pj": "59115",
+    "url_pj": "",
+    "match_score": 0.78,
+    "enrichi": true
   },
   {
     "nom": "VINETI",
@@ -141,7 +165,15 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 20 09 11 60",
+    "site_web": "https://www.ad.fr/garage/ad-carrosserie-flament-merlin/contact",
+    "nom_pj": "Ad Carrosserie Flament Merlin",
+    "adresse_pj": "80 boulevard Montebello 59000 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59000",
+    "url_pj": "",
+    "match_score": 0.777,
+    "enrichi": true
   },
   {
     "nom": "TOTAL REPAIR GROUP",
@@ -253,7 +285,15 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "06 51 82 20 85",
+    "site_web": "",
+    "nom_pj": "E.B CARROSSERIE",
+    "adresse_pj": "56 rue Montagnards 59800 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59800",
+    "url_pj": "",
+    "match_score": 0.683,
+    "enrichi": true
   },
   {
     "nom": "UNIVERSAL SERVICE (US)",
@@ -285,7 +325,15 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "07 58 46 32 07",
+    "site_web": "",
+    "nom_pj": "Car Service",
+    "adresse_pj": "148 Grande Rue 59100 Roubaix",
+    "ville_pj": "Roubaix",
+    "code_postal_pj": "59100",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=64709941&code_localite=Z05935000&code_rubrique=000220",
+    "match_score": 0.842,
+    "enrichi": true
   },
   {
     "nom": "SEBASTIEN DEFAUX",
@@ -317,7 +365,15 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 20 93 49 15",
+    "site_web": "",
+    "nom_pj": "Garage D'Esquermes",
+    "adresse_pj": "107 rue Esquermes 59000 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59000",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00395118&code_localite=Z05935000&code_rubrique=061240",
+    "match_score": 0.756,
+    "enrichi": true
   },
   {
     "nom": "ANDRE JOUGLARD (RENOVCARS)",
@@ -365,7 +421,15 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 20 52 45 11",
+    "site_web": "",
+    "nom_pj": "ESC TRADING",
+    "adresse_pj": "84 rue Marquillies 59000 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59000",
+    "url_pj": "",
+    "match_score": 0.703,
+    "enrichi": true
   },
   {
     "nom": "PAC PRO AUTO CENTRE (PAC PRO AUTO CENTRE)",
@@ -429,7 +493,15 @@
     "effectif": "01",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 20 93 49 15",
+    "site_web": "",
+    "nom_pj": "Garage D'Esquermes",
+    "adresse_pj": "107 rue Esquermes 59000 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59000",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00395118&code_localite=Z05935000&code_rubrique=061240",
+    "match_score": 1.292,
+    "enrichi": true
   },
   {
     "nom": "RACHID AFRAS (MECA-R)",
@@ -477,7 +549,15 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "06 26 70 89 02",
+    "site_web": "",
+    "nom_pj": "Atelier Du 71",
+    "adresse_pj": "71 rue Faubourg de Roubaix 59800 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59800",
+    "url_pj": "",
+    "match_score": 1.248,
+    "enrichi": true
   },
   {
     "nom": "CARROSSERIE ALEXANDRE",
@@ -493,7 +573,15 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 20 26 92 60",
+    "site_web": "",
+    "nom_pj": "Carrosserie Alexandre",
+    "adresse_pj": "145 Bis rue Louise Michel 59290 Wasquehal",
+    "ville_pj": "Wasquehal",
+    "code_postal_pj": "59290",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00879264&code_localite=Z05935000&code_rubrique=388310",
+    "match_score": 1.043,
+    "enrichi": true
   },
   {
     "nom": "ETS VAN LAECKE",
@@ -589,7 +677,15 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "",
+    "site_web": "",
+    "nom_pj": "Garage Philippe",
+    "adresse_pj": "7 rue Gustave Jolivet  59160 Lomme",
+    "ville_pj": "Lomme",
+    "code_postal_pj": "59160",
+    "url_pj": "",
+    "match_score": 0.708,
+    "enrichi": true
   },
   {
     "nom": "MATLEO",
@@ -669,14 +765,14 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "telephone": "06 50 47 06 51",
+    "telephone": "09 52 66 11 98",
     "site_web": "",
-    "nom_pj": "GAETAN MECANIQUE AUTO",
-    "adresse_pj": "chemin Rouberts 33380 Mios",
-    "ville_pj": "Mios",
-    "code_postal_pj": "33380",
+    "nom_pj": "Home Mecanique Auto",
+    "adresse_pj": "52 rue Moscou 59200 Tourcoing",
+    "ville_pj": "Tourcoing",
+    "code_postal_pj": "59200",
     "url_pj": "",
-    "match_score": 0.718,
+    "match_score": 0.737,
     "enrichi": true
   },
   {
@@ -805,7 +901,15 @@
     "effectif": "02",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 20 93 49 15",
+    "site_web": "",
+    "nom_pj": "Garage D'Esquermes",
+    "adresse_pj": "107 rue Esquermes 59000 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59000",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00395118&code_localite=Z05935000&code_rubrique=061240",
+    "match_score": 0.672,
+    "enrichi": true
   },
   {
     "nom": "MOHAMAD AHMAD (AYA SERVICES)",
@@ -869,7 +973,15 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 20 53 03 33",
+    "site_web": "",
+    "nom_pj": "STA Lille SARL",
+    "adresse_pj": "270 rue Faubourg d'Arras 59000 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59000",
+    "url_pj": "",
+    "match_score": 0.662,
+    "enrichi": true
   },
   {
     "nom": "IKHLEF SOUIAH",
@@ -933,7 +1045,15 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 20 51 14 40",
+    "site_web": "",
+    "nom_pj": "Em Autoexperts",
+    "adresse_pj": "Zone Industrielle B 24 rue Luyot 59113 Seclin",
+    "ville_pj": "Seclin",
+    "code_postal_pj": "59113",
+    "url_pj": "",
+    "match_score": 0.967,
+    "enrichi": true
   },
   {
     "nom": "TOLEX",
@@ -965,7 +1085,15 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "07 78 68 74 52",
+    "site_web": "",
+    "nom_pj": "AUTO GARAGE NORD",
+    "adresse_pj": "58 route Lille 59113 Seclin",
+    "ville_pj": "Seclin",
+    "code_postal_pj": "59113",
+    "url_pj": "",
+    "match_score": 0.76,
+    "enrichi": true
   },
   {
     "nom": "STA LILLE (STA LILLE)",
@@ -981,7 +1109,15 @@
     "effectif": "02",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 20 53 03 33",
+    "site_web": "",
+    "nom_pj": "STA Lille SARL",
+    "adresse_pj": "270 rue Faubourg d'Arras 59000 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59000",
+    "url_pj": "",
+    "match_score": 1.29,
+    "enrichi": true
   },
   {
     "nom": "LILLE AUTO VAPEUR (LILLE AUTO VAPEUR)",
@@ -997,7 +1133,15 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 20 50 94 94",
+    "site_web": "",
+    "nom_pj": "Grand Lille Auto",
+    "adresse_pj": "41 rue Emmerin 59000 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59000",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=55400359&code_localite=Z05935000&code_rubrique=388310",
+    "match_score": 0.841,
+    "enrichi": true
   },
   {
     "nom": "STEPHANE MANIER",
@@ -1029,7 +1173,15 @@
     "effectif": "02",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 20 63 99 88",
+    "site_web": "",
+    "nom_pj": "Del Fabro",
+    "adresse_pj": "32 rue Bapaume 59000 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59000",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=54322519&code_localite=Z05935000&code_rubrique=061240",
+    "match_score": 1.286,
+    "enrichi": true
   },
   {
     "nom": "O.Y STATION (O.Y STATION)",
@@ -1093,7 +1245,15 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 20 68 14 93",
+    "site_web": "",
+    "nom_pj": "AM Auto",
+    "adresse_pj": "66 rue Paul Lafargue 59000 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59000",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=56912372&code_localite=Z05935000&code_rubrique=388310",
+    "match_score": 0.776,
+    "enrichi": true
   },
   {
     "nom": "A.B.D PAREBRISE (PAREBRISE EXPRESSO)",
@@ -1109,7 +1269,15 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "06 66 92 76 41",
+    "site_web": "",
+    "nom_pj": "Web@uto-Carte Grise",
+    "adresse_pj": "475 avenue Dunkerque 59000 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59000",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=56288572&code_localite=Z05935000&code_rubrique=061800",
+    "match_score": 0.659,
+    "enrichi": true
   },
   {
     "nom": "AIGLE AUTO",
@@ -1125,7 +1293,15 @@
     "effectif": "11",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "06 15 45 51 63",
+    "site_web": "",
+    "nom_pj": "Aigle auto",
+    "adresse_pj": "Zamin 2ème Avenue 59160 Lomme",
+    "ville_pj": "Lomme",
+    "code_postal_pj": "59160",
+    "url_pj": "",
+    "match_score": 1.142,
+    "enrichi": true
   },
   {
     "nom": "MOUSTAPHA AZAOUAGH (MI PNEUS AUTOS)",
@@ -1173,14 +1349,14 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "telephone": "0430000008",
-    "site_web": "https://www.recupauto24.fr/",
-    "nom_pj": "Récup Autos 24 SARL",
-    "adresse_pj": "Rte Nationale 89 2 route Périgueux 24110 Montrem",
-    "ville_pj": "Montrem",
-    "code_postal_pj": "24110",
-    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00704924&code_localite=L03324650&code_rubrique=025710",
-    "match_score": 0.671,
+    "telephone": "06 50 71 75 89",
+    "site_web": "",
+    "nom_pj": "KML Autos",
+    "adresse_pj": "3 rue Mirabeau 59800 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59800",
+    "url_pj": "",
+    "match_score": 0.919,
     "enrichi": true
   },
   {
@@ -1245,14 +1421,14 @@
     "effectif": "00",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "telephone": "05 56 03 49 82",
-    "site_web": "https://www.mondialparebrise.fr/priserdvmpb.asp",
-    "nom_pj": "MONDIAL PARE BRISE",
-    "adresse_pj": "371 Quinquies rue Gustave Eiffel 33380 Biganos",
-    "ville_pj": "Biganos",
-    "code_postal_pj": "33380",
-    "url_pj": "",
-    "match_score": 0.716,
+    "telephone": "03 39 07 03 81",
+    "site_web": "",
+    "nom_pj": "Max Pare Brise",
+    "adresse_pj": "334 rue Lys 59250 Halluin",
+    "ville_pj": "Halluin",
+    "code_postal_pj": "59250",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=55906941&code_localite=Z05935000&code_rubrique=142320",
+    "match_score": 0.786,
     "enrichi": true
   },
   {
@@ -1269,7 +1445,15 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "0468230000",
+    "site_web": "",
+    "nom_pj": "Autoworks TD",
+    "adresse_pj": "33 rue Victor Tilmant 59000 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59000",
+    "url_pj": "",
+    "match_score": 0.664,
+    "enrichi": true
   },
   {
     "nom": "EVERY CARS (EVERY CARS)",
@@ -1285,7 +1469,15 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "06 65 36 16 40",
+    "site_web": "",
+    "nom_pj": "Good Cars",
+    "adresse_pj": "229 rue Solférino 59000 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59000",
+    "url_pj": "",
+    "match_score": 0.695,
+    "enrichi": true
   },
   {
     "nom": "MSI MOTORS",
@@ -1301,7 +1493,15 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 28 54 12 21",
+    "site_web": "",
+    "nom_pj": "Jm Motors",
+    "adresse_pj": "130 rue Ypres 59118 Wambrechies",
+    "ville_pj": "Wambrechies",
+    "code_postal_pj": "59118",
+    "url_pj": "",
+    "match_score": 0.917,
+    "enrichi": true
   },
   {
     "nom": "STEVEN WATTEYNE",
@@ -1349,7 +1549,15 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "07 49 71 83 17",
+    "site_web": "",
+    "nom_pj": "Express Auto Detailing",
+    "adresse_pj": "4 rue Marx Dormoy  59160 Lomme",
+    "ville_pj": "Lomme",
+    "code_postal_pj": "59160",
+    "url_pj": "",
+    "match_score": 1.157,
+    "enrichi": true
   },
   {
     "nom": "ZAKARIA SOULIMANE (LAVE & CO)",
@@ -1413,7 +1621,15 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "0468230000",
+    "site_web": "",
+    "nom_pj": "Autoworks TD",
+    "adresse_pj": "33 rue Victor Tilmant 59000 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59000",
+    "url_pj": "",
+    "match_score": 1.3,
+    "enrichi": true
   },
   {
     "nom": "JPM",
@@ -1493,7 +1709,15 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 20 04 77 84",
+    "site_web": "",
+    "nom_pj": "CAR'EXPERT",
+    "adresse_pj": "208 rue Faubourg d'Arras 59000 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59000",
+    "url_pj": "",
+    "match_score": 1.065,
+    "enrichi": true
   },
   {
     "nom": "CORENTIN MONCHEAUX (TRANSPORT RAPIDE MONCHEAUX)",
@@ -1653,7 +1877,15 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 39 07 03 81",
+    "site_web": "",
+    "nom_pj": "Max Pare Brise",
+    "adresse_pj": "334 rue Lys 59250 Halluin",
+    "ville_pj": "Halluin",
+    "code_postal_pj": "59250",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=55906941&code_localite=Z05935000&code_rubrique=142320",
+    "match_score": 0.654,
+    "enrichi": true
   },
   {
     "nom": "GHANEM ABDELMOUMENE",
@@ -1717,7 +1949,15 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 39 07 03 81",
+    "site_web": "",
+    "nom_pj": "Max Pare Brise",
+    "adresse_pj": "334 rue Lys 59250 Halluin",
+    "ville_pj": "Halluin",
+    "code_postal_pj": "59250",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=55906941&code_localite=Z05935000&code_rubrique=142320",
+    "match_score": 0.78,
+    "enrichi": true
   },
   {
     "nom": "RAPIDO PNEU",
@@ -1749,7 +1989,15 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 20 46 89 94",
+    "site_web": "",
+    "nom_pj": "Mumtaz Automobile",
+    "adresse_pj": "19 boulevard Metz 59000 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59000",
+    "url_pj": "",
+    "match_score": 0.843,
+    "enrichi": true
   },
   {
     "nom": "GLASSNORD",
@@ -1829,7 +2077,15 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "",
+    "site_web": "",
+    "nom_pj": "Autos Services Va",
+    "adresse_pj": "83 rue Jules Guesde 59650 Villeneuve d'Ascq",
+    "ville_pj": "Villeneuve d'Ascq",
+    "code_postal_pj": "59650",
+    "url_pj": "",
+    "match_score": 0.901,
+    "enrichi": true
   },
   {
     "nom": "MAXIME HELAINE (HELAINE) (RENOVAUTO)",
@@ -1861,7 +2117,15 @@
     "effectif": "01",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "06 51 82 20 85",
+    "site_web": "",
+    "nom_pj": "E.B CARROSSERIE",
+    "adresse_pj": "56 rue Montagnards 59800 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59800",
+    "url_pj": "",
+    "match_score": 1.284,
+    "enrichi": true
   },
   {
     "nom": "PAL (PREMIUM AUTO LILLE)",
@@ -1893,7 +2157,15 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "07 58 46 32 07",
+    "site_web": "",
+    "nom_pj": "Car Service",
+    "adresse_pj": "148 Grande Rue 59100 Roubaix",
+    "ville_pj": "Roubaix",
+    "code_postal_pj": "59100",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=64709941&code_localite=Z05935000&code_rubrique=000220",
+    "match_score": 0.91,
+    "enrichi": true
   },
   {
     "nom": "N.P.S. (N.P.S.)",
@@ -1941,7 +2213,15 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 61 97 95 50",
+    "site_web": "",
+    "nom_pj": "TOP MOBILITE",
+    "adresse_pj": "82 rue Artois 59000 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59000",
+    "url_pj": "",
+    "match_score": 0.749,
+    "enrichi": true
   },
   {
     "nom": "ADPL (FRANCE PARE BRISE)",
@@ -1973,7 +2253,15 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 20 68 14 93",
+    "site_web": "",
+    "nom_pj": "AM Auto",
+    "adresse_pj": "66 rue Paul Lafargue 59000 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59000",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=56912372&code_localite=Z05935000&code_rubrique=388310",
+    "match_score": 0.664,
+    "enrichi": true
   },
   {
     "nom": "AUTOMOBILE DU DRONCKAERT (AUTOMOBILE DU DRONCKAERT)",
@@ -1989,7 +2277,15 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 20 26 16 71",
+    "site_web": "",
+    "nom_pj": "Bosch Car Service Automobile du Dronckaert",
+    "adresse_pj": "3 rue Champs 59223 Roncq",
+    "ville_pj": "Roncq",
+    "code_postal_pj": "59223",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=08612295&code_localite=Z05935000&code_rubrique=142320",
+    "match_score": 0.873,
+    "enrichi": true
   },
   {
     "nom": "MOHAMED FATH ALLAH",
@@ -2069,14 +2365,14 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "telephone": "05 56 03 49 82",
-    "site_web": "https://www.mondialparebrise.fr/priserdvmpb.asp",
-    "nom_pj": "MONDIAL PARE BRISE",
-    "adresse_pj": "371 Quinquies rue Gustave Eiffel 33380 Biganos",
-    "ville_pj": "Biganos",
-    "code_postal_pj": "33380",
+    "telephone": "03 20 29 75 74",
+    "site_web": "",
+    "nom_pj": "Mondial Pare-Brise",
+    "adresse_pj": "147 route Arras 59155 Faches Thumesnil",
+    "ville_pj": "Faches Thumesnil",
+    "code_postal_pj": "59155",
     "url_pj": "",
-    "match_score": 0.704,
+    "match_score": 0.78,
     "enrichi": true
   },
   {
@@ -2093,7 +2389,15 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "07 69 77 19 86",
+    "site_web": "",
+    "nom_pj": "EVO GARAGE",
+    "adresse_pj": "124 rue Epidème 59200 Tourcoing",
+    "ville_pj": "Tourcoing",
+    "code_postal_pj": "59200",
+    "url_pj": "",
+    "match_score": 0.924,
+    "enrichi": true
   },
   {
     "nom": "RABAH BOUDINA",
@@ -2109,7 +2413,15 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 62 52 57 73",
+    "site_web": "",
+    "nom_pj": "Mohamed Bousnina",
+    "adresse_pj": "3 rue Jules Breton 59000 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59000",
+    "url_pj": "",
+    "match_score": 0.656,
+    "enrichi": true
   },
   {
     "nom": "GREGORY CANTIE",
@@ -2157,7 +2469,15 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 20 54 73 61",
+    "site_web": "",
+    "nom_pj": "Bernard Auto Service",
+    "adresse_pj": "12 rue Eugène Vermersch 59000 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59000",
+    "url_pj": "",
+    "match_score": 0.684,
+    "enrichi": true
   },
   {
     "nom": "BRAHIM OULAD FATTOUMA (ETAC CONSULTING)",
@@ -2189,7 +2509,15 @@
     "effectif": "02",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 20 54 73 61",
+    "site_web": "",
+    "nom_pj": "Bernard Auto Service",
+    "adresse_pj": "12 rue Eugène Vermersch 59000 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59000",
+    "url_pj": "",
+    "match_score": 1.289,
+    "enrichi": true
   },
   {
     "nom": "ABDELKADER RHAZI",
@@ -2269,7 +2597,15 @@
     "effectif": "01",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "06 50 71 75 89",
+    "site_web": "",
+    "nom_pj": "KML Autos",
+    "adresse_pj": "3 rue Mirabeau 59800 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59800",
+    "url_pj": "",
+    "match_score": 0.936,
+    "enrichi": true
   },
   {
     "nom": "GARAGE RIGAUT (GARAGE RIGAUT)",
@@ -2285,7 +2621,15 @@
     "effectif": "01",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 20 56 19 09",
+    "site_web": "",
+    "nom_pj": "Garage Rigaut",
+    "adresse_pj": "54 rue Kléber Hellemmes Lille 59260 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59260",
+    "url_pj": "",
+    "match_score": 1.117,
+    "enrichi": true
   },
   {
     "nom": "MON GARAGE SERVICE",
@@ -2301,7 +2645,15 @@
     "effectif": "01",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 20 54 73 61",
+    "site_web": "",
+    "nom_pj": "Bernard Auto Service",
+    "adresse_pj": "12 rue Eugène Vermersch 59000 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59000",
+    "url_pj": "",
+    "match_score": 0.703,
+    "enrichi": true
   },
   {
     "nom": "CEDRIC SANTAMARIA",
@@ -2365,7 +2717,15 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "06 50 27 05 81",
+    "site_web": "",
+    "nom_pj": "Garage Mecanique",
+    "adresse_pj": "53 rue Mirabeau 59800 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59800",
+    "url_pj": "",
+    "match_score": 0.743,
+    "enrichi": true
   },
   {
     "nom": "AUTO PARE BRISE LILLE (APB LILLE)",
@@ -2381,7 +2741,15 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "06 66 92 76 41",
+    "site_web": "",
+    "nom_pj": "Web@uto-Carte Grise",
+    "adresse_pj": "475 avenue Dunkerque 59000 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59000",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=56288572&code_localite=Z05935000&code_rubrique=061800",
+    "match_score": 0.715,
+    "enrichi": true
   },
   {
     "nom": "ATELIER SOLIDAIRE",
@@ -2397,7 +2765,15 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "07 59 11 87 05",
+    "site_web": "",
+    "nom_pj": "Atelier Solidaire",
+    "adresse_pj": "55 rue Flers 59800 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59800",
+    "url_pj": "",
+    "match_score": 1.285,
+    "enrichi": true
   },
   {
     "nom": "VANCAR",
@@ -2413,7 +2789,15 @@
     "effectif": "02",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 20 57 55 43",
+    "site_web": "",
+    "nom_pj": "Vancar",
+    "adresse_pj": "183 Bis rue Anatole France  59160 Lomme",
+    "ville_pj": "Lomme",
+    "code_postal_pj": "59160",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=53484588&code_localite=Z05935000&code_rubrique=388310",
+    "match_score": 1.137,
+    "enrichi": true
   },
   {
     "nom": "BOUGE AUTO SERVICE",
@@ -2429,7 +2813,15 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 20 54 73 61",
+    "site_web": "",
+    "nom_pj": "Bernard Auto Service",
+    "adresse_pj": "12 rue Eugène Vermersch 59000 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59000",
+    "url_pj": "",
+    "match_score": 0.932,
+    "enrichi": true
   },
   {
     "nom": "MOHAMED BOUSNINA",
@@ -2445,7 +2837,15 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 62 52 57 73",
+    "site_web": "",
+    "nom_pj": "Mohamed Bousnina",
+    "adresse_pj": "3 rue Jules Breton 59000 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59000",
+    "url_pj": "",
+    "match_score": 1.3,
+    "enrichi": true
   },
   {
     "nom": "CENTRE DE MONTAGE ALI ARGUIOU",
@@ -2525,7 +2925,15 @@
     "effectif": "03",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 20 93 19 10",
+    "site_web": "",
+    "nom_pj": "Garage sms Garage staels meca service",
+    "adresse_pj": "183 rue Anatole France  59160 Lomme",
+    "ville_pj": "Lomme",
+    "code_postal_pj": "59160",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=07069464&code_localite=Z05935000&code_rubrique=388310",
+    "match_score": 1.029,
+    "enrichi": true
   },
   {
     "nom": "ARMEN YEGHINIAN",
@@ -2573,7 +2981,15 @@
     "effectif": "02",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 20 00 06 36",
+    "site_web": "https://www.planetevsp.fr/nous-contacter",
+    "nom_pj": "Planète Vsp Sarl",
+    "adresse_pj": "12 rue Danton  59160 Lomme",
+    "ville_pj": "Lomme",
+    "code_postal_pj": "59160",
+    "url_pj": "",
+    "match_score": 0.75,
+    "enrichi": true
   },
   {
     "nom": "GARAGE DESCAMPS (GARAGE DESCAMPS)",
@@ -2589,7 +3005,15 @@
     "effectif": "01",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 20 93 49 15",
+    "site_web": "",
+    "nom_pj": "Garage D'Esquermes",
+    "adresse_pj": "107 rue Esquermes 59000 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59000",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00395118&code_localite=Z05935000&code_rubrique=061240",
+    "match_score": 0.741,
+    "enrichi": true
   },
   {
     "nom": "PLATINIUM CAR",
@@ -2605,7 +3029,15 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 20 12 09 26",
+    "site_web": "",
+    "nom_pj": "Platinium Car",
+    "adresse_pj": "30 rue Bernard Ruyant 59110 La Madeleine",
+    "ville_pj": "La Madeleine",
+    "code_postal_pj": "59110",
+    "url_pj": "",
+    "match_score": 1.048,
+    "enrichi": true
   },
   {
     "nom": "PRECISION AUTO",
@@ -2621,7 +3053,15 @@
     "effectif": "00",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 59 54 32 24",
+    "site_web": "",
+    "nom_pj": "Premium Pièces Autos",
+    "adresse_pj": "4 rue Courtois 59000 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59000",
+    "url_pj": "",
+    "match_score": 0.681,
+    "enrichi": true
   },
   {
     "nom": "LS MECA AUTO",
@@ -2637,7 +3077,15 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "06 83 76 64 12",
+    "site_web": "",
+    "nom_pj": "Ba Auto",
+    "adresse_pj": "7 rue Emile Borel 59000 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59000",
+    "url_pj": "",
+    "match_score": 0.702,
+    "enrichi": true
   },
   {
     "nom": "HAMZA GHILACI",
@@ -2749,14 +3197,14 @@
     "effectif": "01",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "telephone": "0430000008",
-    "site_web": "https://www.recupauto24.fr/",
-    "nom_pj": "Récup Autos 24 SARL",
-    "adresse_pj": "Rte Nationale 89 2 route Périgueux 24110 Montrem",
-    "ville_pj": "Montrem",
-    "code_postal_pj": "24110",
-    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00704924&code_localite=L03324650&code_rubrique=025710",
-    "match_score": 0.653,
+    "telephone": "09 87 77 63 65",
+    "site_web": "",
+    "nom_pj": "Mb Autos",
+    "adresse_pj": "71 rue Albert Vanderhagen 59320 Haubourdin",
+    "ville_pj": "Haubourdin",
+    "code_postal_pj": "59320",
+    "url_pj": "",
+    "match_score": 0.921,
     "enrichi": true
   },
   {
@@ -2805,7 +3253,15 @@
     "effectif": "02",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 20 46 89 94",
+    "site_web": "",
+    "nom_pj": "Mumtaz Automobile",
+    "adresse_pj": "19 boulevard Metz 59000 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59000",
+    "url_pj": "",
+    "match_score": 1.288,
+    "enrichi": true
   },
   {
     "nom": "PIERART",
@@ -2885,7 +3341,15 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "07 58 46 32 07",
+    "site_web": "",
+    "nom_pj": "Car Service",
+    "adresse_pj": "148 Grande Rue 59100 Roubaix",
+    "ville_pj": "Roubaix",
+    "code_postal_pj": "59100",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=64709941&code_localite=Z05935000&code_rubrique=000220",
+    "match_score": 0.923,
+    "enrichi": true
   },
   {
     "nom": "EKO WASH EXPRESS (EKO WASH EXPRESS)",
@@ -3029,7 +3493,15 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 20 68 14 93",
+    "site_web": "",
+    "nom_pj": "AM Auto",
+    "adresse_pj": "66 rue Paul Lafargue 59000 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59000",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=56912372&code_localite=Z05935000&code_rubrique=388310",
+    "match_score": 0.671,
+    "enrichi": true
   },
   {
     "nom": "AUTO SERVICE",
@@ -3045,7 +3517,15 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 20 54 73 61",
+    "site_web": "",
+    "nom_pj": "Bernard Auto Service",
+    "adresse_pj": "12 rue Eugène Vermersch 59000 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59000",
+    "url_pj": "",
+    "match_score": 1.074,
+    "enrichi": true
   },
   {
     "nom": "MECA AUTO SERVICES",
@@ -3061,7 +3541,15 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "06 17 57 88 31",
+    "site_web": "",
+    "nom_pj": "RM Auto Services",
+    "adresse_pj": "12 place Trois Ponts 59100 Roubaix",
+    "ville_pj": "Roubaix",
+    "code_postal_pj": "59100",
+    "url_pj": "",
+    "match_score": 0.842,
+    "enrichi": true
   },
   {
     "nom": "SAVE AUTO (SAVE AUTO)",
@@ -3077,7 +3565,15 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "06 83 76 64 12",
+    "site_web": "",
+    "nom_pj": "Ba Auto",
+    "adresse_pj": "7 rue Emile Borel 59000 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59000",
+    "url_pj": "",
+    "match_score": 0.73,
+    "enrichi": true
   },
   {
     "nom": "HAMID CHAHED (CH-AUTOMOBILE)",
@@ -3109,7 +3605,15 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "06 88 13 64 77",
+    "site_web": "",
+    "nom_pj": "Mecatronics",
+    "adresse_pj": "497 Bis avenue Dunkerque  59160 Lomme",
+    "ville_pj": "Lomme",
+    "code_postal_pj": "59160",
+    "url_pj": "",
+    "match_score": 0.762,
+    "enrichi": true
   },
   {
     "nom": "CLEAN TECH (CLEAN TECH)",
@@ -3173,7 +3677,15 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 62 52 57 73",
+    "site_web": "",
+    "nom_pj": "Mohamed Bousnina",
+    "adresse_pj": "3 rue Jules Breton 59000 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59000",
+    "url_pj": "",
+    "match_score": 0.766,
+    "enrichi": true
   },
   {
     "nom": "MCD SERVICES (MY GLASS)",
@@ -3189,7 +3701,15 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 20 54 73 61",
+    "site_web": "",
+    "nom_pj": "Bernard Auto Service",
+    "adresse_pj": "12 rue Eugène Vermersch 59000 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59000",
+    "url_pj": "",
+    "match_score": 0.652,
+    "enrichi": true
   },
   {
     "nom": "FRANCE GLASS VITRY (FRANCE GLASS VITRY)",
@@ -3253,7 +3773,15 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 62 52 57 73",
+    "site_web": "",
+    "nom_pj": "Mohamed Bousnina",
+    "adresse_pj": "3 rue Jules Breton 59000 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59000",
+    "url_pj": "",
+    "match_score": 0.734,
+    "enrichi": true
   },
   {
     "nom": "FAST GLASS",
@@ -3301,7 +3829,15 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "06 23 28 40 52",
+    "site_web": "",
+    "nom_pj": "Jag Car's France",
+    "adresse_pj": "ZAC de l'Épinette 31 rue Clauwiers 59113 Seclin",
+    "ville_pj": "Seclin",
+    "code_postal_pj": "59113",
+    "url_pj": "",
+    "match_score": 0.722,
+    "enrichi": true
   },
   {
     "nom": "NL PERFORMANCES",
@@ -3413,7 +3949,15 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 20 68 14 93",
+    "site_web": "",
+    "nom_pj": "AM Auto",
+    "adresse_pj": "66 rue Paul Lafargue 59000 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59000",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=56912372&code_localite=Z05935000&code_rubrique=388310",
+    "match_score": 0.733,
+    "enrichi": true
   },
   {
     "nom": "ROBERTO TAVARES SANCHES (ROBERTO PARE BRISE)",
@@ -3573,7 +4117,15 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 20 46 89 94",
+    "site_web": "",
+    "nom_pj": "Mumtaz Automobile",
+    "adresse_pj": "19 boulevard Metz 59000 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59000",
+    "url_pj": "",
+    "match_score": 0.799,
+    "enrichi": true
   },
   {
     "nom": "PARE-BRISE SERVICES",
@@ -3589,7 +4141,15 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 39 07 03 81",
+    "site_web": "",
+    "nom_pj": "Max Pare Brise",
+    "adresse_pj": "334 rue Lys 59250 Halluin",
+    "ville_pj": "Halluin",
+    "code_postal_pj": "59250",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=55906941&code_localite=Z05935000&code_rubrique=142320",
+    "match_score": 0.677,
+    "enrichi": true
   },
   {
     "nom": "GENERALE AUTO SERVICE",
@@ -3605,7 +4165,15 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 20 54 73 61",
+    "site_web": "",
+    "nom_pj": "Bernard Auto Service",
+    "adresse_pj": "12 rue Eugène Vermersch 59000 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59000",
+    "url_pj": "",
+    "match_score": 0.927,
+    "enrichi": true
   },
   {
     "nom": "GARAGE CATTEAU PAUWELS (GARAGE DE L EPINETTE)",
@@ -3621,7 +4189,15 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 20 92 27 80",
+    "site_web": "",
+    "nom_pj": "Garage Du Marais",
+    "adresse_pj": "19 rue Marais de Lomme 59000 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59000",
+    "url_pj": "",
+    "match_score": 0.683,
+    "enrichi": true
   },
   {
     "nom": "MDC AUTO (MDC AUTO)",
@@ -3637,14 +4213,14 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "telephone": "05 56 33 37 27",
+    "telephone": "03 20 68 14 93",
     "site_web": "",
-    "nom_pj": "SH AUTO 33",
-    "adresse_pj": "35 E route Douils 33380 Mios",
-    "ville_pj": "Mios",
-    "code_postal_pj": "33380",
-    "url_pj": "",
-    "match_score": 0.68,
+    "nom_pj": "AM Auto",
+    "adresse_pj": "66 rue Paul Lafargue 59000 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59000",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=56912372&code_localite=Z05935000&code_rubrique=388310",
+    "match_score": 1.06,
     "enrichi": true
   },
   {
@@ -3693,14 +4269,14 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "telephone": "05 56 33 37 27",
+    "telephone": "06 83 76 64 12",
     "site_web": "",
-    "nom_pj": "SH AUTO 33",
-    "adresse_pj": "35 E route Douils 33380 Mios",
-    "ville_pj": "Mios",
-    "code_postal_pj": "33380",
+    "nom_pj": "Ba Auto",
+    "adresse_pj": "7 rue Emile Borel 59000 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59000",
     "url_pj": "",
-    "match_score": 0.725,
+    "match_score": 1.011,
     "enrichi": true
   },
   {
@@ -3733,7 +4309,15 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "07 66 58 56 74",
+    "site_web": "",
+    "nom_pj": "Zn Automobile",
+    "adresse_pj": "197 rue Alexandra David Neel 59000 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59000",
+    "url_pj": "",
+    "match_score": 0.666,
+    "enrichi": true
   },
   {
     "nom": "CAR NET",
@@ -3845,14 +4429,14 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "telephone": "0430000008",
-    "site_web": "https://www.recupauto24.fr/",
-    "nom_pj": "Récup Autos 24 SARL",
-    "adresse_pj": "Rte Nationale 89 2 route Périgueux 24110 Montrem",
-    "ville_pj": "Montrem",
-    "code_postal_pj": "24110",
-    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00704924&code_localite=L03324650&code_rubrique=025710",
-    "match_score": 0.709,
+    "telephone": "06 99 42 25 46",
+    "site_web": "",
+    "nom_pj": "RS Autos",
+    "adresse_pj": "78 rue Jean Jaurès 59139 Wattignies",
+    "ville_pj": "Wattignies",
+    "code_postal_pj": "59139",
+    "url_pj": "",
+    "match_score": 0.899,
     "enrichi": true
   },
   {
@@ -3869,7 +4453,15 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 39 05 22 08",
+    "site_web": "",
+    "nom_pj": "Stellantis & You France Sas SAS",
+    "adresse_pj": "bd Ouest 200 rue Fives 59650 Villeneuve d'Ascq",
+    "ville_pj": "Villeneuve d'Ascq",
+    "code_postal_pj": "59650",
+    "url_pj": "",
+    "match_score": 0.971,
+    "enrichi": true
   },
   {
     "nom": "WKDA FRANCE",
@@ -3917,7 +4509,15 @@
     "effectif": "22",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 20 00 97 00",
+    "site_web": "",
+    "nom_pj": "Renault",
+    "adresse_pj": "Ccal Englos Les Géants 3 rue Hem 59320 Sequedin",
+    "ville_pj": "Sequedin",
+    "code_postal_pj": "59320",
+    "url_pj": "",
+    "match_score": 0.686,
+    "enrichi": true
   },
   {
     "nom": "AUTOMOBILES PEUGEOT",
@@ -3965,7 +4565,15 @@
     "effectif": "01",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 72 27 59 59",
+    "site_web": "",
+    "nom_pj": "BYD Lille - Groupe Autosphere",
+    "adresse_pj": "13 rue Cruppe 59650 Villeneuve d'Ascq",
+    "ville_pj": "Villeneuve d'Ascq",
+    "code_postal_pj": "59650",
+    "url_pj": "",
+    "match_score": 0.693,
+    "enrichi": true
   },
   {
     "nom": "QARSON",
@@ -3997,7 +4605,15 @@
     "effectif": "22",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 20 72 39 39",
+    "site_web": "",
+    "nom_pj": "SAGA Mercedes-Benz",
+    "adresse_pj": "20 rue Chappe 59650 Villeneuve d'Ascq",
+    "ville_pj": "Villeneuve d'Ascq",
+    "code_postal_pj": "59650",
+    "url_pj": "",
+    "match_score": 0.667,
+    "enrichi": true
   },
   {
     "nom": "NYXO LILLE BY AUTOSPHERE (GROUPE AUTOSPHERE)",
@@ -4013,7 +4629,15 @@
     "effectif": "11",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 72 27 59 59",
+    "site_web": "",
+    "nom_pj": "BYD Lille - Groupe Autosphere",
+    "adresse_pj": "13 rue Cruppe 59650 Villeneuve d'Ascq",
+    "ville_pj": "Villeneuve d'Ascq",
+    "code_postal_pj": "59650",
+    "url_pj": "",
+    "match_score": 0.766,
+    "enrichi": true
   },
   {
     "nom": "GGPC",
@@ -4077,14 +4701,14 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "telephone": "0430000008",
-    "site_web": "https://www.recupauto24.fr/",
-    "nom_pj": "Récup Autos 24 SARL",
-    "adresse_pj": "Rte Nationale 89 2 route Périgueux 24110 Montrem",
-    "ville_pj": "Montrem",
-    "code_postal_pj": "24110",
-    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00704924&code_localite=L03324650&code_rubrique=025710",
-    "match_score": 0.651,
+    "telephone": "09 87 77 63 65",
+    "site_web": "",
+    "nom_pj": "Mb Autos",
+    "adresse_pj": "71 rue Albert Vanderhagen 59320 Haubourdin",
+    "ville_pj": "Haubourdin",
+    "code_postal_pj": "59320",
+    "url_pj": "",
+    "match_score": 1.066,
     "enrichi": true
   },
   {
@@ -4117,7 +4741,15 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 20 54 99 25",
+    "site_web": "",
+    "nom_pj": "Midas Jercar",
+    "adresse_pj": "112 boulevard Liberté 59800 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59800",
+    "url_pj": "",
+    "match_score": 0.659,
+    "enrichi": true
   },
   {
     "nom": "LCI VERBAERE MOTORSPORT LILLE (VERBAERE VINTAGE)",
@@ -4133,7 +4765,15 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 20 90 52 52",
+    "site_web": "",
+    "nom_pj": "Lci Verbaere Motosport Lille",
+    "adresse_pj": "5 rue Lavoisier  59160 Lomme",
+    "ville_pj": "Lomme",
+    "code_postal_pj": "59160",
+    "url_pj": "",
+    "match_score": 0.973,
+    "enrichi": true
   },
   {
     "nom": "OPALE DRIVE",
@@ -4197,7 +4837,15 @@
     "effectif": "01",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "06 22 15 75 96",
+    "site_web": "",
+    "nom_pj": "Mondial Car",
+    "adresse_pj": "168 Bis rue Anatole France 59790 Ronchin",
+    "ville_pj": "Ronchin",
+    "code_postal_pj": "59790",
+    "url_pj": "",
+    "match_score": 1.051,
+    "enrichi": true
   },
   {
     "nom": "QUAD STATION",
@@ -4229,7 +4877,15 @@
     "effectif": "12",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 20 17 02 02",
+    "site_web": "",
+    "nom_pj": "Cormontoise d’Automobiles",
+    "adresse_pj": "Ctre Commercial Englos 0 59320 Sequedin",
+    "ville_pj": "Sequedin",
+    "code_postal_pj": "59320",
+    "url_pj": "",
+    "match_score": 1.184,
+    "enrichi": true
   },
   {
     "nom": "INTER CAR IMPORT (ICI)",
@@ -4293,7 +4949,15 @@
     "effectif": "01",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 62 13 42 06",
+    "site_web": "",
+    "nom_pj": "R Auto Service",
+    "adresse_pj": "37 rue Edouard Vaillant 59155 Faches Thumesnil",
+    "ville_pj": "Faches Thumesnil",
+    "code_postal_pj": "59155",
+    "url_pj": "",
+    "match_score": 1.1,
+    "enrichi": true
   },
   {
     "nom": "AB AUTOMOBILE",
@@ -4309,7 +4973,15 @@
     "effectif": "01",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "07 66 58 56 74",
+    "site_web": "",
+    "nom_pj": "Zn Automobile",
+    "adresse_pj": "197 rue Alexandra David Neel 59000 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59000",
+    "url_pj": "",
+    "match_score": 1.062,
+    "enrichi": true
   },
   {
     "nom": "VAL.AUTOS.MOTORS",
@@ -4325,7 +4997,15 @@
     "effectif": "02",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 62 02 62 82",
+    "site_web": "",
+    "nom_pj": "AL Autos",
+    "adresse_pj": "37 rue Thomas Edison 59100 Roubaix",
+    "ville_pj": "Roubaix",
+    "code_postal_pj": "59100",
+    "url_pj": "",
+    "match_score": 0.847,
+    "enrichi": true
   },
   {
     "nom": "BELLOKAZ",
@@ -4405,7 +5085,15 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "06 49 56 04 74",
+    "site_web": "",
+    "nom_pj": "LG Motorsport Exclusives Cars",
+    "adresse_pj": "679 avenue République 59800 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59800",
+    "url_pj": "",
+    "match_score": 0.653,
+    "enrichi": true
   },
   {
     "nom": "RCH CARS",
@@ -4421,7 +5109,15 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "07 81 93 87 60",
+    "site_web": "",
+    "nom_pj": "HM Cars",
+    "adresse_pj": "2 rue Forts 59960 Neuville en Ferrain",
+    "ville_pj": "Neuville en Ferrain",
+    "code_postal_pj": "59960",
+    "url_pj": "",
+    "match_score": 0.83,
+    "enrichi": true
   },
   {
     "nom": "BL AUTO SELECT (BL CUSTOM)",
@@ -4437,7 +5133,15 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "06 50 71 75 89",
+    "site_web": "",
+    "nom_pj": "KML Autos",
+    "adresse_pj": "3 rue Mirabeau 59800 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59800",
+    "url_pj": "",
+    "match_score": 0.667,
+    "enrichi": true
   },
   {
     "nom": "CONNECTRACK",
@@ -4517,7 +5221,15 @@
     "effectif": "01",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 20 56 84 93",
+    "site_web": "",
+    "nom_pj": "Garage Dubecquerel",
+    "adresse_pj": "230 rue Jacquard Hellemmes Lille 59260 Hellemmes",
+    "ville_pj": "Hellemmes",
+    "code_postal_pj": "59260",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=06007270&code_localite=Z05935000&code_rubrique=061240",
+    "match_score": 1.167,
+    "enrichi": true
   },
   {
     "nom": "D.VERBAERE AUTOMOBILES",
@@ -4533,7 +5245,15 @@
     "effectif": "03",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "07 66 58 56 74",
+    "site_web": "",
+    "nom_pj": "Zn Automobile",
+    "adresse_pj": "197 rue Alexandra David Neel 59000 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59000",
+    "url_pj": "",
+    "match_score": 0.685,
+    "enrichi": true
   },
   {
     "nom": "GARAGE GAMBETTA SECO",
@@ -4549,7 +5269,15 @@
     "effectif": "02",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 20 57 29 67",
+    "site_web": "",
+    "nom_pj": "Garage Renault Gambetta Seco",
+    "adresse_pj": "391 rue Léon Gambetta 59000 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59000",
+    "url_pj": "",
+    "match_score": 1.08,
+    "enrichi": true
   },
   {
     "nom": "ZEN'CARS 59 (ZEN CARS) (ZC59)",
@@ -4565,7 +5293,15 @@
     "effectif": "03",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "",
+    "site_web": "",
+    "nom_pj": "DNA CARS",
+    "adresse_pj": "118 rue St Jean 59100 Roubaix",
+    "ville_pj": "Roubaix",
+    "code_postal_pj": "59100",
+    "url_pj": "",
+    "match_score": 0.919,
+    "enrichi": true
   },
   {
     "nom": "RAPID MOTORS",
@@ -4613,14 +5349,14 @@
     "effectif": "01",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "telephone": "0430000008",
-    "site_web": "https://www.recupauto24.fr/",
-    "nom_pj": "Récup Autos 24 SARL",
-    "adresse_pj": "Rte Nationale 89 2 route Périgueux 24110 Montrem",
-    "ville_pj": "Montrem",
-    "code_postal_pj": "24110",
-    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00704924&code_localite=L03324650&code_rubrique=025710",
-    "match_score": 0.685,
+    "telephone": "06 51 86 02 30",
+    "site_web": "",
+    "nom_pj": "HR Autos",
+    "adresse_pj": "5 avenue Eugène Varlin 59800 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59800",
+    "url_pj": "",
+    "match_score": 1.275,
     "enrichi": true
   },
   {
@@ -4669,7 +5405,15 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 20 46 89 94",
+    "site_web": "",
+    "nom_pj": "Mumtaz Automobile",
+    "adresse_pj": "19 boulevard Metz 59000 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59000",
+    "url_pj": "",
+    "match_score": 0.726,
+    "enrichi": true
   },
   {
     "nom": "TD CAR SARL",
@@ -4717,7 +5461,15 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 20 00 03 40",
+    "site_web": "https://www.npl-location-poids-lourds.com/contactez-nous",
+    "nom_pj": "NPL Nord Poids Lourds",
+    "adresse_pj": "rue Epinoy 59175 Templemars",
+    "ville_pj": "Templemars",
+    "code_postal_pj": "59175",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=54725830&code_localite=Z05935000&code_rubrique=388500",
+    "match_score": 0.692,
+    "enrichi": true
   },
   {
     "nom": "SARL EUROCARLAND",
@@ -4733,7 +5485,15 @@
     "effectif": "02",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 20 40 67 18",
+    "site_web": "",
+    "nom_pj": "Ford Eurocarland",
+    "adresse_pj": "20 avenue Résistance 59350 Saint André lez Lille",
+    "ville_pj": "Saint André lez Lille",
+    "code_postal_pj": "59350",
+    "url_pj": "",
+    "match_score": 1.167,
+    "enrichi": true
   },
   {
     "nom": "GARAGE AVENIR ESPOIR",
@@ -4749,7 +5509,15 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "0275000004",
+    "site_web": "",
+    "nom_pj": "Garage De L Avenir",
+    "adresse_pj": "48 rue Albert Bailly 59700 Marcq en Baroeul",
+    "ville_pj": "Marcq en Baroeul",
+    "code_postal_pj": "59700",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00890687&code_localite=Z05935000&code_rubrique=388310",
+    "match_score": 0.69,
+    "enrichi": true
   },
   {
     "nom": "YOUNSSE JADIR (AUTO TRUST)",
@@ -4829,7 +5597,15 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "06 27 44 48 56",
+    "site_web": "",
+    "nom_pj": "Necker Automobile",
+    "adresse_pj": "679 avenue République 59800 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59800",
+    "url_pj": "",
+    "match_score": 0.747,
+    "enrichi": true
   },
   {
     "nom": "YOUNES ZAYTAR (YZ IMPORT THE CARS)",
@@ -4925,14 +5701,14 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "telephone": "05 56 33 37 27",
+    "telephone": "03 61 92 36 22",
     "site_web": "",
-    "nom_pj": "SH AUTO 33",
-    "adresse_pj": "35 E route Douils 33380 Mios",
-    "ville_pj": "Mios",
-    "code_postal_pj": "33380",
+    "nom_pj": "Jcm Auto",
+    "adresse_pj": "10 Quater rue Canon 59223 Roncq",
+    "ville_pj": "Roncq",
+    "code_postal_pj": "59223",
     "url_pj": "",
-    "match_score": 0.697,
+    "match_score": 0.942,
     "enrichi": true
   },
   {
@@ -4949,7 +5725,15 @@
     "effectif": "21",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 20 22 71 71",
+    "site_web": "",
+    "nom_pj": "EURAUTO",
+    "adresse_pj": "centre commercial Englos 59320 Englos",
+    "ville_pj": "Englos",
+    "code_postal_pj": "59320",
+    "url_pj": "",
+    "match_score": 1.233,
+    "enrichi": true
   },
   {
     "nom": "METROPOLE AUTOMOBILES",
@@ -4965,7 +5749,15 @@
     "effectif": "12",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 20 04 36 46",
+    "site_web": "",
+    "nom_pj": "Métropole Automobiles",
+    "adresse_pj": "Zac Villeneuve D'ascq 3 rue Frénelet 59650 Villeneuve d'Ascq",
+    "ville_pj": "Villeneuve d'Ascq",
+    "code_postal_pj": "59650",
+    "url_pj": "",
+    "match_score": 0.849,
+    "enrichi": true
   },
   {
     "nom": "ABDELKADER BELKACEMI (KAD AUTO)",
@@ -4997,7 +5789,15 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "07 77 17 33 91",
+    "site_web": "",
+    "nom_pj": "Gilbert Marahwa",
+    "adresse_pj": "20 Bis rue Berlioz 59800 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59800",
+    "url_pj": "",
+    "match_score": 1.291,
+    "enrichi": true
   },
   {
     "nom": "TAMEUR CHEMISSA (SUR AUTO)",
@@ -5061,7 +5861,15 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "07 66 58 56 74",
+    "site_web": "",
+    "nom_pj": "Zn Automobile",
+    "adresse_pj": "197 rue Alexandra David Neel 59000 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59000",
+    "url_pj": "",
+    "match_score": 0.705,
+    "enrichi": true
   },
   {
     "nom": "DS PRESTIGE AUTO (DS PRESTIGE AUTO)",
@@ -5077,7 +5885,15 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 20 50 94 94",
+    "site_web": "",
+    "nom_pj": "Grand Lille Auto",
+    "adresse_pj": "41 rue Emmerin 59000 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59000",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=55400359&code_localite=Z05935000&code_rubrique=388310",
+    "match_score": 0.665,
+    "enrichi": true
   },
   {
     "nom": "MICHEL LANGLOIS",
@@ -5141,7 +5957,15 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 20 63 99 88",
+    "site_web": "",
+    "nom_pj": "Del Fabro",
+    "adresse_pj": "32 rue Bapaume 59000 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59000",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=54322519&code_localite=Z05935000&code_rubrique=061240",
+    "match_score": 0.702,
+    "enrichi": true
   },
   {
     "nom": "4SAUTOMOBILES.FR (4SAUTOMOBILES.FR)",
@@ -5157,7 +5981,15 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 20 04 26 42",
+    "site_web": "",
+    "nom_pj": "4s Automobiles.fr",
+    "adresse_pj": "3 rue Doct Huart Hellemmes Lille 59260 Hellemmes",
+    "ville_pj": "Hellemmes",
+    "code_postal_pj": "59260",
+    "url_pj": "",
+    "match_score": 0.738,
+    "enrichi": true
   },
   {
     "nom": "ISSAM BENZAIM",
@@ -5189,7 +6021,15 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 20 03 80 80",
+    "site_web": "",
+    "nom_pj": "Roncq Automobiles",
+    "adresse_pj": "418 rue Lille 59223 Roncq",
+    "ville_pj": "Roncq",
+    "code_postal_pj": "59223",
+    "url_pj": "",
+    "match_score": 0.603,
+    "enrichi": true
   },
   {
     "nom": "GGP LOCATION",
@@ -5205,7 +6045,15 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 20 46 06 07",
+    "site_web": "",
+    "nom_pj": "LS Location",
+    "adresse_pj": "12 chemin Halage 59320 Haubourdin",
+    "ville_pj": "Haubourdin",
+    "code_postal_pj": "59320",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=61658295&code_localite=Z05935000&code_rubrique=061240",
+    "match_score": 0.895,
+    "enrichi": true
   },
   {
     "nom": "L'OCCAZ DU PRO",
@@ -5221,7 +6069,15 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 74 46 01 66",
+    "site_web": "",
+    "nom_pj": "CAP OCCAZ",
+    "adresse_pj": "1 square Utrillo 59150 Wattrelos",
+    "ville_pj": "Wattrelos",
+    "code_postal_pj": "59150",
+    "url_pj": "",
+    "match_score": 0.685,
+    "enrichi": true
   },
   {
     "nom": "STARTER DRIVE",
@@ -5237,7 +6093,15 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 39 07 03 81",
+    "site_web": "",
+    "nom_pj": "Max Pare Brise",
+    "adresse_pj": "334 rue Lys 59250 Halluin",
+    "ville_pj": "Halluin",
+    "code_postal_pj": "59250",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=55906941&code_localite=Z05935000&code_rubrique=142320",
+    "match_score": 0.666,
+    "enrichi": true
   },
   {
     "nom": "ROMUALD BEAUCOURT (RD AUTOS)",
@@ -5317,7 +6181,15 @@
     "effectif": "02",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 20 01 03 30",
+    "site_web": "",
+    "nom_pj": "EASY MOTORS",
+    "adresse_pj": "52 rue Condorcet 59200 Tourcoing",
+    "ville_pj": "Tourcoing",
+    "code_postal_pj": "59200",
+    "url_pj": "",
+    "match_score": 0.928,
+    "enrichi": true
   },
   {
     "nom": "AHMED MOUMI (MOUMICARS 59)",
@@ -5365,7 +6237,15 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "09 77 40 19 20",
+    "site_web": "",
+    "nom_pj": "CARGLASS Pare-Brise Valenciennes",
+    "adresse_pj": "26 avenue Serg Cairns 59300 Valenciennes",
+    "ville_pj": "Valenciennes",
+    "code_postal_pj": "59300",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=07655594&code_localite=Z05935000&code_rubrique=388310",
+    "match_score": 0.734,
+    "enrichi": true
   },
   {
     "nom": "SOCIETE DE DISTRIBUTION DE VEHICULES D'OCCASION (SDVO)",
@@ -5397,7 +6277,15 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 20 07 50 82",
+    "site_web": "",
+    "nom_pj": "Ad Carrosserie Lilloise",
+    "adresse_pj": "5 rue Delesalle 59110 La Madeleine",
+    "ville_pj": "La Madeleine",
+    "code_postal_pj": "59110",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00398258&code_localite=Z05935000&code_rubrique=388310",
+    "match_score": 1.258,
+    "enrichi": true
   },
   {
     "nom": "BERTRAND BAUDRY",
@@ -5445,7 +6333,15 @@
     "effectif": "02",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 20 04 35 05",
+    "site_web": "",
+    "nom_pj": "PALINSKI SARL",
+    "adresse_pj": "281 rue Pierre Legrand 59007 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59007",
+    "url_pj": "",
+    "match_score": 1.186,
+    "enrichi": true
   },
   {
     "nom": "PASCAL WIECKOWSKI",
@@ -5541,7 +6437,15 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 20 23 90 00",
+    "site_web": "",
+    "nom_pj": "JMB Automobiles",
+    "adresse_pj": "2 Bis rue Tissage 59250 Halluin",
+    "ville_pj": "Halluin",
+    "code_postal_pj": "59250",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=06177785&code_localite=Z05935000&code_rubrique=061240",
+    "match_score": 0.958,
+    "enrichi": true
   },
   {
     "nom": "GROUPE A.B INDUSTRIES",
@@ -5621,7 +6525,15 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 28 76 16 76",
+    "site_web": "",
+    "nom_pj": "Hyundai Milano Automobiles Concessionnaire",
+    "adresse_pj": "Boulevard De L'ouest 2 rue Frénelet 59650 Villeneuve d'Ascq",
+    "ville_pj": "Villeneuve d'Ascq",
+    "code_postal_pj": "59650",
+    "url_pj": "",
+    "match_score": 0.99,
+    "enrichi": true
   },
   {
     "nom": "KARIM LAOUAIL",
@@ -5685,7 +6597,15 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 20 68 14 93",
+    "site_web": "",
+    "nom_pj": "AM Auto",
+    "adresse_pj": "66 rue Paul Lafargue 59000 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59000",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=56912372&code_localite=Z05935000&code_rubrique=388310",
+    "match_score": 0.751,
+    "enrichi": true
   },
   {
     "nom": "E S C TRADING",
@@ -5701,7 +6621,15 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 20 52 45 11",
+    "site_web": "",
+    "nom_pj": "ESC TRADING",
+    "adresse_pj": "84 rue Marquillies 59000 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59000",
+    "url_pj": "",
+    "match_score": 1.181,
+    "enrichi": true
   },
   {
     "nom": "KRONOS-SPORT (KRONOS-SPORT)",
@@ -5765,7 +6693,15 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "06 27 44 48 56",
+    "site_web": "",
+    "nom_pj": "Necker Automobile",
+    "adresse_pj": "679 avenue République 59800 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59800",
+    "url_pj": "",
+    "match_score": 0.717,
+    "enrichi": true
   },
   {
     "nom": "SAMIRA OUHABRACHE",
@@ -5813,7 +6749,15 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 20 52 45 11",
+    "site_web": "",
+    "nom_pj": "ESC TRADING",
+    "adresse_pj": "84 rue Marquillies 59000 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59000",
+    "url_pj": "",
+    "match_score": 0.784,
+    "enrichi": true
   },
   {
     "nom": "DAVID BETTEY (EHDB AUTO)",
@@ -5925,7 +6869,15 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 62 52 57 73",
+    "site_web": "",
+    "nom_pj": "Mohamed Bousnina",
+    "adresse_pj": "3 rue Jules Breton 59000 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59000",
+    "url_pj": "",
+    "match_score": 0.717,
+    "enrichi": true
   },
   {
     "nom": "AG AUTOMOBILES",
@@ -5941,7 +6893,15 @@
     "effectif": "03",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 20 94 26 30",
+    "site_web": "",
+    "nom_pj": "DB Automobiles",
+    "adresse_pj": "250 rue Tourcoing 59960 Neuville en Ferrain",
+    "ville_pj": "Neuville en Ferrain",
+    "code_postal_pj": "59960",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=50044669&code_localite=Z05935000&code_rubrique=061240",
+    "match_score": 0.881,
+    "enrichi": true
   },
   {
     "nom": "ABDOULAYE LAM",
@@ -6005,7 +6965,15 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 61 97 95 50",
+    "site_web": "",
+    "nom_pj": "TOP MOBILITE",
+    "adresse_pj": "82 rue Artois 59000 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59000",
+    "url_pj": "",
+    "match_score": 0.698,
+    "enrichi": true
   },
   {
     "nom": "JEAN FRANCOIS LEFEBVRE",
@@ -6101,7 +7069,15 @@
     "effectif": "01",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "06 66 92 76 41",
+    "site_web": "",
+    "nom_pj": "Web@uto-Carte Grise",
+    "adresse_pj": "475 avenue Dunkerque 59000 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59000",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=56288572&code_localite=Z05935000&code_rubrique=061800",
+    "match_score": 0.992,
+    "enrichi": true
   },
   {
     "nom": "ABDELKARIM OUAAMAR (AUTO MOSELLE)",
@@ -6197,7 +7173,15 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "09 70 70 23 56",
+    "site_web": "",
+    "nom_pj": "Auto Sport Luxury",
+    "adresse_pj": "Depot Vente A Lille 188 rue Madeleine Rebérioux 59800 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59800",
+    "url_pj": "",
+    "match_score": 1.139,
+    "enrichi": true
   },
   {
     "nom": "CGFRANCE",
@@ -6277,7 +7261,15 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 59 89 21 02",
+    "site_web": "",
+    "nom_pj": "Caporal Motors",
+    "adresse_pj": "169 rue Victor Hugo 59100 Roubaix",
+    "ville_pj": "Roubaix",
+    "code_postal_pj": "59100",
+    "url_pj": "",
+    "match_score": 0.681,
+    "enrichi": true
   },
   {
     "nom": "NATIONAL AUTO CONCEPT",
@@ -6309,7 +7301,15 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "06 27 44 48 56",
+    "site_web": "",
+    "nom_pj": "Necker Automobile",
+    "adresse_pj": "679 avenue République 59800 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59800",
+    "url_pj": "",
+    "match_score": 1.255,
+    "enrichi": true
   },
   {
     "nom": "GOLD MOTORS",
@@ -6325,7 +7325,15 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "06 65 36 16 40",
+    "site_web": "",
+    "nom_pj": "Good Cars",
+    "adresse_pj": "229 rue Solférino 59000 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59000",
+    "url_pj": "",
+    "match_score": 0.74,
+    "enrichi": true
   },
   {
     "nom": "CORENTIN TROADEC (CARSFAST)",
@@ -6389,7 +7397,15 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "06 62 85 79 44",
+    "site_web": "",
+    "nom_pj": "Sl Cars",
+    "adresse_pj": "2 rue Progrès 59390 Lys Lez Lannoy",
+    "ville_pj": "Lys Lez Lannoy",
+    "code_postal_pj": "59390",
+    "url_pj": "",
+    "match_score": 0.85,
+    "enrichi": true
   },
   {
     "nom": "ARMEN TONOYAN (EREVAN MOTORS)",
@@ -6421,14 +7437,14 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "telephone": "05 56 33 37 27",
+    "telephone": "03 20 68 14 93",
     "site_web": "",
-    "nom_pj": "SH AUTO 33",
-    "adresse_pj": "35 E route Douils 33380 Mios",
-    "ville_pj": "Mios",
-    "code_postal_pj": "33380",
-    "url_pj": "",
-    "match_score": 0.676,
+    "nom_pj": "AM Auto",
+    "adresse_pj": "66 rue Paul Lafargue 59000 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59000",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=56912372&code_localite=Z05935000&code_rubrique=388310",
+    "match_score": 0.946,
     "enrichi": true
   },
   {
@@ -6477,7 +7493,15 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "09 70 70 23 56",
+    "site_web": "",
+    "nom_pj": "Auto Sport Luxury",
+    "adresse_pj": "Depot Vente A Lille 188 rue Madeleine Rebérioux 59800 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59800",
+    "url_pj": "",
+    "match_score": 0.788,
+    "enrichi": true
   },
   {
     "nom": "SSB AUTOMOBILES",
@@ -6493,7 +7517,15 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 20 94 26 30",
+    "site_web": "",
+    "nom_pj": "DB Automobiles",
+    "adresse_pj": "250 rue Tourcoing 59960 Neuville en Ferrain",
+    "ville_pj": "Neuville en Ferrain",
+    "code_postal_pj": "59960",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=50044669&code_localite=Z05935000&code_rubrique=061240",
+    "match_score": 0.965,
+    "enrichi": true
   },
   {
     "nom": "JORDAN BIBAUT (BJ AUTOMOBILE)",
@@ -6509,7 +7541,15 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 20 50 94 94",
+    "site_web": "",
+    "nom_pj": "Grand Lille Auto",
+    "adresse_pj": "41 rue Emmerin 59000 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59000",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=55400359&code_localite=Z05935000&code_rubrique=388310",
+    "match_score": 0.671,
+    "enrichi": true
   },
   {
     "nom": "GEORGES ABDUL (KOFFI) (AUTO'CHAP)",
@@ -6541,7 +7581,15 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "06 50 71 75 89",
+    "site_web": "",
+    "nom_pj": "KML Autos",
+    "adresse_pj": "3 rue Mirabeau 59800 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59800",
+    "url_pj": "",
+    "match_score": 1.3,
+    "enrichi": true
   },
   {
     "nom": "RABAH BETRICHE (R-TRANSAC)",
@@ -6605,7 +7653,15 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "06 62 85 79 44",
+    "site_web": "",
+    "nom_pj": "Sl Cars",
+    "adresse_pj": "2 rue Progrès 59390 Lys Lez Lannoy",
+    "ville_pj": "Lys Lez Lannoy",
+    "code_postal_pj": "59390",
+    "url_pj": "",
+    "match_score": 0.901,
+    "enrichi": true
   },
   {
     "nom": "DEX FRANCE (DEX FRANCE)",
@@ -6621,7 +7677,15 @@
     "effectif": "02",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "06 23 28 40 52",
+    "site_web": "",
+    "nom_pj": "Jag Car's France",
+    "adresse_pj": "ZAC de l'Épinette 31 rue Clauwiers 59113 Seclin",
+    "ville_pj": "Seclin",
+    "code_postal_pj": "59113",
+    "url_pj": "",
+    "match_score": 0.724,
+    "enrichi": true
   },
   {
     "nom": "EXCELLENCE SOCIETY",
@@ -6685,7 +7749,15 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 20 57 55 43",
+    "site_web": "",
+    "nom_pj": "Vancar",
+    "adresse_pj": "183 Bis rue Anatole France  59160 Lomme",
+    "ville_pj": "Lomme",
+    "code_postal_pj": "59160",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=53484588&code_localite=Z05935000&code_rubrique=388310",
+    "match_score": 0.651,
+    "enrichi": true
   },
   {
     "nom": "DHP AUTO",
@@ -6701,14 +7773,14 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "telephone": "05 56 33 37 27",
+    "telephone": "07 62 91 59 96",
     "site_web": "",
-    "nom_pj": "SH AUTO 33",
-    "adresse_pj": "35 E route Douils 33380 Mios",
-    "ville_pj": "Mios",
-    "code_postal_pj": "33380",
+    "nom_pj": "DHP Auto",
+    "adresse_pj": "Concessionnaire Automobile A Lil 16 rue Antoine Joseph Lernould 59160 Lomme",
+    "ville_pj": "Lomme",
+    "code_postal_pj": "59160",
     "url_pj": "",
-    "match_score": 0.721,
+    "match_score": 1.217,
     "enrichi": true
   },
   {
@@ -6805,7 +7877,15 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "07 66 58 56 74",
+    "site_web": "",
+    "nom_pj": "Zn Automobile",
+    "adresse_pj": "197 rue Alexandra David Neel 59000 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59000",
+    "url_pj": "",
+    "match_score": 1.046,
+    "enrichi": true
   },
   {
     "nom": "JORDAN DEMESTRE (JD AUTOLUX)",
@@ -6853,7 +7933,15 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "07 66 58 56 74",
+    "site_web": "",
+    "nom_pj": "Zn Automobile",
+    "adresse_pj": "197 rue Alexandra David Neel 59000 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59000",
+    "url_pj": "",
+    "match_score": 0.799,
+    "enrichi": true
   },
   {
     "nom": "MARIO KAR",
@@ -6901,7 +7989,15 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "",
+    "site_web": "",
+    "nom_pj": "DNA CARS",
+    "adresse_pj": "118 rue St Jean 59100 Roubaix",
+    "ville_pj": "Roubaix",
+    "code_postal_pj": "59100",
+    "url_pj": "",
+    "match_score": 0.858,
+    "enrichi": true
   },
   {
     "nom": "AUTO SPORT EXPORT",
@@ -6917,7 +8013,15 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "09 70 70 23 56",
+    "site_web": "",
+    "nom_pj": "Auto Sport Luxury",
+    "adresse_pj": "Depot Vente A Lille 188 rue Madeleine Rebérioux 59800 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59800",
+    "url_pj": "",
+    "match_score": 0.886,
+    "enrichi": true
   },
   {
     "nom": "RMAUTO59",
@@ -6933,7 +8037,15 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "06 50 71 75 89",
+    "site_web": "",
+    "nom_pj": "KML Autos",
+    "adresse_pj": "3 rue Mirabeau 59800 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59800",
+    "url_pj": "",
+    "match_score": 0.693,
+    "enrichi": true
   },
   {
     "nom": "LILLE AUTO 59",
@@ -6949,7 +8061,15 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 20 50 94 94",
+    "site_web": "",
+    "nom_pj": "Grand Lille Auto",
+    "adresse_pj": "41 rue Emmerin 59000 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59000",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=55400359&code_localite=Z05935000&code_rubrique=388310",
+    "match_score": 0.92,
+    "enrichi": true
   },
   {
     "nom": "FANNY DEFAUX (DEF AUTO)",
@@ -7013,7 +8133,15 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "06 27 44 48 56",
+    "site_web": "",
+    "nom_pj": "Necker Automobile",
+    "adresse_pj": "679 avenue République 59800 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59800",
+    "url_pj": "",
+    "match_score": 0.663,
+    "enrichi": true
   },
   {
     "nom": "SELECT CAR NORD",
@@ -7045,14 +8173,14 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "telephone": "05 56 33 37 27",
+    "telephone": "03 20 68 14 93",
     "site_web": "",
-    "nom_pj": "SH AUTO 33",
-    "adresse_pj": "35 E route Douils 33380 Mios",
-    "ville_pj": "Mios",
-    "code_postal_pj": "33380",
-    "url_pj": "",
-    "match_score": 0.677,
+    "nom_pj": "AM Auto",
+    "adresse_pj": "66 rue Paul Lafargue 59000 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59000",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=56912372&code_localite=Z05935000&code_rubrique=388310",
+    "match_score": 0.862,
     "enrichi": true
   },
   {
@@ -7069,14 +8197,14 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "telephone": "05 56 82 74 34",
+    "telephone": "03 20 04 38 11",
     "site_web": "",
-    "nom_pj": "Garage Feeling Auto",
-    "adresse_pj": "220 avenue Côte d'Argent 33380 Biganos",
-    "ville_pj": "Biganos",
-    "code_postal_pj": "33380",
-    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00680686&code_localite=L03324650&code_rubrique=061240",
-    "match_score": 0.692,
+    "nom_pj": "Garage Auto Bradford",
+    "adresse_pj": "24 rue Bradford 59200 Tourcoing",
+    "ville_pj": "Tourcoing",
+    "code_postal_pj": "59200",
+    "url_pj": "",
+    "match_score": 0.862,
     "enrichi": true
   },
   {
@@ -7109,7 +8237,15 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 20 68 14 93",
+    "site_web": "",
+    "nom_pj": "AM Auto",
+    "adresse_pj": "66 rue Paul Lafargue 59000 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59000",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=56912372&code_localite=Z05935000&code_rubrique=388310",
+    "match_score": 0.65,
+    "enrichi": true
   },
   {
     "nom": "SAMIR SOLTANI (PHOENIX AUTO)",
@@ -7157,7 +8293,15 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "06 22 40 33 31",
+    "site_web": "",
+    "nom_pj": "Roro service auto",
+    "adresse_pj": "8 rue Auguste Bonte 59000 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59000",
+    "url_pj": "",
+    "match_score": 0.66,
+    "enrichi": true
   },
   {
     "nom": "SM CARS",
@@ -7173,7 +8317,15 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "06 62 85 79 44",
+    "site_web": "",
+    "nom_pj": "Sl Cars",
+    "adresse_pj": "2 rue Progrès 59390 Lys Lez Lannoy",
+    "ville_pj": "Lys Lez Lannoy",
+    "code_postal_pj": "59390",
+    "url_pj": "",
+    "match_score": 0.892,
+    "enrichi": true
   },
   {
     "nom": "MDA RENT",
@@ -7221,7 +8373,15 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "",
+    "site_web": "",
+    "nom_pj": "DNA CARS",
+    "adresse_pj": "118 rue St Jean 59100 Roubaix",
+    "ville_pj": "Roubaix",
+    "code_postal_pj": "59100",
+    "url_pj": "",
+    "match_score": 0.903,
+    "enrichi": true
   },
   {
     "nom": "ALKA CONSEIL (L'ATELIER)",
@@ -7253,14 +8413,14 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "telephone": "05 56 33 37 27",
+    "telephone": "06 83 76 64 12",
     "site_web": "",
-    "nom_pj": "SH AUTO 33",
-    "adresse_pj": "35 E route Douils 33380 Mios",
-    "ville_pj": "Mios",
-    "code_postal_pj": "33380",
+    "nom_pj": "Ba Auto",
+    "adresse_pj": "7 rue Emile Borel 59000 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59000",
     "url_pj": "",
-    "match_score": 0.772,
+    "match_score": 1.034,
     "enrichi": true
   },
   {
@@ -7309,7 +8469,15 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 20 36 20 03",
+    "site_web": "",
+    "nom_pj": "Prestige Car",
+    "adresse_pj": "1 avenue Albert Masurel 59200 Tourcoing",
+    "ville_pj": "Tourcoing",
+    "code_postal_pj": "59200",
+    "url_pj": "",
+    "match_score": 0.797,
+    "enrichi": true
   },
   {
     "nom": "SIRVARD ASSATRYAN (YAMANYAN) (AUTO CENTER)",
@@ -7341,7 +8509,15 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "07 81 93 87 60",
+    "site_web": "",
+    "nom_pj": "HM Cars",
+    "adresse_pj": "2 rue Forts 59960 Neuville en Ferrain",
+    "ville_pj": "Neuville en Ferrain",
+    "code_postal_pj": "59960",
+    "url_pj": "",
+    "match_score": 0.838,
+    "enrichi": true
   },
   {
     "nom": "MOHAMED YOUNIS",
@@ -7357,7 +8533,15 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 62 52 57 73",
+    "site_web": "",
+    "nom_pj": "Mohamed Bousnina",
+    "adresse_pj": "3 rue Jules Breton 59000 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59000",
+    "url_pj": "",
+    "match_score": 0.682,
+    "enrichi": true
   },
   {
     "nom": "ROBERT MANSUET",
@@ -7373,7 +8557,15 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "06 50 27 05 81",
+    "site_web": "",
+    "nom_pj": "Garage Mecanique",
+    "adresse_pj": "53 rue Mirabeau 59800 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59800",
+    "url_pj": "",
+    "match_score": 0.656,
+    "enrichi": true
   },
   {
     "nom": "LG MOTORSPORT EXCLUSIVES CARS",
@@ -7389,7 +8581,15 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "06 49 56 04 74",
+    "site_web": "",
+    "nom_pj": "LG Motorsport Exclusives Cars",
+    "adresse_pj": "679 avenue République 59800 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59800",
+    "url_pj": "",
+    "match_score": 1.255,
+    "enrichi": true
   },
   {
     "nom": "DREAM CARS",
@@ -7405,7 +8605,15 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 20 36 20 03",
+    "site_web": "",
+    "nom_pj": "Prestige Car",
+    "adresse_pj": "1 avenue Albert Masurel 59200 Tourcoing",
+    "ville_pj": "Tourcoing",
+    "code_postal_pj": "59200",
+    "url_pj": "",
+    "match_score": 0.721,
+    "enrichi": true
   },
   {
     "nom": "AUTO-CHRIST",
@@ -7437,14 +8645,14 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "telephone": "05 56 33 37 27",
+    "telephone": "06 83 76 64 12",
     "site_web": "",
-    "nom_pj": "SH AUTO 33",
-    "adresse_pj": "35 E route Douils 33380 Mios",
-    "ville_pj": "Mios",
-    "code_postal_pj": "33380",
+    "nom_pj": "Ba Auto",
+    "adresse_pj": "7 rue Emile Borel 59000 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59000",
     "url_pj": "",
-    "match_score": 0.686,
+    "match_score": 0.915,
     "enrichi": true
   },
   {
@@ -7525,7 +8733,15 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "06 50 71 75 89",
+    "site_web": "",
+    "nom_pj": "KML Autos",
+    "adresse_pj": "3 rue Mirabeau 59800 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59800",
+    "url_pj": "",
+    "match_score": 1.0,
+    "enrichi": true
   },
   {
     "nom": "JAOUAD OIHDAN",
@@ -7557,7 +8773,15 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "06 88 13 64 77",
+    "site_web": "",
+    "nom_pj": "Mecatronics",
+    "adresse_pj": "497 Bis avenue Dunkerque  59160 Lomme",
+    "ville_pj": "Lomme",
+    "code_postal_pj": "59160",
+    "url_pj": "",
+    "match_score": 1.018,
+    "enrichi": true
   },
   {
     "nom": "JUGURTHA OUANOUCHE (DEALMYCARS)",
@@ -7589,7 +8813,15 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 20 04 77 84",
+    "site_web": "",
+    "nom_pj": "CAR'EXPERT",
+    "adresse_pj": "208 rue Faubourg d'Arras 59000 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59000",
+    "url_pj": "",
+    "match_score": 0.675,
+    "enrichi": true
   },
   {
     "nom": "AUTORELAIS (AUTORELAIS) (AR)",
@@ -7669,7 +8901,15 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "06 50 71 75 89",
+    "site_web": "",
+    "nom_pj": "KML Autos",
+    "adresse_pj": "3 rue Mirabeau 59800 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59800",
+    "url_pj": "",
+    "match_score": 0.941,
+    "enrichi": true
   },
   {
     "nom": "MAXIME LINCLAU (SLN AUTO)",
@@ -7701,7 +8941,15 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "06 62 85 79 44",
+    "site_web": "",
+    "nom_pj": "Sl Cars",
+    "adresse_pj": "2 rue Progrès 59390 Lys Lez Lannoy",
+    "ville_pj": "Lys Lez Lannoy",
+    "code_postal_pj": "59390",
+    "url_pj": "",
+    "match_score": 0.821,
+    "enrichi": true
   },
   {
     "nom": "STEVENS & CO",
@@ -7733,7 +8981,15 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "06 66 92 76 41",
+    "site_web": "",
+    "nom_pj": "Web@uto-Carte Grise",
+    "adresse_pj": "475 avenue Dunkerque 59000 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59000",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=56288572&code_localite=Z05935000&code_rubrique=061800",
+    "match_score": 0.811,
+    "enrichi": true
   },
   {
     "nom": "MILLENIUM CAR (MILLENIUM CAR)",
@@ -7765,7 +9021,15 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 20 94 26 30",
+    "site_web": "",
+    "nom_pj": "DB Automobiles",
+    "adresse_pj": "250 rue Tourcoing 59960 Neuville en Ferrain",
+    "ville_pj": "Neuville en Ferrain",
+    "code_postal_pj": "59960",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=50044669&code_localite=Z05935000&code_rubrique=061240",
+    "match_score": 0.941,
+    "enrichi": true
   },
   {
     "nom": "ERUDIT AUTOMOBILE",
@@ -7781,7 +9045,15 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 20 73 28 15",
+    "site_web": "",
+    "nom_pj": "Neto Automobiles",
+    "adresse_pj": "59 avenue Jules Brame 59100 Roubaix",
+    "ville_pj": "Roubaix",
+    "code_postal_pj": "59100",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=55035118&code_localite=Z05935000&code_rubrique=388310",
+    "match_score": 0.792,
+    "enrichi": true
   },
   {
     "nom": "ARISTOCAR (ARISTOCAR)",
@@ -7829,7 +9101,15 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 61 97 95 50",
+    "site_web": "",
+    "nom_pj": "TOP MOBILITE",
+    "adresse_pj": "82 rue Artois 59000 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59000",
+    "url_pj": "",
+    "match_score": 0.701,
+    "enrichi": true
   },
   {
     "nom": "TWD MOTORS",
@@ -7845,7 +9125,15 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 28 54 12 21",
+    "site_web": "",
+    "nom_pj": "Jm Motors",
+    "adresse_pj": "130 rue Ypres 59118 Wambrechies",
+    "ville_pj": "Wambrechies",
+    "code_postal_pj": "59118",
+    "url_pj": "",
+    "match_score": 0.839,
+    "enrichi": true
   },
   {
     "nom": "SASU NEHIRI SAID",
@@ -7941,7 +9229,15 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "",
+    "site_web": "",
+    "nom_pj": "DNA CARS",
+    "adresse_pj": "118 rue St Jean 59100 Roubaix",
+    "ville_pj": "Roubaix",
+    "code_postal_pj": "59100",
+    "url_pj": "",
+    "match_score": 0.865,
+    "enrichi": true
   },
   {
     "nom": "NEXTDRIVE",
@@ -7989,7 +9285,15 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 62 02 28 02",
+    "site_web": "",
+    "nom_pj": "Negoce lc",
+    "adresse_pj": "445 boulevard Gambetta 59200 Tourcoing",
+    "ville_pj": "Tourcoing",
+    "code_postal_pj": "59200",
+    "url_pj": "",
+    "match_score": 0.755,
+    "enrichi": true
   },
   {
     "nom": "LOUIS EONE (GERY MINDSPARK SOLUTIONS)",
@@ -8021,7 +9325,15 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "06 27 44 48 56",
+    "site_web": "",
+    "nom_pj": "Necker Automobile",
+    "adresse_pj": "679 avenue République 59800 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59800",
+    "url_pj": "",
+    "match_score": 0.734,
+    "enrichi": true
   },
   {
     "nom": "AUTO TRADING",
@@ -8053,7 +9365,15 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "06 50 71 75 89",
+    "site_web": "",
+    "nom_pj": "KML Autos",
+    "adresse_pj": "3 rue Mirabeau 59800 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59800",
+    "url_pj": "",
+    "match_score": 0.682,
+    "enrichi": true
   },
   {
     "nom": "VERTEX MOBILITY (VERTEX MOBILITY IMPORT)",
@@ -8117,7 +9437,15 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 28 54 12 21",
+    "site_web": "",
+    "nom_pj": "Jm Motors",
+    "adresse_pj": "130 rue Ypres 59118 Wambrechies",
+    "ville_pj": "Wambrechies",
+    "code_postal_pj": "59118",
+    "url_pj": "",
+    "match_score": 0.937,
+    "enrichi": true
   },
   {
     "nom": "ALEXANDRE DELANNOY (ACCESS AFFAIRES)",
@@ -8165,7 +9493,15 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "",
+    "site_web": "",
+    "nom_pj": "Staes Dominique",
+    "adresse_pj": "74 rue Avesnes 59000 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59000",
+    "url_pj": "",
+    "match_score": 1.001,
+    "enrichi": true
   },
   {
     "nom": "VASILE SIMION (TEDBYBEL)",
@@ -8197,7 +9533,15 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "06 62 85 79 44",
+    "site_web": "",
+    "nom_pj": "Sl Cars",
+    "adresse_pj": "2 rue Progrès 59390 Lys Lez Lannoy",
+    "ville_pj": "Lys Lez Lannoy",
+    "code_postal_pj": "59390",
+    "url_pj": "",
+    "match_score": 0.665,
+    "enrichi": true
   },
   {
     "nom": "FCZ FUTABA CZECH SRO",
@@ -8245,7 +9589,15 @@
     "effectif": "03",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 20 93 24 24",
+    "site_web": "",
+    "nom_pj": "Modern'garage Peugeot",
+    "adresse_pj": "938 avenue Dunkerque  59160 Lomme",
+    "ville_pj": "Lomme",
+    "code_postal_pj": "59160",
+    "url_pj": "",
+    "match_score": 0.987,
+    "enrichi": true
   },
   {
     "nom": "STEPHANE VIGOT",
@@ -8405,7 +9757,15 @@
     "effectif": "21",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 72 27 59 59",
+    "site_web": "",
+    "nom_pj": "BYD Lille - Groupe Autosphere",
+    "adresse_pj": "13 rue Cruppe 59650 Villeneuve d'Ascq",
+    "ville_pj": "Villeneuve d'Ascq",
+    "code_postal_pj": "59650",
+    "url_pj": "",
+    "match_score": 0.974,
+    "enrichi": true
   },
   {
     "nom": "SOCIETE NOUVELLE LAURENT",
@@ -8485,7 +9845,15 @@
     "effectif": "01",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 20 94 26 30",
+    "site_web": "",
+    "nom_pj": "DB Automobiles",
+    "adresse_pj": "250 rue Tourcoing 59960 Neuville en Ferrain",
+    "ville_pj": "Neuville en Ferrain",
+    "code_postal_pj": "59960",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=50044669&code_localite=Z05935000&code_rubrique=061240",
+    "match_score": 0.959,
+    "enrichi": true
   },
   {
     "nom": "ABDELHAKIM SALHI",
@@ -8565,7 +9933,15 @@
     "effectif": "01",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 20 46 06 07",
+    "site_web": "",
+    "nom_pj": "LS Location",
+    "adresse_pj": "12 chemin Halage 59320 Haubourdin",
+    "ville_pj": "Haubourdin",
+    "code_postal_pj": "59320",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=61658295&code_localite=Z05935000&code_rubrique=061240",
+    "match_score": 0.659,
+    "enrichi": true
   },
   {
     "nom": "EURL VASSEUR",
@@ -8597,7 +9973,15 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 28 54 12 21",
+    "site_web": "",
+    "nom_pj": "Jm Motors",
+    "adresse_pj": "130 rue Ypres 59118 Wambrechies",
+    "ville_pj": "Wambrechies",
+    "code_postal_pj": "59118",
+    "url_pj": "",
+    "match_score": 0.839,
+    "enrichi": true
   },
   {
     "nom": "SCI KARJAN",
@@ -8661,7 +10045,15 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 61 97 95 50",
+    "site_web": "",
+    "nom_pj": "TOP MOBILITE",
+    "adresse_pj": "82 rue Artois 59000 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59000",
+    "url_pj": "",
+    "match_score": 0.674,
+    "enrichi": true
   },
   {
     "nom": "JOHANN DA FONSECA GUERRA (DREVE CAR)",
@@ -8693,7 +10085,15 @@
     "effectif": "01",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 20 92 27 80",
+    "site_web": "",
+    "nom_pj": "Garage Du Marais",
+    "adresse_pj": "19 rue Marais de Lomme 59000 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59000",
+    "url_pj": "",
+    "match_score": 1.011,
+    "enrichi": true
   },
   {
     "nom": "DEPAN'AUTO",
@@ -8709,7 +10109,15 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 20 68 14 93",
+    "site_web": "",
+    "nom_pj": "AM Auto",
+    "adresse_pj": "66 rue Paul Lafargue 59000 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59000",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=56912372&code_localite=Z05935000&code_rubrique=388310",
+    "match_score": 0.747,
+    "enrichi": true
   },
   {
     "nom": "VALAUTO PROFESSIONNELS (VALAUTO PROFESSIONNELS)",
@@ -8821,7 +10229,15 @@
     "effectif": "12",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 20 60 30 08",
+    "site_web": "",
+    "nom_pj": "Peugeot Verbaere Automobiles Concessionnaire",
+    "adresse_pj": "9 rue Lavoisier  59160 Lomme",
+    "ville_pj": "Lomme",
+    "code_postal_pj": "59160",
+    "url_pj": "",
+    "match_score": 0.9,
+    "enrichi": true
   },
   {
     "nom": "MOHAMMED AYAD (FR AUTOS)",
@@ -8837,7 +10253,15 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 62 52 57 73",
+    "site_web": "",
+    "nom_pj": "Mohamed Bousnina",
+    "adresse_pj": "3 rue Jules Breton 59000 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59000",
+    "url_pj": "",
+    "match_score": 0.656,
+    "enrichi": true
   },
   {
     "nom": "ALEX MAXIMOFF (AMS)",
@@ -8933,7 +10357,15 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "07 81 93 87 60",
+    "site_web": "",
+    "nom_pj": "HM Cars",
+    "adresse_pj": "2 rue Forts 59960 Neuville en Ferrain",
+    "ville_pj": "Neuville en Ferrain",
+    "code_postal_pj": "59960",
+    "url_pj": "",
+    "match_score": 0.908,
+    "enrichi": true
   },
   {
     "nom": "AUTO BULLY",
@@ -9061,7 +10493,15 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 59 54 32 24",
+    "site_web": "",
+    "nom_pj": "Premium Pièces Autos",
+    "adresse_pj": "4 rue Courtois 59000 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59000",
+    "url_pj": "",
+    "match_score": 0.664,
+    "enrichi": true
   },
   {
     "nom": "ADRIEN GOETGHELUCK",
@@ -9141,7 +10581,15 @@
     "effectif": "12",
     "categorie": "carrossier",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 20 09 34 44",
+    "site_web": "",
+    "nom_pj": "Etablissements Marandin SAS",
+    "adresse_pj": "320 rue Bourreliers 59320 Hallennes lez Haubourdin",
+    "ville_pj": "Hallennes lez Haubourdin",
+    "code_postal_pj": "59320",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00395844&code_localite=Z05935000&code_rubrique=388500",
+    "match_score": 1.241,
+    "enrichi": true
   },
   {
     "nom": "SEBASTIEN LEGRIS (KIX NET SERVICES)",
@@ -9189,7 +10637,15 @@
     "effectif": "11",
     "categorie": "moto",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 20 97 77 24",
+    "site_web": "",
+    "nom_pj": "Day Moto",
+    "adresse_pj": "Zac De L'epinette 318 rue Industrie 59113 Seclin",
+    "ville_pj": "Seclin",
+    "code_postal_pj": "59113",
+    "url_pj": "",
+    "match_score": 0.682,
+    "enrichi": true
   },
   {
     "nom": "POOL SARL",
@@ -9253,7 +10709,15 @@
     "effectif": "11",
     "categorie": "moto",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 28 77 77 28",
+    "site_web": "",
+    "nom_pj": "Boxer Evasion",
+    "adresse_pj": "1 rue Faubourg d'Arras 59000 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59000",
+    "url_pj": "",
+    "match_score": 1.031,
+    "enrichi": true
   },
   {
     "nom": "DE DONCKER MOTOS",
@@ -9269,7 +10733,15 @@
     "effectif": "11",
     "categorie": "moto",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 20 06 63 53",
+    "site_web": "",
+    "nom_pj": "De Doncker Motos",
+    "adresse_pj": "Zac De L'epinette rue Artisanat 59113 Seclin",
+    "ville_pj": "Seclin",
+    "code_postal_pj": "59113",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00395500&code_localite=Z05935000&code_rubrique=259510",
+    "match_score": 1.253,
+    "enrichi": true
   },
   {
     "nom": "BRH MOTOS PLUS",
@@ -9317,7 +10789,15 @@
     "effectif": "NN",
     "categorie": "moto",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 28 77 87 78",
+    "site_web": "",
+    "nom_pj": "Le Village du MotardConnu sous : MOTO 3000",
+    "adresse_pj": "1 rue Jules Verne 59790 Ronchin",
+    "ville_pj": "Ronchin",
+    "code_postal_pj": "59790",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=51947178&code_localite=Z05935000&code_rubrique=259510",
+    "match_score": 0.913,
+    "enrichi": true
   },
   {
     "nom": "ACCESS LAND",
@@ -9349,7 +10829,15 @@
     "effectif": "03",
     "categorie": "moto",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 20 65 30 30",
+    "site_web": "",
+    "nom_pj": "Lys Moto",
+    "adresse_pj": "1 rue Jean Jaurès 59390 Lys Lez Lannoy",
+    "ville_pj": "Lys Lez Lannoy",
+    "code_postal_pj": "59390",
+    "url_pj": "",
+    "match_score": 1.278,
+    "enrichi": true
   },
   {
     "nom": "ROBLIN",
@@ -9381,7 +10869,15 @@
     "effectif": "01",
     "categorie": "moto",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 20 65 30 30",
+    "site_web": "",
+    "nom_pj": "Lys Moto",
+    "adresse_pj": "1 rue Jean Jaurès 59390 Lys Lez Lannoy",
+    "ville_pj": "Lys Lez Lannoy",
+    "code_postal_pj": "59390",
+    "url_pj": "",
+    "match_score": 0.654,
+    "enrichi": true
   },
   {
     "nom": "AVENIR MOTO (TRIUMPH LILLE)",
@@ -9397,7 +10893,15 @@
     "effectif": "11",
     "categorie": "moto",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 28 77 77 19",
+    "site_web": "",
+    "nom_pj": "Triumph Lille Avenir Moto",
+    "adresse_pj": "220 rue Artisanat 59113 Seclin",
+    "ville_pj": "Seclin",
+    "code_postal_pj": "59113",
+    "url_pj": "",
+    "match_score": 0.997,
+    "enrichi": true
   },
   {
     "nom": "NORTH PROJECT",
@@ -9413,7 +10917,15 @@
     "effectif": "11",
     "categorie": "moto",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 20 58 15 40",
+    "site_web": "",
+    "nom_pj": "Norauto",
+    "adresse_pj": "Zac De L'epinette rue Industrie 59113 Seclin",
+    "ville_pj": "Seclin",
+    "code_postal_pj": "59113",
+    "url_pj": "",
+    "match_score": 0.687,
+    "enrichi": true
   },
   {
     "nom": "ON TRAKC (ON TRACK)",
@@ -9461,7 +10973,15 @@
     "effectif": "02",
     "categorie": "moto",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 66 19 15 60",
+    "site_web": "",
+    "nom_pj": "MT Moto",
+    "adresse_pj": "15 rue Gustave Delory 59800 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59800",
+    "url_pj": "",
+    "match_score": 1.279,
+    "enrichi": true
   },
   {
     "nom": "MASTEREX (MASTEREX)",
@@ -9493,7 +11013,15 @@
     "effectif": "02",
     "categorie": "moto",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 61 97 95 50",
+    "site_web": "",
+    "nom_pj": "TOP MOBILITE",
+    "adresse_pj": "82 rue Artois 59000 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59000",
+    "url_pj": "",
+    "match_score": 1.29,
+    "enrichi": true
   },
   {
     "nom": "ROULE NORDISTE",
@@ -9621,6 +11149,14 @@
     "effectif": "NN",
     "categorie": "moto",
     "zone_recherche": "Lille",
-    "enrichi": false
+    "telephone": "03 61 97 95 50",
+    "site_web": "",
+    "nom_pj": "TOP MOBILITE",
+    "adresse_pj": "82 rue Artois 59000 Lille",
+    "ville_pj": "Lille",
+    "code_postal_pj": "59000",
+    "url_pj": "",
+    "match_score": 0.719,
+    "enrichi": true
   }
 ]
