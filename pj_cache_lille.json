@@ -1,0 +1,868 @@
+{
+  "cat_garage automobile": [
+    {
+      "nom_pj": "Garage Burgana Peugeot-Citroën Concessionnaire",
+      "adresse_pj": "48 avenue République 33380 Mios",
+      "code_postal_pj": "33380",
+      "ville_pj": "Mios",
+      "telephone": "05 57 17 02 12",
+      "search_category": "garage automobile"
+    },
+    {
+      "nom_pj": "Bull Car Auto",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=62329871&code_localite=L03324650&code_rubrique=061240",
+      "adresse_pj": "2 allée Caussat 33380 Mios",
+      "code_postal_pj": "33380",
+      "ville_pj": "Mios",
+      "telephone": "06 10 57 18 28",
+      "search_category": "garage automobile"
+    },
+    {
+      "nom_pj": "CARGLASS Pare-Brise Biganos",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=53987040&code_localite=L03324650&code_rubrique=388310",
+      "adresse_pj": "196 avenue Côte d'Argent 33380 Biganos",
+      "code_postal_pj": "33380",
+      "ville_pj": "Biganos",
+      "telephone": "09 77 40 19 20",
+      "search_category": "garage automobile"
+    },
+    {
+      "nom_pj": "Renault Dacia Cote d'Argent Concessionnaire",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=09112887&code_localite=L03324650&code_rubrique=061240",
+      "adresse_pj": "32 rue Fonderies 33380 Biganos",
+      "code_postal_pj": "33380",
+      "ville_pj": "Biganos",
+      "telephone": "05 57 17 17 17",
+      "search_category": "garage automobile"
+    },
+    {
+      "nom_pj": "LEYR'AUTOS",
+      "adresse_pj": "59 avenue République 33380 Mios",
+      "code_postal_pj": "33380",
+      "ville_pj": "Mios",
+      "telephone": "05 64 31 16 00",
+      "search_category": "garage automobile"
+    },
+    {
+      "nom_pj": "Carrosserie Biganos",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=08242760&code_localite=L03324650&code_rubrique=388310",
+      "adresse_pj": "528 rue Gustave Eiffel 33380 Biganos",
+      "code_postal_pj": "33380",
+      "ville_pj": "Biganos",
+      "telephone": "05 56 82 70 05",
+      "search_category": "garage automobile"
+    },
+    {
+      "nom_pj": "CONTROLE BIGANOS AUTO",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=56453951&code_localite=L03324650&code_rubrique=388310",
+      "adresse_pj": "bât 7c 164 avenue Côte d'Argent 33380 Biganos",
+      "code_postal_pj": "33380",
+      "ville_pj": "Biganos",
+      "telephone": "05 57 17 37 35",
+      "search_category": "garage automobile"
+    },
+    {
+      "nom_pj": "Serva",
+      "adresse_pj": "215 avenue Côte d'Argent 33380 Biganos",
+      "code_postal_pj": "33380",
+      "ville_pj": "Biganos",
+      "telephone": "05 56 26 76 27",
+      "search_category": "garage automobile"
+    },
+    {
+      "nom_pj": "MONDIAL PARE BRISE",
+      "adresse_pj": "371 Quinquies rue Gustave Eiffel 33380 Biganos",
+      "code_postal_pj": "33380",
+      "ville_pj": "Biganos",
+      "telephone": "05 56 03 49 82",
+      "site_web": "https://www.mondialparebrise.fr/priserdvmpb.asp",
+      "search_category": "garage automobile"
+    },
+    {
+      "nom_pj": "ADS 33",
+      "adresse_pj": "C 10 chemin Hardit 33380 Mios",
+      "code_postal_pj": "33380",
+      "ville_pj": "Mios",
+      "telephone": "06 17 15 54 62",
+      "search_category": "garage automobile"
+    },
+    {
+      "nom_pj": "Cimm-Bdx",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=55739902&code_localite=L03324650&code_rubrique=061800",
+      "adresse_pj": "238 avenue Côte d'Argent 33380 Biganos",
+      "code_postal_pj": "33380",
+      "ville_pj": "Biganos",
+      "telephone": "05 57 18 35 98",
+      "search_category": "garage automobile"
+    },
+    {
+      "nom_pj": "Garage Delphin Garcia",
+      "adresse_pj": "81 avenue Libération 33380 Mios",
+      "code_postal_pj": "33380",
+      "ville_pj": "Mios",
+      "telephone": "05 56 26 47 81",
+      "search_category": "garage automobile"
+    },
+    {
+      "nom_pj": "Garage de la Côte d'Argent",
+      "adresse_pj": "46 avenue Côte d'Argent 33380 Biganos",
+      "code_postal_pj": "33380",
+      "ville_pj": "Biganos",
+      "telephone": "0960000473",
+      "search_category": "garage automobile"
+    },
+    {
+      "nom_pj": "SH AUTO 33",
+      "adresse_pj": "35 E route Douils 33380 Mios",
+      "code_postal_pj": "33380",
+      "ville_pj": "Mios",
+      "telephone": "05 56 33 37 27",
+      "search_category": "garage automobile"
+    },
+    {
+      "nom_pj": "Garage Feeling Auto",
+      "adresse_pj": "220 avenue Côte d'Argent 33380 Biganos",
+      "code_postal_pj": "33380",
+      "ville_pj": "Biganos",
+      "telephone": "05 56 82 74 34",
+      "search_category": "garage automobile"
+    },
+    {
+      "nom_pj": "Sud Ouest 4 X 4",
+      "adresse_pj": "120 rue Joseph Marie Jacquard 33380 Biganos",
+      "code_postal_pj": "33380",
+      "ville_pj": "Biganos",
+      "telephone": "05 57 70 60 40",
+      "search_category": "garage automobile"
+    },
+    {
+      "nom_pj": "La vente Automobile Biganos",
+      "adresse_pj": "258 avenue Côte d'Argent 33380 Biganos",
+      "code_postal_pj": "33380",
+      "ville_pj": "Biganos",
+      "telephone": "05 57 70 58 87",
+      "search_category": "garage automobile"
+    },
+    {
+      "nom_pj": "GAETAN MECANIQUE AUTO",
+      "adresse_pj": "chemin Rouberts 33380 Mios",
+      "code_postal_pj": "33380",
+      "ville_pj": "Mios",
+      "telephone": "06 50 47 06 51",
+      "search_category": "garage automobile"
+    },
+    {
+      "nom_pj": "Renault Mobility",
+      "adresse_pj": "Centre Commercial Auchan 32 rue Fonderies 33380 Biganos",
+      "code_postal_pj": "33380",
+      "ville_pj": "Biganos",
+      "telephone": "05 57 17 17 17",
+      "search_category": "garage automobile"
+    },
+    {
+      "nom_pj": "Garage Mecartech",
+      "adresse_pj": "2 Bis rue Gustave Eiffel 33380 Mios",
+      "code_postal_pj": "33380",
+      "ville_pj": "Mios",
+      "telephone": "06 22 24 05 61",
+      "search_category": "garage automobile"
+    },
+    {
+      "nom_pj": "Dacia  - Côte D'Argent Concessionnaire",
+      "adresse_pj": "Centre Commercial Auchan 32 rue Fonderies 33380 Biganos",
+      "code_postal_pj": "33380",
+      "ville_pj": "Biganos",
+      "telephone": "05 57 17 17 17",
+      "search_category": "garage automobile"
+    },
+    {
+      "nom_pj": "Garage car Factory Service",
+      "adresse_pj": "63 rue 4 Routes 33380 Mios",
+      "code_postal_pj": "33380",
+      "ville_pj": "Mios",
+      "telephone": "07 80 83 93 54",
+      "search_category": "garage automobile"
+    },
+    {
+      "nom_pj": "Garage Marcheprime -Neveu Jacques",
+      "adresse_pj": "19 ALLEE REGANEAU 26 avenue Aquitaine 33380 Marcheprime",
+      "code_postal_pj": "33380",
+      "ville_pj": "Marcheprime",
+      "telephone": "0525980000",
+      "search_category": "garage automobile"
+    },
+    {
+      "nom_pj": "Garage Millot",
+      "adresse_pj": "108 avenue Bordeaux 33510 Andernos les Bains",
+      "code_postal_pj": "33510",
+      "ville_pj": "Andernos les Bains",
+      "telephone": "05 56 82 13 05",
+      "search_category": "garage automobile"
+    },
+    {
+      "nom_pj": "Garage Bordelais",
+      "adresse_pj": "970 route Douc 40410 Liposthey",
+      "code_postal_pj": "40410",
+      "ville_pj": "Liposthey",
+      "telephone": "05 58 82 30 27",
+      "search_category": "garage automobile"
+    },
+    {
+      "nom_pj": "CARGLASS Pare-Brise Pessac",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=63110855&code_localite=L03324650&code_rubrique=388310",
+      "adresse_pj": "88 avenue Jean Jaurès 33600 Pessac",
+      "code_postal_pj": "33600",
+      "ville_pj": "Pessac",
+      "telephone": "09 77 40 19 20",
+      "search_category": "garage automobile"
+    },
+    {
+      "nom_pj": "CARGLASS Pare-Brise Merignac",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=07678714&code_localite=L03324650&code_rubrique=388310",
+      "adresse_pj": "12 avenue Somme 33700 Mérignac",
+      "code_postal_pj": "33700",
+      "ville_pj": "Mérignac",
+      "telephone": "09 77 40 19 20",
+      "search_category": "garage automobile"
+    },
+    {
+      "nom_pj": "CARGLASS Pare-Brise Le Haillan",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=57091722&code_localite=L03324650&code_rubrique=388310",
+      "adresse_pj": "Rond Point des 5 Chemins 5 avenue Magudas 33185 Le Haillan",
+      "code_postal_pj": "33185",
+      "ville_pj": "Le Haillan",
+      "telephone": "09 77 40 19 20",
+      "search_category": "garage automobile"
+    },
+    {
+      "nom_pj": "CARGLASS Pare-Brise Begles",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=06021729&code_localite=L03324650&code_rubrique=388310",
+      "adresse_pj": "13 rue Du Lugan 33130 Bègles",
+      "code_postal_pj": "33130",
+      "ville_pj": "Bègles",
+      "telephone": "09 77 40 19 20",
+      "search_category": "garage automobile"
+    },
+    {
+      "nom_pj": "CARGLASS Pare-Brise Latresne",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=64033823&code_localite=L03324650&code_rubrique=388310",
+      "adresse_pj": "Zone d'activités Lartigot zone industrielle Artigot 33360 Latresne",
+      "code_postal_pj": "33360",
+      "ville_pj": "Latresne",
+      "telephone": "09 77 40 19 20",
+      "search_category": "garage automobile"
+    },
+    {
+      "nom_pj": "CARGLASS Pare-Brise Bordeaux",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=56250237&code_localite=L03324650&code_rubrique=388310",
+      "adresse_pj": "116 quai Souys 33100 Bordeaux",
+      "code_postal_pj": "33100",
+      "ville_pj": "Bordeaux",
+      "telephone": "09 77 40 19 20",
+      "search_category": "garage automobile"
+    },
+    {
+      "nom_pj": "CARGLASS Pare-Brise Bordeaux",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=07430654&code_localite=L03324650&code_rubrique=388310",
+      "adresse_pj": "Angle Boulevard Alfred Daney 1 rue Bougainville 33300 Bordeaux",
+      "code_postal_pj": "33300",
+      "ville_pj": "Bordeaux",
+      "telephone": "09 77 40 19 20",
+      "search_category": "garage automobile"
+    },
+    {
+      "nom_pj": "CARGLASS Pare-Brise Bordeaux",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=58457136&code_localite=L03324650&code_rubrique=388310",
+      "adresse_pj": "avenue Quarante Journaux 33300 Bordeaux",
+      "code_postal_pj": "33300",
+      "ville_pj": "Bordeaux",
+      "telephone": "09 77 40 19 20",
+      "search_category": "garage automobile"
+    },
+    {
+      "nom_pj": "CARGLASS Pare-Brise Lormont",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=06022280&code_localite=L03324650&code_rubrique=388310",
+      "adresse_pj": "ZA La Gardette rue Cantelaudette 33310 Lormont",
+      "code_postal_pj": "33310",
+      "ville_pj": "Lormont",
+      "telephone": "09 77 40 19 20",
+      "search_category": "garage automobile"
+    },
+    {
+      "nom_pj": "CARGLASS Pare-Brise Langon",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=55465317&code_localite=L03324650&code_rubrique=388310",
+      "adresse_pj": "16 route Bordeaux 33210 Langon",
+      "code_postal_pj": "33210",
+      "ville_pj": "Langon",
+      "telephone": "09 77 40 19 20",
+      "search_category": "garage automobile"
+    },
+    {
+      "nom_pj": "Ets Gachet",
+      "adresse_pj": "12 rue Condorcet 33210 Langon",
+      "code_postal_pj": "33210",
+      "ville_pj": "Langon",
+      "telephone": "05 56 63 13 44",
+      "search_category": "garage automobile"
+    },
+    {
+      "nom_pj": "CARGLASS Pare-Brise St Andre de Cubzac",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=55400137&code_localite=L03324650&code_rubrique=388310",
+      "adresse_pj": "ZAC de la Garosse - Lieu dit Peyrot 175 rue Droits de l'Homme 33240 Saint André de Cubzac",
+      "code_postal_pj": "33240",
+      "ville_pj": "Saint André de Cubzac",
+      "telephone": "09 77 40 19 20",
+      "search_category": "garage automobile"
+    },
+    {
+      "nom_pj": "CARGLASS Pare-Brise Libourne",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=06021613&code_localite=L03324650&code_rubrique=388310",
+      "adresse_pj": "153 avenue Gén de Gaulle 33500 Libourne",
+      "code_postal_pj": "33500",
+      "ville_pj": "Libourne",
+      "telephone": "09 77 40 19 20",
+      "search_category": "garage automobile"
+    },
+    {
+      "nom_pj": "CARGLASS Pare-Brise Lesparre Medoc",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=54733093&code_localite=L03324650&code_rubrique=388310",
+      "adresse_pj": "61 cours Gén de Gaulle 33340 Lesparre Médoc",
+      "code_postal_pj": "33340",
+      "ville_pj": "Lesparre Médoc",
+      "telephone": "09 77 40 19 20",
+      "search_category": "garage automobile"
+    },
+    {
+      "nom_pj": "Soubzmaigne Port St Foy Centre Point S",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=04553063&code_localite=L03324650&code_rubrique=388310",
+      "adresse_pj": "zone artisanale Grand Pont Ouest 33220 Port Sainte Foy et Ponchapt",
+      "code_postal_pj": "33220",
+      "ville_pj": "Port Sainte Foy et Ponchapt",
+      "telephone": "05 53 24 76 00",
+      "search_category": "garage automobile"
+    },
+    {
+      "nom_pj": "Auto Pièce Burguière",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00417265&code_localite=L03324650&code_rubrique=061800",
+      "adresse_pj": "Za Peyrolebade Rte De Millau lieu-dit Glebes 12500 Espalion",
+      "code_postal_pj": "12500",
+      "ville_pj": "Espalion",
+      "telephone": "05 65 48 19 32",
+      "search_category": "garage automobile"
+    },
+    {
+      "nom_pj": "Palfinger Service ACI Le Barp",
+      "adresse_pj": "Zae Eyrialis 7 rue Guy Pellerin 33114 Le Barp",
+      "code_postal_pj": "33114",
+      "ville_pj": "Le Barp",
+      "telephone": "05 56 88 63 25",
+      "search_category": "garage automobile"
+    },
+    {
+      "nom_pj": "Nanni Industries",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=03768896&code_localite=L03324650&code_rubrique=131900",
+      "adresse_pj": "Zone Industrielle Bp 107 11 avenue Abbé Edmé Mariotte 33260 La Teste de Buch",
+      "code_postal_pj": "33260",
+      "ville_pj": "La Teste de Buch",
+      "telephone": "05 56 22 30 60",
+      "search_category": "garage automobile"
+    },
+    {
+      "nom_pj": "Autobahn",
+      "adresse_pj": "51 Bis avenue Gén Leclerc 33260 La Teste de Buch",
+      "code_postal_pj": "33260",
+      "ville_pj": "La Teste de Buch",
+      "search_category": "garage automobile"
+    }
+  ],
+  "cat_concession automobile": [
+    {
+      "nom_pj": "Garage Burgana Peugeot-Citroën Concessionnaire",
+      "adresse_pj": "48 avenue République 33380 Mios",
+      "code_postal_pj": "33380",
+      "ville_pj": "Mios",
+      "telephone": "05 57 17 02 12",
+      "search_category": "concession automobile"
+    },
+    {
+      "nom_pj": "Bull Car Auto",
+      "adresse_pj": "2 allée Caussat 33380 Mios",
+      "code_postal_pj": "33380",
+      "ville_pj": "Mios",
+      "telephone": "06 10 57 18 28",
+      "search_category": "concession automobile"
+    },
+    {
+      "nom_pj": "Renault Dacia Cote d'Argent Concessionnaire",
+      "adresse_pj": "32 rue Fonderies 33380 Biganos",
+      "code_postal_pj": "33380",
+      "ville_pj": "Biganos",
+      "telephone": "05 57 17 17 17",
+      "search_category": "concession automobile"
+    },
+    {
+      "nom_pj": "SH AUTO 33",
+      "adresse_pj": "35 E route Douils 33380 Mios",
+      "code_postal_pj": "33380",
+      "ville_pj": "Mios",
+      "telephone": "05 56 33 37 27",
+      "search_category": "concession automobile"
+    },
+    {
+      "nom_pj": "Renault Mobility",
+      "adresse_pj": "Centre Commercial Auchan 32 rue Fonderies 33380 Biganos",
+      "code_postal_pj": "33380",
+      "ville_pj": "Biganos",
+      "telephone": "05 57 17 17 17",
+      "search_category": "concession automobile"
+    },
+    {
+      "nom_pj": "Serva",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=06666590&code_localite=L03324650&code_rubrique=061240",
+      "adresse_pj": "215 avenue Côte d'Argent 33380 Biganos",
+      "code_postal_pj": "33380",
+      "ville_pj": "Biganos",
+      "telephone": "05 56 26 76 27",
+      "search_category": "concession automobile"
+    },
+    {
+      "nom_pj": "Sud Ouest 4 X 4",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=08690652&code_localite=L03324650&code_rubrique=061240",
+      "adresse_pj": "120 rue Joseph Marie Jacquard 33380 Biganos",
+      "code_postal_pj": "33380",
+      "ville_pj": "Biganos",
+      "telephone": "05 57 70 60 40",
+      "search_category": "concession automobile"
+    },
+    {
+      "nom_pj": "Garage Feeling Auto",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00680686&code_localite=L03324650&code_rubrique=061240",
+      "adresse_pj": "220 avenue Côte d'Argent 33380 Biganos",
+      "code_postal_pj": "33380",
+      "ville_pj": "Biganos",
+      "telephone": "05 56 82 74 34",
+      "search_category": "concession automobile"
+    },
+    {
+      "nom_pj": "La vente Automobile Biganos",
+      "adresse_pj": "258 avenue Côte d'Argent 33380 Biganos",
+      "code_postal_pj": "33380",
+      "ville_pj": "Biganos",
+      "telephone": "05 57 70 58 87",
+      "search_category": "concession automobile"
+    },
+    {
+      "nom_pj": "Dacia  - Côte D'Argent Concessionnaire",
+      "adresse_pj": "Centre Commercial Auchan 32 rue Fonderies 33380 Biganos",
+      "code_postal_pj": "33380",
+      "ville_pj": "Biganos",
+      "telephone": "05 57 17 17 17",
+      "search_category": "concession automobile"
+    }
+  ],
+  "cat_carrosserie automobile": [
+    {
+      "nom_pj": "LEYR'AUTOS",
+      "adresse_pj": "59 avenue République 33380 Mios",
+      "code_postal_pj": "33380",
+      "ville_pj": "Mios",
+      "telephone": "05 64 31 16 00",
+      "search_category": "carrosserie automobile"
+    },
+    {
+      "nom_pj": "Garage Millot",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00314556&code_localite=L03324650&code_rubrique=388310",
+      "adresse_pj": "108 avenue Bordeaux 33510 Andernos les Bains",
+      "code_postal_pj": "33510",
+      "ville_pj": "Andernos les Bains",
+      "telephone": "05 56 82 13 05",
+      "site_web": "https://www.garagemillot.fr/",
+      "search_category": "carrosserie automobile"
+    },
+    {
+      "nom_pj": "CARGLASS Pare-Brise Biganos",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=53987040&code_localite=L03324650&code_rubrique=388310",
+      "adresse_pj": "196 avenue Côte d'Argent 33380 Biganos",
+      "code_postal_pj": "33380",
+      "ville_pj": "Biganos",
+      "telephone": "09 77 40 19 20",
+      "search_category": "carrosserie automobile"
+    },
+    {
+      "nom_pj": "Bull Car Auto",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=62329871&code_localite=L03324650&code_rubrique=388310",
+      "adresse_pj": "2 allée Caussat 33380 Mios",
+      "code_postal_pj": "33380",
+      "ville_pj": "Mios",
+      "telephone": "06 10 57 18 28",
+      "search_category": "carrosserie automobile"
+    },
+    {
+      "nom_pj": "Multi Boites Services",
+      "adresse_pj": "rue Masquet 33380 Mios",
+      "code_postal_pj": "33380",
+      "ville_pj": "Mios",
+      "telephone": "05 56 03 01 72",
+      "search_category": "carrosserie automobile"
+    },
+    {
+      "nom_pj": "MONDIAL PARE BRISE",
+      "adresse_pj": "371 Quinquies rue Gustave Eiffel 33380 Biganos",
+      "code_postal_pj": "33380",
+      "ville_pj": "Biganos",
+      "telephone": "05 56 03 49 82",
+      "site_web": "https://www.mondialparebrise.fr/priserdvmpb.asp",
+      "search_category": "carrosserie automobile"
+    },
+    {
+      "nom_pj": "Garage Delphin Garcia",
+      "adresse_pj": "81 avenue Libération 33380 Mios",
+      "code_postal_pj": "33380",
+      "ville_pj": "Mios",
+      "telephone": "05 56 26 47 81",
+      "search_category": "carrosserie automobile"
+    },
+    {
+      "nom_pj": "ADS 33",
+      "adresse_pj": "C 10 chemin Hardit 33380 Mios",
+      "code_postal_pj": "33380",
+      "ville_pj": "Mios",
+      "telephone": "06 17 15 54 62",
+      "search_category": "carrosserie automobile"
+    },
+    {
+      "nom_pj": "Garage Mecartech",
+      "adresse_pj": "2 Bis rue Gustave Eiffel 33380 Mios",
+      "code_postal_pj": "33380",
+      "ville_pj": "Mios",
+      "telephone": "06 22 24 05 61",
+      "search_category": "carrosserie automobile"
+    },
+    {
+      "nom_pj": "GAETAN MECANIQUE AUTO",
+      "adresse_pj": "chemin Rouberts 33380 Mios",
+      "code_postal_pj": "33380",
+      "ville_pj": "Mios",
+      "telephone": "06 50 47 06 51",
+      "search_category": "carrosserie automobile"
+    },
+    {
+      "nom_pj": "Garage car Factory Service",
+      "adresse_pj": "63 rue 4 Routes 33380 Mios",
+      "code_postal_pj": "33380",
+      "ville_pj": "Mios",
+      "telephone": "07 80 83 93 54",
+      "search_category": "carrosserie automobile"
+    },
+    {
+      "nom_pj": "Garage Marcheprime -Neveu Jacques",
+      "adresse_pj": "19 ALLEE REGANEAU 26 avenue Aquitaine 33380 Marcheprime",
+      "code_postal_pj": "33380",
+      "ville_pj": "Marcheprime",
+      "telephone": "0525980000",
+      "search_category": "carrosserie automobile"
+    },
+    {
+      "nom_pj": "Garage Bordelais",
+      "adresse_pj": "970 route Douc 40410 Liposthey",
+      "code_postal_pj": "40410",
+      "ville_pj": "Liposthey",
+      "telephone": "05 58 82 30 27",
+      "search_category": "carrosserie automobile"
+    },
+    {
+      "nom_pj": "Casse Auto Liposthey",
+      "adresse_pj": "971 route Douc 40410 Liposthey",
+      "code_postal_pj": "40410",
+      "ville_pj": "Liposthey",
+      "telephone": "06 72 35 93 58",
+      "search_category": "carrosserie automobile"
+    },
+    {
+      "nom_pj": "CARGLASS Pare-Brise Merignac",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=07678714&code_localite=L03324650&code_rubrique=388310",
+      "adresse_pj": "12 avenue Somme 33700 Mérignac",
+      "code_postal_pj": "33700",
+      "ville_pj": "Mérignac",
+      "telephone": "09 77 40 19 20",
+      "search_category": "carrosserie automobile"
+    },
+    {
+      "nom_pj": "CARGLASS Pare-Brise Pessac",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=63110855&code_localite=L03324650&code_rubrique=388310",
+      "adresse_pj": "88 avenue Jean Jaurès 33600 Pessac",
+      "code_postal_pj": "33600",
+      "ville_pj": "Pessac",
+      "telephone": "09 77 40 19 20",
+      "search_category": "carrosserie automobile"
+    },
+    {
+      "nom_pj": "CARGLASS Pare-Brise Le Haillan",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=57091722&code_localite=L03324650&code_rubrique=388310",
+      "adresse_pj": "Rond Point des 5 Chemins 5 avenue Magudas 33185 Le Haillan",
+      "code_postal_pj": "33185",
+      "ville_pj": "Le Haillan",
+      "telephone": "09 77 40 19 20",
+      "search_category": "carrosserie automobile"
+    },
+    {
+      "nom_pj": "CARGLASS Pare-Brise Begles",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=06021729&code_localite=L03324650&code_rubrique=388310",
+      "adresse_pj": "13 rue Du Lugan 33130 Bègles",
+      "code_postal_pj": "33130",
+      "ville_pj": "Bègles",
+      "telephone": "09 77 40 19 20",
+      "search_category": "carrosserie automobile"
+    },
+    {
+      "nom_pj": "CARGLASS Pare-Brise Latresne",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=64033823&code_localite=L03324650&code_rubrique=388310",
+      "adresse_pj": "Zone d'activités Lartigot zone industrielle Artigot 33360 Latresne",
+      "code_postal_pj": "33360",
+      "ville_pj": "Latresne",
+      "telephone": "09 77 40 19 20",
+      "search_category": "carrosserie automobile"
+    },
+    {
+      "nom_pj": "CARGLASS Pare-Brise Bordeaux",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=56250237&code_localite=L03324650&code_rubrique=388310",
+      "adresse_pj": "116 quai Souys 33100 Bordeaux",
+      "code_postal_pj": "33100",
+      "ville_pj": "Bordeaux",
+      "telephone": "09 77 40 19 20",
+      "search_category": "carrosserie automobile"
+    },
+    {
+      "nom_pj": "CARGLASS Pare-Brise Bordeaux",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=58457136&code_localite=L03324650&code_rubrique=388310",
+      "adresse_pj": "avenue Quarante Journaux 33300 Bordeaux",
+      "code_postal_pj": "33300",
+      "ville_pj": "Bordeaux",
+      "telephone": "09 77 40 19 20",
+      "search_category": "carrosserie automobile"
+    },
+    {
+      "nom_pj": "CARGLASS Pare-Brise Bordeaux",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=07430654&code_localite=L03324650&code_rubrique=388310",
+      "adresse_pj": "Angle Boulevard Alfred Daney 1 rue Bougainville 33300 Bordeaux",
+      "code_postal_pj": "33300",
+      "ville_pj": "Bordeaux",
+      "telephone": "09 77 40 19 20",
+      "search_category": "carrosserie automobile"
+    },
+    {
+      "nom_pj": "CARGLASS Pare-Brise Lormont",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=06022280&code_localite=L03324650&code_rubrique=388310",
+      "adresse_pj": "ZA La Gardette rue Cantelaudette 33310 Lormont",
+      "code_postal_pj": "33310",
+      "ville_pj": "Lormont",
+      "telephone": "09 77 40 19 20",
+      "search_category": "carrosserie automobile"
+    },
+    {
+      "nom_pj": "CARGLASS Pare-Brise Langon",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=55465317&code_localite=L03324650&code_rubrique=388310",
+      "adresse_pj": "16 route Bordeaux 33210 Langon",
+      "code_postal_pj": "33210",
+      "ville_pj": "Langon",
+      "telephone": "09 77 40 19 20",
+      "search_category": "carrosserie automobile"
+    },
+    {
+      "nom_pj": "Ets Gachet",
+      "adresse_pj": "12 rue Condorcet 33210 Langon",
+      "code_postal_pj": "33210",
+      "ville_pj": "Langon",
+      "telephone": "05 56 63 13 44",
+      "search_category": "carrosserie automobile"
+    },
+    {
+      "nom_pj": "CARGLASS Pare-Brise St Andre de Cubzac",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=55400137&code_localite=L03324650&code_rubrique=388310",
+      "adresse_pj": "ZAC de la Garosse - Lieu dit Peyrot 175 rue Droits de l'Homme 33240 Saint André de Cubzac",
+      "code_postal_pj": "33240",
+      "ville_pj": "Saint André de Cubzac",
+      "telephone": "09 77 40 19 20",
+      "search_category": "carrosserie automobile"
+    },
+    {
+      "nom_pj": "CARGLASS Pare-Brise Libourne",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=06021613&code_localite=L03324650&code_rubrique=388310",
+      "adresse_pj": "153 avenue Gén de Gaulle 33500 Libourne",
+      "code_postal_pj": "33500",
+      "ville_pj": "Libourne",
+      "telephone": "09 77 40 19 20",
+      "search_category": "carrosserie automobile"
+    },
+    {
+      "nom_pj": "CARGLASS Pare-Brise Lesparre Medoc",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=54733093&code_localite=L03324650&code_rubrique=388310",
+      "adresse_pj": "61 cours Gén de Gaulle 33340 Lesparre Médoc",
+      "code_postal_pj": "33340",
+      "ville_pj": "Lesparre Médoc",
+      "telephone": "09 77 40 19 20",
+      "search_category": "carrosserie automobile"
+    },
+    {
+      "nom_pj": "Soubzmaigne Port St Foy Centre Point S",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=04553063&code_localite=L03324650&code_rubrique=388310",
+      "adresse_pj": "zone artisanale Grand Pont Ouest 33220 Port Sainte Foy et Ponchapt",
+      "code_postal_pj": "33220",
+      "ville_pj": "Port Sainte Foy et Ponchapt",
+      "telephone": "05 53 24 76 00",
+      "search_category": "carrosserie automobile"
+    },
+    {
+      "nom_pj": "Martin Seb Casse Poids Lourds",
+      "adresse_pj": "19 route Nieul 17250 Soulignonnes",
+      "code_postal_pj": "17250",
+      "ville_pj": "Soulignonnes",
+      "telephone": "05 46 93 90 06",
+      "search_category": "carrosserie automobile"
+    },
+    {
+      "nom_pj": "Récup Autos 24 SARL",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00704924&code_localite=L03324650&code_rubrique=025710",
+      "adresse_pj": "Rte Nationale 89 2 route Périgueux 24110 Montrem",
+      "code_postal_pj": "24110",
+      "ville_pj": "Montrem",
+      "telephone": "0430000008",
+      "site_web": "https://www.recupauto24.fr/",
+      "search_category": "carrosserie automobile"
+    },
+    {
+      "nom_pj": "Auto Pièce Burguière",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00417265&code_localite=L03324650&code_rubrique=025710",
+      "adresse_pj": "Za Peyrolebade Rte De Millau lieu-dit Glebes 12500 Espalion",
+      "code_postal_pj": "12500",
+      "ville_pj": "Espalion",
+      "telephone": "05 65 48 19 32",
+      "search_category": "carrosserie automobile"
+    }
+  ],
+  "cat_concession moto": [
+    {
+      "nom_pj": "Titane Motor",
+      "adresse_pj": "23 allée Ferdinand de Lesseps 33470 Gujan Mestras",
+      "code_postal_pj": "33470",
+      "ville_pj": "Gujan Mestras",
+      "telephone": "0800000446",
+      "search_category": "concession moto"
+    },
+    {
+      "nom_pj": "Triumph BordeauxConnu sous : Moto Bordeaux",
+      "adresse_pj": "6 rue Gutenberg 33700 Mérignac",
+      "code_postal_pj": "33700",
+      "ville_pj": "Mérignac",
+      "telephone": "05 57 29 00 00",
+      "site_web": "https://www.triumphmotorcycles.fr/bikes/r%C3%A9servez-votre-essai",
+      "search_category": "concession moto"
+    },
+    {
+      "nom_pj": "Ducati BordeauxConnu sous : DUCATI ZR CONCESSIONNAIRE",
+      "adresse_pj": "6 rue Gutenberg 33700 Mérignac",
+      "code_postal_pj": "33700",
+      "ville_pj": "Mérignac",
+      "telephone": "05 57 29 00 01",
+      "search_category": "concession moto"
+    },
+    {
+      "nom_pj": "MOTO AXXE LIBOURNE",
+      "adresse_pj": "Za Des Dagueys 2 rue Firmin Didot 33500 Libourne",
+      "code_postal_pj": "33500",
+      "ville_pj": "Libourne",
+      "telephone": "05 57 51 56 03",
+      "search_category": "concession moto"
+    },
+    {
+      "nom_pj": "MX33",
+      "adresse_pj": "zone d'aménagement concerté Mios 2000 33380 Mios",
+      "code_postal_pj": "33380",
+      "ville_pj": "Mios",
+      "search_category": "concession moto"
+    },
+    {
+      "nom_pj": "Charles-Edouard Philippe",
+      "adresse_pj": "52 route Douils 33380 Mios",
+      "code_postal_pj": "33380",
+      "ville_pj": "Mios",
+      "telephone": "05 56 89 21 87",
+      "search_category": "concession moto"
+    },
+    {
+      "nom_pj": "R.G Motos Roland Garcia",
+      "adresse_pj": "10 avenue Libération Facture 33380 Biganos",
+      "code_postal_pj": "33380",
+      "ville_pj": "Biganos",
+      "telephone": "05 56 82 60 92",
+      "search_category": "concession moto"
+    },
+    {
+      "nom_pj": "All Wheel Motor",
+      "adresse_pj": "3 Bis allée Nay 33470 Gujan Mestras",
+      "code_postal_pj": "33470",
+      "ville_pj": "Gujan Mestras",
+      "telephone": "06 99 84 53 44",
+      "search_category": "concession moto"
+    }
+  ],
+  "cat_garage moto": [
+    {
+      "nom_pj": "MX33",
+      "adresse_pj": "zone d'aménagement concerté Mios 2000 33380 Mios",
+      "code_postal_pj": "33380",
+      "ville_pj": "Mios"
+    },
+    {
+      "nom_pj": "Charles-Edouard Philippe",
+      "adresse_pj": "52 route Douils 33380 Mios",
+      "code_postal_pj": "33380",
+      "ville_pj": "Mios",
+      "telephone": "05 56 89 21 87"
+    },
+    {
+      "nom_pj": "R.G Motos Roland Garcia",
+      "adresse_pj": "10 avenue Libération Facture 33380 Biganos",
+      "code_postal_pj": "33380",
+      "ville_pj": "Biganos",
+      "telephone": "05 56 82 60 92"
+    },
+    {
+      "nom_pj": "Titane Motor",
+      "adresse_pj": "23 allée Ferdinand de Lesseps 33470 Gujan Mestras",
+      "code_postal_pj": "33470",
+      "ville_pj": "Gujan Mestras",
+      "telephone": "0800000446"
+    },
+    {
+      "nom_pj": "All Wheel Motor",
+      "adresse_pj": "3 Bis allée Nay 33470 Gujan Mestras",
+      "code_postal_pj": "33470",
+      "ville_pj": "Gujan Mestras",
+      "telephone": "06 99 84 53 44"
+    },
+    {
+      "nom_pj": "Triumph Bordeaux",
+      "adresse_pj": "6 rue Gutenberg 33700 Mérignac",
+      "code_postal_pj": "33700",
+      "ville_pj": "Mérignac",
+      "telephone": "05 57 29 00 00",
+      "site_web": "https://www.triumphmotorcycles.fr/bikes/r%C3%A9servez-votre-essai"
+    },
+    {
+      "nom_pj": "Ducati Bordeaux",
+      "adresse_pj": "6 rue Gutenberg 33700 Mérignac",
+      "code_postal_pj": "33700",
+      "ville_pj": "Mérignac",
+      "telephone": "05 57 29 00 01"
+    },
+    {
+      "nom_pj": "MOTO AXXE LIBOURNE",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=50601072&code_localite=L03324650&code_rubrique=545800",
+      "adresse_pj": "Za Des Dagueys 2 rue Firmin Didot 33500 Libourne",
+      "code_postal_pj": "33500",
+      "ville_pj": "Libourne",
+      "telephone": "05 57 51 56 03"
+    }
+  ]
+}
