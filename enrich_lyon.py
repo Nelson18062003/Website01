@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """
-Enrichit les entreprises de split_lyon.json avec telephone, email, site_web
-en interrogeant societe.com via le SIREN.
+Enrichit les entreprises de split_lyon.json avec telephone, email, site_web.
+Sources: societe.com (via recherche SIREN), DuckDuckGo, Google.
+Usage: python3 enrich_lyon.py [--test]
 """
 
 import json
@@ -14,6 +15,7 @@ import ssl
 import os
 import sys
 import random
+import html as html_mod
 
 # ---------------------------------------------------------------------------
 # Config
@@ -21,9 +23,9 @@ import random
 INPUT_FILE  = "/home/user/Website01/split_lyon.json"
 OUTPUT_FILE = "/home/user/Website01/enriched_lyon.json"
 PROGRESS_FILE = "/home/user/Website01/enriched_lyon_progress.json"
-BATCH_SAVE  = 25          # save progress every N companies
-DELAY_MIN   = 1.0         # min delay between requests (seconds)
-DELAY_MAX   = 2.5         # max delay
+BATCH_SAVE  = 20          # save progress every N companies
+DELAY_MIN   = 1.2         # min delay between requests (seconds)
+DELAY_MAX   = 2.8         # max delay
 TEST_MODE   = False       # set True to only process 5 entries
 MAX_RETRIES = 2
 
@@ -32,10 +34,32 @@ ctx = ssl.create_default_context()
 ctx.check_hostname = False
 ctx.verify_mode = ssl.CERT_NONE
 
-HEADERS = {
-    "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:124.0) Gecko/20100101 Firefox/124.0",
-    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-    "Accept-Language": "fr-FR,fr;q=0.9,en;q=0.5",
+UA_LIST = [
+    "Mozilla/5.0 (X11; Linux x86_64; rv:124.0) Gecko/20100101 Firefox/124.0",
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36",
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2 Safari/605.1.15",
+    "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:123.0) Gecko/20100101 Firefox/123.0",
+]
+
+def get_headers():
+    return {
+        "User-Agent": random.choice(UA_LIST),
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "fr-FR,fr;q=0.9,en;q=0.5",
+    }
+
+# Domains to skip when looking for company websites
+SKIP_DOMAINS = {
+    "google.", "gstatic.", "googleapis.", "societe.com", "pagesjaunes.",
+    "annuaire.", "wikipedia.", "facebook.com", "linkedin.com", "twitter.com",
+    "youtube.com", "instagram.com", "yelp.", "tripadvisor.", "pappers.fr",
+    "verif.com", "manageo.fr", "infogreffe.", "bodacc.", "duckduckgo.com",
+    "bing.com", "kompass.", "europages.", "mappy.", "tiktok.com",
+    "data.gouv.fr", "score3.fr", "118000.", "118712.", "horaires.lefigaro.",
+    "apple.com/maps", "pinterest.", "reddit.com", "annuairefrancais.fr",
+    "annuaire-inverse", "justacote.", "starofservice.", "cylex.",
+    "hoodspot.", "infoisinfo.", "hotfrog.", "fr.kompass.", "telephone.city",
+    "local.infobel.", "pratique.fr", "allopneus.", "encontre-se.",
 }
 
 # ---------------------------------------------------------------------------
@@ -44,12 +68,11 @@ HEADERS = {
 
 def fetch_url(url, timeout=15):
     """Fetch URL content as string, return None on failure."""
-    req = urllib.request.Request(url, headers=HEADERS)
+    req = urllib.request.Request(url, headers=get_headers())
     for attempt in range(MAX_RETRIES):
         try:
             with urllib.request.urlopen(req, timeout=timeout, context=ctx) as resp:
                 raw = resp.read()
-                # try utf-8 first, fallback latin-1
                 try:
                     return raw.decode("utf-8")
                 except UnicodeDecodeError:
@@ -63,77 +86,123 @@ def fetch_url(url, timeout=15):
 
 
 def clean_phone(raw):
-    """Normalize a French phone number."""
+    """Normalize a French phone number to XX XX XX XX XX format."""
     if not raw:
         return ""
     digits = re.sub(r"[^\d+]", "", raw)
-    # French numbers: 10 digits starting with 0
-    if re.match(r"^0[1-9]\d{8}$", digits):
-        return " ".join([digits[i:i+2] for i in range(0, 10, 2)])
-    if re.match(r"^\+33\d{9}$", digits):
-        local = "0" + digits[3:]
-        return " ".join([local[i:i+2] for i in range(0, 10, 2)])
-    if len(digits) >= 10:
-        # try to extract last 10 digits
-        m = re.search(r"(0[1-9]\d{8})", digits)
-        if m:
-            d = m.group(1)
-            return " ".join([d[i:i+2] for i in range(0, 10, 2)])
+    # +33 format
+    if digits.startswith("+33") or digits.startswith("33"):
+        digits = digits.replace("+", "")
+        if digits.startswith("33"):
+            digits = "0" + digits[2:]
+    # Extract 10-digit French number
+    m = re.search(r"(0[1-9]\d{8})", digits)
+    if m:
+        d = m.group(1)
+        return " ".join([d[i:i+2] for i in range(0, 10, 2)])
     return ""
 
 
+def is_valid_phone(phone_str):
+    """Check phone is a plausible French landline/mobile for Lyon area."""
+    digits = re.sub(r"\s", "", phone_str)
+    if len(digits) != 10:
+        return False
+    # Exclude premium/special numbers
+    if digits[:2] in ("08", "09"):
+        # 09 can be valid (box internet), 08 is premium
+        if digits[:2] == "08":
+            return False
+    return True
+
+
+def extract_phones_from_text(text):
+    """Extract all French phone numbers from text."""
+    # Pattern for French numbers with various separators
+    pattern = r'(?<!\d)(?:\+33\s?[\s.\-]?)?0[1-9][\s.\-]?\d{2}[\s.\-]?\d{2}[\s.\-]?\d{2}[\s.\-]?\d{2}(?!\d)'
+    raw_phones = re.findall(pattern, text)
+    cleaned = []
+    for p in raw_phones:
+        c = clean_phone(p)
+        if c and is_valid_phone(c):
+            cleaned.append(c)
+    return cleaned
+
+
+def extract_emails_from_text(text):
+    """Extract emails, filtering out noise."""
+    pattern = r'[a-zA-Z0-9_.+\-]+@[a-zA-Z0-9.\-]+\.(?:fr|com|net|org|eu|io|biz|info)'
+    found = re.findall(pattern, text, re.I)
+    filtered = []
+    noise = ["societe.com", "google", "example", "noreply", "pappers",
+             "duckduckgo", "pagesjaunes", "gstatic", "schema.org",
+             "microsoft", "w3.org", "mozilla", "apple.com"]
+    for e in found:
+        if not any(n in e.lower() for n in noise):
+            filtered.append(e)
+    return filtered
+
+
+def extract_websites_from_text(text, company_name=""):
+    """Extract plausible company websites from HTML text."""
+    urls = re.findall(r'href="(https?://[^"]+)"', text)
+    name_words = set(re.sub(r'[^a-zA-Z\s]', '', company_name.lower()).split())
+    # Filter meaningful words (>3 chars)
+    name_words = {w for w in name_words if len(w) > 3}
+
+    candidates = []
+    for u in urls:
+        u_clean = u.split("&")[0].split("?sa=")[0].rstrip("/")
+        u_lower = u_clean.lower()
+        if any(skip in u_lower for skip in SKIP_DOMAINS):
+            continue
+        # Bonus if company name words appear in URL
+        score = sum(1 for w in name_words if w in u_lower)
+        candidates.append((score, u_clean))
+
+    # Sort by score descending
+    candidates.sort(key=lambda x: -x[0])
+    return [c[1] for c in candidates]
+
+
+# ---------------------------------------------------------------------------
+# Source 1: societe.com via search
+# ---------------------------------------------------------------------------
 def extract_from_societe_com(siren, nom):
-    """
-    Try societe.com page for a SIREN to get phone, email, website.
-    """
+    """Search societe.com via SIREN to find company page, extract data."""
     phone, email, website = "", "", ""
-    url = f"https://www.societe.com/societe/{siren}.html"
-    html = fetch_url(url)
-    if not html:
+    if not siren:
         return phone, email, website
 
-    # Phone: look for patterns like 0X XX XX XX XX in the page
-    # societe.com often has phone in a specific section
-    phone_patterns = [
-        r'itemprop="telephone"[^>]*>([^<]+)<',
-        r'tel:(\+?[\d\s.\-]+)',
-        r'class="[^"]*phone[^"]*"[^>]*>([^<]+)<',
-        r'(?:T(?:é|e)l(?:é|e)?(?:phone)?|Phone)\s*(?::|\s)\s*(0[1-9][\s.\-]?\d{2}[\s.\-]?\d{2}[\s.\-]?\d{2}[\s.\-]?\d{2})',
-    ]
-    for pat in phone_patterns:
-        m = re.search(pat, html, re.IGNORECASE)
-        if m:
-            candidate = clean_phone(m.group(1))
-            if candidate:
-                phone = candidate
-                break
+    url = f"https://www.societe.com/cgi-bin/search?champs={siren}"
+    page = fetch_url(url)
+    if not page:
+        return phone, email, website
+
+    # Decode entities
+    page = html_mod.unescape(page)
+
+    # Phone - societe.com often obfuscates, but sometimes visible
+    phones = extract_phones_from_text(page)
+    if phones:
+        phone = phones[0]
 
     # Email
-    email_patterns = [
-        r'itemprop="email"[^>]*>([^<]+)<',
-        r'mailto:([a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+)',
-        r'([a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\.(?:fr|com|net|org|eu))',
-    ]
-    for pat in email_patterns:
-        m = re.search(pat, html, re.IGNORECASE)
-        if m:
-            candidate = m.group(1).strip()
-            # filter out generic/noreply
-            if "@" in candidate and "societe.com" not in candidate.lower():
-                email = candidate
-                break
+    emails = extract_emails_from_text(page)
+    if emails:
+        email = emails[0]
 
-    # Website
+    # Website - look for itemprop or "Site internet" sections
     site_patterns = [
         r'itemprop="url"[^>]*>([^<]+)<',
-        r'Site\s*(?:web|internet)\s*(?::|\s)\s*(?:<[^>]*>)?\s*((?:https?://)?(?:www\.)?[a-zA-Z0-9.-]+\.[a-z]{2,}[^\s<"]*)',
-        r'href="(https?://(?:www\.)?[^"]*)"[^>]*>\s*(?:Site|Visiter)',
+        r'(?:Site\s*(?:web|internet|officiel))\s*:?\s*(?:<[^>]*>)*\s*((?:https?://)?(?:www\.)?[a-zA-Z0-9][-a-zA-Z0-9.]*\.[a-z]{2,}[^\s<"]*)',
+        r'href="(https?://(?:www\.)?[^"]*)"[^>]*>\s*(?:Site|Visiter|Voir le site)',
     ]
     for pat in site_patterns:
-        m = re.search(pat, html, re.IGNORECASE)
+        m = re.search(pat, page, re.I)
         if m:
             candidate = m.group(1).strip()
-            if "societe.com" not in candidate.lower() and "." in candidate:
+            if not any(skip in candidate.lower() for skip in SKIP_DOMAINS):
                 if not candidate.startswith("http"):
                     candidate = "https://" + candidate
                 website = candidate
@@ -142,112 +211,101 @@ def extract_from_societe_com(siren, nom):
     return phone, email, website
 
 
-def extract_from_annuaire(nom, ville):
-    """
-    Search annuaire.com / pagesjaunes-style for phone + website.
-    """
+# ---------------------------------------------------------------------------
+# Source 2: DuckDuckGo HTML search
+# ---------------------------------------------------------------------------
+def extract_from_duckduckgo(nom, ville):
+    """Search DuckDuckGo for phone, email, website."""
     phone, email, website = "", "", ""
-    # Clean company name for search
     search_name = re.sub(r'\([^)]*\)', '', nom).strip()
-    query = urllib.parse.quote(f"{search_name} {ville}")
-    url = f"https://www.google.com/search?q={query}+telephone+site"
-    html = fetch_url(url)
-    if not html:
+    query = f"{search_name} {ville} telephone"
+    url = "https://html.duckduckgo.com/html/?" + urllib.parse.urlencode({"q": query})
+    page = fetch_url(url)
+    if not page:
         return phone, email, website
 
-    # Phone numbers in search results
-    phone_re = r'(?<!\d)(0[1-9][\s.\-]?\d{2}[\s.\-]?\d{2}[\s.\-]?\d{2}[\s.\-]?\d{2})(?!\d)'
-    phones_found = re.findall(phone_re, html)
-    for p in phones_found:
-        candidate = clean_phone(p)
-        if candidate:
-            phone = candidate
-            break
-
-    # Website: look for company-related URLs in results
-    # Skip known aggregators
-    skip_domains = {"google.", "societe.com", "pagesjaunes.", "annuaire.",
-                    "wikipedia.", "facebook.com", "linkedin.com", "twitter.com",
-                    "youtube.com", "instagram.com", "yelp.", "tripadvisor."}
-    url_re = r'href="(https?://[^"]+)"'
-    for m in re.finditer(url_re, html):
-        u = m.group(1)
-        if any(skip in u.lower() for skip in skip_domains):
-            continue
-        # Check if the URL could be the company's site
-        name_words = re.sub(r'[^a-zA-Z\s]', '', search_name.lower()).split()
-        u_lower = u.lower()
-        if any(w in u_lower for w in name_words if len(w) > 3):
-            website = u.split("&")[0].split("?sa=")[0]
-            break
-
-    # Email from search snippet
-    em = re.search(r'([a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\.(?:fr|com|net|org|eu))', html)
-    if em:
-        candidate = em.group(1)
-        if "google" not in candidate.lower():
-            email = candidate
-
-    return phone, email, website
-
-
-def extract_from_pappers(siren):
-    """Try pappers.fr for company info."""
-    phone, email, website = "", "", ""
-    url = f"https://www.pappers.fr/entreprise/{siren}"
-    html = fetch_url(url)
-    if not html:
-        return phone, email, website
+    page = html_mod.unescape(page)
 
     # Phone
-    m = re.search(r'(?:telephone|phone)["\s:]*[>]?\s*(0[1-9][\s.\-]?\d{2}[\s.\-]?\d{2}[\s.\-]?\d{2}[\s.\-]?\d{2})', html, re.I)
-    if m:
-        phone = clean_phone(m.group(1))
-
-    # Website
-    m = re.search(r'(?:Site\s*(?:web|internet)|website)\s*(?::|\s)?\s*(?:<[^>]*>)?\s*((?:https?://)?(?:www\.)?[a-zA-Z0-9][-a-zA-Z0-9.]*\.[a-z]{2,}[^\s<"]*)', html, re.I)
-    if m:
-        candidate = m.group(1).strip()
-        if "pappers" not in candidate.lower():
-            if not candidate.startswith("http"):
-                candidate = "https://" + candidate
-            website = candidate
+    phones = extract_phones_from_text(page)
+    if phones:
+        phone = phones[0]
 
     # Email
-    em = re.search(r'([a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\.(?:fr|com|net|org|eu))', html)
-    if em and "pappers" not in em.group(1).lower():
-        email = em.group(1)
+    emails = extract_emails_from_text(page)
+    if emails:
+        email = emails[0]
+
+    # Website
+    sites = extract_websites_from_text(page, search_name)
+    if sites:
+        website = sites[0]
 
     return phone, email, website
 
 
+# ---------------------------------------------------------------------------
+# Source 3: Google search (fallback)
+# ---------------------------------------------------------------------------
+def extract_from_google(nom, ville):
+    """Search Google for phone, email, website."""
+    phone, email, website = "", "", ""
+    search_name = re.sub(r'\([^)]*\)', '', nom).strip()
+    query = f"{search_name} {ville} telephone site"
+    url = "https://www.google.com/search?" + urllib.parse.urlencode({"q": query, "hl": "fr", "num": "10"})
+    page = fetch_url(url)
+    if not page:
+        return phone, email, website
+
+    page = html_mod.unescape(page)
+
+    # Phone
+    phones = extract_phones_from_text(page)
+    if phones:
+        phone = phones[0]
+
+    # Email
+    emails = extract_emails_from_text(page)
+    if emails:
+        email = emails[0]
+
+    # Website
+    sites = extract_websites_from_text(page, search_name)
+    if sites:
+        website = sites[0]
+
+    return phone, email, website
+
+
+# ---------------------------------------------------------------------------
+# Orchestrator
+# ---------------------------------------------------------------------------
 def enrich_company(company):
-    """Enrich a single company with phone, email, site_web."""
+    """Enrich a single company with phone, email, site_web using multiple sources."""
     siren = company.get("siren", "")
     nom = company.get("nom", "")
     ville = company.get("ville", "")
 
     phone, email, website = "", "", ""
 
-    # Source 1: societe.com (via SIREN)
-    if siren:
+    # Source 1: DuckDuckGo (most reliable, no captcha)
+    p, e, w = extract_from_duckduckgo(nom, ville)
+    phone = phone or p
+    email = email or e
+    website = website or w
+    time.sleep(random.uniform(DELAY_MIN, DELAY_MAX))
+
+    # Source 2: societe.com (via SIREN search)
+    if not phone or not website:
         p, e, w = extract_from_societe_com(siren, nom)
         phone = phone or p
         email = email or e
         website = website or w
         time.sleep(random.uniform(DELAY_MIN, DELAY_MAX))
 
-    # Source 2: pappers.fr
-    if siren and (not phone or not website):
-        p, e, w = extract_from_pappers(siren)
-        phone = phone or p
-        email = email or e
-        website = website or w
-        time.sleep(random.uniform(DELAY_MIN, DELAY_MAX))
-
-    # Source 3: Google search (as last resort if we still miss data)
-    if not phone or not website:
-        p, e, w = extract_from_annuaire(nom, ville)
+    # Source 3: Google (as last resort, may get captcha after many requests)
+    if not phone and not website:
+        p, e, w = extract_from_google(nom, ville)
         phone = phone or p
         email = email or e
         website = website or w
@@ -260,6 +318,12 @@ def enrich_company(company):
 # Main
 # ---------------------------------------------------------------------------
 def main():
+    global TEST_MODE
+
+    # Allow passing --test from command line
+    if "--test" in sys.argv:
+        TEST_MODE = True
+
     # Load input
     with open(INPUT_FILE, "r", encoding="utf-8") as f:
         companies = json.load(f)
@@ -272,16 +336,14 @@ def main():
         total = 5
         print("TEST MODE: processing only 5 companies")
 
-    # Load progress if exists
+    # Load progress if exists (for resume)
     start_idx = 0
     if os.path.exists(PROGRESS_FILE) and not TEST_MODE:
         try:
             with open(PROGRESS_FILE, "r", encoding="utf-8") as f:
                 progress_data = json.load(f)
-            # progress_data contains already-enriched entries
             if len(progress_data) > 0 and len(progress_data) <= total:
                 start_idx = len(progress_data)
-                # Apply saved enrichment to companies
                 for i, pd in enumerate(progress_data):
                     companies[i]["telephone"] = pd.get("telephone", "")
                     companies[i]["email"] = pd.get("email", "")
@@ -291,7 +353,7 @@ def main():
             start_idx = 0
 
     # Initialize fields for all companies
-    for i, c in enumerate(companies):
+    for c in companies:
         if "telephone" not in c:
             c["telephone"] = ""
         if "email" not in c:
@@ -323,8 +385,8 @@ def main():
             status = []
             if phone: status.append(f"tel={phone}")
             if email: status.append(f"email={email}")
-            if website: status.append(f"site={website[:40]}")
-            print(" | ".join(status) if status else "(rien trouvé)")
+            if website: status.append(f"site={website[:50]}")
+            print(" | ".join(status) if status else "(rien trouve)")
 
         except Exception as ex:
             print(f"ERREUR: {ex}")
@@ -342,15 +404,12 @@ def main():
         json.dump(companies, f, ensure_ascii=False, indent=2)
 
     print(f"\n{'='*60}")
-    print(f"Terminé! {total} entreprises traitées.")
-    print(f"Téléphones trouvés : {found_phone}/{total}")
-    print(f"Emails trouvés     : {found_email}/{total}")
-    print(f"Sites web trouvés  : {found_site}/{total}")
-    print(f"Résultat sauvegardé dans {OUTPUT_FILE}")
+    print(f"Termine! {total} entreprises traitees.")
+    print(f"Telephones trouves : {found_phone}/{total}")
+    print(f"Emails trouves     : {found_email}/{total}")
+    print(f"Sites web trouves  : {found_site}/{total}")
+    print(f"Resultat sauvegarde dans {OUTPUT_FILE}")
 
 
 if __name__ == "__main__":
-    # Allow passing --test from command line
-    if "--test" in sys.argv:
-        TEST_MODE = True
     main()
