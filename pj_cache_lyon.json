@@ -2120,6 +2120,583 @@
       "code_postal_pj": "01700",
       "ville_pj": "Saint Maurice de Beynost",
       "telephone": "04 78 06 92 25"
+    },
+    {
+      "nom_pj": "Dekra",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=52442730&code_localite=Z06912300&code_rubrique=388310",
+      "adresse_pj": "5 Bis rue Château d'Eau 69410 Champagne au Mont d'Or",
+      "code_postal_pj": "69410",
+      "ville_pj": "Champagne au Mont d'Or",
+      "telephone": "04 74 72 24 40"
+    },
+    {
+      "nom_pj": "Garage Saint Michel",
+      "adresse_pj": "50 rue St Michel 69007 Lyon",
+      "code_postal_pj": "69007",
+      "ville_pj": "Lyon",
+      "telephone": "04 78 72 30 86"
+    },
+    {
+      "nom_pj": "Auto Controle Rillieux",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=56292841&code_localite=Z06912300&code_rubrique=388310",
+      "adresse_pj": "11 rue Artifice 69140 Rillieux la Pape",
+      "code_postal_pj": "69140",
+      "ville_pj": "Rillieux la Pape",
+      "telephone": "04 78 97 49 99"
+    },
+    {
+      "nom_pj": "Spoticar Stellantis &You Lyon Carre de Soie",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=58233413&code_localite=Z06912300&code_rubrique=061240",
+      "adresse_pj": "38-42 38 avenue Bohlen 69120 Vaulx en Velin",
+      "code_postal_pj": "69120",
+      "ville_pj": "Vaulx en Velin",
+      "telephone": "04 12 04 92 75"
+    },
+    {
+      "nom_pj": "France Pare Brise",
+      "adresse_pj": "61 rue Frères Montgolfier 69740 Genas",
+      "code_postal_pj": "69740",
+      "ville_pj": "Genas",
+      "telephone": "04 78 90 03 15"
+    },
+    {
+      "nom_pj": "Valvert Sport Automobiles",
+      "adresse_pj": "15 avenue Victor Hugo 69160 Tassin la Demi Lune",
+      "code_postal_pj": "69160",
+      "ville_pj": "Tassin la Demi Lune",
+      "telephone": "04 78 83 30 30"
+    },
+    {
+      "nom_pj": "GL Automotive",
+      "adresse_pj": "131 avenue Jean Jaurès 69600 Oullins",
+      "code_postal_pj": "69600",
+      "ville_pj": "Oullins",
+      "telephone": "04 78 51 39 02"
+    },
+    {
+      "nom_pj": "Volkswagen GVA Bymycar Lyon Concessionnaire",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=57127055&code_localite=Z06912300&code_rubrique=061240",
+      "adresse_pj": "1555 avenue Hippodrome 69140 Rillieux la Pape",
+      "code_postal_pj": "69140",
+      "ville_pj": "Rillieux la Pape",
+      "telephone": "04 82 29 11 51"
+    },
+    {
+      "nom_pj": "Spoticar Stellantis &You Venissieux Salengro",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=09096793&code_localite=Z06912300&code_rubrique=061240",
+      "adresse_pj": "51 rue Roger Salengro 69200 Vénissieux",
+      "code_postal_pj": "69200",
+      "ville_pj": "Vénissieux",
+      "telephone": "04 20 92 50 37"
+    },
+    {
+      "nom_pj": "Canal Pneus Services",
+      "adresse_pj": "20 place Etienne Buyat 69150 Décines Charpieu",
+      "code_postal_pj": "69150",
+      "ville_pj": "Décines Charpieu",
+      "telephone": "04 78 49 49 28"
+    },
+    {
+      "nom_pj": "ASP Centre Distributeur",
+      "adresse_pj": "70 cours Gambetta 69007 Lyon",
+      "code_postal_pj": "69007",
+      "ville_pj": "Lyon",
+      "telephone": "04 87 76 86 36"
+    },
+    {
+      "nom_pj": "Central Autos SA",
+      "adresse_pj": "15 avenue Chater 69340 Francheville",
+      "code_postal_pj": "69340",
+      "ville_pj": "Francheville",
+      "telephone": "04 72 59 19 19"
+    },
+    {
+      "nom_pj": "LE GARAGE GIACONI",
+      "adresse_pj": "69 avenue Eugénie Cotton 69120 Vaulx en Velin",
+      "code_postal_pj": "69120",
+      "ville_pj": "Vaulx en Velin",
+      "telephone": "04 72 04 60 78"
+    },
+    {
+      "nom_pj": "Speedy",
+      "adresse_pj": "223 Grande Rue 69600 Oullins",
+      "code_postal_pj": "69600",
+      "ville_pj": "Oullins",
+      "telephone": "04 72 66 91 97"
+    },
+    {
+      "nom_pj": "Fiat Stellantis &You",
+      "adresse_pj": "81 rue Marietton 69009 Lyon",
+      "code_postal_pj": "69009",
+      "ville_pj": "Lyon",
+      "telephone": "04 37 50 25 90"
+    },
+    {
+      "nom_pj": "First Stop Brignais",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=06253873&code_localite=Z06912300&code_rubrique=388310",
+      "adresse_pj": "route Irigny 69530 Brignais",
+      "code_postal_pj": "69530",
+      "ville_pj": "Brignais",
+      "telephone": "04 72 31 90 90"
+    },
+    {
+      "nom_pj": "CARROSSERIE DE LA BALME",
+      "adresse_pj": "31 rue Balme 69003 Lyon",
+      "code_postal_pj": "69003",
+      "ville_pj": "Lyon",
+      "telephone": "04 78 54 26 98"
+    },
+    {
+      "nom_pj": "GARAGE AUTO SERVICES JURCO",
+      "adresse_pj": "131 rue Joliot Curie 69005 Lyon",
+      "code_postal_pj": "69005",
+      "ville_pj": "Lyon",
+      "telephone": "04 78 25 18 85"
+    },
+    {
+      "nom_pj": "Autopole",
+      "adresse_pj": "50 boulevard Laurent Gérin 69200 Vénissieux",
+      "code_postal_pj": "69200",
+      "ville_pj": "Vénissieux",
+      "telephone": "04 72 50 09 61"
+    },
+    {
+      "nom_pj": "Auto E.Leclerc",
+      "adresse_pj": "8 rue Charles Baudelaire 69200 Vénissieux",
+      "code_postal_pj": "69200",
+      "ville_pj": "Vénissieux",
+      "telephone": "04 78 09 26 99"
+    },
+    {
+      "nom_pj": "Skoda BymyCar Lyon Sud Concessionnaire",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=58488456&code_localite=Z06912300&code_rubrique=061240",
+      "adresse_pj": "10 rue Frères Bertrand 69200 Vénissieux",
+      "code_postal_pj": "69200",
+      "ville_pj": "Vénissieux",
+      "telephone": "04 37 23 56 13"
+    },
+    {
+      "nom_pj": "Renault Lyon Sud",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=56554177&code_localite=Z06912300&code_rubrique=388310",
+      "adresse_pj": "364 route Vienne 69200 Vénissieux",
+      "code_postal_pj": "69200",
+      "ville_pj": "Vénissieux",
+      "telephone": "04 69 12 95 84"
+    },
+    {
+      "nom_pj": "BF System",
+      "adresse_pj": "1 chemin Thil 01700 Saint Maurice de Beynost",
+      "code_postal_pj": "01700",
+      "ville_pj": "Saint Maurice de Beynost",
+      "telephone": "04 78 06 92 25"
+    },
+    {
+      "nom_pj": "Garage Du Méridien",
+      "adresse_pj": "73 route Paris 69260 Charbonnières les Bains",
+      "code_postal_pj": "69260",
+      "ville_pj": "Charbonnières les Bains",
+      "telephone": "04 78 34 29 50"
+    },
+    {
+      "nom_pj": "Farelux Automobiles",
+      "adresse_pj": "18 rue Vendôme 69006 Lyon",
+      "code_postal_pj": "69006",
+      "ville_pj": "Lyon",
+      "telephone": "07 56 97 04 04"
+    },
+    {
+      "nom_pj": "DELKO Grézieu-la-Varenne",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=50038504&code_localite=Z06912300&code_rubrique=388310",
+      "adresse_pj": "5 rue Benoit Launay 69290 Grézieu la Varenne",
+      "code_postal_pj": "69290",
+      "ville_pj": "Grézieu la Varenne",
+      "telephone": "04 78 57 44 16"
+    },
+    {
+      "nom_pj": "Autos Occasions Lyon",
+      "adresse_pj": "14 rue Honoré de Balzac 69150 Décines Charpieu",
+      "code_postal_pj": "69150",
+      "ville_pj": "Décines Charpieu",
+      "telephone": "07 81 71 34 25"
+    },
+    {
+      "nom_pj": "GARAGE FULCHIRON",
+      "adresse_pj": "31 quai Fulchiron 69005 Lyon",
+      "code_postal_pj": "69005",
+      "ville_pj": "Lyon",
+      "telephone": "04 78 37 11 36"
+    },
+    {
+      "nom_pj": "Pautric Lyon Mini",
+      "adresse_pj": "76 avenue Maréchal de Saxe 69003 Lyon",
+      "code_postal_pj": "69003",
+      "ville_pj": "Lyon",
+      "telephone": "04 72 32 91 91"
+    },
+    {
+      "nom_pj": "Mions Car",
+      "adresse_pj": "rue Albatros 69780 Mions",
+      "code_postal_pj": "69780",
+      "ville_pj": "Mions",
+      "telephone": "04 72 28 11 20"
+    },
+    {
+      "nom_pj": "First Stop Rillieux",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=07747769&code_localite=Z06912300&code_rubrique=388310",
+      "adresse_pj": "rue Hélène Boucher 69140 Rillieux la Pape",
+      "code_postal_pj": "69140",
+      "ville_pj": "Rillieux la Pape",
+      "telephone": "04 78 88 18 18"
+    },
+    {
+      "nom_pj": "Speedy",
+      "adresse_pj": "338 - 340 338 cours Emile Zola 69100 Villeurbanne",
+      "code_postal_pj": "69100",
+      "ville_pj": "Villeurbanne",
+      "telephone": "04 78 84 19 27"
+    },
+    {
+      "nom_pj": "Citroën Garage de la Côtière Réparateur agréé",
+      "adresse_pj": "806 chemin Sereine 01700 Beynost",
+      "code_postal_pj": "01700",
+      "ville_pj": "Beynost",
+      "telephone": "0715405993"
+    },
+    {
+      "nom_pj": "DELKO Fontaines-sur-Saône",
+      "adresse_pj": "2 montée Roy 69270 Fontaines sur Saône",
+      "code_postal_pj": "69270",
+      "ville_pj": "Fontaines sur Saône",
+      "telephone": "04 78 22 25 26"
+    },
+    {
+      "nom_pj": "L F Automobiles",
+      "adresse_pj": "30 chemin Moulins 69230 Saint Genis Laval",
+      "code_postal_pj": "69230",
+      "ville_pj": "Saint Genis Laval",
+      "telephone": "04 78 57 53 21"
+    },
+    {
+      "nom_pj": "Norauto",
+      "adresse_pj": "243 avenue Franklin Roosevelt 69120 Vaulx en Velin",
+      "code_postal_pj": "69120",
+      "ville_pj": "Vaulx en Velin",
+      "telephone": "04 72 14 87 27"
+    },
+    {
+      "nom_pj": "Fanchette",
+      "adresse_pj": "1 rue Pailleron 69004 Lyon",
+      "code_postal_pj": "69004",
+      "ville_pj": "Lyon"
+    },
+    {
+      "nom_pj": "GVA BYMYCAR LYON",
+      "adresse_pj": "40 chemin Paisy 69760 Limonest",
+      "code_postal_pj": "69760",
+      "ville_pj": "Limonest",
+      "telephone": "04 72 20 60 60"
+    },
+    {
+      "nom_pj": "Automobiles De La Rize",
+      "adresse_pj": "44 rue Louis Saillant 69120 Vaulx en Velin",
+      "code_postal_pj": "69120",
+      "ville_pj": "Vaulx en Velin",
+      "telephone": "04 72 04 48 97"
+    },
+    {
+      "nom_pj": "CHAVOT Automobiles",
+      "adresse_pj": "50 avenue Verdun 69330 Meyzieu",
+      "code_postal_pj": "69330",
+      "ville_pj": "Meyzieu",
+      "telephone": "04 78 31 52 94"
+    },
+    {
+      "nom_pj": "Top GarageTrading Motors",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=56949494&code_localite=Z06912300&code_rubrique=388310",
+      "adresse_pj": "7 Bis rue Pouponnière 69100 Villeurbanne",
+      "code_postal_pj": "69100",
+      "ville_pj": "Villeurbanne",
+      "telephone": "04 72 33 35 55"
+    },
+    {
+      "nom_pj": "6ème Avenue",
+      "adresse_pj": "2 4 2 rue Louis Blanc 69694 VENISSIEUX CEDEX",
+      "code_postal_pj": "69694",
+      "ville_pj": "VENISSIEUX CEDEX",
+      "telephone": "04 78 78 39 39"
+    },
+    {
+      "nom_pj": "Garage des Varennes",
+      "adresse_pj": "3 rue Varennes 69660 Collonges au Mont d'Or",
+      "code_postal_pj": "69660",
+      "ville_pj": "Collonges au Mont d'Or",
+      "telephone": "04 78 22 38 74"
+    },
+    {
+      "nom_pj": "Renault Lyon Saint Priest",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=59717127&code_localite=Z06912300&code_rubrique=388310",
+      "adresse_pj": "61 route Grenoble 69800 Saint Priest",
+      "code_postal_pj": "69800",
+      "ville_pj": "Saint Priest",
+      "telephone": "04 49 12 74 23"
+    },
+    {
+      "nom_pj": "Tesla",
+      "adresse_pj": "8 rue Alice Guy Blache 69800 Saint Priest",
+      "code_postal_pj": "69800",
+      "ville_pj": "Saint Priest",
+      "telephone": "04 63 46 89 99"
+    },
+    {
+      "nom_pj": "Garage Venet",
+      "adresse_pj": "2 boulevard Lassagne 69530 Brignais",
+      "code_postal_pj": "69530",
+      "ville_pj": "Brignais",
+      "telephone": "04 78 05 36 55"
+    },
+    {
+      "nom_pj": "Auto Extra",
+      "adresse_pj": "133 avenue Franklin Roosevelt 69150 Décines Charpieu",
+      "code_postal_pj": "69150",
+      "ville_pj": "Décines Charpieu",
+      "telephone": "04 72 05 36 61"
+    },
+    {
+      "nom_pj": "GVA Bymycar Lyon",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=05701258&code_localite=Z06912300&code_rubrique=061240",
+      "adresse_pj": "1 rue Jean Marie Merle 69120 Vaulx en Velin",
+      "code_postal_pj": "69120",
+      "ville_pj": "Vaulx en Velin",
+      "telephone": "04 82 29 53 45"
+    },
+    {
+      "nom_pj": "BYD Lyon Écully - Groupe Chopard",
+      "adresse_pj": "4 chemin Jean Marie Vianney 69130 Ecully",
+      "code_postal_pj": "69130",
+      "ville_pj": "Ecully",
+      "telephone": "04 72 18 00 18"
+    },
+    {
+      "nom_pj": "Garage Faucon",
+      "adresse_pj": "3 rue Alsace Lorraine 69500 Bron",
+      "code_postal_pj": "69500",
+      "ville_pj": "Bron",
+      "telephone": "04 78 26 80 17"
+    },
+    {
+      "nom_pj": "Autotec SARL",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00793780&code_localite=Z06912300&code_rubrique=000220",
+      "adresse_pj": "61 rue Mathieu Dussurgey 69190 Saint Fons",
+      "code_postal_pj": "69190",
+      "ville_pj": "Saint Fons",
+      "telephone": "04 78 72 16 22"
+    },
+    {
+      "nom_pj": "Garage de Rochecardon",
+      "adresse_pj": "138 rue St Cyr BP 0 69009 Lyon",
+      "code_postal_pj": "69009",
+      "ville_pj": "Lyon",
+      "telephone": "04 78 83 71 15"
+    },
+    {
+      "nom_pj": "Garage Claudy",
+      "adresse_pj": "35 Bis rue Colin 69100 Villeurbanne",
+      "code_postal_pj": "69100",
+      "ville_pj": "Villeurbanne",
+      "telephone": "04 78 84 25 23"
+    },
+    {
+      "nom_pj": "Feu Vert Meyzieu",
+      "adresse_pj": "Parking Leclerc 8 rue Claude Monet 69330 Meyzieu",
+      "code_postal_pj": "69330",
+      "ville_pj": "Meyzieu",
+      "telephone": "04 78 04 69 95"
+    },
+    {
+      "nom_pj": "MCA Autos",
+      "adresse_pj": "2 avenue Félix Faure 69580 Sathonay Camp",
+      "code_postal_pj": "69580",
+      "ville_pj": "Sathonay Camp",
+      "telephone": "04 78 23 71 28"
+    },
+    {
+      "nom_pj": "Spoticar Stellantis &You Lyon Carre de Soie",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=58233413&code_localite=Z06912300&code_rubrique=061240",
+      "adresse_pj": "38-42 38 avenue Bohlen 69120 Vaulx en Velin",
+      "code_postal_pj": "69120",
+      "ville_pj": "Vaulx en Velin",
+      "telephone": "04 12 04 92 75"
+    },
+    {
+      "nom_pj": "Max Auto",
+      "adresse_pj": "19 chemin Mouche 69230 Saint Genis Laval",
+      "code_postal_pj": "69230",
+      "ville_pj": "Saint Genis Laval",
+      "telephone": "09 87 35 77 37"
+    },
+    {
+      "nom_pj": "Garage Roubi",
+      "adresse_pj": "18 impasse 2 Amants 69009 Lyon",
+      "code_postal_pj": "69009",
+      "ville_pj": "Lyon",
+      "telephone": "04 78 15 90 37"
+    },
+    {
+      "nom_pj": "Midas",
+      "adresse_pj": "216 Grande Rue 69600 Oullins",
+      "code_postal_pj": "69600",
+      "ville_pj": "Oullins",
+      "telephone": "04 72 39 12 12"
+    },
+    {
+      "nom_pj": "Garage Des Quais De Saône",
+      "adresse_pj": "38 rue Pierre Carbon 69270 Fontaines sur Saône",
+      "code_postal_pj": "69270",
+      "ville_pj": "Fontaines sur Saône",
+      "telephone": "04 78 22 41 81"
+    },
+    {
+      "nom_pj": "Midas",
+      "adresse_pj": "382 rue Garibaldi 69007 Lyon",
+      "code_postal_pj": "69007",
+      "ville_pj": "Lyon",
+      "telephone": "0320000420"
+    },
+    {
+      "nom_pj": "Speedy",
+      "adresse_pj": "16 chemin Chene 69380 Civrieux d'Azergues",
+      "code_postal_pj": "69380",
+      "ville_pj": "Civrieux d'Azergues",
+      "telephone": "04 37 58 00 87"
+    },
+    {
+      "nom_pj": "Carrosserie Guyonnet",
+      "adresse_pj": "26 avenue Edouard Millaud 69290 Craponne",
+      "code_postal_pj": "69290",
+      "ville_pj": "Craponne",
+      "telephone": "04 78 57 14 01"
+    },
+    {
+      "nom_pj": "Mondial Pare Brise",
+      "adresse_pj": "182 Bis avenue Félix Faure 69003 Lyon",
+      "code_postal_pj": "69003",
+      "ville_pj": "Lyon",
+      "telephone": "04 72 13 31 20"
+    },
+    {
+      "nom_pj": "Allmax",
+      "adresse_pj": "65 rue Bourbonnais 69009 Lyon",
+      "code_postal_pj": "69009",
+      "ville_pj": "Lyon",
+      "telephone": "04 37 46 07 85"
+    },
+    {
+      "nom_pj": "Car 7 Auto Alliance",
+      "adresse_pj": "106 rue André Bollier 69007 Lyon",
+      "code_postal_pj": "69007",
+      "ville_pj": "Lyon",
+      "telephone": "04 72 71 86 31"
+    },
+    {
+      "nom_pj": "Au Contrôle Technique Automobile",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=50405910&code_localite=Z06912300&code_rubrique=388310",
+      "adresse_pj": "20 rue Wilson 69150 Décines Charpieu",
+      "code_postal_pj": "69150",
+      "ville_pj": "Décines Charpieu",
+      "telephone": "04 78 49 37 72"
+    },
+    {
+      "nom_pj": "REVES AUTO-SERVICES",
+      "adresse_pj": "2 rue du broteau 2 rue Broteau 69540 Irigny",
+      "code_postal_pj": "69540",
+      "ville_pj": "Irigny",
+      "telephone": "0613100006"
+    },
+    {
+      "nom_pj": "Fiat Pro Stellantis &You",
+      "adresse_pj": "81 rue Marietton 69009 Lyon",
+      "code_postal_pj": "69009",
+      "ville_pj": "Lyon",
+      "telephone": "04 37 50 25 90"
+    },
+    {
+      "nom_pj": "First Stop Brignais",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=06253873&code_localite=Z06912300&code_rubrique=388310",
+      "adresse_pj": "route Irigny 69530 Brignais",
+      "code_postal_pj": "69530",
+      "ville_pj": "Brignais",
+      "telephone": "04 72 31 90 90"
+    },
+    {
+      "nom_pj": "Autos Charcot Distribution",
+      "adresse_pj": "69 rue Commdt Charcot 69110 Sainte Foy lès Lyon",
+      "code_postal_pj": "69110",
+      "ville_pj": "Sainte Foy lès Lyon",
+      "telephone": "04 78 25 08 21"
+    },
+    {
+      "nom_pj": "Lyon's Automobiles Point de vente de Lyon-Décines",
+      "adresse_pj": "95 avenue Franklin Roosevelt 69150 Décines Charpieu",
+      "code_postal_pj": "69150",
+      "ville_pj": "Décines Charpieu",
+      "telephone": "04 72 14 01 50"
+    },
+    {
+      "nom_pj": "Garage Bellevue Pannetier",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00466116&code_localite=Z06912300&code_rubrique=388310",
+      "adresse_pj": "403 route Bellevue 69760 Limonest",
+      "code_postal_pj": "69760",
+      "ville_pj": "Limonest",
+      "telephone": "0473799533"
+    },
+    {
+      "nom_pj": "Nissan Utilitaires Services Vul Concessionnaire",
+      "adresse_pj": "11 rue Champ Dolin 69800 Saint Priest",
+      "code_postal_pj": "69800",
+      "ville_pj": "Saint Priest",
+      "telephone": "04 72 21 91 80"
+    },
+    {
+      "nom_pj": "D.G Automobiles",
+      "adresse_pj": "116 rue République 69330 Meyzieu",
+      "code_postal_pj": "69330",
+      "ville_pj": "Meyzieu",
+      "telephone": "04 78 31 40 59"
+    },
+    {
+      "nom_pj": "Fiat Perrier Automobiles Réparateur Agréé",
+      "adresse_pj": "90 avenue Camille Rousset 69500 Bron",
+      "code_postal_pj": "69500",
+      "ville_pj": "Bron",
+      "telephone": "04 78 26 48 20"
+    },
+    {
+      "nom_pj": "Fiat Stellantis &You Lyon Venissieux",
+      "adresse_pj": "51 rue Roger Salengro 69200 Vénissieux",
+      "code_postal_pj": "69200",
+      "ville_pj": "Vénissieux",
+      "telephone": "04 12 04 96 91"
+    },
+    {
+      "nom_pj": "Bymoss",
+      "adresse_pj": "44 avenue Mar Foch 69006 Lyon",
+      "code_postal_pj": "69006",
+      "ville_pj": "Lyon",
+      "telephone": "07 69 38 72 83"
+    },
+    {
+      "nom_pj": "Area Modena L'Automobile",
+      "adresse_pj": "248 route Vienne 69008 Lyon",
+      "code_postal_pj": "69008",
+      "ville_pj": "Lyon",
+      "telephone": "04 78 76 30 23"
+    },
+    {
+      "nom_pj": "Tesla",
+      "adresse_pj": "72 avenue Mar de Saxe 69003 Lyon",
+      "code_postal_pj": "69003",
+      "ville_pj": "Lyon",
+      "telephone": "04 63 46 89 99"
     }
   ]
 }
