@@ -11,4 +11,22 @@ Fichier charge: 727 entreprises
 [10/727] CARROSSERIE MARC DUMAS (SIREN: 472203900)... rien trouve
   [Progression sauvegardee: 10/727]
 [11/727] AQUIPAS BERGERAC (SIREN: 518162581)... tel=05 40 25 07 50 | email=contact@aquipas.fr | web=https://www.aquipas.fr/details-prenez+rendez-vous+
-[12/727] GARAGE DE VERDUN (SIREN: 478589955)... 
+[12/727] GARAGE DE VERDUN (SIREN: 478589955)... rien trouve
+[13/727] EURL POURAILLY LAVAGE AUTO (SIREN: 453322042)... tel=09 66 81 19 42 | web=https://www.allbiz.fr/pourailly-auto-lavage_2a-09-
+[14/727] FAUGEDIS (SIREN: 398177485)... web=https://www.artisan-en-ligne.com/artisan-faugedis-
+[15/727] EURL NOUICER LAVAGE (SIREN: 499786473)... rien trouve
+[16/727] DUMBO (SIREN: 847638004)... tel=05 58 98 08 08 | web=https://visu.network/v/west-elm-dumbo/
+[17/727] TOM AUTO LAVAGE (SIREN: 902840453)... rien trouve
+[18/727] ETOILE CAR WASH (SIREN: 953327939)... rien trouve
+[19/727] ATELIER BLANCHOT (SIREN: 992893800)... email=pierre@pierreblanchot.com | web=https://pierreblanchot.com/index.html
+[20/727] KING PNEUS (SIREN: 999772320)... rien trouve
+  [Progression sauvegardee: 20/727]
+[21/727] PATRICK PUJOL (SIREN: 479571754)... rien trouve
+[22/727] VICTOR DE FREITAS (LAVAGE PASSION) (SIREN: 490457140)... rien trouve
+[23/727] LA HOLDING MARCIA (SIREN: 394046585)... tel=05 57 19 40 00
+[24/727] CARROSSERIE DES CHARTRONS (CARROSSERIE DES CHARTRONS) (SIREN: 418336434)... tel=05 56 48 69 50 | email=concacc@cma-audic.net
+[25/727] CAUDERAN AUTOMOBILES (SIREN: 468200399)... rien trouve
+[26/727] GARAGE PASCAL PEREZ (SIREN: 452536907)... rien trouve
+[27/727] BHL SAS (SIREN: 830313938)... tel=05 56 81 35 48
+[28/727] ARMEL SAID GARA (SIREN: 751348152)... web=https://infonet.fr/dirigeants/66aa12405da7ac2c4b9f
+[29/727] D&M'S MOBILITY (SIREN: 921573663)... 
