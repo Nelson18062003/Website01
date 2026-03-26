@@ -5,3 +5,20 @@ NAF 45.20A (garage): 2039 results, 82 pages
     429 retry 1, wait 10s
     429 retry 2, wait 20s
   Page 15/82 done, 375 entries so far
+  Page 20/82 done, 500 entries so far
+    429 retry 1, wait 10s
+    429 retry 2, wait 20s
+    429 retry 1, wait 10s
+    429 retry 2, wait 20s
+    429 retry 1, wait 10s
+    429 retry 1, wait 10s
+    429 retry 2, wait 20s
+    429 retry 3, wait 30s
+  Page 25/82 done, 625 entries so far
+    429 retry 1, wait 10s
+    429 retry 2, wait 20s
+    429 retry 1, wait 10s
+    429 retry 2, wait 20s
+    429 retry 3, wait 30s
+    429 retry 1, wait 10s
+    429 retry 2, wait 20s
