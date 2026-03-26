@@ -1568,6 +1568,202 @@
       "code_postal_pj": "69630",
       "ville_pj": "Chaponost",
       "telephone": "06 52 54 98 16"
+    },
+    {
+      "nom_pj": "Kappa France",
+      "adresse_pj": "zone industrielle Parc Entreprises 01120 Montluel",
+      "code_postal_pj": "01120",
+      "ville_pj": "Montluel",
+      "telephone": "04 37 85 81 95"
+    },
+    {
+      "nom_pj": "Activquad",
+      "adresse_pj": "212 rue Pré Loup 01120 Dagneux",
+      "code_postal_pj": "01120",
+      "ville_pj": "Dagneux",
+      "telephone": "04 74 38 75 99"
+    },
+    {
+      "nom_pj": "Moto services",
+      "adresse_pj": "56 rue Joseph Muntz 69200 Vénissieux",
+      "code_postal_pj": "69200",
+      "ville_pj": "Vénissieux",
+      "telephone": "06 30 73 66 01"
+    },
+    {
+      "nom_pj": "Givi Concessionnaire France",
+      "adresse_pj": "Zone Industrielle Parc D Entreprises chemin Prés Seigneurs 01120 Montluel",
+      "code_postal_pj": "01120",
+      "ville_pj": "Montluel",
+      "telephone": "04 72 25 79 41"
+    },
+    {
+      "nom_pj": "Lyon Service Flex",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=61652704&code_localite=N06908500la+lorraine+33+route+lyon&code_rubrique=259510",
+      "adresse_pj": "45 boulevard Gén de Gaulle 69600 Oullins",
+      "code_postal_pj": "69600",
+      "ville_pj": "Oullins",
+      "telephone": "06 50 75 12 07"
+    },
+    {
+      "nom_pj": "GPrestauration",
+      "adresse_pj": "75 rue Joseph Moulin 69290 Craponne",
+      "code_postal_pj": "69290",
+      "ville_pj": "Craponne",
+      "telephone": "09 83 30 10 65"
+    },
+    {
+      "nom_pj": "MS SYSTEMES SAS",
+      "adresse_pj": "1623 rue Henri Schneider 69330 Jonage",
+      "code_postal_pj": "69330",
+      "ville_pj": "Jonage",
+      "telephone": "04 69 31 04 29"
+    },
+    {
+      "nom_pj": "Az Destock",
+      "adresse_pj": "14 rue Marius Chardon 69310 Pierre Bénite",
+      "code_postal_pj": "69310",
+      "ville_pj": "Pierre Bénite",
+      "telephone": "07 53 55 14 19"
+    },
+    {
+      "nom_pj": "Moto Story",
+      "adresse_pj": "29 rue Roger Salengro 69310 Pierre Bénite",
+      "code_postal_pj": "69310",
+      "ville_pj": "Pierre Bénite",
+      "telephone": "04 78 50 15 01"
+    },
+    {
+      "nom_pj": "Garage Griffon SAS",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00463171&code_localite=N06908500la+lorraine+33+route+lyon&code_rubrique=545800",
+      "adresse_pj": "Zone Industrielle Nord 70 avenue Joux 69400 Arnas",
+      "code_postal_pj": "69400",
+      "ville_pj": "Arnas",
+      "telephone": "04 74 68 10 89",
+      "site_web": "http://www.garage-griffon-arnas.fr"
+    },
+    {
+      "nom_pj": "Expert Motors",
+      "adresse_pj": "3 rue Emile Zola 69310 Pierre Bénite",
+      "code_postal_pj": "69310",
+      "ville_pj": "Pierre Bénite",
+      "telephone": "04 78 81 91 71"
+    },
+    {
+      "nom_pj": "A T E",
+      "adresse_pj": "113 route Pont Chabrol 69126 Brindas",
+      "code_postal_pj": "69126",
+      "ville_pj": "Brindas",
+      "telephone": "04 78 45 38 48"
+    },
+    {
+      "nom_pj": "COLLECTOR MOTORS SHOP",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=58151936&code_localite=N06908500la+lorraine+33+route+lyon&code_rubrique=259510",
+      "adresse_pj": "252 route Tarare 69400 Gleizé",
+      "code_postal_pj": "69400",
+      "ville_pj": "Gleizé",
+      "telephone": "06 60 07 11 52"
+    },
+    {
+      "nom_pj": "SW-MOTECH FRANCE",
+      "adresse_pj": "6 rue Arsonval 69680 Chassieu",
+      "code_postal_pj": "69680",
+      "ville_pj": "Chassieu",
+      "telephone": "05 56 38 96 55"
+    },
+    {
+      "nom_pj": "Culture Vélo",
+      "adresse_pj": "40 route Brignais 69630 Chaponost",
+      "code_postal_pj": "69630",
+      "ville_pj": "Chaponost",
+      "telephone": "04 72 67 95 77"
+    },
+    {
+      "nom_pj": "Arbresle Motos Concept",
+      "adresse_pj": "25 rue Gabriel Péri 69210 L'Arbresle",
+      "code_postal_pj": "69210",
+      "ville_pj": "L'Arbresle",
+      "telephone": "04 74 01 03 88"
+    },
+    {
+      "nom_pj": "Garage Auto Quad Passion",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=55593680&code_localite=N06908500la+lorraine+33+route+lyon&code_rubrique=545800",
+      "adresse_pj": "Za Ferrières 18 rue Forges 69290 Grézieu la Varenne",
+      "code_postal_pj": "69290",
+      "ville_pj": "Grézieu la Varenne",
+      "telephone": "06 64 59 84 32"
+    },
+    {
+      "nom_pj": "CARDY LYON SUD",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=06829310&code_localite=N06908500la+lorraine+33+route+lyon&code_rubrique=259510",
+      "adresse_pj": "130 boulevard Europe 69310 Pierre Bénite",
+      "code_postal_pj": "69310",
+      "ville_pj": "Pierre Bénite"
+    },
+    {
+      "nom_pj": "Dafy Moto",
+      "adresse_pj": "Parc Eclair 26 rue Monseigneur Ancel 69800 Saint Priest",
+      "code_postal_pj": "69800",
+      "ville_pj": "Saint Priest",
+      "telephone": "04 78 70 53 77"
+    },
+    {
+      "nom_pj": "Jourdan Motos",
+      "adresse_pj": "Parc D'activités D'epinay 19 rue Pecheres 69400 Gleizé",
+      "code_postal_pj": "69400",
+      "ville_pj": "Gleizé",
+      "telephone": "04 74 68 27 96"
+    },
+    {
+      "nom_pj": "Jourdan Motos",
+      "adresse_pj": "Parc D'activités D'epinay 19 rue Pecheres 69400 Gleizé",
+      "code_postal_pj": "69400",
+      "ville_pj": "Gleizé",
+      "telephone": "04 74 68 27 96"
+    },
+    {
+      "nom_pj": "MOBYLETTE-VINTAGE",
+      "adresse_pj": "18 rue Voute 69620 Frontenas",
+      "code_postal_pj": "69620",
+      "ville_pj": "Frontenas",
+      "telephone": "07 66 57 56 95"
+    },
+    {
+      "nom_pj": "Laurent Motos 3G",
+      "adresse_pj": "bât B 102 rue Aristide Briand 69800 Saint Priest",
+      "code_postal_pj": "69800",
+      "ville_pj": "Saint Priest",
+      "telephone": "04 78 20 24 29"
+    },
+    {
+      "nom_pj": "M'road Automobiles",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=58968606&code_localite=N06908500la+lorraine+33+route+lyon&code_rubrique=545800",
+      "adresse_pj": "92 rue Anatole France 69800 Saint Priest",
+      "code_postal_pj": "69800",
+      "ville_pj": "Saint Priest",
+      "telephone": "06 64 45 07 25"
+    },
+    {
+      "nom_pj": "B S Motorcycles",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=51344187&code_localite=N06908500la+lorraine+33+route+lyon&code_rubrique=259510",
+      "adresse_pj": "bât Imb69028x018f 102 rue Pré Magne 69126 Brindas",
+      "code_postal_pj": "69126",
+      "ville_pj": "Brindas",
+      "telephone": "04 78 45 44 23"
+    },
+    {
+      "nom_pj": "MH Motos",
+      "adresse_pj": "102 rue Pré Magne 69126 Brindas",
+      "code_postal_pj": "69126",
+      "ville_pj": "Brindas",
+      "telephone": "09 83 92 06 86"
+    },
+    {
+      "nom_pj": "Offroad Performance",
+      "adresse_pj": "140 rue Pré Magne 69126 Brindas",
+      "code_postal_pj": "69126",
+      "ville_pj": "Brindas",
+      "telephone": "06 15 15 24 82"
     }
   ]
 }

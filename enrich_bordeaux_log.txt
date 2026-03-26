@@ -56,4 +56,7 @@ Fichier charge: 727 entreprises
   [Progression sauvegardee: 50/727]
 [51/727] CAP 33 AUTOMOBILE (SIREN: 411517477)... tel=05 56 04 25 63 | web=https://www.allbiz.fr/centre-glass-auto-cap-automo
 [52/727] DAMIEN CASTAGNERA (ALLORAYURES.COM) (SIREN: 493282230)... rien trouve
-[53/727] JALEL JELASSI (SIREN: 100292929)... 
+[53/727] JALEL JELASSI (SIREN: 100292929)... web=https://infonet.fr/dirigeants/66aa96e75da7ac2c4bd4
+[54/727] RAVEZIES AUTOMOBILES (SIREN: 389750993)... rien trouve
+[55/727] NOVAUTO (SIREN: 504187642)... rien trouve
+[56/727] CARROSSERIE ARCOS (SIREN: 793154626)... 
