@@ -8,4 +8,7 @@ Fichier charge: 727 entreprises
 [7/727] CAR WAX (CAR WAX) (SIREN: 444692115)... rien trouve
 [8/727] AUTO VITRAGE BORDEAUX OUEST (AVBO) (AVBO) (SIREN: 491603106)... tel=01 47 78 91 91
 [9/727] BACHIR BENAHMED (SIREN: 393231162)... rien trouve
-[10/727] CARROSSERIE MARC DUMAS (SIREN: 472203900)... 
+[10/727] CARROSSERIE MARC DUMAS (SIREN: 472203900)... rien trouve
+  [Progression sauvegardee: 10/727]
+[11/727] AQUIPAS BERGERAC (SIREN: 518162581)... tel=05 40 25 07 50 | email=contact@aquipas.fr | web=https://www.aquipas.fr/details-prenez+rendez-vous+
+[12/727] GARAGE DE VERDUN (SIREN: 478589955)... 
