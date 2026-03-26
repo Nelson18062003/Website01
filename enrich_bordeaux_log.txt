@@ -129,4 +129,28 @@ Fichier charge: 727 entreprises
 [117/727] GUL NAZARI (NAZARI CAR WASH) (SIREN: 951317742)... tel=06 09 51 94 11 | web=https://infonet.fr/dirigeants/66aa97075da7ac2c4bd7
 [118/727] SLAH GHAZEIL (SIREN: 944712124)... rien trouve
 [119/727] MANUEL BATISTA PEREIRA (SMC AUTO DOMICILE) (SIREN: 941740672)... web=https://app.dataprospects.fr/entreprises/MONSIEUR-
-[120/727] MAUD SAILLAND (CRIC IT UP) (SIREN: 941934770)... 
+[120/727] MAUD SAILLAND (CRIC IT UP) (SIREN: 941934770)... rien trouve
+  [Progression sauvegardee: 120/727]
+[121/727] SAMVEL ARAKELYAN (SAMVEL SERVICES) (SIREN: 929832095)... rien trouve
+[122/727] SOLAIR PROTECT (SIREN: 930384300)... rien trouve
+[123/727] DAJANA BISKUP (BISKUP GLASSGUARD CONSULTING) (SIREN: 930418371)... web=https://infonet.fr/dirigeants/66aa93e25da7ac2c4b9c
+[124/727] AQUIPAS BORDEAUX (GROUPE FRANC DIESEL) (SIREN: 945368553)... tel=05 56 07 07 24 | email=contact@aquipas.fr | web=https://www.aquipas.fr/contact
+[125/727] OWEN MENARD (OWEN AUTO SERVICES) (SIREN: 947696282)... web=https://lesgarages.fr/33/villenave-d-ornon/
+[126/727] KEVIN BRIGTHON (KBM) (SIREN: 935057935)... web=https://www.kbm-service.fr/contact
+[127/727] DAMIEN SALE (L'ATELIER DE L'AUTOMOBILE) (SIREN: 938353646)... tel=01 00 38 10 14 | web=https://icarrosserie.fr/33/bordeaux/l-atelier-de-l
+[128/727] PERTSH HAKHVERDYAN (WILD CARS) (SIREN: 952239002)... web=https://www.en.wildcars.fr/wild-cars
+[129/727] TOM MERIAUX (TOM MERIAUX) (SIREN: 953185154)... web=https://infonet.fr/dirigeants/66aa98885da7ac2c4bf0
+[130/727] KARL CHARLES-ARTIGUES (SIREN: 953919081)... web=https://www.allovoisins.com/p/karlcharlesartigues
+  [Progression sauvegardee: 130/727]
+[131/727] CYRIL PIRIOUA (CYRIL PIRIOUA) (SIREN: 979460045)... web=https://www.artisan-en-ligne.com/artisan-cyril-pir
+[132/727] KEVIN COTTET (FIVE FINGER CLEANER) (SIREN: 980994321)... tel=06 45 05 73 63 | web=https://app.dataprospects.fr/entreprises/MONSIEUR-
+[133/727] MAXIME RONDET (AUTHENTIC CLEAN) (SIREN: 981786395)... rien trouve
+[134/727] NICOLAS RODES COMPAGNIE (NRC) (SIREN: 987709417)... web=https://iodaa.eu/fr/entreprises/987709417-nicolas_
+[135/727] KEVIN DESCHAMPS (DESCHAMPS) (CRYSTAL CAR AQUITAINE) (SIREN: 989160577)... web=https://www.iowasexoffender.gov/
+[136/727] AUTOZEN CLEANING CAR (SIREN: 992811992)... tel=05 53 51 60 45 | web=https://infonet.fr/entreprises/99281199200013-auto
+[137/727] MIRCEA BUTNARU (SIREN: 994361939)... rien trouve
+[138/727] WARREN MURIEL (WARREN KART SERVICES) (SIREN: 999321276)... web=https://kartsystem.com/
+[139/727] JEAN PAYET (JK AUTO974) (SIREN: 100764521)... rien trouve
+[140/727] ADELINE ANNEROSE (ASTIK33) (SIREN: 102164464)... rien trouve
+  [Progression sauvegardee: 140/727]
+[141/727] SEQUEIRA JOSE (SIREN: 431279108)... 

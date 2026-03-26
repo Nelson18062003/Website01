@@ -7954,7 +7954,8 @@
     "code_postal_pj": "69140",
     "ville_pj": "Rillieux la Pape",
     "telephone": "04 78 60 81 13",
-    "search_category": "concession moto"
+    "search_category": "concession moto",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=51974163&code_localite=Z06912300&code_rubrique=259510"
   },
   {
     "nom_pj": "Maxxess Lyon Vénissieux",
@@ -8046,7 +8047,8 @@
     "code_postal_pj": "69150",
     "ville_pj": "Décines Charpieu",
     "telephone": "04 72 37 86 94",
-    "search_category": "concession moto"
+    "search_category": "concession moto",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=62136111&code_localite=Z06912300&code_rubrique=259510"
   },
   {
     "nom_pj": "Run Shot",
@@ -8557,5 +8559,122 @@
     "ville_pj": "Anse",
     "telephone": "04 74 60 23 85",
     "search_category": "reparation moto"
+  },
+  {
+    "nom_pj": "Croix-Rousse Moto",
+    "adresse_pj": "16 rue Tables Claudiennes 69001 Lyon",
+    "code_postal_pj": "69001",
+    "ville_pj": "Lyon",
+    "telephone": "09 82 43 34 70",
+    "search_category": "reparation-motos"
+  },
+  {
+    "nom_pj": "Nomade 69",
+    "adresse_pj": "161 avenue Mar de Saxe 69003 Lyon",
+    "code_postal_pj": "69003",
+    "ville_pj": "Lyon",
+    "telephone": "04 78 60 01 36",
+    "search_category": "reparation-motos"
+  },
+  {
+    "nom_pj": "Akira Motors",
+    "adresse_pj": "21 rue Nuits 69004 Lyon",
+    "code_postal_pj": "69004",
+    "ville_pj": "Lyon",
+    "telephone": "07 49 35 55 77",
+    "search_category": "reparation-motos"
+  },
+  {
+    "nom_pj": "Laurent Motos 3G",
+    "adresse_pj": "bât B 102 rue Aristide Briand 69800 Saint Priest",
+    "code_postal_pj": "69800",
+    "ville_pj": "Saint Priest",
+    "telephone": "04 78 20 24 29",
+    "search_category": "reparation-motos"
+  },
+  {
+    "nom_pj": "EMC Suspension",
+    "adresse_pj": "13 rue Verdun 69100 Villeurbanne",
+    "code_postal_pj": "69100",
+    "ville_pj": "Villeurbanne",
+    "telephone": "04 72 04 26 00",
+    "search_category": "reparation-motos"
+  },
+  {
+    "nom_pj": "Baak",
+    "adresse_pj": "404 chemin Champ de Lière 69140 Rillieux la Pape",
+    "code_postal_pj": "69140",
+    "ville_pj": "Rillieux la Pape",
+    "search_category": "reparation-motos"
+  },
+  {
+    "nom_pj": "Az Destock",
+    "adresse_pj": "14 rue Marius Chardon 69310 Pierre Bénite",
+    "code_postal_pj": "69310",
+    "ville_pj": "Pierre Bénite",
+    "telephone": "07 53 55 14 19",
+    "search_category": "reparation-motos"
+  },
+  {
+    "nom_pj": "Label Occasion",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=50690569&code_localite=Z06912300&code_rubrique=259510",
+    "adresse_pj": "24 rue Aulnes 69760 Limonest",
+    "code_postal_pj": "69760",
+    "ville_pj": "Limonest",
+    "telephone": "04 78 66 08 08",
+    "search_category": "reparation-motos"
+  },
+  {
+    "nom_pj": "The Royal Racer",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=54721840&code_localite=Z06912300&code_rubrique=903310",
+    "adresse_pj": "48 rue Mercière 69002 Lyon",
+    "code_postal_pj": "69002",
+    "ville_pj": "Lyon",
+    "telephone": "04 78 37 18 57",
+    "search_category": "reparation-motos"
+  },
+  {
+    "nom_pj": "Cap Acces",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=08455630&code_localite=Z06912300&code_rubrique=903310",
+    "adresse_pj": "60 chemin Bruyère 69570 Dardilly",
+    "code_postal_pj": "69570",
+    "ville_pj": "Dardilly",
+    "telephone": "04 37 49 09 74",
+    "search_category": "reparation-motos"
+  },
+  {
+    "nom_pj": "Manu Remorquage",
+    "adresse_pj": "36 rue Prof Tavernier 69008 Lyon",
+    "code_postal_pj": "69008",
+    "ville_pj": "Lyon",
+    "telephone": "06 67 18 46 52",
+    "search_category": "reparation-motos"
+  },
+  {
+    "nom_pj": "First Stop RN6 Auto Saint-Priest",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=62450267&code_localite=Z06912300&code_rubrique=902400",
+    "adresse_pj": "200 route Grenoble 69800 Saint Priest",
+    "code_postal_pj": "69800",
+    "ville_pj": "Saint Priest",
+    "telephone": "04 81 65 61 41",
+    "search_category": "reparation-motos"
+  },
+  {
+    "nom_pj": "Lyon Remorquage",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=54631847&code_localite=Z06912300&code_rubrique=902400",
+    "adresse_pj": "9 avenue Annonay 69500 Bron",
+    "code_postal_pj": "69500",
+    "ville_pj": "Bron",
+    "telephone": "09 82 48 44 94",
+    "search_category": "reparation-motos"
+  },
+  {
+    "nom_pj": "First Stop Mondial Pneus Meyzieu",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=06940109&code_localite=Z06912300&code_rubrique=902400",
+    "adresse_pj": "149 rue République 69330 Meyzieu",
+    "code_postal_pj": "69330",
+    "ville_pj": "Meyzieu",
+    "telephone": "04 78 31 42 11",
+    "search_category": "reparation-motos"
   }
 ]

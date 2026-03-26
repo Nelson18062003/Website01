@@ -60,7 +60,7 @@
     "pj_telephone": "03 20 40 20 40",
     "pj_site_web": "",
     "pj_adresse_pj": "1 boulevard Lorraine 59800Lille",
-    "pj_detail_url": ""
+    "pj_detail_url": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=55774038&code_localite=Z05935000&code_rubrique=000220"
   },
   {
     "nom": "STIMCAR FRANCE",
@@ -102,7 +102,7 @@
     "pj_telephone": "03 28 54 12 21",
     "pj_site_web": "",
     "pj_adresse_pj": "130 rue Ypres 59118 Wambrechies",
-    "pj_detail_url": ""
+    "pj_detail_url": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=09185002&code_localite=Z05935000&code_rubrique=259510"
   },
   {
     "nom": "REPAIR AND RUN (REPAIR & RUN)",
@@ -144,7 +144,7 @@
     "pj_telephone": "03 20 26 66 75",
     "pj_site_web": "",
     "pj_adresse_pj": "12 rue Trieu du Quesnoy 59115 Leers",
-    "pj_detail_url": ""
+    "pj_detail_url": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=61805638&code_localite=Z05935000&code_rubrique=388310"
   },
   {
     "nom": "VINETI",
@@ -184,7 +184,7 @@
     "pj_match_score": 85.1,
     "pj_nom_trouve": "Ad Carrosserie Flament Merlin",
     "pj_telephone": "03 20 09 11 60",
-    "pj_site_web": "",
+    "pj_site_web": "https://www.ad.fr/garage/ad-carrosserie-flament-merlin/contact",
     "pj_adresse_pj": "80 boulevard Montebello 59000Lille",
     "pj_detail_url": ""
   },
@@ -375,7 +375,7 @@
     "pj_telephone": "03 20 54 73 61",
     "pj_site_web": "",
     "pj_adresse_pj": "12 rue Eugène Vermersch 59000Lille",
-    "pj_detail_url": ""
+    "pj_detail_url": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=64709941&code_localite=Z05935000&code_rubrique=000220"
   },
   {
     "nom": "SEBASTIEN DEFAUX",
@@ -393,7 +393,7 @@
     "zone_recherche": "Lille",
     "pj_match_score": 70.4,
     "pj_nom_trouve": "Defaux Clément",
-    "pj_telephone": "Opposé aux opérations de marketing09 79 28 06 67",
+    "pj_telephone": "09 79 28 06 67",
     "pj_site_web": "",
     "pj_adresse_pj": "55 r Iéna 59000 Lille",
     "pj_detail_url": "/particuliers/097928066700000000"
@@ -417,7 +417,7 @@
     "pj_telephone": "03 20 93 49 15",
     "pj_site_web": "",
     "pj_adresse_pj": "107 rue Esquermes 59000Lille",
-    "pj_detail_url": ""
+    "pj_detail_url": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00395118&code_localite=Z05935000&code_rubrique=061240"
   },
   {
     "nom": "ANDRE JOUGLARD (RENOVCARS)",
@@ -477,7 +477,7 @@
     "zone_recherche": "Lille",
     "pj_match_score": 75.6,
     "pj_nom_trouve": "ESC TRADING",
-    "pj_telephone": "Opposé aux opérations de marketing03 20 52 45 11",
+    "pj_telephone": "03 20 52 45 11",
     "pj_site_web": "",
     "pj_adresse_pj": "84 rue Marquillies 59000Lille",
     "pj_detail_url": ""
@@ -564,7 +564,7 @@
     "pj_telephone": "03 20 93 49 15",
     "pj_site_web": "",
     "pj_adresse_pj": "107 rue Esquermes 59000Lille",
-    "pj_detail_url": ""
+    "pj_detail_url": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00395118&code_localite=Z05935000&code_rubrique=061240"
   },
   {
     "nom": "RACHID AFRAS (MECA-R)",
@@ -582,7 +582,7 @@
     "zone_recherche": "Lille",
     "pj_match_score": 70.0,
     "pj_nom_trouve": "Afras R",
-    "pj_telephone": "Opposé aux opérations de marketing09 88 06 40 24",
+    "pj_telephone": "09 88 06 40 24",
     "pj_site_web": "",
     "pj_adresse_pj": "",
     "pj_detail_url": "/particuliers/098806402400000000"
@@ -666,7 +666,7 @@
     "zone_recherche": "Lille",
     "pj_match_score": 60.1,
     "pj_nom_trouve": "ESC TRADING",
-    "pj_telephone": "Opposé aux opérations de marketing03 20 52 45 11",
+    "pj_telephone": "03 20 52 45 11",
     "pj_site_web": "",
     "pj_adresse_pj": "84 rue Marquillies 59000Lille",
     "pj_detail_url": ""
@@ -876,7 +876,7 @@
     "zone_recherche": "Lille",
     "pj_match_score": 98.9,
     "pj_nom_trouve": "Garibaldi Mécanique Auto",
-    "pj_telephone": "Opposé aux opérations de marketing03 61 05 73 65",
+    "pj_telephone": "03 61 05 73 65",
     "pj_site_web": "",
     "pj_adresse_pj": "18 rue Garibaldi 59000Lille",
     "pj_detail_url": ""
@@ -1023,7 +1023,7 @@
     "zone_recherche": "Lille",
     "pj_match_score": 76.1,
     "pj_nom_trouve": "Callewaert Cathy",
-    "pj_telephone": "Opposé aux opérations de marketing03 62 65 34 05",
+    "pj_telephone": "03 62 65 34 05",
     "pj_site_web": "",
     "pj_adresse_pj": "59 r Long Pot 59800 Lille",
     "pj_detail_url": "/particuliers/036265340500000000"
@@ -1126,9 +1126,9 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "pj_match_score": 63.8,
+    "pj_match_score": 66.2,
     "pj_nom_trouve": "Federation Francaise Des Motards En Colere Loisirs Lille",
-    "pj_telephone": "",
+    "pj_telephone": "03 20 53 03 33",
     "pj_site_web": "",
     "pj_adresse_pj": "47 rue Alphonse Mercier 59800Lille",
     "pj_detail_url": ""
@@ -1341,7 +1341,7 @@
     "pj_telephone": "03 20 63 99 88",
     "pj_site_web": "",
     "pj_adresse_pj": "32 rue Bapaume 59000Lille",
-    "pj_detail_url": ""
+    "pj_detail_url": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=54322519&code_localite=Z05935000&code_rubrique=061240"
   },
   {
     "nom": "O.Y STATION (O.Y STATION)",
@@ -1441,12 +1441,12 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "pj_match_score": 57.1,
-    "pj_nom_trouve": "",
-    "pj_telephone": "",
+    "pj_match_score": 65.9,
+    "pj_nom_trouve": "Web@uto-Carte Grise",
+    "pj_telephone": "06 66 92 76 41",
     "pj_site_web": "",
-    "pj_adresse_pj": "",
-    "pj_detail_url": ""
+    "pj_adresse_pj": "475 avenue Dunkerque 59000 Lille",
+    "pj_detail_url": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=56288572&code_localite=Z05935000&code_rubrique=061800"
   },
   {
     "nom": "AIGLE AUTO",
@@ -1968,7 +1968,7 @@
     "zone_recherche": "Lille",
     "pj_match_score": 83.0,
     "pj_nom_trouve": "123 Pare-Brise",
-    "pj_telephone": "Accueil rapid pare-brise lomme                            Tél :Opposé aux opérations de marketing03 62 27 94 25",
+    "pj_telephone": "03 62 27 94 25",
     "pj_site_web": "",
     "pj_adresse_pj": "72 rue Fusillés 59160 Capinghem",
     "pj_detail_url": "/pros/detail?code_etablissement=56702475&code_localite=Z05935000&code_rubrique=388310"
@@ -2220,7 +2220,7 @@
     "zone_recherche": "Lille",
     "pj_match_score": 78.3,
     "pj_nom_trouve": "123 Pare-Brise",
-    "pj_telephone": "Accueil rapid pare-brise lomme                            Tél :Opposé aux opérations de marketing03 62 27 94 25",
+    "pj_telephone": "03 62 27 94 25",
     "pj_site_web": "",
     "pj_adresse_pj": "72 rue Fusillés 59160 Capinghem",
     "pj_detail_url": "/pros/detail?code_etablissement=56702475&code_localite=Z05935000&code_rubrique=388310"
@@ -2454,7 +2454,7 @@
     "pj_telephone": "03 20 14 97 18",
     "pj_site_web": "",
     "pj_adresse_pj": "45 rue Alexandre Dhainaut 59120 Loos",
-    "pj_detail_url": ""
+    "pj_detail_url": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=64709941&code_localite=Z05935000&code_rubrique=000220"
   },
   {
     "nom": "N.P.S. (N.P.S.)",
@@ -2598,7 +2598,7 @@
     "zone_recherche": "Lille",
     "pj_match_score": 64.3,
     "pj_nom_trouve": "Mohamed Bousnina",
-    "pj_telephone": "Opposé aux opérations de marketing03 62 52 57 73",
+    "pj_telephone": "03 62 52 57 73",
     "pj_site_web": "",
     "pj_adresse_pj": "3 rue Jules Breton 59000Lille",
     "pj_detail_url": ""
@@ -2724,7 +2724,7 @@
     "zone_recherche": "Lille",
     "pj_match_score": 60.0,
     "pj_nom_trouve": "Mohamed Bousnina",
-    "pj_telephone": "Opposé aux opérations de marketing03 62 52 57 73",
+    "pj_telephone": "03 62 52 57 73",
     "pj_site_web": "",
     "pj_adresse_pj": "3 rue Jules Breton 59000Lille",
     "pj_detail_url": ""
@@ -3165,7 +3165,7 @@
     "zone_recherche": "Lille",
     "pj_match_score": 99.7,
     "pj_nom_trouve": "Mohamed Bousnina",
-    "pj_telephone": "Opposé aux opérations de marketing03 62 52 57 73",
+    "pj_telephone": "03 62 52 57 73",
     "pj_site_web": "",
     "pj_adresse_pj": "3 rue Jules Breton 59000Lille",
     "pj_detail_url": ""
@@ -3312,7 +3312,7 @@
     "zone_recherche": "Lille",
     "pj_match_score": 66.0,
     "pj_nom_trouve": "Rpg Auto Pro",
-    "pj_telephone": "Opposé aux opérations de marketing03 76 05 25 23",
+    "pj_telephone": "03 76 05 25 23",
     "pj_site_web": "",
     "pj_adresse_pj": "20 rue Henri Ghesquière 59390 Lys Lez Lannoy",
     "pj_detail_url": ""
@@ -3357,7 +3357,7 @@
     "pj_telephone": "03 20 93 49 15",
     "pj_site_web": "",
     "pj_adresse_pj": "107 rue Esquermes 59000Lille",
-    "pj_detail_url": ""
+    "pj_detail_url": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00395118&code_localite=Z05935000&code_rubrique=061240"
   },
   {
     "nom": "PLATINIUM CAR",
@@ -3669,7 +3669,7 @@
     "zone_recherche": "Lille",
     "pj_match_score": 67.9,
     "pj_nom_trouve": "123 Pare-Brise",
-    "pj_telephone": "Accueil rapid pare-brise lomme                            Tél :Opposé aux opérations de marketing03 62 27 94 25",
+    "pj_telephone": "03 62 27 94 25",
     "pj_site_web": "",
     "pj_adresse_pj": "72 rue Fusillés 59160 Capinghem",
     "pj_detail_url": "/pros/detail?code_etablissement=56702475&code_localite=Z05935000&code_rubrique=388310"
@@ -3735,7 +3735,7 @@
     "pj_telephone": "06 22 40 33 31",
     "pj_site_web": "",
     "pj_adresse_pj": "8 rue Auguste Bonte 59000Lille",
-    "pj_detail_url": ""
+    "pj_detail_url": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=64709941&code_localite=Z05935000&code_rubrique=000220"
   },
   {
     "nom": "EKO WASH EXPRESS (EKO WASH EXPRESS)",
@@ -4110,7 +4110,7 @@
     "zone_recherche": "Lille",
     "pj_match_score": 65.0,
     "pj_nom_trouve": "Mohamed Bousnina",
-    "pj_telephone": "Opposé aux opérations de marketing03 62 52 57 73",
+    "pj_telephone": "03 62 52 57 73",
     "pj_site_web": "",
     "pj_adresse_pj": "3 rue Jules Breton 59000Lille",
     "pj_detail_url": ""
@@ -4129,11 +4129,11 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Lille",
-    "pj_match_score": 59.9,
-    "pj_nom_trouve": "",
-    "pj_telephone": "",
+    "pj_match_score": 65.2,
+    "pj_nom_trouve": "Bernard Auto Service",
+    "pj_telephone": "03 20 54 73 61",
     "pj_site_web": "",
-    "pj_adresse_pj": "",
+    "pj_adresse_pj": "12 rue Eugène Vermersch 59000 Lille",
     "pj_detail_url": ""
   },
   {
@@ -4446,7 +4446,7 @@
     "zone_recherche": "Lille",
     "pj_match_score": 69.5,
     "pj_nom_trouve": "123 Pare-Brise",
-    "pj_telephone": "Accueil rapid pare-brise lomme                            Tél :Opposé aux opérations de marketing03 62 27 94 25",
+    "pj_telephone": "03 62 27 94 25",
     "pj_site_web": "",
     "pj_adresse_pj": "72 rue Fusillés 59160 Capinghem",
     "pj_detail_url": "/pros/detail?code_etablissement=56702475&code_localite=Z05935000&code_rubrique=388310"
@@ -4887,7 +4887,7 @@
     "zone_recherche": "Lille",
     "pj_match_score": 79.9,
     "pj_nom_trouve": "SAS",
-    "pj_telephone": "Societe papeterie huyghe                            Tél :                            03 20 06 54 41",
+    "pj_telephone": "03 20 06 54 41",
     "pj_site_web": "",
     "pj_adresse_pj": "75 rue Pierre Mauroy 59800Lille",
     "pj_detail_url": ""
@@ -4992,7 +4992,7 @@
     "zone_recherche": "Lille",
     "pj_match_score": 81.4,
     "pj_nom_trouve": "SAS",
-    "pj_telephone": "Societe papeterie huyghe                            Tél :                            03 20 06 54 41",
+    "pj_telephone": "03 20 06 54 41",
     "pj_site_web": "",
     "pj_adresse_pj": "75 rue Pierre Mauroy 59800Lille",
     "pj_detail_url": ""
@@ -5286,7 +5286,7 @@
     "zone_recherche": "Lille",
     "pj_match_score": 67.6,
     "pj_nom_trouve": "Point S",
-    "pj_telephone": "Opposé aux opérations de marketing03 20 21 10 00",
+    "pj_telephone": "03 20 21 10 00",
     "pj_site_web": "",
     "pj_adresse_pj": "821 rue Prévôté 59890 Quesnoy sur Deûle",
     "pj_detail_url": "/pros/detail?code_etablissement=52104201&code_localite=Z05935000&code_rubrique=388310"
@@ -5307,7 +5307,7 @@
     "zone_recherche": "Lille",
     "pj_match_score": 61.0,
     "pj_nom_trouve": "Midas Jercar",
-    "pj_telephone": "Standard                            Tél :                            03 20 54 99 25",
+    "pj_telephone": "03 20 54 99 25",
     "pj_site_web": "",
     "pj_adresse_pj": "112 boulevard Liberté 59800Lille",
     "pj_detail_url": ""
@@ -5475,7 +5475,7 @@
     "zone_recherche": "Lille",
     "pj_match_score": 68.2,
     "pj_nom_trouve": "Auto-ici",
-    "pj_telephone": "Opposé aux opérations de marketing03 20 92 66 77",
+    "pj_telephone": "03 20 92 66 77",
     "pj_site_web": "",
     "pj_adresse_pj": "18 D rue Avelin 59175 Vendeville",
     "pj_detail_url": ""
@@ -5538,7 +5538,7 @@
     "zone_recherche": "Lille",
     "pj_match_score": 100.0,
     "pj_nom_trouve": "Chrono Immat",
-    "pj_telephone": "0 890 21 81 81Service 0,80 € / min + prix appel*Tarifs TTC indicatifs maximum en vigueur au 1er octobre 2015. Le tarif des numéros surtaxés est disponible sur http://www.infosva.org.",
+    "pj_telephone": "",
     "pj_site_web": "http://www.infosva.org",
     "pj_adresse_pj": "109 route Arras 59155 Faches Thumesnil",
     "pj_detail_url": ""
@@ -5583,7 +5583,7 @@
     "pj_telephone": "06 51 86 02 30",
     "pj_site_web": "",
     "pj_adresse_pj": "5 avenue Eugène Varlin 59800Lille",
-    "pj_detail_url": ""
+    "pj_detail_url": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=64762894&code_localite=Z05935000&code_rubrique=061240"
   },
   {
     "nom": "BELLOKAZ",
@@ -5643,7 +5643,7 @@
     "zone_recherche": "Lille",
     "pj_match_score": 90.7,
     "pj_nom_trouve": "SAS",
-    "pj_telephone": "Societe papeterie huyghe                            Tél :                            03 20 06 54 41",
+    "pj_telephone": "03 20 06 54 41",
     "pj_site_web": "",
     "pj_adresse_pj": "75 rue Pierre Mauroy 59800Lille",
     "pj_detail_url": ""
@@ -5811,7 +5811,7 @@
     "zone_recherche": "Lille",
     "pj_match_score": 62.1,
     "pj_nom_trouve": "Saifa Nord Semi Remorque",
-    "pj_telephone": "Commercial                            Tél :                            03 28 55 02 43",
+    "pj_telephone": "03 28 55 02 43",
     "pj_site_web": "",
     "pj_adresse_pj": "rue Descat 59810 Lesquin",
     "pj_detail_url": ""
@@ -5835,7 +5835,7 @@
     "pj_telephone": "03 20 56 84 93",
     "pj_site_web": "",
     "pj_adresse_pj": "230 rue Jacquard Hellemmes Lille 59260Hellemmes",
-    "pj_detail_url": ""
+    "pj_detail_url": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=06007270&code_localite=Z05935000&code_rubrique=061240"
   },
   {
     "nom": "D.VERBAERE AUTOMOBILES",
@@ -6021,7 +6021,7 @@
     "zone_recherche": "Lille",
     "pj_match_score": 70.1,
     "pj_nom_trouve": "DB Automobiles",
-    "pj_telephone": "Opposé aux opérations de marketing03 20 94 26 30",
+    "pj_telephone": "03 20 94 26 30",
     "pj_site_web": "",
     "pj_adresse_pj": "250 rue Tourcoing 59960 Neuville en Ferrain",
     "pj_detail_url": ""
@@ -6042,7 +6042,7 @@
     "zone_recherche": "Lille",
     "pj_match_score": 66.2,
     "pj_nom_trouve": "Car Transit International SARL",
-    "pj_telephone": "Opposé aux opérations de marketing03 20 37 11 45",
+    "pj_telephone": "03 20 37 11 45",
     "pj_site_web": "",
     "pj_adresse_pj": "8 rue Jean Sans Peur 59800Lille",
     "pj_detail_url": ""
@@ -6085,9 +6085,9 @@
     "pj_match_score": 87.5,
     "pj_nom_trouve": "Poids Lourds 59",
     "pj_telephone": "03 20 54 88 74",
-    "pj_site_web": "",
+    "pj_site_web": "http://www.npl-location-poids-lourds.com",
     "pj_adresse_pj": "130 boulevard Liberté 59000Lille",
-    "pj_detail_url": ""
+    "pj_detail_url": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00400472&code_localite=Z05935000&code_rubrique=061240"
   },
   {
     "nom": "SARL EUROCARLAND",
@@ -6129,7 +6129,7 @@
     "pj_telephone": "03 20 72 10 59",
     "pj_site_web": "",
     "pj_adresse_pj": "50 rue Gustave Dubled 59170 Croix",
-    "pj_detail_url": ""
+    "pj_detail_url": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00890687&code_localite=Z05935000&code_rubrique=388310"
   },
   {
     "nom": "YOUNSSE JADIR (AUTO TRUST)",
@@ -6336,7 +6336,7 @@
     "zone_recherche": "Lille",
     "pj_match_score": 61.3,
     "pj_nom_trouve": "Mohamed Bousnina",
-    "pj_telephone": "Opposé aux opérations de marketing03 62 52 57 73",
+    "pj_telephone": "03 62 52 57 73",
     "pj_site_web": "",
     "pj_adresse_pj": "3 rue Jules Breton 59000Lille",
     "pj_detail_url": ""
@@ -6504,7 +6504,7 @@
     "zone_recherche": "Lille",
     "pj_match_score": 63.8,
     "pj_nom_trouve": "Norauto",
-    "pj_telephone": "Siége                            Tél :                            03 20 60 74 74",
+    "pj_telephone": "03 20 60 74 74",
     "pj_site_web": "",
     "pj_adresse_pj": "2 A boulevard Van Gogh 59650 Villeneuve d'Ascq",
     "pj_detail_url": ""
@@ -6609,7 +6609,7 @@
     "zone_recherche": "Lille",
     "pj_match_score": 60.6,
     "pj_nom_trouve": "Mohamed Bousnina",
-    "pj_telephone": "Opposé aux opérations de marketing03 62 52 57 73",
+    "pj_telephone": "03 62 52 57 73",
     "pj_site_web": "",
     "pj_adresse_pj": "3 rue Jules Breton 59000Lille",
     "pj_detail_url": ""
@@ -6633,7 +6633,7 @@
     "pj_telephone": "03 20 63 99 88",
     "pj_site_web": "",
     "pj_adresse_pj": "32 rue Bapaume 59000Lille",
-    "pj_detail_url": ""
+    "pj_detail_url": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=54322519&code_localite=Z05935000&code_rubrique=061240"
   },
   {
     "nom": "4SAUTOMOBILES.FR (4SAUTOMOBILES.FR)",
@@ -6693,10 +6693,10 @@
     "zone_recherche": "Lille",
     "pj_match_score": 71.9,
     "pj_nom_trouve": "DB Automobiles",
-    "pj_telephone": "Opposé aux opérations de marketing03 20 94 26 30",
+    "pj_telephone": "03 20 94 26 30",
     "pj_site_web": "",
     "pj_adresse_pj": "250 rue Tourcoing 59960 Neuville en Ferrain",
-    "pj_detail_url": ""
+    "pj_detail_url": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=12140131&code_localite=Z05935000&code_rubrique=388310"
   },
   {
     "nom": "GGP LOCATION",
@@ -6733,11 +6733,11 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "pj_match_score": 58.4,
-    "pj_nom_trouve": "",
-    "pj_telephone": "",
+    "pj_match_score": 68.5,
+    "pj_nom_trouve": "CAP OCCAZ",
+    "pj_telephone": "03 74 46 01 66",
     "pj_site_web": "",
-    "pj_adresse_pj": "",
+    "pj_adresse_pj": "1 square Utrillo 59150 Wattrelos",
     "pj_detail_url": ""
   },
   {
@@ -6759,7 +6759,7 @@
     "pj_telephone": "03 20 37 58 99",
     "pj_site_web": "",
     "pj_adresse_pj": "268 rue Lille 59250 Halluin",
-    "pj_detail_url": ""
+    "pj_detail_url": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=55906941&code_localite=Z05935000&code_rubrique=142320"
   },
   {
     "nom": "ROMUALD BEAUCOURT (RD AUTOS)",
@@ -6969,7 +6969,7 @@
     "pj_telephone": "03 20 07 50 82",
     "pj_site_web": "",
     "pj_adresse_pj": "5 rue Delesalle 59110 La Madeleine",
-    "pj_detail_url": ""
+    "pj_detail_url": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00398258&code_localite=Z05935000&code_rubrique=388310"
   },
   {
     "nom": "BERTRAND BAUDRY",
@@ -7029,7 +7029,7 @@
     "zone_recherche": "Lille",
     "pj_match_score": 88.6,
     "pj_nom_trouve": "PALINSKI SARL",
-    "pj_telephone": "Standard                            Tél :                            03 20 04 35 05",
+    "pj_telephone": "03 20 04 35 05",
     "pj_site_web": "",
     "pj_adresse_pj": "281 rue Pierre Legrand 59007Lille",
     "pj_detail_url": ""
@@ -7158,7 +7158,7 @@
     "pj_telephone": "03 20 53 51 46",
     "pj_site_web": "",
     "pj_adresse_pj": "260 rue Faubourg d'Arras 59000Lille",
-    "pj_detail_url": ""
+    "pj_detail_url": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=06177785&code_localite=Z05935000&code_rubrique=061240"
   },
   {
     "nom": "GROUPE A.B INDUSTRIES",
@@ -7365,7 +7365,7 @@
     "zone_recherche": "Lille",
     "pj_match_score": 86.5,
     "pj_nom_trouve": "ESC TRADING",
-    "pj_telephone": "Opposé aux opérations de marketing03 20 52 45 11",
+    "pj_telephone": "03 20 52 45 11",
     "pj_site_web": "",
     "pj_adresse_pj": "84 rue Marquillies 59000Lille",
     "pj_detail_url": ""
@@ -7428,7 +7428,7 @@
     "zone_recherche": "Lille",
     "pj_match_score": 91.4,
     "pj_nom_trouve": "SAS",
-    "pj_telephone": "Societe papeterie huyghe                            Tél :                            03 20 06 54 41",
+    "pj_telephone": "03 20 06 54 41",
     "pj_site_web": "",
     "pj_adresse_pj": "75 rue Pierre Mauroy 59800Lille",
     "pj_detail_url": ""
@@ -7449,7 +7449,7 @@
     "zone_recherche": "Lille",
     "pj_match_score": 70.3,
     "pj_nom_trouve": "DB Automobiles",
-    "pj_telephone": "Opposé aux opérations de marketing03 20 94 26 30",
+    "pj_telephone": "03 20 94 26 30",
     "pj_site_web": "",
     "pj_adresse_pj": "250 rue Tourcoing 59960 Neuville en Ferrain",
     "pj_detail_url": ""
@@ -7512,7 +7512,7 @@
     "zone_recherche": "Lille",
     "pj_match_score": 76.9,
     "pj_nom_trouve": "ESC TRADING",
-    "pj_telephone": "Opposé aux opérations de marketing03 20 52 45 11",
+    "pj_telephone": "03 20 52 45 11",
     "pj_site_web": "",
     "pj_adresse_pj": "84 rue Marquillies 59000Lille",
     "pj_detail_url": ""
@@ -7659,7 +7659,7 @@
     "zone_recherche": "Lille",
     "pj_match_score": 69.1,
     "pj_nom_trouve": "Mohamed Bousnina",
-    "pj_telephone": "Opposé aux opérations de marketing03 62 52 57 73",
+    "pj_telephone": "03 62 52 57 73",
     "pj_site_web": "",
     "pj_adresse_pj": "3 rue Jules Breton 59000Lille",
     "pj_detail_url": ""
@@ -7683,7 +7683,7 @@
     "pj_telephone": "03 20 80 38 76",
     "pj_site_web": "",
     "pj_adresse_pj": "Entree 2 48 rue Boutillerie 59150 Wattrelos",
-    "pj_detail_url": ""
+    "pj_detail_url": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=50044669&code_localite=Z05935000&code_rubrique=061240"
   },
   {
     "nom": "ABDOULAYE LAM",
@@ -7827,7 +7827,7 @@
     "zone_recherche": "Lille",
     "pj_match_score": 73.0,
     "pj_nom_trouve": "DB Automobiles",
-    "pj_telephone": "Opposé aux opérations de marketing03 20 94 26 30",
+    "pj_telephone": "03 20 94 26 30",
     "pj_site_web": "",
     "pj_adresse_pj": "250 rue Tourcoing 59960 Neuville en Ferrain",
     "pj_detail_url": ""
@@ -8331,7 +8331,7 @@
     "zone_recherche": "Lille",
     "pj_match_score": 70.7,
     "pj_nom_trouve": "DB Automobiles",
-    "pj_telephone": "Opposé aux opérations de marketing03 20 94 26 30",
+    "pj_telephone": "03 20 94 26 30",
     "pj_site_web": "",
     "pj_adresse_pj": "250 rue Tourcoing 59960 Neuville en Ferrain",
     "pj_detail_url": ""
@@ -8397,7 +8397,7 @@
     "pj_telephone": "03 20 53 51 46",
     "pj_site_web": "",
     "pj_adresse_pj": "260 rue Faubourg d'Arras 59000Lille",
-    "pj_detail_url": ""
+    "pj_detail_url": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=50044669&code_localite=Z05935000&code_rubrique=061240"
   },
   {
     "nom": "JORDAN BIBAUT (BJ AUTOMOBILE)",
@@ -8602,11 +8602,11 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "pj_match_score": 55.6,
-    "pj_nom_trouve": "",
-    "pj_telephone": "",
+    "pj_match_score": 68.10000000000001,
+    "pj_nom_trouve": "Yasmine Mameche",
+    "pj_telephone": "09 80 46 40 03",
     "pj_site_web": "",
-    "pj_adresse_pj": "",
+    "pj_adresse_pj": "27 rue Célestines 59800 Lille",
     "pj_detail_url": ""
   },
   {
@@ -8959,11 +8959,11 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Lille",
-    "pj_match_score": 58.3,
-    "pj_nom_trouve": "",
-    "pj_telephone": "",
+    "pj_match_score": 69.3,
+    "pj_nom_trouve": "KML Autos",
+    "pj_telephone": "06 50 71 75 89",
     "pj_site_web": "",
-    "pj_adresse_pj": "",
+    "pj_adresse_pj": "3 rue Mirabeau 59800 Lille",
     "pj_detail_url": ""
   },
   {
@@ -9486,7 +9486,7 @@
     "zone_recherche": "Lille",
     "pj_match_score": 68.4,
     "pj_nom_trouve": "Mohamed Bousnina",
-    "pj_telephone": "Opposé aux opérations de marketing03 62 52 57 73",
+    "pj_telephone": "03 62 52 57 73",
     "pj_site_web": "",
     "pj_adresse_pj": "3 rue Jules Breton 59000Lille",
     "pj_detail_url": ""
@@ -9549,7 +9549,7 @@
     "zone_recherche": "Lille",
     "pj_match_score": 70.6,
     "pj_nom_trouve": "BEL CARS",
-    "pj_telephone": "Vanmeerhaeghe barbara bel cars                            Tél :Opposé aux opérations de marketing03 62 13 46 52",
+    "pj_telephone": "03 62 13 46 52",
     "pj_site_web": "",
     "pj_adresse_pj": "12 rue La Pérouse 59200 Tourcoing",
     "pj_detail_url": ""
@@ -10014,7 +10014,7 @@
     "pj_telephone": "03 20 53 51 46",
     "pj_site_web": "",
     "pj_adresse_pj": "260 rue Faubourg d'Arras 59000Lille",
-    "pj_detail_url": ""
+    "pj_detail_url": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=50044669&code_localite=Z05935000&code_rubrique=061240"
   },
   {
     "nom": "ERUDIT AUTOMOBILE",
@@ -10035,7 +10035,7 @@
     "pj_telephone": "09 70 46 67 90",
     "pj_site_web": "",
     "pj_adresse_pj": "24 rue Fondeurs 59100 Roubaix",
-    "pj_detail_url": ""
+    "pj_detail_url": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=55035118&code_localite=Z05935000&code_rubrique=388310"
   },
   {
     "nom": "ARISTOCAR (ARISTOCAR)",
@@ -10074,7 +10074,7 @@
     "zone_recherche": "Lille",
     "pj_match_score": 67.0,
     "pj_nom_trouve": "CAR OTO",
-    "pj_telephone": "Henni yacine                            Tél :Opposé aux opérations de marketing03 74 69 05 83",
+    "pj_telephone": "03 74 69 05 83",
     "pj_site_web": "",
     "pj_adresse_pj": "10 rue Dronckaert 59223 Roncq",
     "pj_detail_url": ""
@@ -10095,7 +10095,7 @@
     "zone_recherche": "Lille",
     "pj_match_score": 61.3,
     "pj_nom_trouve": "TOP MOBILITE",
-    "pj_telephone": "Top mobilite elguebli mohamed                            Tél :Opposé aux opérations de marketing03 61 97 95 50",
+    "pj_telephone": "03 61 97 95 50",
     "pj_site_web": "",
     "pj_adresse_pj": "82 rue Artois 59000Lille",
     "pj_detail_url": ""
@@ -10347,7 +10347,7 @@
     "zone_recherche": "Lille",
     "pj_match_score": 72.8,
     "pj_nom_trouve": "DB Automobiles",
-    "pj_telephone": "Opposé aux opérations de marketing03 20 94 26 30",
+    "pj_telephone": "03 20 94 26 30",
     "pj_site_web": "",
     "pj_adresse_pj": "250 rue Tourcoing 59960 Neuville en Ferrain",
     "pj_detail_url": ""
@@ -10644,7 +10644,7 @@
     "pj_telephone": "03 20 93 24 24",
     "pj_site_web": "",
     "pj_adresse_pj": "938 avenue Dunkerque  59160 Lomme",
-    "pj_detail_url": ""
+    "pj_detail_url": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00401655&code_localite=Z05935000&code_rubrique=061240"
   },
   {
     "nom": "STEPHANE VIGOT",
@@ -10959,7 +10959,7 @@
     "pj_telephone": "03 20 53 51 46",
     "pj_site_web": "",
     "pj_adresse_pj": "260 rue Faubourg d'Arras 59000Lille",
-    "pj_detail_url": ""
+    "pj_detail_url": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=50044669&code_localite=Z05935000&code_rubrique=061240"
   },
   {
     "nom": "ABDELHAKIM SALHI",
@@ -11061,10 +11061,10 @@
     "zone_recherche": "Lille",
     "pj_match_score": 70.9,
     "pj_nom_trouve": "DB Automobiles",
-    "pj_telephone": "Opposé aux opérations de marketing03 20 94 26 30",
+    "pj_telephone": "03 20 94 26 30",
     "pj_site_web": "",
     "pj_adresse_pj": "250 rue Tourcoing 59960 Neuville en Ferrain",
-    "pj_detail_url": ""
+    "pj_detail_url": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=61658295&code_localite=Z05935000&code_rubrique=061240"
   },
   {
     "nom": "EURL VASSEUR",
@@ -11187,7 +11187,7 @@
     "zone_recherche": "Lille",
     "pj_match_score": 62.0,
     "pj_nom_trouve": "TOP MOBILITE",
-    "pj_telephone": "Top mobilite elguebli mohamed                            Tél :Opposé aux opérations de marketing03 61 97 95 50",
+    "pj_telephone": "03 61 97 95 50",
     "pj_site_web": "",
     "pj_adresse_pj": "82 rue Artois 59000Lille",
     "pj_detail_url": ""
@@ -11334,7 +11334,7 @@
     "zone_recherche": "Lille",
     "pj_match_score": 82.4,
     "pj_nom_trouve": "L'Agence Automobilière BL2L",
-    "pj_telephone": "Agence lille englos                            Tél :                            03 20 11 02 52",
+    "pj_telephone": "03 20 11 02 52",
     "pj_site_web": "",
     "pj_adresse_pj": "1 Zamin 3ème Avenue  59160 Lomme",
     "pj_detail_url": ""
@@ -11988,7 +11988,7 @@
     "pj_telephone": "03 20 06 63 53",
     "pj_site_web": "",
     "pj_adresse_pj": "Zac De L'epinette rue Artisanat 59113 Seclin",
-    "pj_detail_url": ""
+    "pj_detail_url": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00395500&code_localite=Z05935000&code_rubrique=259510"
   },
   {
     "nom": "BRH MOTOS PLUS",
@@ -12051,7 +12051,7 @@
     "pj_telephone": "03 66 19 15 60",
     "pj_site_web": "",
     "pj_adresse_pj": "15 rue Gustave Delory 59800Lille",
-    "pj_detail_url": ""
+    "pj_detail_url": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=51947178&code_localite=Z05935000&code_rubrique=259510"
   },
   {
     "nom": "ACCESS LAND",
@@ -12240,7 +12240,7 @@
     "pj_telephone": "03 66 19 15 60",
     "pj_site_web": "",
     "pj_adresse_pj": "15 rue Gustave Delory 59800Lille",
-    "pj_detail_url": ""
+    "pj_detail_url": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=56417481&code_localite=Z05935000&code_rubrique=259510"
   },
   {
     "nom": "MASTEREX (MASTEREX)",
@@ -12279,7 +12279,7 @@
     "zone_recherche": "Lille",
     "pj_match_score": 98.8,
     "pj_nom_trouve": "TOP MOBILITE",
-    "pj_telephone": "Top mobilite elguebli mohamed                            Tél :Opposé aux opérations de marketing03 61 97 95 50",
+    "pj_telephone": "03 61 97 95 50",
     "pj_site_web": "",
     "pj_adresse_pj": "82 rue Artois 59000Lille",
     "pj_detail_url": ""
@@ -12426,7 +12426,7 @@
     "zone_recherche": "Lille",
     "pj_match_score": 64.7,
     "pj_nom_trouve": "Racing Kart JPR",
-    "pj_telephone": "Opposé aux opérations de marketing03 27 89 90 50",
+    "pj_telephone": "03 27 89 90 50",
     "pj_site_web": "",
     "pj_adresse_pj": "D354 Circuit de Karting 59162 Ostricourt",
     "pj_detail_url": ""
@@ -12445,11 +12445,11 @@
     "effectif": "NN",
     "categorie": "moto",
     "zone_recherche": "Lille",
-    "pj_match_score": 57.3,
-    "pj_nom_trouve": "",
-    "pj_telephone": "",
+    "pj_match_score": 71.89999999999999,
+    "pj_nom_trouve": "TOP MOBILITE",
+    "pj_telephone": "03 61 97 95 50",
     "pj_site_web": "",
-    "pj_adresse_pj": "",
+    "pj_adresse_pj": "82 rue Artois 59000 Lille",
     "pj_detail_url": ""
   }
 ]
