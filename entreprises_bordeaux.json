@@ -1,27 +1,59 @@
 {
+  "metadata": {
+    "source": "API Recherche Entreprises (api.gouv.fr)",
+    "commune": "Bordeaux",
+    "code_insee": "33063",
+    "date_extraction": "2026-03-26",
+    "description": "Entreprises automobiles et moto ayant une activite a Bordeaux (siege ou etablissement)"
+  },
   "resume": {
-    "garage": {
-      "naf": "45.20A",
-      "total": 462,
-      "extracted": 462
+    "total_toutes_entreprises": 1311,
+    "total_siege_bordeaux": 918,
+    "par_categorie_toutes": {
+      "garage": {
+        "total": 462,
+        "actifs": 278,
+        "fermes_ou_cesses": 184
+      },
+      "concession": {
+        "total": 764,
+        "actifs": 408,
+        "fermes_ou_cesses": 356
+      },
+      "carrossier": {
+        "total": 13,
+        "actifs": 8,
+        "fermes_ou_cesses": 5
+      },
+      "moto": {
+        "total": 72,
+        "actifs": 47,
+        "fermes_ou_cesses": 25
+      }
     },
-    "concession": {
-      "naf": "45.11Z",
-      "total": 764,
-      "extracted": 764
-    },
-    "carrossier": {
-      "naf": "45.20B",
-      "total": 13,
-      "extracted": 13
-    },
-    "moto": {
-      "naf": "45.40Z",
-      "total": 72,
-      "extracted": 72
+    "par_categorie_siege_bordeaux": {
+      "garage": {
+        "total": 316,
+        "actifs": 195,
+        "fermes_ou_cesses": 121
+      },
+      "concession": {
+        "total": 537,
+        "actifs": 270,
+        "fermes_ou_cesses": 267
+      },
+      "carrossier": {
+        "total": 10,
+        "actifs": 8,
+        "fermes_ou_cesses": 2
+      },
+      "moto": {
+        "total": 55,
+        "actifs": 35,
+        "fermes_ou_cesses": 20
+      }
     }
   },
-  "total_entreprises": 1311,
   "entreprises": [
     {
       "nom": "LAVANCE EXPLOITATION",
