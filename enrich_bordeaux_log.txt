@@ -158,4 +158,8 @@ Fichier charge: 727 entreprises
 [143/727] R.M.AUTO-NEUF (SIREN: 510820103)... tel=05 56 24 24 61 | email=ac@merignacauto.fr | web=https://www.merignacauto.fr/contact/
 [144/727] MAXIME POULIQUEN (SIREN: 524252962)... tel=03 44 28 25 39 | web=https://infonet.fr/dirigeants/66aa34cc5da7ac2c4b28
 [145/727] CARROSSERIE DULAMON (SIREN: 390896785)... rien trouve
-[146/727] JACQUES CHENNEBAULT (SIREN: 303923452)... 
+[146/727] JACQUES CHENNEBAULT (SIREN: 303923452)... web=http://www.numero-pro.fr/numero-inverse/Chennebaul
+[147/727] OLIVIER REY (SIREN: 534703368)... web=https://www.yumpu.com/fr/document/view/17091762/ai
+[148/727] MIRCEA POP (SIREN: 793753609)... web=http://mircea-pop.com/
+[149/727] MEHDI ZEMMOURI (AUTO MD) (SIREN: 789921087)... tel=06 29 88 32 95 | web=https://autoselect33.auto-gestion.net/
+[150/727] GARAGE PHILIPPE PEREZ (SIREN: 403606932)... 
