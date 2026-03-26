@@ -118,4 +118,7 @@ Fichier charge: 727 entreprises
 [107/727] CHRISTOPHER CHOUC (AC-NETTOYAGE) (SIREN: 849104419)... web=https://nettoyagentretien.com/ville/carbon-blanc_3
 [108/727] CHRISTINE BENBELGACEM (MOIZEAU) ([ND]) (SIREN: 880831623)... rien trouve
 [109/727] ABS AUTO MECA PNEU (ABS AUTO MECA PNEU) (SIREN: 921343596)... tel=05 57 85 85 00 | web=https://lesgarages.fr/33/bordeaux/abs-auto-meca-pn
-[110/727] JIMMY LEEMAN (SIREN: 921553905)... 
+[110/727] JIMMY LEEMAN (SIREN: 921553905)... rien trouve
+  [Progression sauvegardee: 110/727]
+[111/727] KY AUTO (KY AUTO) (SIREN: 922501622)... web=https://www.applivoiture.fr/garages/eysines-33320/
+[112/727] THOMAS KOUMDA-LACHAUD (SIREN: 924180334)... 
