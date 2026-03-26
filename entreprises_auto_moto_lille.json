@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "description": "Entreprises automobiles et moto situees a Lille (siege social a Lille)",
+    "source": "API recherche-entreprises.api.gouv.fr",
+    "commune_insee": "59350",
+    "date_extraction": "2026-03-26",
+    "codes_naf": ["45.20A", "45.11Z", "45.20B", "45.40Z"],
+    "total_entreprises": 0,
+    "total_par_categorie": {
+      "garage": 0,
+      "concession": 0,
+      "carrossier": 0,
+      "moto": 0
+    }
+  },
+  "entreprises": []
+}
