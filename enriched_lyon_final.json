@@ -45,14 +45,14 @@
     "effectif": "02",
     "categorie": "garage",
     "zone_recherche": "Lyon",
-    "telephone": "04 78 30 44 88",
+    "telephone": "09 82 43 34 70",
     "site_web": "",
-    "nom_pj": "CROIX ROUSSE PARRA",
-    "adresse_pj": "31 rue Cuire 69004 Lyon",
+    "nom_pj": "Croix-Rousse Moto",
+    "adresse_pj": "16 rue Tables Claudiennes 69001 Lyon",
     "ville_pj": "Lyon",
-    "code_postal_pj": "69004",
+    "code_postal_pj": "69001",
     "url_pj": "",
-    "match_score": 0.797,
+    "match_score": 1.287,
     "enrichi": true
   },
   {
@@ -3053,7 +3053,15 @@
     "effectif": "01",
     "categorie": "garage",
     "zone_recherche": "Lyon",
-    "enrichi": false
+    "telephone": "07 49 35 55 77",
+    "site_web": "",
+    "nom_pj": "Akira Motors",
+    "adresse_pj": "21 rue Nuits 69004 Lyon",
+    "ville_pj": "Lyon",
+    "code_postal_pj": "69004",
+    "url_pj": "",
+    "match_score": 0.705,
+    "enrichi": true
   },
   {
     "nom": "STANISLAS VILLARET LIGER DE CHAUVAGNY SPECTY (SPECTY)",
@@ -11863,12 +11871,12 @@
     "zone_recherche": "Lyon",
     "telephone": "04 78 60 01 36",
     "site_web": "",
-    "nom_pj": "Nomade 69Connu sous : Moto Guzzi Nomade 69",
+    "nom_pj": "Nomade 69",
     "adresse_pj": "161 avenue Mar de Saxe 69003 Lyon",
     "ville_pj": "Lyon",
     "code_postal_pj": "69003",
     "url_pj": "",
-    "match_score": 0.68,
+    "match_score": 1.059,
     "enrichi": true
   },
   {

@@ -154,4 +154,8 @@ Fichier charge: 727 entreprises
 [140/727] ADELINE ANNEROSE (ASTIK33) (SIREN: 102164464)... rien trouve
   [Progression sauvegardee: 140/727]
 [141/727] SEQUEIRA JOSE (SIREN: 431279108)... tel=05 57 22 85 85 | web=https://icarrosserie.fr/33/bordeaux/sequeira-jose-
-[142/727] CARROSSERIE T. MARQUES (SIREN: 512792599)... 
+[142/727] CARROSSERIE T. MARQUES (SIREN: 512792599)... web=https://icarrosserie.fr/33/bordeaux/marques-thierr
+[143/727] R.M.AUTO-NEUF (SIREN: 510820103)... tel=05 56 24 24 61 | email=ac@merignacauto.fr | web=https://www.merignacauto.fr/contact/
+[144/727] MAXIME POULIQUEN (SIREN: 524252962)... tel=03 44 28 25 39 | web=https://infonet.fr/dirigeants/66aa34cc5da7ac2c4b28
+[145/727] CARROSSERIE DULAMON (SIREN: 390896785)... rien trouve
+[146/727] JACQUES CHENNEBAULT (SIREN: 303923452)... 
