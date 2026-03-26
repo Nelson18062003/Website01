@@ -107,16 +107,38 @@ def is_valid_phone(phone):
     return True
 
 
+def strip_html_noise(html):
+    """Remove SVG paths, style blocks, script blocks, and other noise before extraction."""
+    # Remove SVG content
+    html = re.sub(r'<svg[^>]*>.*?</svg>', ' ', html, flags=re.DOTALL | re.IGNORECASE)
+    # Remove path d="" attributes
+    html = re.sub(r'\bd="[^"]*"', ' ', html)
+    # Remove style blocks
+    html = re.sub(r'<style[^>]*>.*?</style>', ' ', html, flags=re.DOTALL | re.IGNORECASE)
+    # Remove script blocks
+    html = re.sub(r'<script[^>]*>.*?</script>', ' ', html, flags=re.DOTALL | re.IGNORECASE)
+    return html
+
+
 def extract_phones(html):
     """Extrait les numeros de telephone d'une page HTML."""
     phones = []
+
+    # First: high-confidence extraction from href="tel:" links (before stripping)
+    for match in re.finditer(r'href="tel:((?:0|\+33|33)[\s.-]*[1-9](?:[\s.-]*\d{2}){4})"', html, re.IGNORECASE):
+        cleaned = clean_phone(match.group(1))
+        if cleaned and is_valid_phone(cleaned) and cleaned not in phones:
+            phones.append(cleaned)
+
+    # Strip noise for pattern-based extraction
+    clean_html = strip_html_noise(html)
+
     patterns = [
-        r'href="tel:((?:0|\+33|33)[\s.-]*[1-9](?:[\s.-]*\d{2}){4})"',
         r'(?:tel|phone|telephone|téléphone|tél)["\s:=]*[+]?[\s]*((?:0|\+33|33)[\s.-]*[1-9](?:[\s.-]*\d{2}){4})',
         r'(?<!\d)(0[1-9][\s.-]?\d{2}[\s.-]?\d{2}[\s.-]?\d{2}[\s.-]?\d{2})(?!\d)',
     ]
     for pattern in patterns:
-        for match in re.finditer(pattern, html, re.IGNORECASE):
+        for match in re.finditer(pattern, clean_html, re.IGNORECASE):
             cleaned = clean_phone(match.group(1) if match.lastindex else match.group(0))
             if cleaned and is_valid_phone(cleaned) and cleaned not in phones:
                 phones.append(cleaned)
@@ -133,7 +155,9 @@ def extract_emails(html):
             'bootstrap', 'noreply', 'no-reply', 'placeholder',
             'pappers.fr', 'societe.com', 'pagesjaunes', 'cloudflare',
             'schema.org', 'cookie', 'privacy', 'unsubscribe',
-            'email@email', 'test@test', 'info@info']
+            'email@email', 'test@test', 'info@info',
+            'duckduckgo.com', 'bing.com', 'yahoo.com', 'outlook.com',
+            'hotmail.com', 'live.com', 'msn.com']
     for match in re.finditer(pattern, html):
         email = match.group(0).lower()
         # Rejeter les emails obfusques (hash longs)
@@ -146,9 +170,20 @@ def extract_emails(html):
     return emails
 
 
-def extract_websites(html, nom_entreprise=""):
-    """Extrait les sites web d'une page HTML."""
-    sites = []
+def is_company_website(url):
+    """Verifie qu'une URL est bien un site d'entreprise, pas un ad/service."""
+    url_lower = url.lower()
+
+    # Reject URLs with tracking/partner patterns
+    reject_path_patterns = [
+        'partenaire', 'utm_', 'affiliate', 'partner', 'sponsor',
+        'lp-partenaire', 'campaign', 'promo', 'ad/', 'ads/',
+        'click', 'track', 'redirect'
+    ]
+    if any(p in url_lower for p in reject_path_patterns):
+        return False
+
+    # Domain blacklist (comprehensive)
     skip_domains = [
         'societe.com', 'annuaire.com', 'pagesjaunes.fr', 'google.',
         'facebook.com', 'twitter.com', 'linkedin.com', 'instagram.com',
@@ -165,7 +200,7 @@ def extract_websites(html, nom_entreprise=""):
         'sourcepoint.com', 'quantcast.com', 'hotjar.com', 'hubspot.',
         'doubleclick.net', 'adsrvr.org', 'taboola.com', 'outbrain.com',
         'cdn-cgi', 'unpkg.com', 'cdnjs.', 'maxcdn.', 'jsdelivr.',
-        'duckduckgo.com', 'tiktok.com', 'snapchat.com', 'pinterest.',
+        'tiktok.com', 'snapchat.com', 'pinterest.',
         'reddit.com', 'trustpilot.com', 'glassdoor.', 'indeed.',
         'pole-emploi.fr', 'leboncoin.fr', 'lafourchette.com',
         'swapn.fr', 'qwant.com', 'ecosia.org', 'startpage.com',
@@ -174,12 +209,46 @@ def extract_websites(html, nom_entreprise=""):
         'greffe-tc', 'dfrancais.fr', 'figaro.fr', 'lemonde.fr',
         'l-expert-comptable.com', 'expert-comptable', 'legalstart',
         'legalplace', 'captaincontrat', 'shine.fr', 'blank.app',
-        'qonto.com', 'pennylane.', 'tiime.fr', 'numbr.co'
+        'qonto.com', 'pennylane.', 'tiime.fr', 'numbr.co',
+        'getbunq.app', 'bunq.', 'revolut.', 'n26.com', 'sumup.',
+        'paypal.', 'stripe.', 'mollie.', 'gocardless.',
+        'sendinblue.', 'brevo.com', 'mailchimp.', 'mailjet.',
+        'typeform.', 'jotform.', 'calendly.', 'docusign.',
+        'impayes.com', 'creancier.', 'recouvrement-amiable.',
+        'infolegale.fr', 'altares.com', 'coface.', 'creditorwatch.',
+        'bilans.net', 'bilans-gratuits', 'comptedesresultats.',
+        'avis-situation-sirene', 'boamp.fr', 'marches-publics.',
     ]
+    domain = urllib.parse.urlparse(url).netloc.lower()
+    if any(d in domain for d in skip_domains):
+        return False
 
-    # Pattern 1: liens marques comme site web
+    return True
+
+
+def extract_websites(html, nom_entreprise=""):
+    """Extrait les sites web d'une page HTML. Privilegia les sources fiables."""
+    sites = []
+
+    # Priority 1: JSON-LD structured data (most reliable)
+    for m in re.finditer(r'<script[^>]*type="application/ld\+json"[^>]*>(.*?)</script>', html, re.DOTALL | re.IGNORECASE):
+        try:
+            content = m.group(1).replace('//<![CDATA[', '').replace('//]]>', '').strip()
+            data = json.loads(content)
+            # Look for company URL in schema.org data
+            if isinstance(data, dict):
+                org_url = data.get("url", "")
+                if org_url and data.get("@type") in ("LocalBusiness", "AutoRepair", "AutoDealer", "Organization", "Store"):
+                    # This is likely the company's own URL
+                    if is_company_website(org_url):
+                        if org_url not in sites:
+                            sites.append(org_url)
+        except (json.JSONDecodeError, ValueError):
+            pass
+
+    # Priority 2: Explicit "site web" labels
     patterns_labeled = [
-        r'(?:site[_ ]?web|site[_ ]?internet|website|url)["\s:=]*(?:<[^>]*href=")?(?:https?://)?((?:www\.)?[a-zA-Z0-9][\w.-]*\.[a-zA-Z]{2,}(?:/[^\s"<]*)?)',
+        r'(?:site[_ ]?web|site[_ ]?internet|website)["\s:=]*(?:<[^>]*href=")?(?:https?://)?((?:www\.)?[a-zA-Z0-9][\w.-]*\.[a-zA-Z]{2,}(?:/[^\s"<]*)?)',
         r'href="(https?://(?:www\.)?[a-zA-Z0-9][\w.-]*\.[a-zA-Z]{2,}(?:/[^\s"<]*)?)"[^>]*>(?:[^<]*(?:site|web|visit))',
     ]
     for pattern in patterns_labeled:
@@ -187,18 +256,45 @@ def extract_websites(html, nom_entreprise=""):
             site = match.group(1)
             if not site.startswith("http"):
                 site = "https://" + site
-            domain = urllib.parse.urlparse(site).netloc.lower()
-            if not any(d in domain for d in skip_domains):
-                if site not in sites:
-                    sites.append(site)
-
-    # Pattern 2: any https link in the page (lower priority)
-    for match in re.finditer(r'href="(https?://(?:www\.)?[a-zA-Z0-9][\w.-]+\.[a-zA-Z]{2,}[^"]*)"', html):
-        site = match.group(1)
-        domain = urllib.parse.urlparse(site).netloc.lower()
-        if not any(d in domain for d in skip_domains):
-            if site not in sites:
+            if is_company_website(site) and site not in sites:
                 sites.append(site)
+
+    return sites
+
+
+def extract_websites_from_search(html):
+    """Extract websites from search engine results (DuckDuckGo/Bing).
+    More permissive than extract_websites since search results contain company links."""
+    sites = []
+
+    # DuckDuckGo result links
+    for match in re.finditer(r'class="result__url"[^>]*href="(https?://[^"]+)"', html):
+        site = match.group(1)
+        if is_company_website(site) and site not in sites:
+            sites.append(site)
+
+    # DuckDuckGo result snippets with URLs
+    for match in re.finditer(r'class="result__a"[^>]*href="(https?://[^"]+)"', html):
+        site = match.group(1)
+        # Clean DuckDuckGo redirect
+        if 'duckduckgo.com' in site:
+            m = re.search(r'[?&]uddg=(https?://[^&]+)', site)
+            if m:
+                site = urllib.parse.unquote(m.group(1))
+        if is_company_website(site) and site not in sites:
+            sites.append(site)
+
+    # Bing result links
+    for match in re.finditer(r'<cite[^>]*>(https?://[^<]+)</cite>', html):
+        site = match.group(1).strip()
+        if is_company_website(site) and site not in sites:
+            sites.append(site)
+
+    # Generic href links as fallback for search results
+    for match in re.finditer(r'href="(https?://(?:www\.)?[a-zA-Z0-9][\w.-]+\.[a-zA-Z]{2,}/?)"', html):
+        site = match.group(1)
+        if is_company_website(site) and site not in sites:
+            sites.append(site)
 
     return sites
 
@@ -236,7 +332,8 @@ def search_annuaire_entreprises_api(siren):
 
 
 def search_societe_com(siren):
-    """Recherche sur societe.com par SIREN."""
+    """Recherche sur societe.com par SIREN.
+    Only extracts from JSON-LD / explicit 'site web' labels (not generic links)."""
     result = {"telephone": "", "email": "", "site_web": ""}
     if not siren:
         return result
@@ -254,6 +351,7 @@ def search_societe_com(siren):
     if emails:
         result["email"] = emails[0]
 
+    # Only use structured/labeled extraction for societe.com (too many ads)
     sites = extract_websites(html)
     if sites:
         result["site_web"] = sites[0]
@@ -307,7 +405,8 @@ def search_duckduckgo(nom, ville):
     if emails:
         result["email"] = emails[0]
 
-    sites = extract_websites(html, nom)
+    # Use search-specific extraction for DDG
+    sites = extract_websites_from_search(html)
     if sites:
         result["site_web"] = sites[0]
 
@@ -331,7 +430,8 @@ def search_bing(nom, ville):
     if emails:
         result["email"] = emails[0]
 
-    sites = extract_websites(html, nom)
+    # Use search-specific extraction for Bing
+    sites = extract_websites_from_search(html)
     if sites:
         result["site_web"] = sites[0]
 
