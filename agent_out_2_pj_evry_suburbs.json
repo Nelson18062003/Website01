@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "source": "Pages Jaunes",
+    "date": "2026-03-27",
+    "zone": "Banlieue d'Évry (91)",
+    "total": 0
+  },
+  "summary": {
+    "Corbeil-Essonnes": {
+      "garage+automobile": 0,
+      "concession+automobile": 0,
+      "carrosserie+automobile": 0,
+      "garage+moto": 0,
+      "concession+moto": 0
+    },
+    "Ris-Orangis": {
+      "garage+automobile": 0,
+      "concession+automobile": 0,
+      "carrosserie+automobile": 0,
+      "garage+moto": 0,
+      "concession+moto": 0
+    },
+    "Lisses": {
+      "garage+automobile": 0,
+      "concession+automobile": 0,
+      "carrosserie+automobile": 0,
+      "garage+moto": 0,
+      "concession+moto": 0
+    },
+    "Bondoufle": {
+      "garage+automobile": 0,
+      "concession+automobile": 0,
+      "carrosserie+automobile": 0,
+      "garage+moto": 0,
+      "concession+moto": 0
+    },
+    "Évry-Courcouronnes": {
+      "garage+automobile": 0,
+      "concession+automobile": 0,
+      "carrosserie+automobile": 0,
+      "garage+moto": 0,
+      "concession+moto": 0
+    },
+    "Courcouronnes": {
+      "garage+automobile": 0,
+      "concession+automobile": 0,
+      "carrosserie+automobile": 0,
+      "garage+moto": 0,
+      "concession+moto": 0
+    }
+  },
+  "results": []
+}
