@@ -23,3 +23,5 @@ pj_garages_siret_cache.json
 export_siret_fast.log
 *.png
 debug_*.html
+pj_cookies.txt
+debug*.html
