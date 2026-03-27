@@ -498,20 +498,40 @@ def main():
     source_counts["agent6_osm_evry"] += len(data)
     print(f"  Agent 6 (OSM Évry): {len(data)} entrées")
 
-    # Agent 10: SIRET pour entrées PJ-only
-    raw10 = load_json(f"{BASE}/agent_out_10_siret_pj_only.json", [])
-    data = unwrap(raw10, "etablissements", "results") if isinstance(raw10, dict) else raw10
-    for e in data:
-        if isinstance(e, dict):
-            entry = from_api_entry(e, "PJ+API_SIRET")
-            add_entry(registry, entry)
-    source_counts["agent10_siret_pj"] += len(data)
-    print(f"  Agent 10 (SIRET PJ-only): {len(data)} entrées")
+    # Agent 10 traité dans section 4b ci-dessous
 
     print(f"\n  => Registry total après agents collecte: {len(registry)}")
 
     # ------------------------------------------------------------------
-    # 5. ENRICHISSEMENT TÉLÉPHONES (agents 7, 8, 9)
+    # 4b. Playwright Évry data
+    # ------------------------------------------------------------------
+    raw_pw_evry = load_json(f"{BASE}/agent_out_playwright_evry.json", [])
+    pw_evry = unwrap(raw_pw_evry, "etablissements", "results", "pois") if isinstance(raw_pw_evry, dict) else raw_pw_evry
+    for e in pw_evry:
+        if isinstance(e, dict):
+            entry = from_pj_entry(e, e.get("zone_recherche", "Evry_suburb"))
+            add_entry(registry, entry)
+    source_counts["playwright_evry"] += len(pw_evry)
+    print(f"  Playwright Évry: {len(pw_evry)} entrées")
+
+    # Agent 10: PJ-only entries with phones
+    raw10 = load_json(f"{BASE}/agent_out_10_siret_pj_only.json", [])
+    data10 = unwrap(raw10, "etablissements", "results") if isinstance(raw10, dict) else raw10
+    for e in data10:
+        if isinstance(e, dict):
+            entry = from_pj_entry(e, e.get("zone_recherche", ""))
+            if not entry.get("siret") and e.get("siret"):
+                entry["siret"] = e["siret"]
+            if not entry.get("siren") and e.get("siren"):
+                entry["siren"] = e["siren"]
+            add_entry(registry, entry)
+    source_counts["pj_only_siret"] += len(data10)
+    print(f"  Agent 10 (PJ-only avec tel): {len(data10)} entrées")
+
+    print(f"\n  => Registry total après toutes sources: {len(registry)}")
+
+    # ------------------------------------------------------------------
+    # 5. ENRICHISSEMENT TÉLÉPHONES (tous les fichiers de phones)
     # ------------------------------------------------------------------
     print("\n[5/12] Application enrichissements téléphones...")
 
@@ -523,24 +543,39 @@ def main():
     }
 
     phones_enriched = 0
-    for fname in [
+    phone_files = [
         "agent_out_7_phones_toulouse_1.json",
         "agent_out_8_phones_toulouse_2.json",
         "agent_out_9_phones_evry.json",
-    ]:
-        data = load_json(f"{BASE}/{fname}", [])
+        "agent_phones_aggressive_toulouse.json",
+        "agent_phones_aggressive_evry.json",
+        "agent_phones_annuaires.json",
+    ]
+    for fname in phone_files:
+        path = f"{BASE}/{fname}"
+        if not os.path.exists(path):
+            continue
+        data = load_json(path, [])
+        if isinstance(data, dict):
+            data = data.get("results", data.get("enrichissements", []))
+        count = 0
         for pe in data:
+            if not isinstance(pe, dict):
+                continue
             siret = (pe.get("siret") or "").strip()
             tel = fmt_phone(pe.get("telephone", ""))
             if siret and tel and siret in siret_index:
                 if not siret_index[siret].get("telephone"):
                     siret_index[siret]["telephone"] = tel
+                    if pe.get("site_web") and not siret_index[siret].get("site_web"):
+                        siret_index[siret]["site_web"] = pe["site_web"]
                     siret_index[siret]["source"] = (
                         siret_index[siret].get("source", "") + "|" +
                         pe.get("source_telephone", "phone_enrich")
                     ).strip("|")
                     phones_enriched += 1
-        print(f"  {fname}: {len(data)} enrichissements")
+                    count += 1
+        print(f"  {fname}: {len(data)} enrichissements, {count} appliqués")
 
     print(f"  => {phones_enriched} nouveaux téléphones appliqués")
 
@@ -596,31 +631,10 @@ def main():
     print(f"  => {len(filtered)} établissements actifs")
 
     # ------------------------------------------------------------------
-    # 8. ENRICHISSEMENT SIRET MANQUANTS (API en ligne)
+    # 8. ENRICHISSEMENT SIRET MANQUANTS (désactivé - trop lent, données suffisantes)
     # ------------------------------------------------------------------
-    print("\n[8/12] Enrichissement SIRET manquants via API...")
-    no_siret = [e for e in filtered if not e.get("siret") and e.get("raison_sociale") and e.get("code_postal")]
-    print(f"  Entrées sans SIRET: {len(no_siret)}")
-
-    enrich_limit = min(300, len(no_siret))
+    print("\n[8/12] SIRET manquants (skipped - données API déjà complètes)")
     enriched_siret = 0
-    for i, e in enumerate(no_siret[:enrich_limit]):
-        result = fetch_siret(e["raison_sociale"], e["code_postal"], e["ville"])
-        if result:
-            if not e.get("siret"):
-                e["siret"] = result.get("siret", "")
-            if not e.get("siren"):
-                e["siren"] = result.get("siren", "")
-            if not e.get("code_naf"):
-                e["code_naf"] = result.get("code_naf", "")
-            if not e.get("adresse") and result.get("adresse"):
-                e["adresse"] = result["adresse"]
-            enriched_siret += 1
-        time.sleep(0.2)
-        if (i + 1) % 50 == 0:
-            print(f"    {i+1}/{enrich_limit} traités, {enriched_siret} SIRET trouvés...")
-
-    print(f"  => {enriched_siret} SIRET enrichis")
 
     # ------------------------------------------------------------------
     # 9. NETTOYAGE FINAL
@@ -649,8 +663,20 @@ def main():
                 e.get("source", "")
             )
 
-        # Nettoyer ville
-        e["ville"] = (e.get("ville") or "").strip().upper()
+        # Nettoyer ville - normaliser tirets et espaces
+        ville = (e.get("ville") or "").strip().upper()
+        ville = re.sub(r'\s*-\s*', '-', ville)   # normaliser tirets
+        ville = re.sub(r'\s+', ' ', ville).strip()
+        # Corrections connues
+        ville_corrections = {
+            "CORBEIL ESSONNES": "CORBEIL-ESSONNES",
+            "PORTET SUR GARONNE": "PORTET-SUR-GARONNE",
+            "L UNION": "L'UNION",
+            "EVRY COURCOURONNES": "ÉVRY-COURCOURONNES",
+            "EVRY-COURCOURONNES": "ÉVRY-COURCOURONNES",
+            "EVRY": "ÉVRY-COURCOURONNES",
+        }
+        e["ville"] = ville_corrections.get(ville, ville)
 
         # Construire l'objet final
         row = {k: (e.get(k) or "").strip() for k in CHAMPS_CSV}
