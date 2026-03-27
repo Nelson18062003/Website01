@@ -4428,6 +4428,204 @@
       "location_query": "toulouse+31",
       "code_postal": "31140",
       "ville": "Aucamville"
+    },
+    {
+      "nom_pj": "Top Garage L'Univers Méca Concession",
+      "adresse_pj": "15 rue Doct Charcot 31830 Plaisance du Touch",
+      "telephone": "0562470640",
+      "pj_id": "57258086",
+      "categorie": "garage automobile",
+      "location_query": "toulouse+31",
+      "code_postal": "31830",
+      "ville": "Plaisance du Touch"
+    },
+    {
+      "nom_pj": "Parra Pneumatiques Mécanique",
+      "adresse_pj": "zone artisanale Bogues 31750 Escalquens",
+      "telephone": "0561270518",
+      "pj_id": "08396058",
+      "categorie": "garage automobile",
+      "location_query": "toulouse+31",
+      "code_postal": "31750",
+      "ville": "Escalquens"
+    },
+    {
+      "nom_pj": "Hertz France",
+      "adresse_pj": "Nouvel Aéroport 2 31700 Blagnac",
+      "telephone": "0561300130",
+      "pj_id": "06411718",
+      "categorie": "garage automobile",
+      "location_query": "toulouse+31",
+      "code_postal": "31700",
+      "ville": "Blagnac"
+    },
+    {
+      "nom_pj": "Ad Agm Auto",
+      "adresse_pj": "9 avenue Marcaissonne 31400 Toulouse",
+      "telephone": "0561471186",
+      "pj_id": "62616450",
+      "categorie": "garage automobile",
+      "location_query": "toulouse+31",
+      "code_postal": "31400",
+      "ville": "Toulouse"
+    },
+    {
+      "nom_pj": "Groupe A.D. Sud Ouest",
+      "adresse_pj": "Zone Industrielle Thibaud 7 rue Sirven 31100 Toulouse",
+      "telephone": "0561404516",
+      "pj_id": "00728927",
+      "categorie": "garage automobile",
+      "location_query": "toulouse+31",
+      "code_postal": "31100",
+      "ville": "Toulouse"
+    },
+    {
+      "nom_pj": "Sesquieres Automobile",
+      "adresse_pj": "23 chemin Glacière 31200 Toulouse",
+      "telephone": "0768595175",
+      "pj_id": "61001562",
+      "categorie": "garage automobile",
+      "location_query": "toulouse+31",
+      "code_postal": "31200",
+      "ville": "Toulouse"
+    },
+    {
+      "nom_pj": "Ecobox - Conversion Éthanol",
+      "adresse_pj": "8 place Roger Salengro 31000 Toulouse",
+      "telephone": "0661428142",
+      "pj_id": "64111667",
+      "categorie": "garage automobile",
+      "location_query": "toulouse+31",
+      "code_postal": "31000",
+      "ville": "Toulouse"
+    },
+    {
+      "nom_pj": "Eurorepar Garage Marclann Adhérent",
+      "adresse_pj": "11 Bis boulevard Pyrénées 31270 Villeneuve Tolosane",
+      "telephone": "0561923752",
+      "pj_id": "04287892",
+      "categorie": "garage automobile",
+      "location_query": "toulouse+31",
+      "code_postal": "31270",
+      "ville": "Villeneuve Tolosane"
+    },
+    {
+      "nom_pj": "Medip Auto",
+      "adresse_pj": "3 rue Jean Grandjean 31100 Toulouse",
+      "telephone": "0760479970",
+      "pj_id": "58713080",
+      "categorie": "garage automobile",
+      "location_query": "toulouse+31",
+      "code_postal": "31100",
+      "ville": "Toulouse"
+    },
+    {
+      "nom_pj": "Centre de Traitement Sécurité CTS",
+      "adresse_pj": "41 rue Découverte 31676 Labège",
+      "pj_id": "60555286",
+      "categorie": "garage automobile",
+      "location_query": "toulouse+31",
+      "code_postal": "31676",
+      "ville": "Labège"
+    },
+    {
+      "nom_pj": "Garage Sutra",
+      "adresse_pj": "1 allée Grand Chêne 31320 Auzeville Tolosane",
+      "telephone": "0561759641",
+      "pj_id": "01682689",
+      "categorie": "garage automobile",
+      "location_query": "toulouse+31",
+      "code_postal": "31320",
+      "ville": "Auzeville Tolosane"
+    },
+    {
+      "nom_pj": "AD Distribution",
+      "adresse_pj": "327 route Seysses 31100 Toulouse",
+      "pj_id": "61377306",
+      "categorie": "garage automobile",
+      "location_query": "toulouse+31",
+      "code_postal": "31100",
+      "ville": "Toulouse"
+    },
+    {
+      "nom_pj": "Dekra Auto Bilan France",
+      "adresse_pj": "11 chemin Salvetat 31770 Colomiers",
+      "telephone": "0562740007",
+      "pj_id": "50524906",
+      "categorie": "garage automobile",
+      "location_query": "toulouse+31",
+      "code_postal": "31770",
+      "ville": "Colomiers"
+    },
+    {
+      "nom_pj": "France Carte Grise",
+      "adresse_pj": "139 avenue Minimes 31200 Toulouse",
+      "telephone": "0532591627",
+      "pj_id": "59610989",
+      "categorie": "garage automobile",
+      "location_query": "toulouse+31",
+      "code_postal": "31200",
+      "ville": "Toulouse"
+    },
+    {
+      "nom_pj": "MG Motor",
+      "adresse_pj": "2286 La Lauragaise 31670 Labège",
+      "telephone": "0562192319",
+      "pj_id": "62733564",
+      "categorie": "garage automobile",
+      "location_query": "toulouse+31",
+      "code_postal": "31670",
+      "ville": "Labège"
+    },
+    {
+      "nom_pj": "Clet Auto 31",
+      "adresse_pj": "60 rue Cugnaux 31300 Toulouse",
+      "telephone": "0622382230",
+      "pj_id": "57716699",
+      "categorie": "garage automobile",
+      "location_query": "toulouse+31",
+      "code_postal": "31300",
+      "ville": "Toulouse"
+    },
+    {
+      "nom_pj": "Marcassus Sport",
+      "adresse_pj": "Zac Des Marrots 26 avenue Louron 31770 Colomiers",
+      "telephone": "0562122900",
+      "pj_id": "51765635",
+      "categorie": "garage automobile",
+      "location_query": "toulouse+31",
+      "code_postal": "31770",
+      "ville": "Colomiers"
+    },
+    {
+      "nom_pj": "Norca Utilitaires",
+      "adresse_pj": "4 impasse Chardons 31140 Aucamville",
+      "telephone": "0561702761",
+      "pj_id": "04281750",
+      "categorie": "garage automobile",
+      "location_query": "toulouse+31",
+      "code_postal": "31140",
+      "ville": "Aucamville"
+    },
+    {
+      "nom_pj": "Live Auto 34",
+      "adresse_pj": "10 rue Loubiague 31200 Toulouse",
+      "telephone": "0767328296",
+      "pj_id": "57803037",
+      "categorie": "garage automobile",
+      "location_query": "toulouse+31",
+      "code_postal": "31200",
+      "ville": "Toulouse"
+    },
+    {
+      "nom_pj": "Auto Plus 31",
+      "adresse_pj": "169 route Paris 31150 Fenouillet",
+      "telephone": "0674793219",
+      "pj_id": "60495033",
+      "categorie": "garage automobile",
+      "location_query": "toulouse+31",
+      "code_postal": "31150",
+      "ville": "Fenouillet"
     }
   ]
 }
