@@ -60,7 +60,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=55774038&code_localite=Z05935000&code_rubrique=000220"
+    "id_pagesjaunes": "55774038"
   },
   {
     "nom": "STIMCAR FRANCE",
@@ -102,7 +102,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=09185002&code_localite=Z05935000&code_rubrique=259510"
+    "id_pagesjaunes": "09185002"
   },
   {
     "nom": "REPAIR AND RUN (REPAIR & RUN)",
@@ -144,7 +144,7 @@
     "email": "lillesales@tesla.com",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=61805638&code_localite=Z05935000&code_rubrique=388310"
+    "id_pagesjaunes": "61805638"
   },
   {
     "nom": "VINETI",
@@ -312,7 +312,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "/pros/detail?code_etablissement=57016547&code_localite=Z05935000&code_rubrique=131900"
+    "id_pagesjaunes": "57016547"
   },
   {
     "nom": "CARROSSERIE LESPINEUX",
@@ -354,7 +354,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "/pros/detail?code_etablissement=64709941&code_localite=Z05935000&code_rubrique=000220"
+    "id_pagesjaunes": "64709941"
   },
   {
     "nom": "4X4 SERVICE +",
@@ -375,7 +375,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=64709941&code_localite=Z05935000&code_rubrique=000220"
+    "id_pagesjaunes": "64709941"
   },
   {
     "nom": "SEBASTIEN DEFAUX",
@@ -417,7 +417,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00395118&code_localite=Z05935000&code_rubrique=061240"
+    "id_pagesjaunes": "00395118"
   },
   {
     "nom": "ANDRE JOUGLARD (RENOVCARS)",
@@ -564,7 +564,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00395118&code_localite=Z05935000&code_rubrique=061240"
+    "id_pagesjaunes": "00395118"
   },
   {
     "nom": "RACHID AFRAS (MECA-R)",
@@ -648,7 +648,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "/pros/detail?code_etablissement=00879264&code_localite=Z05935000&code_rubrique=388310"
+    "id_pagesjaunes": "00879264"
   },
   {
     "nom": "ETS VAN LAECKE",
@@ -837,7 +837,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "/pros/detail?code_etablissement=64709941&code_localite=Z05935000&code_rubrique=000220"
+    "id_pagesjaunes": "64709941"
   },
   {
     "nom": "MOURAD MAZRI (CLEAN AUTO LIFTING)",
@@ -1068,7 +1068,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "/pros/detail?code_etablissement=07153800&code_localite=Z05935000&code_rubrique=131900"
+    "id_pagesjaunes": "07153800"
   },
   {
     "nom": "HAKIM KAOUACHE (KIMAUTO59)",
@@ -1110,7 +1110,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "/pros/detail?code_etablissement=00894366&code_localite=Z05935000&code_rubrique=061240"
+    "id_pagesjaunes": "00894366"
   },
   {
     "nom": "SINEO LILLE",
@@ -1299,7 +1299,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "/pros/detail?code_etablissement=55400359&code_localite=Z05935000&code_rubrique=388310"
+    "id_pagesjaunes": "55400359"
   },
   {
     "nom": "STEPHANE MANIER",
@@ -1341,7 +1341,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=54322519&code_localite=Z05935000&code_rubrique=061240"
+    "id_pagesjaunes": "54322519"
   },
   {
     "nom": "O.Y STATION (O.Y STATION)",
@@ -1446,7 +1446,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=56288572&code_localite=Z05935000&code_rubrique=061800"
+    "id_pagesjaunes": "56288572"
   },
   {
     "nom": "AIGLE AUTO",
@@ -1614,7 +1614,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "/pros/detail?code_etablissement=56583351&code_localite=Z05935000&code_rubrique=388310"
+    "id_pagesjaunes": "56583351"
   },
   {
     "nom": "AUTOWASH",
@@ -1950,7 +1950,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "/pros/detail?code_etablissement=63559115&code_localite=Z05935000&code_rubrique=388310"
+    "id_pagesjaunes": "63559115"
   },
   {
     "nom": "IDV LOMME (FRANCE PARE BRISE)",
@@ -1971,7 +1971,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "/pros/detail?code_etablissement=56702475&code_localite=Z05935000&code_rubrique=388310"
+    "id_pagesjaunes": "56702475"
   },
   {
     "nom": "WESLEY REGNIER (CLEANING CARS WES)",
@@ -2118,7 +2118,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "/pros/detail?code_etablissement=64709941&code_localite=Z05935000&code_rubrique=000220"
+    "id_pagesjaunes": "64709941"
   },
   {
     "nom": "CAMPARE-BRISE (CENTRAL PARE-BRISE LILLE)",
@@ -2139,7 +2139,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "/pros/detail?code_etablissement=56583351&code_localite=Z05935000&code_rubrique=388310"
+    "id_pagesjaunes": "56583351"
   },
   {
     "nom": "GHANEM ABDELMOUMENE",
@@ -2223,7 +2223,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "/pros/detail?code_etablissement=56702475&code_localite=Z05935000&code_rubrique=388310"
+    "id_pagesjaunes": "56702475"
   },
   {
     "nom": "RAPIDO PNEU",
@@ -2349,7 +2349,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "/pros/detail?code_etablissement=56912372&code_localite=Z05935000&code_rubrique=388310"
+    "id_pagesjaunes": "56912372"
   },
   {
     "nom": "RM AUTOS SERVICES",
@@ -2454,7 +2454,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=64709941&code_localite=Z05935000&code_rubrique=000220"
+    "id_pagesjaunes": "64709941"
   },
   {
     "nom": "N.P.S. (N.P.S.)",
@@ -2538,7 +2538,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "/pros/detail?code_etablissement=56583351&code_localite=Z05935000&code_rubrique=388310"
+    "id_pagesjaunes": "56583351"
   },
   {
     "nom": "MAT & MO",
@@ -2559,7 +2559,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "/pros/detail?code_etablissement=56912372&code_localite=Z05935000&code_rubrique=388310"
+    "id_pagesjaunes": "56912372"
   },
   {
     "nom": "AUTOMOBILE DU DRONCKAERT (AUTOMOBILE DU DRONCKAERT)",
@@ -2580,7 +2580,7 @@
     "email": "brigitte.del_fabro.lille04@reseau.renault.fr",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "/pros/detail?code_etablissement=08612295&code_localite=Z05935000&code_rubrique=142320"
+    "id_pagesjaunes": "08612295"
   },
   {
     "nom": "MOHAMED FATH ALLAH",
@@ -2685,7 +2685,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "/pros/detail?code_etablissement=56583351&code_localite=Z05935000&code_rubrique=388310"
+    "id_pagesjaunes": "56583351"
   },
   {
     "nom": "LE GARAGE",
@@ -3084,7 +3084,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "/pros/detail?code_etablissement=55400359&code_localite=Z05935000&code_rubrique=388310"
+    "id_pagesjaunes": "55400359"
   },
   {
     "nom": "ATELIER SOLIDAIRE",
@@ -3357,7 +3357,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00395118&code_localite=Z05935000&code_rubrique=061240"
+    "id_pagesjaunes": "00395118"
   },
   {
     "nom": "PLATINIUM CAR",
@@ -3504,7 +3504,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "/pros/detail?code_etablissement=56912372&code_localite=Z05935000&code_rubrique=388310"
+    "id_pagesjaunes": "56912372"
   },
   {
     "nom": "BATUHAN CELIK",
@@ -3672,7 +3672,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "/pros/detail?code_etablissement=56702475&code_localite=Z05935000&code_rubrique=388310"
+    "id_pagesjaunes": "56702475"
   },
   {
     "nom": "AYMERIC ALLOUCHERY (ALLOUCHERY) (AYM'CARZ)",
@@ -3735,7 +3735,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=64709941&code_localite=Z05935000&code_rubrique=000220"
+    "id_pagesjaunes": "64709941"
   },
   {
     "nom": "EKO WASH EXPRESS (EKO WASH EXPRESS)",
@@ -3924,7 +3924,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "/pros/detail?code_etablissement=56912372&code_localite=Z05935000&code_rubrique=388310"
+    "id_pagesjaunes": "56912372"
   },
   {
     "nom": "AUTO SERVICE",
@@ -4155,7 +4155,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "/pros/detail?code_etablissement=60539092&code_localite=Z05935000&code_rubrique=388310"
+    "id_pagesjaunes": "60539092"
   },
   {
     "nom": "GLASSMEDJBER (GLASS EXPERT) (GM)",
@@ -4239,7 +4239,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "/pros/detail?code_etablissement=60539085&code_localite=Z05935000&code_rubrique=388310"
+    "id_pagesjaunes": "60539085"
   },
   {
     "nom": "MIKE CLERY (OPUR NETTOYAGE)",
@@ -4449,7 +4449,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "/pros/detail?code_etablissement=56702475&code_localite=Z05935000&code_rubrique=388310"
+    "id_pagesjaunes": "56702475"
   },
   {
     "nom": "MUSTAPHA EL KHADRIOUI (EM MECANIQUE AUTOMOBILE)",
@@ -4659,7 +4659,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "/pros/detail?code_etablissement=56583351&code_localite=Z05935000&code_rubrique=388310"
+    "id_pagesjaunes": "56583351"
   },
   {
     "nom": "GENERALE AUTO SERVICE",
@@ -4722,7 +4722,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "/pros/detail?code_etablissement=56912372&code_localite=Z05935000&code_rubrique=388310"
+    "id_pagesjaunes": "56912372"
   },
   {
     "nom": "EUROPIECES (EUROPIECES)",
@@ -4743,7 +4743,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "/pros/detail?code_etablissement=09350819&code_localite=Z05935000&code_rubrique=388310"
+    "id_pagesjaunes": "09350819"
   },
   {
     "nom": "ORANGE MECANIQUE AUTOS LILLE (ORANGE MECANIQUE AUTOS LILLE) (OMA)",
@@ -4911,7 +4911,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "/pros/detail?code_etablissement=07153800&code_localite=Z05935000&code_rubrique=131900"
+    "id_pagesjaunes": "07153800"
   },
   {
     "nom": "MON CARROSSIER (MON GARAGE)",
@@ -5058,7 +5058,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "/pros/detail?code_etablissement=09330584&code_localite=Z05935000&code_rubrique=061240"
+    "id_pagesjaunes": "09330584"
   },
   {
     "nom": "AUTOMOBILES PEUGEOT",
@@ -5289,7 +5289,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "/pros/detail?code_etablissement=52104201&code_localite=Z05935000&code_rubrique=388310"
+    "id_pagesjaunes": "52104201"
   },
   {
     "nom": "MAS DESCAMPS",
@@ -5583,7 +5583,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=64762894&code_localite=Z05935000&code_rubrique=061240"
+    "id_pagesjaunes": "64762894"
   },
   {
     "nom": "BELLOKAZ",
@@ -5793,7 +5793,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "/pros/detail?code_etablissement=07494321&code_localite=Z05935000&code_rubrique=388310"
+    "id_pagesjaunes": "07494321"
   },
   {
     "nom": "NORD ARTOIS SEMI REMORQUES",
@@ -5835,7 +5835,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=06007270&code_localite=Z05935000&code_rubrique=061240"
+    "id_pagesjaunes": "06007270"
   },
   {
     "nom": "D.VERBAERE AUTOMOBILES",
@@ -6087,7 +6087,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00400472&code_localite=Z05935000&code_rubrique=061240"
+    "id_pagesjaunes": "00400472"
   },
   {
     "nom": "SARL EUROCARLAND",
@@ -6129,7 +6129,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00890687&code_localite=Z05935000&code_rubrique=388310"
+    "id_pagesjaunes": "00890687"
   },
   {
     "nom": "YOUNSSE JADIR (AUTO TRUST)",
@@ -6633,7 +6633,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=54322519&code_localite=Z05935000&code_rubrique=061240"
+    "id_pagesjaunes": "54322519"
   },
   {
     "nom": "4SAUTOMOBILES.FR (4SAUTOMOBILES.FR)",
@@ -6696,7 +6696,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=12140131&code_localite=Z05935000&code_rubrique=388310"
+    "id_pagesjaunes": "12140131"
   },
   {
     "nom": "GGP LOCATION",
@@ -6717,7 +6717,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "/pros/detail?code_etablissement=61658295&code_localite=Z05935000&code_rubrique=061240"
+    "id_pagesjaunes": "61658295"
   },
   {
     "nom": "L'OCCAZ DU PRO",
@@ -6759,7 +6759,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=55906941&code_localite=Z05935000&code_rubrique=142320"
+    "id_pagesjaunes": "55906941"
   },
   {
     "nom": "ROMUALD BEAUCOURT (RD AUTOS)",
@@ -6927,7 +6927,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "/pros/detail?code_etablissement=07655594&code_localite=Z05935000&code_rubrique=388310"
+    "id_pagesjaunes": "07655594"
   },
   {
     "nom": "SOCIETE DE DISTRIBUTION DE VEHICULES D'OCCASION (SDVO)",
@@ -6969,7 +6969,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00398258&code_localite=Z05935000&code_rubrique=388310"
+    "id_pagesjaunes": "00398258"
   },
   {
     "nom": "BERTRAND BAUDRY",
@@ -7158,7 +7158,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=06177785&code_localite=Z05935000&code_rubrique=061240"
+    "id_pagesjaunes": "06177785"
   },
   {
     "nom": "GROUPE A.B INDUSTRIES",
@@ -7242,7 +7242,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "/pros/detail?code_etablissement=64709941&code_localite=Z05935000&code_rubrique=000220"
+    "id_pagesjaunes": "64709941"
   },
   {
     "nom": "MILANO AUTOMOBILES (V2 AUTOMOBILES)",
@@ -7683,7 +7683,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=50044669&code_localite=Z05935000&code_rubrique=061240"
+    "id_pagesjaunes": "50044669"
   },
   {
     "nom": "ABDOULAYE LAM",
@@ -7893,7 +7893,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "/pros/detail?code_etablissement=56288572&code_localite=Z05935000&code_rubrique=061800"
+    "id_pagesjaunes": "56288572"
   },
   {
     "nom": "ABDELKARIM OUAAMAR (AUTO MOSELLE)",
@@ -8082,7 +8082,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "/pros/detail?code_etablissement=64762894&code_localite=Z05935000&code_rubrique=061240"
+    "id_pagesjaunes": "64762894"
   },
   {
     "nom": "UNRIPE",
@@ -8397,7 +8397,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=50044669&code_localite=Z05935000&code_rubrique=061240"
+    "id_pagesjaunes": "50044669"
   },
   {
     "nom": "JORDAN BIBAUT (BJ AUTOMOBILE)",
@@ -9174,7 +9174,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "/pros/detail?code_etablissement=56912372&code_localite=Z05935000&code_rubrique=388310"
+    "id_pagesjaunes": "56912372"
   },
   {
     "nom": "SAMIR SOLTANI (PHOENIX AUTO)",
@@ -9594,7 +9594,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "/pros/detail?code_etablissement=56912372&code_localite=Z05935000&code_rubrique=388310"
+    "id_pagesjaunes": "56912372"
   },
   {
     "nom": "CAMILLE HEMMACHE (MH AUTOS)",
@@ -9783,7 +9783,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "/pros/detail?code_etablissement=64709941&code_localite=Z05935000&code_rubrique=000220"
+    "id_pagesjaunes": "64709941"
   },
   {
     "nom": "AUTORELAIS (AUTORELAIS) (AR)",
@@ -9972,7 +9972,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "/pros/detail?code_etablissement=56288572&code_localite=Z05935000&code_rubrique=061800"
+    "id_pagesjaunes": "56288572"
   },
   {
     "nom": "MILLENIUM CAR (MILLENIUM CAR)",
@@ -10014,7 +10014,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=50044669&code_localite=Z05935000&code_rubrique=061240"
+    "id_pagesjaunes": "50044669"
   },
   {
     "nom": "ERUDIT AUTOMOBILE",
@@ -10035,7 +10035,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=55035118&code_localite=Z05935000&code_rubrique=388310"
+    "id_pagesjaunes": "55035118"
   },
   {
     "nom": "ARISTOCAR (ARISTOCAR)",
@@ -10119,7 +10119,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "/pros/detail?code_etablissement=64762894&code_localite=Z05935000&code_rubrique=061240"
+    "id_pagesjaunes": "64762894"
   },
   {
     "nom": "SASU NEHIRI SAID",
@@ -10245,7 +10245,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "/pros/detail?code_etablissement=61658295&code_localite=Z05935000&code_rubrique=061240"
+    "id_pagesjaunes": "61658295"
   },
   {
     "nom": "NEXTDRIVE",
@@ -10476,7 +10476,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "/pros/detail?code_etablissement=64762894&code_localite=Z05935000&code_rubrique=061240"
+    "id_pagesjaunes": "64762894"
   },
   {
     "nom": "ALEXANDRE DELANNOY (ACCESS AFFAIRES)",
@@ -10644,7 +10644,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00401655&code_localite=Z05935000&code_rubrique=061240"
+    "id_pagesjaunes": "00401655"
   },
   {
     "nom": "STEPHANE VIGOT",
@@ -10875,7 +10875,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "/pros/detail?code_etablissement=56397999&code_localite=Z05935000&code_rubrique=061240"
+    "id_pagesjaunes": "56397999"
   },
   {
     "nom": "GEORGES DEMESTRE (DEMESTRE)",
@@ -10959,7 +10959,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=50044669&code_localite=Z05935000&code_rubrique=061240"
+    "id_pagesjaunes": "50044669"
   },
   {
     "nom": "ABDELHAKIM SALHI",
@@ -11064,7 +11064,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=61658295&code_localite=Z05935000&code_rubrique=061240"
+    "id_pagesjaunes": "61658295"
   },
   {
     "nom": "EURL VASSEUR",
@@ -11085,7 +11085,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "/pros/detail?code_etablissement=62676137&code_localite=Z05935000&code_rubrique=388310"
+    "id_pagesjaunes": "62676137"
   },
   {
     "nom": "BVM MOTORS",
@@ -11295,7 +11295,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "/pros/detail?code_etablissement=62566934&code_localite=Z05935000&code_rubrique=388310"
+    "id_pagesjaunes": "62566934"
   },
   {
     "nom": "EUROBIL (EUROBIL)",
@@ -11820,7 +11820,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "/pros/detail?code_etablissement=00395844&code_localite=Z05935000&code_rubrique=388500"
+    "id_pagesjaunes": "00395844"
   },
   {
     "nom": "SEBASTIEN LEGRIS (KIX NET SERVICES)",
@@ -11841,7 +11841,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "/pros/detail?code_etablissement=07153800&code_localite=Z05935000&code_rubrique=131900"
+    "id_pagesjaunes": "07153800"
   },
   {
     "nom": "SOCIETE DE DIFFUSION ET D APPLICATIONS TECHNIQUES AUTOMOBILES (DATA)",
@@ -11988,7 +11988,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00395500&code_localite=Z05935000&code_rubrique=259510"
+    "id_pagesjaunes": "00395500"
   },
   {
     "nom": "BRH MOTOS PLUS",
@@ -12051,7 +12051,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=51947178&code_localite=Z05935000&code_rubrique=259510"
+    "id_pagesjaunes": "51947178"
   },
   {
     "nom": "ACCESS LAND",
@@ -12072,7 +12072,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "/pros/detail?code_etablissement=53790618&code_localite=Z05935000&code_rubrique=000220"
+    "id_pagesjaunes": "53790618"
   },
   {
     "nom": "LYS MOTO",
@@ -12240,7 +12240,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=56417481&code_localite=Z05935000&code_rubrique=259510"
+    "id_pagesjaunes": "56417481"
   },
   {
     "nom": "MASTEREX (MASTEREX)",
@@ -12345,7 +12345,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "/pros/detail?code_etablissement=00395844&code_localite=Z05935000&code_rubrique=388500"
+    "id_pagesjaunes": "00395844"
   },
   {
     "nom": "SARL CYCLOZ",
@@ -12807,7 +12807,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=62734890&code_localite=Z06912300&code_rubrique=388310"
+    "id_pagesjaunes": "62734890"
   },
   {
     "nom": "PARE BRISE EXPRESS",
@@ -12828,7 +12828,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=62734890&code_localite=Z06912300&code_rubrique=388310"
+    "id_pagesjaunes": "62734890"
   },
   {
     "nom": "OBJECTIF PARE BRISE",
@@ -12849,7 +12849,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=62734890&code_localite=Z06912300&code_rubrique=388310"
+    "id_pagesjaunes": "62734890"
   },
   {
     "nom": "TAYEB EL AMRI",
@@ -13374,7 +13374,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00813312&code_localite=Z06912300&code_rubrique=388310"
+    "id_pagesjaunes": "00813312"
   },
   {
     "nom": "NICOLAS OBEJI",
@@ -13521,7 +13521,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=06233673&code_localite=Z06912300&code_rubrique=388310"
+    "id_pagesjaunes": "06233673"
   },
   {
     "nom": "GARAGE CALDERONI",
@@ -13542,7 +13542,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=05425500&code_localite=Z06912300&code_rubrique=061240"
+    "id_pagesjaunes": "05425500"
   },
   {
     "nom": "AUTO-PNEUS ARMANET",
@@ -13563,7 +13563,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00465321&code_localite=Z06912300&code_rubrique=388310"
+    "id_pagesjaunes": "00465321"
   },
   {
     "nom": "GARAGE ARNAUD SPORTS",
@@ -14151,7 +14151,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=52577681&code_localite=Z06912300&code_rubrique=000220"
+    "id_pagesjaunes": "52577681"
   },
   {
     "nom": "CAROGLASS42",
@@ -14277,7 +14277,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00468379&code_localite=Z06912300&code_rubrique=388310"
+    "id_pagesjaunes": "00468379"
   },
   {
     "nom": "CHARLES BUEE (BUEE CLEAN SERVICE)",
@@ -14340,7 +14340,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=62734890&code_localite=Z06912300&code_rubrique=388310"
+    "id_pagesjaunes": "62734890"
   },
   {
     "nom": "AUTO GLASS",
@@ -14445,7 +14445,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=62734890&code_localite=Z06912300&code_rubrique=388310"
+    "id_pagesjaunes": "62734890"
   },
   {
     "nom": "ARTHUR MICHAILESCO (AM VITRAGE)",
@@ -14529,7 +14529,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00464697&code_localite=Z06912300&code_rubrique=061240"
+    "id_pagesjaunes": "00464697"
   },
   {
     "nom": "DEBOSS CARS DSP (DEBOSS CARS DSP)",
@@ -14739,7 +14739,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=04378379&code_localite=Z06912300&code_rubrique=061240"
+    "id_pagesjaunes": "04378379"
   },
   {
     "nom": "JULIEN BRETON",
@@ -15579,7 +15579,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=50935933&code_localite=Z06912300&code_rubrique=388310"
+    "id_pagesjaunes": "50935933"
   },
   {
     "nom": "RHONE ALPES PARE BRISE (RHONE-ALPES PARE-BRISE)",
@@ -15726,7 +15726,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=09647619&code_localite=Z06912300&code_rubrique=061240"
+    "id_pagesjaunes": "09647619"
   },
   {
     "nom": "AUTOMOBILES MIRAMAND",
@@ -15789,7 +15789,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00461098&code_localite=Z06912300&code_rubrique=142320"
+    "id_pagesjaunes": "00461098"
   },
   {
     "nom": "SC FABRICATION",
@@ -15999,7 +15999,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00791794&code_localite=Z06912300&code_rubrique=061240"
+    "id_pagesjaunes": "00791794"
   },
   {
     "nom": "AWRS LYON (AUTOMOTIVE WHEEL REMANUFACTURING SOLUTIONS)",
@@ -16041,7 +16041,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=04369612&code_localite=Z06912300&code_rubrique=388310"
+    "id_pagesjaunes": "04369612"
   },
   {
     "nom": "GARAGE CABIAS",
@@ -16104,7 +16104,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=09647619&code_localite=Z06912300&code_rubrique=061240"
+    "id_pagesjaunes": "09647619"
   },
   {
     "nom": "M.P. MECA",
@@ -16188,7 +16188,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00957288&code_localite=Z06912300&code_rubrique=142320"
+    "id_pagesjaunes": "00957288"
   },
   {
     "nom": "BRIAN BONIOL",
@@ -16272,7 +16272,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=55184726&code_localite=Z06912300&code_rubrique=388310"
+    "id_pagesjaunes": "55184726"
   },
   {
     "nom": "ZS SARL (GOMADOM)",
@@ -16524,7 +16524,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=06536703&code_localite=Z06912300&code_rubrique=061240"
+    "id_pagesjaunes": "06536703"
   },
   {
     "nom": "NICOLAS SANDIER (DOCTOR SHINE)",
@@ -16587,7 +16587,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=56688407&code_localite=Z06912300&code_rubrique=061240"
+    "id_pagesjaunes": "56688407"
   },
   {
     "nom": "GARAGE SAINT JUST II (GARAGE SAINT JUST)",
@@ -16608,7 +16608,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=04372144&code_localite=Z06912300&code_rubrique=061240"
+    "id_pagesjaunes": "04372144"
   },
   {
     "nom": "MUSTAPHA HENNI (SOS AUTOPROPRE)",
@@ -16671,7 +16671,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00461307&code_localite=Z06912300&code_rubrique=061240"
+    "id_pagesjaunes": "00461307"
   },
   {
     "nom": "KAMAL YAHIAOUI (AUTO YAHIAOUI)",
@@ -16713,7 +16713,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=07278154&code_localite=Z06912300&code_rubrique=388310"
+    "id_pagesjaunes": "07278154"
   },
   {
     "nom": "ARSHAVIR GRIGORYAN",
@@ -17133,7 +17133,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=61711222&code_localite=Z06912300&code_rubrique=388310"
+    "id_pagesjaunes": "61711222"
   },
   {
     "nom": "REBORNE CP",
@@ -17280,7 +17280,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00936060&code_localite=Z06912300&code_rubrique=061240"
+    "id_pagesjaunes": "00936060"
   },
   {
     "nom": "POINT S DEVELOPMENT (POINT S EUROPE) (PSD)",
@@ -17427,7 +17427,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=63453831&code_localite=Z06912300&code_rubrique=388310"
+    "id_pagesjaunes": "63453831"
   },
   {
     "nom": "DELTA GROUP",
@@ -17490,7 +17490,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00936060&code_localite=Z06912300&code_rubrique=061240"
+    "id_pagesjaunes": "00936060"
   },
   {
     "nom": "CARROSSERIE FERNANDES (ATELIER DES BROTTEAUX)",
@@ -17532,7 +17532,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=52577681&code_localite=Z06912300&code_rubrique=000220"
+    "id_pagesjaunes": "52577681"
   },
   {
     "nom": "YES EU FRANCE",
@@ -17574,7 +17574,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=55712869&code_localite=Z06912300&code_rubrique=142320"
+    "id_pagesjaunes": "55712869"
   },
   {
     "nom": "MAXIME DORANGE (PRESTIGE MOBILITE)",
@@ -17931,7 +17931,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=07210843&code_localite=Z06912300&code_rubrique=061240"
+    "id_pagesjaunes": "07210843"
   },
   {
     "nom": "ECHAPPEMENT SAINT JEROME (MIDAS)",
@@ -18099,7 +18099,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00465398&code_localite=Z06912300&code_rubrique=061240"
+    "id_pagesjaunes": "00465398"
   },
   {
     "nom": "GARAGE SAINT MICHEL",
@@ -18120,7 +18120,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=04372144&code_localite=Z06912300&code_rubrique=061240"
+    "id_pagesjaunes": "04372144"
   },
   {
     "nom": "THONIC",
@@ -18141,7 +18141,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=04358314&code_localite=Z06912300&code_rubrique=142320"
+    "id_pagesjaunes": "04358314"
   },
   {
     "nom": "VETROCLEAN",
@@ -18729,7 +18729,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=06940384&code_localite=Z06912300&code_rubrique=000220"
+    "id_pagesjaunes": "06940384"
   },
   {
     "nom": "KAMEL MEBARKI",
@@ -19359,7 +19359,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=57371421&code_localite=Z06912300&code_rubrique=388310"
+    "id_pagesjaunes": "57371421"
   },
   {
     "nom": "LAV'AUTO RHONE ALPES (LARA)",
@@ -19485,7 +19485,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=09249735&code_localite=Z06912300&code_rubrique=388310"
+    "id_pagesjaunes": "09249735"
   },
   {
     "nom": "SASU GARAGE GABY",
@@ -19779,7 +19779,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=06534762&code_localite=Z06912300&code_rubrique=388310"
+    "id_pagesjaunes": "06534762"
   },
   {
     "nom": "PATRICK AUTOMOBILES",
@@ -19884,7 +19884,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=58717763&code_localite=Z06912300&code_rubrique=061240"
+    "id_pagesjaunes": "58717763"
   },
   {
     "nom": "SERKAN CULHA (NEVA AUTO NETTOYAGE)",
@@ -20493,7 +20493,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=62734890&code_localite=Z06912300&code_rubrique=388310"
+    "id_pagesjaunes": "62734890"
   },
   {
     "nom": "GARAGE LUMIERE",
@@ -20892,7 +20892,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=09249735&code_localite=Z06912300&code_rubrique=388310"
+    "id_pagesjaunes": "09249735"
   },
   {
     "nom": "WAHIB MELLOUK (MELLOUK AUTO SERVICES)",
@@ -21627,7 +21627,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00943527&code_localite=Z06912300&code_rubrique=062200"
+    "id_pagesjaunes": "00943527"
   },
   {
     "nom": "MARIO VELOSO",
@@ -21753,7 +21753,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00610350&code_localite=Z06912300&code_rubrique=061240"
+    "id_pagesjaunes": "00610350"
   },
   {
     "nom": "ALLMAX",
@@ -21963,7 +21963,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00464329&code_localite=Z06912300&code_rubrique=061240"
+    "id_pagesjaunes": "00464329"
   },
   {
     "nom": "GARAGE SAINT RAMBERT",
@@ -21984,7 +21984,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00821797&code_localite=Z06912300&code_rubrique=388310"
+    "id_pagesjaunes": "00821797"
   },
   {
     "nom": "MV RECTIF MOTEURS (STPL)",
@@ -22152,7 +22152,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=02329856&code_localite=Z06912300&code_rubrique=061240"
+    "id_pagesjaunes": "02329856"
   },
   {
     "nom": "BRISE DE GLACE",
@@ -22278,7 +22278,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=08998112&code_localite=Z06912300&code_rubrique=061240"
+    "id_pagesjaunes": "08998112"
   },
   {
     "nom": "BKM AUTOMOBILE",
@@ -22299,7 +22299,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=09249735&code_localite=Z06912300&code_rubrique=388310"
+    "id_pagesjaunes": "09249735"
   },
   {
     "nom": "ATELIERS PERRIN ET CIE",
@@ -22341,7 +22341,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=08675321&code_localite=Z06912300&code_rubrique=061240"
+    "id_pagesjaunes": "08675321"
   },
   {
     "nom": "LENYLS AUTO (LENYLS AUTO)",
@@ -23097,7 +23097,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=56166705&code_localite=Z06912300&code_rubrique=388310"
+    "id_pagesjaunes": "56166705"
   },
   {
     "nom": "MAERNA AUTO (MAERNA SERVICES)",
@@ -23433,7 +23433,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=61197801&code_localite=Z06912300&code_rubrique=388310"
+    "id_pagesjaunes": "61197801"
   },
   {
     "nom": "GLASSMAX LYON",
@@ -24525,7 +24525,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=57270863&code_localite=Z06912300&code_rubrique=259510"
+    "id_pagesjaunes": "57270863"
   },
   {
     "nom": "CALCAGNI AUTOMOBILES",
@@ -24714,7 +24714,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00460265&code_localite=Z06912300&code_rubrique=388310"
+    "id_pagesjaunes": "00460265"
   },
   {
     "nom": "SIMON BENHAMOU",
@@ -24756,7 +24756,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=61197801&code_localite=Z06912300&code_rubrique=388310"
+    "id_pagesjaunes": "61197801"
   },
   {
     "nom": "DISTRICARS RHONE ALPES",
@@ -25323,7 +25323,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=58488455&code_localite=Z06912300&code_rubrique=061240"
+    "id_pagesjaunes": "58488455"
   },
   {
     "nom": "CENTRAL AUTOS (GROUPE CENTRAL AUTOS)",
@@ -25344,7 +25344,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=62255021&code_localite=Z06912300&code_rubrique=061240"
+    "id_pagesjaunes": "62255021"
   },
   {
     "nom": "LOCATION AUTOMOBILE RHONE-ALPES",
@@ -25386,7 +25386,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=07472234&code_localite=Z06912300&code_rubrique=061240"
+    "id_pagesjaunes": "07472234"
   },
   {
     "nom": "ETOILE 69 (GROUPE CHOPARD)",
@@ -26142,7 +26142,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=51186575&code_localite=Z06912300&code_rubrique=388310"
+    "id_pagesjaunes": "51186575"
   },
   {
     "nom": "SAID HAMDACHE",
@@ -26205,7 +26205,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=58717763&code_localite=Z06912300&code_rubrique=061240"
+    "id_pagesjaunes": "58717763"
   },
   {
     "nom": "JUGURTHA BOUDJEMAA (CHRONO SERVICES)",
@@ -27066,7 +27066,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=50232935&code_localite=Z06912300&code_rubrique=061240"
+    "id_pagesjaunes": "50232935"
   },
   {
     "nom": "FATHI LOUBAZID",
@@ -27192,7 +27192,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=63453831&code_localite=Z06912300&code_rubrique=388310"
+    "id_pagesjaunes": "63453831"
   },
   {
     "nom": "DRIVEXCHANGE FRANCE",
@@ -27696,7 +27696,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=09249735&code_localite=Z06912300&code_rubrique=388310"
+    "id_pagesjaunes": "09249735"
   },
   {
     "nom": "NET & GO",
@@ -27822,7 +27822,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=61197801&code_localite=Z06912300&code_rubrique=388310"
+    "id_pagesjaunes": "61197801"
   },
   {
     "nom": "RACE PRO AUTOS",
@@ -28305,7 +28305,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes/118000.fr",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=06229234&code_localite=Z06912300&code_rubrique=388310"
+    "id_pagesjaunes": "06229234"
   },
   {
     "nom": "ALCIA SAINT ETIENNE",
@@ -28746,7 +28746,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=62734890&code_localite=Z06912300&code_rubrique=388310"
+    "id_pagesjaunes": "62734890"
   },
   {
     "nom": "AUTOMOBILES CLOUP CHAPELLUT -ACC",
@@ -29355,7 +29355,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=04378379&code_localite=Z06912300&code_rubrique=061240"
+    "id_pagesjaunes": "04378379"
   },
   {
     "nom": "ALCIA LYON SUD",
@@ -29376,7 +29376,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=61151590&code_localite=Z06912300&code_rubrique=388310"
+    "id_pagesjaunes": "61151590"
   },
   {
     "nom": "YASSINE BELHADJ (PLOMB'24/24)",
@@ -29712,7 +29712,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=55697407&code_localite=Z06912300&code_rubrique=061240"
+    "id_pagesjaunes": "55697407"
   },
   {
     "nom": "GOURGUEN MKRTCHYAN (AGBM AUTO)",
@@ -29817,7 +29817,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=09249735&code_localite=Z06912300&code_rubrique=388310"
+    "id_pagesjaunes": "09249735"
   },
   {
     "nom": "CONCEPTCAR42",
@@ -30804,7 +30804,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=60954344&code_localite=Z06912300&code_rubrique=388310"
+    "id_pagesjaunes": "60954344"
   },
   {
     "nom": "TATO LASHKHI (LT MOTORS)",
@@ -31140,7 +31140,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00461307&code_localite=Z06912300&code_rubrique=061240"
+    "id_pagesjaunes": "00461307"
   },
   {
     "nom": "ROXANA-EMA COVACI",
@@ -31329,7 +31329,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=06239820&code_localite=Z06912300&code_rubrique=388310"
+    "id_pagesjaunes": "06239820"
   },
   {
     "nom": "BASIC BUSINESS GROUP",
@@ -31413,7 +31413,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=56431563&code_localite=Z06912300&code_rubrique=388310"
+    "id_pagesjaunes": "56431563"
   },
   {
     "nom": "BTC TRADING",
@@ -31497,7 +31497,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=61151590&code_localite=Z06912300&code_rubrique=388310"
+    "id_pagesjaunes": "61151590"
   },
   {
     "nom": "DAVID MANIEN",
@@ -33408,7 +33408,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=04385283&code_localite=Z06912300&code_rubrique=061240"
+    "id_pagesjaunes": "04385283"
   },
   {
     "nom": "UNION DRIVER",
@@ -33702,7 +33702,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=06835180&code_localite=Z06912300&code_rubrique=061240"
+    "id_pagesjaunes": "06835180"
   },
   {
     "nom": "CHARLES POZZI",
@@ -33765,7 +33765,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00466681&code_localite=Z06912300&code_rubrique=061240"
+    "id_pagesjaunes": "00466681"
   },
   {
     "nom": "JEAN LAIN E-CITY (JEAN LAIN E-CITY)",
@@ -34059,7 +34059,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=55280186&code_localite=Z06912300&code_rubrique=061240"
+    "id_pagesjaunes": "55280186"
   },
   {
     "nom": "ASR RHONE ALPES (FAST LEASE RHONE-ALPES)",
@@ -34290,7 +34290,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=09249735&code_localite=Z06912300&code_rubrique=388310"
+    "id_pagesjaunes": "09249735"
   },
   {
     "nom": "MOHAMED AMAR (AM AUTOS)",
@@ -34542,7 +34542,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00687794&code_localite=Z06912300&code_rubrique=388310"
+    "id_pagesjaunes": "00687794"
   },
   {
     "nom": "B TO B LOK",
@@ -34836,7 +34836,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=58717763&code_localite=Z06912300&code_rubrique=061240"
+    "id_pagesjaunes": "58717763"
   },
   {
     "nom": "TANOR MBAYE (ABM AUTO)",
@@ -35445,7 +35445,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=09249735&code_localite=Z06912300&code_rubrique=388310"
+    "id_pagesjaunes": "09249735"
   },
   {
     "nom": "GARY CAYACI (GC AUTO)",
@@ -35739,7 +35739,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=06233673&code_localite=Z06912300&code_rubrique=388310"
+    "id_pagesjaunes": "06233673"
   },
   {
     "nom": "A.D.F.",
@@ -35823,7 +35823,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=04385283&code_localite=Z06912300&code_rubrique=061240"
+    "id_pagesjaunes": "04385283"
   },
   {
     "nom": "O CARS",
@@ -36138,7 +36138,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=57894501&code_localite=Z06912300&code_rubrique=142320"
+    "id_pagesjaunes": "57894501"
   },
   {
     "nom": "L'ATELIER AUTOMOBILE (L'ATELIER AUTOMOBILE)",
@@ -36159,7 +36159,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=55810016&code_localite=Z06912300&code_rubrique=061240"
+    "id_pagesjaunes": "55810016"
   },
   {
     "nom": "MIA AUTO",
@@ -36180,7 +36180,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=04385283&code_localite=Z06912300&code_rubrique=061240"
+    "id_pagesjaunes": "04385283"
   },
   {
     "nom": "MOHAMED MESTOUR",
@@ -36684,7 +36684,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=58717763&code_localite=Z06912300&code_rubrique=061240"
+    "id_pagesjaunes": "58717763"
   },
   {
     "nom": "FRANCK SANTIAGO",
@@ -36768,7 +36768,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=55697407&code_localite=Z06912300&code_rubrique=061240"
+    "id_pagesjaunes": "55697407"
   },
   {
     "nom": "ANDRANIK SAFARIAN (MMF AUTO)",
@@ -37503,7 +37503,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=55697407&code_localite=Z06912300&code_rubrique=061240"
+    "id_pagesjaunes": "55697407"
   },
   {
     "nom": "ABDERAZEK EL GROMBALI",
@@ -37755,7 +37755,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=04354995&code_localite=Z06912300&code_rubrique=061240"
+    "id_pagesjaunes": "04354995"
   },
   {
     "nom": "KARIM MANSOUR",
@@ -39309,7 +39309,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=53815281&code_localite=Z06912300&code_rubrique=142320"
+    "id_pagesjaunes": "53815281"
   },
   {
     "nom": "GENIAL AUTOS",
@@ -39477,7 +39477,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=60954344&code_localite=Z06912300&code_rubrique=388310"
+    "id_pagesjaunes": "60954344"
   },
   {
     "nom": "MUSTAPHA CHAREF",
@@ -40149,7 +40149,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=08780992&code_localite=Z06912300&code_rubrique=388310"
+    "id_pagesjaunes": "08780992"
   },
   {
     "nom": "VECTOR INTERACTIVE (STE)",
@@ -40212,7 +40212,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=06527194&code_localite=Z06912300&code_rubrique=000220"
+    "id_pagesjaunes": "06527194"
   },
   {
     "nom": "MYTHICAL CARS WORLDWIDE (MYTHICAL CARS WORLDWIDE) (MCW)",
@@ -40380,7 +40380,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=58488455&code_localite=Z06912300&code_rubrique=061240"
+    "id_pagesjaunes": "58488455"
   },
   {
     "nom": "SARL GLOBINTER",
@@ -40422,7 +40422,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=04379586&code_localite=Z06912300&code_rubrique=061240"
+    "id_pagesjaunes": "04379586"
   },
   {
     "nom": "FETHI LITIM",
@@ -40737,7 +40737,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=04385283&code_localite=Z06912300&code_rubrique=061240"
+    "id_pagesjaunes": "04385283"
   },
   {
     "nom": "P.C.R.",
@@ -41556,7 +41556,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=60954344&code_localite=Z06912300&code_rubrique=388310"
+    "id_pagesjaunes": "60954344"
   },
   {
     "nom": "PREMIUM AUTO",
@@ -41724,7 +41724,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=09249735&code_localite=Z06912300&code_rubrique=388310"
+    "id_pagesjaunes": "09249735"
   },
   {
     "nom": "BAPTISTE MORITZ (MTZ CARS)",
@@ -41766,7 +41766,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=09249735&code_localite=Z06912300&code_rubrique=388310"
+    "id_pagesjaunes": "09249735"
   },
   {
     "nom": "TAXI VANESSA",
@@ -42270,7 +42270,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=62734890&code_localite=Z06912300&code_rubrique=388310"
+    "id_pagesjaunes": "62734890"
   },
   {
     "nom": "XPO MAINTENANCE FRANCE",
@@ -42942,7 +42942,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=07394459&code_localite=Z06912300&code_rubrique=259510"
+    "id_pagesjaunes": "07394459"
   },
   {
     "nom": "MOBILITY CENTER",
@@ -43593,7 +43593,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00462459&code_localite=Z06912300&code_rubrique=259510"
+    "id_pagesjaunes": "00462459"
   },
   {
     "nom": "XTREM MOTOR RACING",
@@ -43677,7 +43677,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=61318722&code_localite=Z06912300&code_rubrique=259510"
+    "id_pagesjaunes": "61318722"
   },
   {
     "nom": "ALEXANDRE PARHAUT (AP MOTORS)",
@@ -43908,7 +43908,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00772959&code_localite=Z03306300&code_rubrique=388310"
+    "id_pagesjaunes": "00772959"
   },
   {
     "nom": "AQUIPAS BERGERAC",
@@ -44244,7 +44244,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00313943&code_localite=Z03306300&code_rubrique=388310"
+    "id_pagesjaunes": "00313943"
   },
   {
     "nom": "BHL SAS",
@@ -44349,7 +44349,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=59935782&code_localite=Z03306300&code_rubrique=388310"
+    "id_pagesjaunes": "59935782"
   },
   {
     "nom": "ADRISH REPROG",
@@ -44412,7 +44412,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=63795004&code_localite=Z03306300&code_rubrique=388310"
+    "id_pagesjaunes": "63795004"
   },
   {
     "nom": "JEROME REMY (GARAGE PRESTATION SERVICES)",
@@ -44538,7 +44538,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00313839&code_localite=Z03306300&code_rubrique=388310"
+    "id_pagesjaunes": "00313839"
   },
   {
     "nom": "MOURAD BEN BRAHIM (SUBLIME CAR)",
@@ -44685,7 +44685,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00317940&code_localite=Z03306300&code_rubrique=388310"
+    "id_pagesjaunes": "00317940"
   },
   {
     "nom": "SERVICE AUTO MOTO",
@@ -45231,7 +45231,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00314027&code_localite=Z03306300&code_rubrique=061240"
+    "id_pagesjaunes": "00314027"
   },
   {
     "nom": "PHILIPPE DE BRITO",
@@ -46701,7 +46701,7 @@
     "email": "ac@merignacauto.fr",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=62288531&code_localite=Z03306300&code_rubrique=388310"
+    "id_pagesjaunes": "62288531"
   },
   {
     "nom": "MAXIME POULIQUEN",
@@ -46848,7 +46848,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00313943&code_localite=Z03306300&code_rubrique=388310"
+    "id_pagesjaunes": "00313943"
   },
   {
     "nom": "JEAN RICHARD",
@@ -47037,7 +47037,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=06024072&code_localite=Z03306300&code_rubrique=061240"
+    "id_pagesjaunes": "06024072"
   },
   {
     "nom": "DIDIER BASOUIN",
@@ -47142,7 +47142,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=09508796&code_localite=Z03306300&code_rubrique=388310"
+    "id_pagesjaunes": "09508796"
   },
   {
     "nom": "SARL GARAGE ALFRED DANEY",
@@ -47247,7 +47247,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00771444&code_localite=Z03306300&code_rubrique=061240"
+    "id_pagesjaunes": "00771444"
   },
   {
     "nom": "DAVID GUIONIE",
@@ -47310,7 +47310,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=56451782&code_localite=Z03306300&code_rubrique=061240"
+    "id_pagesjaunes": "56451782"
   },
   {
     "nom": "CARROSSERIE AUTO AQUITAINE",
@@ -47352,7 +47352,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=53806186&code_localite=Z03306300&code_rubrique=388310"
+    "id_pagesjaunes": "53806186"
   },
   {
     "nom": "BORDEAUX MARITIME CARROSSERIE (BORDEAUX MARITIME CARROSSERIE) (BMC)",
@@ -47436,7 +47436,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=09322139&code_localite=Z03306300&code_rubrique=388310"
+    "id_pagesjaunes": "09322139"
   },
   {
     "nom": "POWER TECH SYSTEM",
@@ -48486,7 +48486,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00771444&code_localite=Z03306300&code_rubrique=061240"
+    "id_pagesjaunes": "00771444"
   },
   {
     "nom": "KARIM TOUISS (T K MECA SERVICES)",
@@ -48654,7 +48654,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=07276569&code_localite=Z03306300&code_rubrique=388310"
+    "id_pagesjaunes": "07276569"
   },
   {
     "nom": "THOMAS YANSA (THOMAS EXPRESS NETTOYAGE)",
@@ -48696,7 +48696,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=63222520&code_localite=Z03306300&code_rubrique=142320"
+    "id_pagesjaunes": "63222520"
   },
   {
     "nom": "NODESK",
@@ -48927,7 +48927,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=55871641&code_localite=Z03306300&code_rubrique=388310"
+    "id_pagesjaunes": "55871641"
   },
   {
     "nom": "CAR CLEAN GROUPE HELLIAS SERVICES",
@@ -49263,7 +49263,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=07276569&code_localite=Z03306300&code_rubrique=388310"
+    "id_pagesjaunes": "07276569"
   },
   {
     "nom": "GARAGE DE GARONNE",
@@ -49473,7 +49473,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=55380085&code_localite=Z03306300&code_rubrique=388310"
+    "id_pagesjaunes": "55380085"
   },
   {
     "nom": "ARISTOCAR (ARISTOCAR) (ARISTOCAR)",
@@ -49536,7 +49536,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00316537&code_localite=Z03306300&code_rubrique=061240"
+    "id_pagesjaunes": "00316537"
   },
   {
     "nom": "GCA BORDEAUX",
@@ -49620,7 +49620,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=56690490&code_localite=Z03306300&code_rubrique=131900"
+    "id_pagesjaunes": "56690490"
   },
   {
     "nom": "CITADINE LOCATION",
@@ -50061,7 +50061,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00772959&code_localite=Z03306300&code_rubrique=388310"
+    "id_pagesjaunes": "00772959"
   },
   {
     "nom": "SARL RSANGELAUTO (RS ANGELAUTO)",
@@ -50271,7 +50271,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=08075211&code_localite=Z03306300&code_rubrique=061240"
+    "id_pagesjaunes": "08075211"
   },
   {
     "nom": "CHABOT SPORT AQUITAINE",
@@ -50313,7 +50313,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=07276569&code_localite=Z03306300&code_rubrique=388310"
+    "id_pagesjaunes": "07276569"
   },
   {
     "nom": "SOUNGALO OUATTARA",
@@ -50502,7 +50502,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=09322139&code_localite=Z03306300&code_rubrique=388310"
+    "id_pagesjaunes": "09322139"
   },
   {
     "nom": "JET-SET AUTOS (JET-SET AUTOS)",
@@ -50523,7 +50523,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=63795004&code_localite=Z03306300&code_rubrique=388310"
+    "id_pagesjaunes": "63795004"
   },
   {
     "nom": "VO AND CO",
@@ -51132,7 +51132,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=62778915&code_localite=Z03306300&code_rubrique=061240"
+    "id_pagesjaunes": "62778915"
   },
   {
     "nom": "JACQUES ROSSIAUD",
@@ -51342,7 +51342,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00315630&code_localite=Z03306300&code_rubrique=061240"
+    "id_pagesjaunes": "00315630"
   },
   {
     "nom": "001 SDT SERVICES DRIVERS TECHNOLOGIES (001 SDT)",
@@ -51636,7 +51636,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00314027&code_localite=Z03306300&code_rubrique=061240"
+    "id_pagesjaunes": "00314027"
   },
   {
     "nom": "KARIM NOUAL (AUTO 33)",
@@ -52644,7 +52644,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=63222520&code_localite=Z03306300&code_rubrique=142320"
+    "id_pagesjaunes": "63222520"
   },
   {
     "nom": "MIMOUN EL BACHA (ME AUTO MOTO PRO)",
@@ -53988,7 +53988,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=61585203&code_localite=Z03306300&code_rubrique=061240"
+    "id_pagesjaunes": "61585203"
   },
   {
     "nom": "GARAGE SAINT AMAND",
@@ -54009,7 +54009,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=07671349&code_localite=Z03306300&code_rubrique=061240"
+    "id_pagesjaunes": "07671349"
   },
   {
     "nom": "WAJDI RAHAL",
@@ -56319,7 +56319,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=07276569&code_localite=Z03306300&code_rubrique=388310"
+    "id_pagesjaunes": "07276569"
   },
   {
     "nom": "CORAMES AUTOMOBILES",
@@ -57684,7 +57684,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=07276569&code_localite=Z03306300&code_rubrique=388310"
+    "id_pagesjaunes": "07276569"
   },
   {
     "nom": "BRONCHAL AUTOMOBILE",
@@ -58188,7 +58188,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=08905938&code_localite=Z03306300&code_rubrique=259510"
+    "id_pagesjaunes": "08905938"
   },
   {
     "nom": "LOUIT MOTO",
@@ -58209,7 +58209,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=07664565&code_localite=Z03306300&code_rubrique=259510"
+    "id_pagesjaunes": "07664565"
   },
   {
     "nom": "ESPRIT CYCLES BORDEAUX",
@@ -58314,7 +58314,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=08896660&code_localite=Z03306300&code_rubrique=259510"
+    "id_pagesjaunes": "08896660"
   },
   {
     "nom": "MOTO CADRE",
@@ -58356,7 +58356,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=08601625&code_localite=Z03306300&code_rubrique=259510"
+    "id_pagesjaunes": "08601625"
   },
   {
     "nom": "MOHAMED BACHIR (UNIVERS SCOOTER)",
@@ -58461,7 +58461,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=07128804&code_localite=Z03306300&code_rubrique=259510"
+    "id_pagesjaunes": "07128804"
   },
   {
     "nom": "STEEL BIKE CONCEPT (STEEL BIKE CONCEPT) (SBC)",
@@ -58692,7 +58692,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=08305660&code_localite=Z03306300&code_rubrique=259510"
+    "id_pagesjaunes": "08305660"
   },
   {
     "nom": "IRON MOTORS (BASTARDS CHOPPERS)",
@@ -58881,7 +58881,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=08601625&code_localite=Z03306300&code_rubrique=259510"
+    "id_pagesjaunes": "08601625"
   },
   {
     "nom": "GOSPEED FRANCE",
@@ -58923,7 +58923,7 @@
     "email": "",
     "source": "API Recherche Entreprises (gouv.fr)",
     "source_telephone": "PagesJaunes",
-    "id_pagesjaunes": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=09290808&code_localite=Z03306300&code_rubrique=259510"
+    "id_pagesjaunes": "09290808"
   },
   {
     "nom": "MX33",
