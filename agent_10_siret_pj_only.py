@@ -9,13 +9,13 @@ import json
 import random
 import re
 import subprocess
+import sys
 import time
 import urllib.parse
-import urllib.request
 from difflib import SequenceMatcher
 
 # ─── CONFIG ────────────────────────────────────────────────────────────────────
-BASE_DB_PATH     = "/home/user/Website01/entreprises_auto_moto_evry_toulouse_area.json"
+BASE_DB_PATH      = "/home/user/Website01/entreprises_auto_moto_evry_toulouse_area.json"
 PJ_SOURCES = [
     ("/home/user/Website01/pj_results_toulouse.json",  "Toulouse",  "list"),
     ("/home/user/Website01/pj_results_evry.json",      "Evry",      "list"),
@@ -27,9 +27,10 @@ PJ_SOURCES = [
 ]
 OUT_PATH          = "/home/user/Website01/agent_out_10_siret_pj_only.json"
 SIMILARITY_THRESH = 0.70
-MAX_PJ_ONLY       = 500   # up to 500 entries (rate-limited: will take time)
-API_DELAY         = 7.0   # 7s between calls
-RETRY_DELAY       = 300.0 # 5-min wait on first 429
+MAX_PJ_ONLY       = 500
+API_DELAY         = 7.0    # 7s between calls
+RETRY_DELAY       = 300.0  # 5-min on first 429
+MAX_CONSECUTIVE_429 = 3    # stop trying if 3 consecutive 429s (quota exhausted)
 
 
 # ─── HELPERS ───────────────────────────────────────────────────────────────────
@@ -59,9 +60,7 @@ print("Loading main database...")
 with open(BASE_DB_PATH, encoding="utf-8") as f:
     main_db = json.load(f)
 
-# Build index: (normalized_name, code_postal) → entry
-# Also keep a set of (norm_name, cp) for fast lookup
-main_index = {}   # key → list of entries
+main_index = {}
 for entry in main_db:
     n  = normalize_name(entry.get("nom", ""))
     cp = normalize_cp(entry.get("code_postal", ""))
@@ -73,8 +72,8 @@ print(f"  Main DB: {len(main_db)} entries, {len(main_index)} unique (name+CP) ke
 
 # ─── LOAD ALL PJ ENTRIES ───────────────────────────────────────────────────────
 print("\nLoading PJ sources...")
-pj_all = []   # list of dicts with unified fields
-seen_pj = set()  # dedup by (nom, cp)
+pj_all = []
+seen_pj = set()
 
 def add_pj_entry(entry: dict, zone: str):
     nom = entry.get("nom_pj") or entry.get("nom") or ""
@@ -84,14 +83,13 @@ def add_pj_entry(entry: dict, zone: str):
         return
     seen_pj.add(key)
     pj_all.append({
-        "nom":          nom,
-        "adresse":      entry.get("adresse_pj") or entry.get("adresse") or "",
-        "code_postal":  cp,
-        "ville":        entry.get("ville_pj") or entry.get("ville") or "",
-        "telephone":    entry.get("telephone") or "",
-        "site_web":     entry.get("site_web") or "",
+        "nom":           nom,
+        "adresse":       entry.get("adresse_pj") or entry.get("adresse") or "",
+        "code_postal":   cp,
+        "ville":         entry.get("ville_pj") or entry.get("ville") or "",
+        "telephone":     entry.get("telephone") or "",
+        "site_web":      entry.get("site_web") or "",
         "zone_recherche": zone,
-        "_raw": entry,
     })
 
 for path, zone, kind in PJ_SOURCES:
@@ -100,7 +98,7 @@ for path, zone, kind in PJ_SOURCES:
     if kind == "list":
         for e in data:
             add_pj_entry(e, zone)
-    else:  # dict of lists
+    else:
         for _cat, entries in data.items():
             if isinstance(entries, list):
                 for e in entries:
@@ -118,10 +116,8 @@ def is_in_main_db(nom: str, cp: str) -> bool:
     norm = normalize_name(nom)
     if not norm:
         return False
-    # Exact match first
     if (norm, cp) in main_index:
         return True
-    # Fuzzy match: compare against all entries with same CP
     for (db_name, db_cp), _ in main_index.items():
         if db_cp != cp:
             continue
@@ -139,7 +135,7 @@ for entry in pj_all:
 print(f"  PJ-only entries: {len(pj_only)} (out of {len(pj_all)} total PJ)")
 
 
-# ─── PRIORITIZE: entries with phone AND address ─────────────────────────────────
+# ─── PRIORITIZE ────────────────────────────────────────────────────────────────
 def has_phone(e):  return bool(e.get("telephone", "").strip())
 def has_addr(e):   return bool(e.get("adresse", "").strip())
 
@@ -152,9 +148,14 @@ print(f"  Processing (max {MAX_PJ_ONLY}): {len(candidates)}")
 
 # ─── API SEARCH ────────────────────────────────────────────────────────────────
 API_BASE = "https://recherche-entreprises.api.gouv.fr/search"
+consecutive_429 = 0
+api_quota_exhausted = False
 
-def fetch_url(url: str, max_retries: int = 10) -> dict | None:
-    """Fetch URL using curl subprocess, handles 429 with progressive waits."""
+
+def fetch_url(url: str, max_retries: int = 4) -> dict | None:
+    """Fetch URL using curl, handles 429 with progressive waits."""
+    global consecutive_429, api_quota_exhausted
+
     for attempt in range(max_retries):
         try:
             result = subprocess.run(
@@ -169,15 +170,20 @@ def fetch_url(url: str, max_retries: int = 10) -> dict | None:
             body = lines[0] if len(lines) > 1 else output
 
             if http_code == 200:
+                consecutive_429 = 0
                 return json.loads(body)
             elif http_code == 429:
-                # Progressive wait: 5min, 10min, 15min...
+                consecutive_429 += 1
+                if consecutive_429 >= MAX_CONSECUTIVE_429:
+                    print(f"    {consecutive_429} consecutive 429s → API quota exhausted, stopping API calls", flush=True)
+                    api_quota_exhausted = True
+                    return None
                 wait = RETRY_DELAY * (attempt + 1) + random.uniform(0, 30)
                 print(f"    429 (attempt {attempt+1}/{max_retries}), sleeping {wait/60:.1f}min...", flush=True)
                 time.sleep(wait)
                 continue
             else:
-                print(f"    HTTP {http_code} for URL: {url[:80]}")
+                print(f"    HTTP {http_code}")
                 return None
         except subprocess.TimeoutExpired:
             print(f"    Timeout on attempt {attempt+1}")
@@ -186,35 +192,34 @@ def fetch_url(url: str, max_retries: int = 10) -> dict | None:
         except Exception as exc:
             print(f"    Error: {exc}")
             return None
-    print(f"    Max retries exceeded, skipping")
     return None
 
 
 def search_siret(nom: str, cp: str) -> dict | None:
     """Search the API and return best matching result dict, or None."""
+    if api_quota_exhausted:
+        return None
     query = urllib.parse.quote(nom)
     url   = f"{API_BASE}?q={query}&per_page=5"
     data  = fetch_url(url)
     if data is None:
         return None
 
-    results = data.get("results", [])
+    results    = data.get("results", [])
     norm_query = normalize_name(nom)
 
     for r in results:
-        # Get first matching etablissement
-        etabs = r.get("matching_etablissements") or r.get("siege") and [r["siege"]] or []
+        etabs = r.get("matching_etablissements") or []
         if not etabs and r.get("siege"):
             etabs = [r["siege"]]
 
-        nom_api = r.get("nom_complet") or r.get("nom_raison_sociale") or ""
+        nom_api  = r.get("nom_complet") or r.get("nom_raison_sociale") or ""
         norm_api = normalize_name(nom_api)
         sim = similarity(norm_query, norm_api)
 
         if sim < SIMILARITY_THRESH:
             continue
 
-        # Find etablissement matching CP
         matched_etab = None
         for etab in etabs:
             etab_cp = normalize_cp(etab.get("code_postal") or "")
@@ -222,9 +227,8 @@ def search_siret(nom: str, cp: str) -> dict | None:
                 matched_etab = etab
                 break
 
-        # Also check siege CP
         if not matched_etab:
-            siege = r.get("siege") or {}
+            siege    = r.get("siege") or {}
             siege_cp = normalize_cp(siege.get("code_postal") or "")
             if siege_cp == cp:
                 matched_etab = siege
@@ -232,9 +236,8 @@ def search_siret(nom: str, cp: str) -> dict | None:
         if not matched_etab:
             continue
 
-        # Build result
         siret = matched_etab.get("siret") or ""
-        siren = r.get("siren") or siret[:9] if siret else ""
+        siren = r.get("siren") or (siret[:9] if siret else "")
         adresse_parts = [
             matched_etab.get("numero_voie") or "",
             matched_etab.get("type_voie") or "",
@@ -245,31 +248,39 @@ def search_siret(nom: str, cp: str) -> dict | None:
         adresse = " ".join(p for p in adresse_parts if p).strip()
 
         return {
-            "siret":     siret,
-            "siren":     siren,
-            "adresse":   adresse or matched_etab.get("adresse") or "",
+            "siret":       siret,
+            "siren":       siren,
+            "adresse":     adresse or matched_etab.get("adresse") or "",
             "code_postal": normalize_cp(matched_etab.get("code_postal") or cp),
-            "ville":     matched_etab.get("libelle_commune") or "",
-            "code_naf":  matched_etab.get("activite_principale") or r.get("activite_principale") or "",
+            "ville":       matched_etab.get("libelle_commune") or "",
+            "code_naf":    matched_etab.get("activite_principale") or r.get("activite_principale") or "",
         }
 
     return None
 
 
 # ─── ENRICH LOOP ───────────────────────────────────────────────────────────────
-print("\nEnriching PJ-only entries with SIRET...")
-enriched = []
+print("\nEnriching PJ-only entries with SIRET...", flush=True)
+enriched  = []
 not_found = 0
+skipped   = 0
+
+def save_results():
+    with open(OUT_PATH, "w", encoding="utf-8") as f:
+        json.dump(enriched, f, ensure_ascii=False, indent=2)
 
 for i, entry in enumerate(candidates, 1):
+    if api_quota_exhausted:
+        skipped = len(candidates) - i + 1
+        print(f"  API quota exhausted after {i-1} attempts. Remaining {skipped} entries skipped.", flush=True)
+        break
+
     nom = entry["nom"]
     cp  = entry["code_postal"]
 
     if i % 25 == 0:
         print(f"  Progress: {i}/{len(candidates)} | enriched={len(enriched)}, not_found={not_found}", flush=True)
-        # Periodic save
-        with open(OUT_PATH, "w", encoding="utf-8") as f:
-            json.dump(enriched, f, ensure_ascii=False, indent=2)
+        save_results()
 
     result = search_siret(nom, cp)
     time.sleep(API_DELAY + random.uniform(0, 1.0))
@@ -292,10 +303,9 @@ for i, entry in enumerate(candidates, 1):
         not_found += 1
 
 
-# ─── SAVE ──────────────────────────────────────────────────────────────────────
-print(f"\nSaving {len(enriched)} enriched entries to {OUT_PATH}...")
-with open(OUT_PATH, "w", encoding="utf-8") as f:
-    json.dump(enriched, f, ensure_ascii=False, indent=2)
+# ─── FINAL SAVE ────────────────────────────────────────────────────────────────
+save_results()
+print(f"\nSaved {len(enriched)} enriched entries to {OUT_PATH}")
 
 # ─── SUMMARY ───────────────────────────────────────────────────────────────────
 print("\n" + "="*60)
@@ -305,6 +315,7 @@ print(f"  PJ entries analysed  : {len(pj_all)}")
 print(f"  PJ-only found        : {len(pj_only)}")
 print(f"  Candidates processed : {len(candidates)}")
 print(f"  SIRET enriched       : {len(enriched)}")
-print(f"  Not found            : {not_found}")
+print(f"  Not found/no match   : {not_found}")
+print(f"  Skipped (quota)      : {skipped}")
 print(f"  Output file          : {OUT_PATH}")
 print("="*60)
