@@ -237,14 +237,21 @@ def is_cloudflare_challenge(html):
     return False
 
 
-def scrape_category_location(category, location, cache):
+def scrape_category_location(category, location, cache, cache_file=None):
     """Scrape all pages for a given category+location combo."""
     cache_key = f"{category}_{location}"
+    partial_key = f"{cache_key}_partial"
+
     if cache_key in cache:
         print(f"  [CACHE] {category} @ {location}: {len(cache[cache_key])} results")
         return cache[cache_key]
 
-    all_results = []
+    # Resume from partial if available
+    all_results = list(cache.get(partial_key, []))
+    start_page = (len(all_results) // 20) + 1 if all_results else 1
+    if all_results:
+        print(f"  [RESUME] {category} @ {location}: resuming from page {start_page} ({len(all_results)} already collected)")
+
     base_url = "https://www.pagesjaunes.fr/annuaire/chercherlespros"
 
     print(f"\n  Scraping: {category} @ {location}")
@@ -253,7 +260,7 @@ def scrape_category_location(category, location, cache):
     cf_retries = 0
     MAX_CF_RETRIES = 5
 
-    page_num = 1
+    page_num = start_page
     while page_num <= MAX_PAGES:
         url = f"{base_url}?quoiqui={category}&ou={location}&page={page_num}"
         print(f"    Page {page_num}/{total_pages or '?'}: ", end='', flush=True)
@@ -321,6 +328,11 @@ def scrape_category_location(category, location, cache):
         all_results.extend(listings)
         print(f"      Cumulative: {len(all_results)}")
 
+        # Save partial progress after each page
+        cache[partial_key] = all_results
+        if cache_file:
+            save_cache(cache, cache_file)
+
         if total_pages and page_num >= total_pages:
             break
 
@@ -330,6 +342,9 @@ def scrape_category_location(category, location, cache):
     print(f"    Total for {category} @ {location}: {len(all_results)}")
     if all_results:
         cache[cache_key] = all_results
+        # Clean up partial key
+        if partial_key in cache:
+            del cache[partial_key]
     return all_results
 
 
@@ -388,7 +403,7 @@ def run_scraping(categories, locations, cache, cache_file):
     all_results = []
     for location in locations:
         for category in categories:
-            results = scrape_category_location(category, location, cache)
+            results = scrape_category_location(category, location, cache, cache_file)
             all_results.extend(results)
             save_cache(cache, cache_file)
             time.sleep(4)
