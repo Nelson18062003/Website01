@@ -1,0 +1,695 @@
+[
+  {
+    "siret": "97811962600015",
+    "telephone": "05 34 63 92 38",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 0.683
+  },
+  {
+    "siret": "48822108600017",
+    "telephone": "05 61 73 73 99",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 0.757
+  },
+  {
+    "siret": "44526811300013",
+    "telephone": "05 61 73 73 99",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 0.706
+  },
+  {
+    "siret": "78980393900014",
+    "telephone": "05 62 88 98 68",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 0.737
+  },
+  {
+    "siret": "81803120500011",
+    "telephone": "05 62 75 17 17",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 0.667
+  },
+  {
+    "siret": "81878879600014",
+    "telephone": "06 21 04 80 31",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 0.75
+  },
+  {
+    "siret": "39952962700016",
+    "telephone": "05 61 21 81 15",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 0.667
+  },
+  {
+    "siret": "50988620600010",
+    "telephone": "07 87 42 09 90",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 0.667
+  },
+  {
+    "siret": "43248300600016",
+    "telephone": "05 61 48 72 62",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 0.8
+  },
+  {
+    "siret": "47948833000016",
+    "telephone": "05 34 66 74 74",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 0.743
+  },
+  {
+    "siret": "88481239700013",
+    "telephone": "06 67 35 67 68",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 0.686
+  },
+  {
+    "siret": "83190660700013",
+    "telephone": "05 61 41 23 60",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 0.696
+  },
+  {
+    "siret": "37854215300010",
+    "telephone": "05 61 40 20 48",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 0.651
+  },
+  {
+    "siret": "84442529800016",
+    "telephone": "05 62 72 34 34",
+    "site_web": "https://yam31.com/contact",
+    "source_telephone": "PJ_match",
+    "match_score": 0.833
+  },
+  {
+    "siret": "49521613700036",
+    "telephone": "07 68 59 51 75",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 0.667
+  },
+  {
+    "siret": "53321565300015",
+    "telephone": "09 53 43 94 90",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 0.774
+  },
+  {
+    "siret": "84083021000042",
+    "telephone": "05 82 95 18 84",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 1.0
+  },
+  {
+    "siret": "95090695800018",
+    "telephone": "05 61 80 00 00",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 0.667
+  },
+  {
+    "siret": "83450284100028",
+    "telephone": "09 63 69 97 14",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 0.75
+  },
+  {
+    "siret": "53505334200015",
+    "telephone": "06 52 95 30 79",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 0.667
+  },
+  {
+    "siret": "52865266200024",
+    "telephone": "09 86 00 00 00",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 0.667
+  },
+  {
+    "siret": "50797397200015",
+    "telephone": "07 56 84 30 11",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 0.651
+  },
+  {
+    "siret": "90284292100014",
+    "telephone": "06 10 15 48 69",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 0.65
+  },
+  {
+    "siret": "90960354000016",
+    "telephone": "07 56 84 30 11",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 0.652
+  },
+  {
+    "siret": "90169749000034",
+    "telephone": "05 82 84 30 60",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 0.667
+  },
+  {
+    "siret": "91492072300014",
+    "telephone": "06 21 04 80 31",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 1.0
+  },
+  {
+    "siret": "94179001600013",
+    "telephone": "05 61 52 43 33",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 0.783
+  },
+  {
+    "siret": "52191841700010",
+    "telephone": "06 10 15 48 69",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 0.692
+  },
+  {
+    "siret": "98998382000014",
+    "telephone": "05 61 47 49 98",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 0.815
+  },
+  {
+    "siret": "99025574700018",
+    "telephone": "06 21 04 80 31",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 0.706
+  },
+  {
+    "siret": "95322655200016",
+    "telephone": "06 66 55 92 13",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 1.0
+  },
+  {
+    "siret": "97747137400016",
+    "telephone": "01 43 43 35 20",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 0.842
+  },
+  {
+    "siret": "94051922600010",
+    "telephone": "05 34 66 74 74",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 0.867
+  },
+  {
+    "siret": "53328156400021",
+    "telephone": "06 61 76 99 58",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 1.0
+  },
+  {
+    "siret": "75096012200018",
+    "telephone": "05 61 25 68 30",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 0.7
+  },
+  {
+    "siret": "81276960200010",
+    "telephone": "05 67 33 79 27",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 0.769
+  },
+  {
+    "siret": "81780182200013",
+    "telephone": "06 52 95 30 79",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 0.651
+  },
+  {
+    "siret": "80422591000012",
+    "telephone": "06 01 11 63 78",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 0.8
+  },
+  {
+    "siret": "39882443300013",
+    "telephone": "05 61 47 04 00",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 0.757
+  },
+  {
+    "siret": "39117231900017",
+    "telephone": "06 14 00 00 10",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 0.667
+  },
+  {
+    "siret": "34199314500059",
+    "telephone": "05 61 25 68 30",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 0.667
+  },
+  {
+    "siret": "41354753000019",
+    "telephone": "05 61 40 20 48",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 1.0
+  },
+  {
+    "siret": "42198196000014",
+    "telephone": "05 61 49 44 60",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 0.757
+  },
+  {
+    "siret": "42250572700012",
+    "telephone": "06 31 31 87 13",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 0.667
+  },
+  {
+    "siret": "84480444300019",
+    "telephone": "05 32 59 13 66",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 1.0
+  },
+  {
+    "siret": "83890440700015",
+    "telephone": "07 78 02 47 60",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 0.896
+  },
+  {
+    "siret": "83939279200017",
+    "telephone": "05 62 80 93 51",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 0.7
+  },
+  {
+    "siret": "84753999600011",
+    "telephone": "05 61 40 20 48",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 0.786
+  },
+  {
+    "siret": "82967655000017",
+    "telephone": "06 67 35 67 68",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 0.656
+  },
+  {
+    "siret": "84020262600023",
+    "telephone": "05 82 95 27 16",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 0.667
+  },
+  {
+    "siret": "88075318100010",
+    "telephone": "06 11 17 42 60",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 0.667
+  },
+  {
+    "siret": "85283299700021",
+    "telephone": "06 45 87 83 81",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 1.0
+  },
+  {
+    "siret": "85317303700013",
+    "telephone": "07 49 63 45 77",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 0.857
+  },
+  {
+    "siret": "87986815600016",
+    "telephone": "07 87 42 09 90",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 0.8
+  },
+  {
+    "siret": "89173090500017",
+    "telephone": "06 13 16 89 99",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 0.857
+  },
+  {
+    "siret": "89534516300011",
+    "telephone": "06 13 16 89 99",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 0.857
+  },
+  {
+    "siret": "89323160500013",
+    "telephone": "06 12 79 81 01",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 0.706
+  },
+  {
+    "siret": "93796044100015",
+    "telephone": "05 67 33 79 27",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 0.857
+  },
+  {
+    "siret": "97823092800019",
+    "telephone": "06 27 10 38 63",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 1.0
+  },
+  {
+    "siret": "97842164200015",
+    "telephone": "05 61 40 45 16",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 0.667
+  },
+  {
+    "siret": "97876200300017",
+    "telephone": "05 34 40 37 40",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 0.897
+  },
+  {
+    "siret": "98093027500014",
+    "telephone": "06 52 95 30 79",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 0.714
+  },
+  {
+    "siret": "53759343600018",
+    "telephone": "06 12 79 81 01",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 0.889
+  },
+  {
+    "siret": "49009950400022",
+    "telephone": "07 82 90 08 35",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 0.688
+  },
+  {
+    "siret": "48850922500022",
+    "telephone": "05 61 61 84 29",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 0.696
+  },
+  {
+    "siret": "49301752900014",
+    "telephone": "05 34 66 74 74",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 0.759
+  },
+  {
+    "siret": "47875794100016",
+    "telephone": "05 61 59 78 60",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 0.783
+  },
+  {
+    "siret": "51453039300016",
+    "telephone": "07 67 87 84 94",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 0.667
+  },
+  {
+    "siret": "51473795600011",
+    "telephone": "06 58 18 04 70",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 0.824
+  },
+  {
+    "siret": "51517171800015",
+    "telephone": "07 49 63 45 77",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 0.706
+  },
+  {
+    "siret": "51762454000038",
+    "telephone": "06 12 79 81 01",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 0.75
+  },
+  {
+    "siret": "83774694000019",
+    "telephone": "06 51 39 05 70",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 0.667
+  },
+  {
+    "siret": "95368177200018",
+    "telephone": "05 67 33 79 27",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 0.762
+  },
+  {
+    "siret": "81093170900010",
+    "telephone": "07 49 63 45 77",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 0.8
+  },
+  {
+    "siret": "94767944500017",
+    "telephone": "05 34 30 94 77",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 0.759
+  },
+  {
+    "siret": "52096904900011",
+    "telephone": "05 62 80 93 51",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 0.706
+  },
+  {
+    "siret": "52986857200015",
+    "telephone": "06 45 87 83 81",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 0.774
+  },
+  {
+    "siret": "52462529000019",
+    "telephone": "06 13 16 89 99",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 0.9
+  },
+  {
+    "siret": "50331232400018",
+    "telephone": "05 61 40 20 48",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 0.727
+  },
+  {
+    "siret": "81526196100024",
+    "telephone": "06 12 79 81 01",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 0.7
+  },
+  {
+    "siret": "42382050500034",
+    "telephone": "07 56 84 30 11",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 0.788
+  },
+  {
+    "siret": "44837141900012",
+    "telephone": "05 61 47 63 75",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 0.71
+  },
+  {
+    "siret": "45046391400017",
+    "telephone": "06 51 39 05 70",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 0.7
+  },
+  {
+    "siret": "49344460800027",
+    "telephone": "06 98 15 15 34",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 0.667
+  },
+  {
+    "siret": "82848689400011",
+    "telephone": "05 61 23 52 42",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 0.681
+  },
+  {
+    "siret": "82209701000018",
+    "telephone": "06 21 04 80 31",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 0.706
+  },
+  {
+    "siret": "83005028200011",
+    "telephone": "06 58 18 04 70",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 0.706
+  },
+  {
+    "siret": "80061921500018",
+    "telephone": "06 98 06 20 80",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 0.69
+  },
+  {
+    "siret": "89523516600017",
+    "telephone": "06 12 79 81 01",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 0.75
+  },
+  {
+    "siret": "90400705100017",
+    "telephone": "06 11 17 42 60",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 0.818
+  },
+  {
+    "siret": "42129872000010",
+    "telephone": "05 61 43 75 74",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 1.0
+  },
+  {
+    "siret": "51030618600014",
+    "telephone": "05 61 80 00 00",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 1.0
+  },
+  {
+    "siret": "48141979400013",
+    "telephone": "05 03 26 58 16",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 1.0
+  },
+  {
+    "siret": "83091287900012",
+    "telephone": "05 33 09 37 47",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 0.72
+  },
+  {
+    "siret": "84169005000023",
+    "telephone": "05 33 09 37 47",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 1.0
+  },
+  {
+    "siret": "88948938100059",
+    "telephone": "06 47 74 37 00",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 0.915
+  },
+  {
+    "siret": "98746713100015",
+    "telephone": "05 33 09 37 47",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 0.667
+  },
+  {
+    "siret": "94113613700010",
+    "telephone": "01 43 43 35 20",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 0.778
+  },
+  {
+    "siret": "53320101800017",
+    "telephone": "06 77 14 11 46",
+    "site_web": "",
+    "source_telephone": "PJ_match",
+    "match_score": 1.0
+  }
+]

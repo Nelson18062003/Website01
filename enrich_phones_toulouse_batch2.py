@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """
 Enrichissement téléphones Toulouse - BATCH 2 (index 700 à 2684)
+API calls disabled due to rate limiting - PJ matching only
 """
 
 import json
@@ -92,14 +93,17 @@ except Exception as e:
     print(f"  ERREUR enriched_toulouse_pj.json: {e}")
     enriched_pj = []
 
-print(f"\n  Sample PJ raw entry keys: {list(pj_entries[0].keys()) if pj_entries else 'N/A'}")
-print(f"  Sample enriched entry keys: {list(enriched_pj[0].keys()) if enriched_pj else 'N/A'}")
-
 # ── build index ───────────────────────────────────────────────────────────────
+
+# Filter PJ entries that have a phone
+pj_with_phone = [e for e in pj_entries if e.get('telephone') and str(e.get('telephone', '')).strip()]
+enriched_with_phone = [e for e in enriched_pj if e.get('telephone') and str(e.get('telephone', '')).strip()]
+print(f"\n  PJ entries avec téléphone: {len(pj_with_phone)} / {len(pj_entries)}")
+print(f"  Enriched entries avec téléphone: {len(enriched_with_phone)} / {len(enriched_pj)}")
 
 # Index PJ entries (pj_results + pj_cache) by code_postal_pj
 pj_by_cp = {}
-for entry in pj_entries:
+for entry in pj_with_phone:
     cp = str(entry.get('code_postal_pj', '')).strip()
     if not cp:
         cp = '__UNKNOWN__'
@@ -107,9 +111,12 @@ for entry in pj_entries:
         pj_by_cp[cp] = []
     pj_by_cp[cp].append(entry)
 
+# Also add an "all" pool for fallback
+all_pj_pool = list(pj_with_phone)
+
 # Index enriched_toulouse_pj by code_postal
 enriched_by_cp = {}
-for entry in enriched_pj:
+for entry in enriched_with_phone:
     cp = str(entry.get('code_postal', '')).strip()
     if not cp:
         cp = '__UNKNOWN__'
@@ -117,8 +124,8 @@ for entry in enriched_pj:
         enriched_by_cp[cp] = []
     enriched_by_cp[cp].append(entry)
 
-print(f"\n  PJ codes postaux: {list(pj_by_cp.keys())[:10]}")
-print(f"  Enriched codes postaux: {list(enriched_by_cp.keys())[:10]}")
+print(f"  PJ codes postaux indexés: {sorted(pj_by_cp.keys())}")
+print(f"  Enriched codes postaux indexés: {sorted(enriched_by_cp.keys())}")
 
 # ── matching function ─────────────────────────────────────────────────────────
 
@@ -132,8 +139,8 @@ def get_pj_phone(entry_nom, entry_cp):
     best_score = 0.0
     best_phone = None
 
-    # Search in pj_results + pj_cache (nom_pj field)
-    candidates = pj_by_cp.get(cp_str, []) + pj_by_cp.get('__UNKNOWN__', [])
+    # Search in pj_results + pj_cache by CP (nom_pj field)
+    candidates = pj_by_cp.get(cp_str, [])
 
     for pj in candidates:
         pj_nom = str(pj.get('nom_pj', '') or '')
@@ -147,8 +154,8 @@ def get_pj_phone(entry_nom, entry_cp):
             if phone_raw:
                 best_phone = phone_raw
 
-    # Also search in enriched_toulouse_pj (nom field)
-    candidates2 = enriched_by_cp.get(cp_str, []) + enriched_by_cp.get('__UNKNOWN__', [])
+    # Also search in enriched_toulouse_pj by CP (nom field)
+    candidates2 = enriched_by_cp.get(cp_str, [])
 
     for pj in candidates2:
         pj_nom = str(pj.get('nom', '') or '')
@@ -169,14 +176,23 @@ def get_pj_phone(entry_nom, entry_cp):
 
 # ── API function ──────────────────────────────────────────────────────────────
 
+api_errors = 0
+api_successes = 0
+API_ENABLED = True  # Will be disabled after too many 429s
+
 def api_search_phone(nom, siret):
     """Rechercher téléphone via API gouvernementale"""
+    global api_errors, api_successes, API_ENABLED
+
+    if not API_ENABLED:
+        return None
+
     url = f"https://recherche-entreprises.api.gouv.fr/search?q={urllib.parse.quote(nom)}&per_page=3"
 
-    for attempt in range(3):
+    for attempt in range(2):
         try:
             req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
-            with urllib.request.urlopen(req, timeout=10) as response:
+            with urllib.request.urlopen(req, timeout=8) as response:
                 data = json.loads(response.read().decode('utf-8'))
 
             results = data.get('results', [])
@@ -195,19 +211,26 @@ def api_search_phone(nom, siret):
                 for etab in etablissements:
                     phone = etab.get('telephone', '')
                     if phone:
+                        api_successes += 1
                         return fmt_phone(str(phone))
                 # Also check at root level
                 phone = first.get('telephone', '')
                 if phone:
+                    api_successes += 1
                     return fmt_phone(str(phone))
 
             return None
 
         except urllib.error.HTTPError as e:
             if e.code == 429:
-                print(f"    Rate limit (429), attente 5s...")
-                time.sleep(5)
+                api_errors += 1
+                if api_errors >= 5:
+                    print(f"\n  [INFO] Trop de 429 ({api_errors}), API désactivée")
+                    API_ENABLED = False
+                    return None
+                time.sleep(10)
             else:
+                api_errors += 1
                 return None
         except Exception:
             return None
@@ -230,7 +253,7 @@ for i, entry in enumerate(no_phone):
     cp = str(entry.get('code_postal', ''))
 
     if i % 200 == 0:
-        print(f"  [{i}/{len(no_phone)}] PJ: {found_pj}, API: {found_api}")
+        print(f"  [{i}/{len(no_phone)}] PJ: {found_pj}, API: {found_api} (API_enabled={API_ENABLED})")
 
     processed += 1
 
@@ -246,9 +269,9 @@ for i, entry in enumerate(no_phone):
         })
         continue
 
-    # Step 2: API search
-    if nom and siret:
-        time.sleep(0.2)
+    # Step 2: API search (only if API still enabled)
+    if API_ENABLED and nom and siret:
+        time.sleep(1.0)  # Plus conservateur: 1 seconde entre appels
         phone_api = api_search_phone(nom, siret)
         if phone_api:
             found_api += 1

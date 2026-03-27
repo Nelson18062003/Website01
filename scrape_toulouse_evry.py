@@ -10,6 +10,7 @@ import time
 import os
 import sys
 import subprocess
+import urllib.parse
 
 # Install playwright if needed
 try:
@@ -331,6 +332,20 @@ def main():
     cache_toulouse = load_cache(CACHE_TOULOUSE)
     cache_evry = load_cache(CACHE_EVRY)
 
+    # Build proxy config from environment
+    proxy_config = None
+    proxy_env = os.environ.get('https_proxy') or os.environ.get('HTTPS_PROXY') or \
+                os.environ.get('http_proxy') or os.environ.get('HTTP_PROXY')
+    if proxy_env:
+        m = re.match(r'http://([^:]+):(.+)@(.+)', proxy_env)
+        if m:
+            proxy_config = {
+                'server': f'http://{m.group(3)}',
+                'username': m.group(1),
+                'password': m.group(2),
+            }
+            print(f"Using proxy: {proxy_config['server']}")
+
     with sync_playwright() as p:
         browser = p.chromium.launch(
             headless=True,
@@ -340,13 +355,16 @@ def main():
                 '--disable-dev-shm-usage',
                 '--disable-gpu',
                 '--window-size=1920,1080',
-            ]
+                '--ignore-certificate-errors',
+            ],
+            proxy=proxy_config,
         )
         context = browser.new_context(
             viewport={"width": 1920, "height": 1080},
             user_agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
             locale="fr-FR",
             timezone_id="Europe/Paris",
+            ignore_https_errors=True,
         )
 
         # Stealth: mask webdriver detection
