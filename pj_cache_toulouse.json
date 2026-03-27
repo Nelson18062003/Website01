@@ -8119,7 +8119,8 @@
       "adresse_pj": "145 rue Nicolas Louis Vauquelin 31100 Toulouse",
       "code_postal_pj": "31100",
       "ville_pj": "Toulouse",
-      "telephone": "05 34 60 86 08"
+      "telephone": "05 34 60 86 08",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Aramisauto Toulouse",
@@ -8127,7 +8128,8 @@
       "code_postal_pj": "31670",
       "ville_pj": "Labège",
       "telephone": "05 32 81 00 60",
-      "site_web": "https://www.aramisauto.com/contact/prise-rdv"
+      "site_web": "https://www.aramisauto.com/contact/prise-rdv",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "MIDI SERVICE Groupe Midi Diesel",
@@ -8135,7 +8137,8 @@
       "adresse_pj": "2 rue Gén Lionel Marmier 31300 Toulouse",
       "code_postal_pj": "31300",
       "ville_pj": "Toulouse",
-      "telephone": "05 61 42 80 11"
+      "telephone": "05 61 42 80 11",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Toyota Edenauto Concessionnaire",
@@ -8143,14 +8146,16 @@
       "adresse_pj": "Cépière 123 rue Nicolas Louis Vauquelin 31100 Toulouse",
       "code_postal_pj": "31100",
       "ville_pj": "Toulouse",
-      "telephone": "05 61 61 83 00"
+      "telephone": "05 61 61 83 00",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Fiat - Sipa Automobiles - Toulouse Sud",
       "adresse_pj": "123 route Revel 31400 Toulouse",
       "code_postal_pj": "31400",
       "ville_pj": "Toulouse",
-      "telephone": "05 82 84 34 12"
+      "telephone": "05 82 84 34 12",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Garage Faugères - Concession Citroën",
@@ -8158,56 +8163,64 @@
       "adresse_pj": "295 route Seysses 31100 Toulouse",
       "code_postal_pj": "31100",
       "ville_pj": "Toulouse",
-      "telephone": "05 61 40 29 10"
+      "telephone": "05 61 40 29 10",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Edenauto Lexus Toulouse",
       "adresse_pj": "123 rue Nicolas Louis Vauquelin 31100 Toulouse",
       "code_postal_pj": "31100",
       "ville_pj": "Toulouse",
-      "telephone": "05 61 61 84 29"
+      "telephone": "05 61 61 84 29",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Alfa Romeo - Sipa Automobiles - Toulouse Nord",
       "adresse_pj": "360 avenue Etats Unis 31200 Toulouse",
       "code_postal_pj": "31200",
       "ville_pj": "Toulouse",
-      "telephone": "0531531000"
+      "telephone": "0531531000",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Opel - Sipa Automobiles - Toulouse Sud",
       "adresse_pj": "123 route Revel 31400 Toulouse",
       "code_postal_pj": "31400",
       "ville_pj": "Toulouse",
-      "telephone": "05 82 84 34 10"
+      "telephone": "05 82 84 34 10",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Opel - Sipa Automobiles - Toulouse Nord",
       "adresse_pj": "360 avenue Etats Unis 31200 Toulouse",
       "code_postal_pj": "31200",
       "ville_pj": "Toulouse",
-      "telephone": "0986000000"
+      "telephone": "0986000000",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Toyota Espace Toy Distibuteur Agréé",
       "adresse_pj": "339 avenue Etats Unis 31200 Toulouse",
       "code_postal_pj": "31200",
       "ville_pj": "Toulouse",
-      "telephone": "05 34 40 02 29"
+      "telephone": "05 34 40 02 29",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Spoticar Sipa Automobiles Concessionnaire",
       "adresse_pj": "360 avenue Etats Unis 31200 Toulouse",
       "code_postal_pj": "31200",
       "ville_pj": "Toulouse",
-      "telephone": "05 82 84 30 20"
+      "telephone": "05 82 84 30 20",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Fiat Professionnal - Sipa Automobiles - Toulouse Nord",
       "adresse_pj": "360 avenue Etats Unis 31200 Toulouse",
       "code_postal_pj": "31200",
       "ville_pj": "Toulouse",
-      "telephone": "05 82 84 85 80"
+      "telephone": "05 82 84 85 80",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Garage Brefeil",
@@ -8215,7 +8228,8 @@
       "adresse_pj": "106 rue Edmond Rostand 31200 Toulouse",
       "code_postal_pj": "31200",
       "ville_pj": "Toulouse",
-      "telephone": "05 61 48 57 16"
+      "telephone": "05 61 48 57 16",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Edenauto Toyota Labege",
@@ -8223,28 +8237,32 @@
       "adresse_pj": "159 route Labège 31400 Toulouse",
       "code_postal_pj": "31400",
       "ville_pj": "Toulouse",
-      "telephone": "05 62 71 64 10"
+      "telephone": "05 62 71 64 10",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Fiat - Sipa Automobiles - Toulouse Nord",
       "adresse_pj": "360 avenue Etats Unis 31200 Toulouse",
       "code_postal_pj": "31200",
       "ville_pj": "Toulouse",
-      "telephone": "05 82 84 85 80"
+      "telephone": "05 82 84 85 80",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Alfa Romeo – Sipa Automobiles – Toulouse Sud",
       "adresse_pj": "123 route Revel 31400 Toulouse",
       "code_postal_pj": "31400",
       "ville_pj": "Toulouse",
-      "telephone": "0531731000"
+      "telephone": "0531731000",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Jeep - Sipa Automobiles - Toulouse Su",
       "adresse_pj": "123 route Revel 31400 Toulouse",
       "code_postal_pj": "31400",
       "ville_pj": "Toulouse",
-      "telephone": "05 82 84 34 13"
+      "telephone": "05 82 84 34 13",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "AUTO NORD",
@@ -8252,56 +8270,64 @@
       "adresse_pj": "360 avenue Etats Unis 31200 Toulouse",
       "code_postal_pj": "31200",
       "ville_pj": "Toulouse",
-      "telephone": "05 82 84 30 60"
+      "telephone": "05 82 84 30 60",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Volvo - Sipa Automobiles - Toulouse Nord",
       "adresse_pj": "360 avenue Etats Unis 31200 Toulouse",
       "code_postal_pj": "31200",
       "ville_pj": "Toulouse",
-      "telephone": "05 82 84 32 40"
+      "telephone": "05 82 84 32 40",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Alizé Autos Chatenet Toulouse",
       "adresse_pj": "31 rue André Vasseur 31200 Toulouse",
       "code_postal_pj": "31200",
       "ville_pj": "Toulouse",
-      "telephone": "05 34 25 71 48"
+      "telephone": "05 34 25 71 48",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Fiat Professionnal - Sipa Automobiles - Toulouse Nord",
       "adresse_pj": "360 avenue Etats Unis 31200 Toulouse",
       "code_postal_pj": "31200",
       "ville_pj": "Toulouse",
-      "telephone": "05 82 84 85 80"
+      "telephone": "05 82 84 85 80",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Matitine - Toulouse nord",
       "adresse_pj": "360 avenue Etats Unis 31200 Toulouse",
       "code_postal_pj": "31200",
       "ville_pj": "Toulouse",
-      "telephone": "0538131000"
+      "telephone": "0538131000",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Jeep - Sipa Automobiles - Toulouse Su",
       "adresse_pj": "123 route Revel 31400 Toulouse",
       "code_postal_pj": "31400",
       "ville_pj": "Toulouse",
-      "telephone": "05 82 84 34 13"
+      "telephone": "05 82 84 34 13",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Abarth - Sipa Automobiles - Toulouse Sud",
       "adresse_pj": "123 route Revel 31400 Toulouse",
       "code_postal_pj": "31400",
       "ville_pj": "Toulouse",
-      "telephone": "05 82 84 34 12"
+      "telephone": "05 82 84 34 12",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Abarth - Sipa Automobiles - Toulouse Nord",
       "adresse_pj": "360 avenue Etats Unis 31200 Toulouse",
       "code_postal_pj": "31200",
       "ville_pj": "Toulouse",
-      "telephone": "05 82 84 85 80"
+      "telephone": "05 82 84 85 80",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Dacia TMA Montauban",
@@ -8309,14 +8335,16 @@
       "adresse_pj": "125 route Revel 31400 Toulouse",
       "code_postal_pj": "31400",
       "ville_pj": "Toulouse",
-      "telephone": "05 62 47 87 87"
+      "telephone": "05 62 47 87 87",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Renault Edenauto Concessionnaire",
       "adresse_pj": "75 avenue Etats Unis 31200 Toulouse",
       "code_postal_pj": "31200",
       "ville_pj": "Toulouse",
-      "telephone": "05 61 10 75 75"
+      "telephone": "05 61 10 75 75",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Isuzu Mag Motors Concessionnaire",
@@ -8324,7 +8352,8 @@
       "adresse_pj": "ZA NORD 2 rue Edouard Branly 31520 Ramonville Saint Agne",
       "code_postal_pj": "31520",
       "ville_pj": "Ramonville Saint Agne",
-      "telephone": "05 61 73 00 00"
+      "telephone": "05 61 73 00 00",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Volkswagen Dbf Automobiles Concessionnaire",
@@ -8332,7 +8361,8 @@
       "adresse_pj": "344 avenue Etats Unis 31200 Toulouse",
       "code_postal_pj": "31200",
       "ville_pj": "Toulouse",
-      "telephone": "05 62 75 87 58"
+      "telephone": "05 62 75 87 58",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Garage Dougnac",
@@ -8340,7 +8370,8 @@
       "adresse_pj": "Zac De Gabardie 21 rue Paule Raymondis 31200 Toulouse",
       "code_postal_pj": "31200",
       "ville_pj": "Toulouse",
-      "telephone": "0614000010"
+      "telephone": "0614000010",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Garage Gomez",
@@ -8348,7 +8379,8 @@
       "adresse_pj": "3 rue Edmond de Planet 31000 Toulouse",
       "code_postal_pj": "31000",
       "ville_pj": "Toulouse",
-      "telephone": "05 61 21 81 15"
+      "telephone": "05 61 21 81 15",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Mercedes-Benz LG Toulouse Automobiles Concessionnaire",
@@ -8356,14 +8388,16 @@
       "adresse_pj": "231 route Albi BP 62437 31200 Toulouse",
       "code_postal_pj": "62437",
       "ville_pj": "31200 Toulouse",
-      "telephone": "05 61 61 33 00"
+      "telephone": "05 61 61 33 00",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Edenauto Renault",
       "adresse_pj": "131 rue Nicolas Louis Vauquelin 31100 Toulouse",
       "code_postal_pj": "31100",
       "ville_pj": "Toulouse",
-      "telephone": "05 59 80 03 00"
+      "telephone": "05 59 80 03 00",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Ma Carte Grise",
@@ -8371,7 +8405,8 @@
       "adresse_pj": "332 avenue Etats Unis 31200 Toulouse",
       "code_postal_pj": "31200",
       "ville_pj": "Toulouse",
-      "telephone": "07 81 47 21 87"
+      "telephone": "07 81 47 21 87",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Aramisauto Toulouse",
@@ -8379,14 +8414,16 @@
       "code_postal_pj": "31670",
       "ville_pj": "Labège",
       "telephone": "05 32 81 00 60",
-      "site_web": "https://www.aramisauto.com/contact/prise-rdv"
+      "site_web": "https://www.aramisauto.com/contact/prise-rdv",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Ford Slada Toulouse - Auto Services",
       "adresse_pj": "1 avenue Salvador Allende 31200 Toulouse",
       "code_postal_pj": "31200",
       "ville_pj": "Toulouse",
-      "telephone": "05 61 13 54 54"
+      "telephone": "05 61 13 54 54",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Ets Richart Peugeot Citroën",
@@ -8394,7 +8431,8 @@
       "adresse_pj": "2 zone artisanale Ribaute 31130 Quint Fonsegrives",
       "code_postal_pj": "31130",
       "ville_pj": "Quint Fonsegrives",
-      "telephone": "05 61 24 00 98"
+      "telephone": "05 61 24 00 98",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Auto Saint Cyprien",
@@ -8402,7 +8440,8 @@
       "adresse_pj": "57 allée Charles de Fitte 31300 Toulouse",
       "code_postal_pj": "31300",
       "ville_pj": "Toulouse",
-      "telephone": "05 34 51 13 00"
+      "telephone": "05 34 51 13 00",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Citroën Opel Garage Angles réparateur Agréé",
@@ -8410,7 +8449,8 @@
       "adresse_pj": "7 avenue Hermès 31240 L'Union",
       "code_postal_pj": "31240",
       "ville_pj": "L'Union",
-      "telephone": "05 34 25 33 22"
+      "telephone": "05 34 25 33 22",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Ets Richart Peugeot Citroën",
@@ -8418,7 +8458,8 @@
       "adresse_pj": "2 zone artisanale Ribaute 31130 Quint Fonsegrives",
       "code_postal_pj": "31130",
       "ville_pj": "Quint Fonsegrives",
-      "telephone": "05 61 24 00 98"
+      "telephone": "05 61 24 00 98",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Peugeot Sodiscar SARL Agent",
@@ -8427,7 +8468,8 @@
       "code_postal_pj": "31170",
       "ville_pj": "Tournefeuille",
       "telephone": "05 61 07 17 18",
-      "site_web": "https://rendezvousenligne.peugeot.fr/fr-FR/rendez-vous-garage-peugeot/france/sodiscar/0000022489"
+      "site_web": "https://rendezvousenligne.peugeot.fr/fr-FR/rendez-vous-garage-peugeot/france/sodiscar/0000022489",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Aramisauto Toulouse",
@@ -8435,35 +8477,40 @@
       "code_postal_pj": "31670",
       "ville_pj": "Labège",
       "telephone": "05 32 81 00 60",
-      "site_web": "https://www.aramisauto.com/contact/prise-rdv"
+      "site_web": "https://www.aramisauto.com/contact/prise-rdv",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Peugeot PSA Retail Toulouse",
       "adresse_pj": "117 rue Nicolas Louis Vauquelin 31100 Toulouse",
       "code_postal_pj": "31100",
       "ville_pj": "Toulouse",
-      "telephone": "05 34 50 19 19"
+      "telephone": "05 34 50 19 19",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Nissan Concessionnaire",
       "adresse_pj": "31 avenue Jean Zay 31200 Toulouse",
       "code_postal_pj": "31200",
       "ville_pj": "Toulouse",
-      "telephone": "05 34 42 26 26"
+      "telephone": "05 34 42 26 26",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Audi Sterling Automobiles Concessionnaire",
       "adresse_pj": "157 avenue Etats Unis 31200 Toulouse",
       "code_postal_pj": "31200",
       "ville_pj": "Toulouse",
-      "telephone": "05 34 40 24 55"
+      "telephone": "05 34 40 24 55",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Volkswagen Dbf Toulouse",
       "adresse_pj": "2686 route Baziège 31670 Labège",
       "code_postal_pj": "31670",
       "ville_pj": "Labège",
-      "telephone": "05 61 36 30 00"
+      "telephone": "05 61 36 30 00",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Citroën Opel Garage Angles réparateur Agréé",
@@ -8471,63 +8518,72 @@
       "adresse_pj": "7 avenue Hermès 31240 L'Union",
       "code_postal_pj": "31240",
       "ville_pj": "L'Union",
-      "telephone": "05 34 25 33 22"
+      "telephone": "05 34 25 33 22",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Centre Alpine Toulouse",
       "adresse_pj": "75 avenue Etats Unis 31200 Toulouse",
       "code_postal_pj": "31200",
       "ville_pj": "Toulouse",
-      "telephone": "0293894566"
+      "telephone": "0293894566",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Centre Porsche Toulouse",
       "adresse_pj": "71 impasse Bourgade BP 18216 31670 Labège",
       "code_postal_pj": "18216",
       "ville_pj": "31670 Labège",
-      "telephone": "05 62 71 67 67"
+      "telephone": "05 62 71 67 67",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Equation",
       "adresse_pj": "3006 La Lauragaise 31670 Labège",
       "code_postal_pj": "31670",
       "ville_pj": "Labège",
-      "telephone": "05 62 71 11 11"
+      "telephone": "05 62 71 11 11",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Nissan Toulouse",
       "adresse_pj": "31 avenue Jean Zay 31200 Toulouse",
       "code_postal_pj": "31200",
       "ville_pj": "Toulouse",
-      "telephone": "05 34 42 26 26"
+      "telephone": "05 34 42 26 26",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Nissan",
       "adresse_pj": "La Lauragaise 2286 route Baziège 31670 Labège",
       "code_postal_pj": "31670",
       "ville_pj": "Labège",
-      "telephone": "05 62 19 23 19"
+      "telephone": "05 62 19 23 19",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "DS Store Toulouse Etats-Unis",
       "adresse_pj": "1 Bis avenue Salvador Allende 31200 Toulouse",
       "code_postal_pj": "31200",
       "ville_pj": "Toulouse",
-      "telephone": "05 62 72 95 53"
+      "telephone": "05 62 72 95 53",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Ds Store France Auto  Concessionnaire",
       "adresse_pj": "24 avenue Didier Daurat 31400 Toulouse",
       "code_postal_pj": "31400",
       "ville_pj": "Toulouse",
-      "telephone": "05 62 80 02 48"
+      "telephone": "05 62 80 02 48",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Renault ACL",
       "adresse_pj": "3 route Aussonne 31700 Cornebarrieu",
       "code_postal_pj": "31700",
       "ville_pj": "Cornebarrieu",
-      "telephone": "05 34 52 90 15"
+      "telephone": "05 34 52 90 15",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Auto Sport - Agent Ford",
@@ -8535,35 +8591,40 @@
       "code_postal_pj": "31140",
       "ville_pj": "Launaguet",
       "telephone": "05 61 70 26 68",
-      "site_web": "http://www.asgarage-ford.com/contact"
+      "site_web": "http://www.asgarage-ford.com/contact",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Autodiffusion 31",
       "adresse_pj": "Bureau 3 5 impasse Colombette 31000 Toulouse",
       "code_postal_pj": "31000",
       "ville_pj": "Toulouse",
-      "telephone": "06 98 06 20 80"
+      "telephone": "06 98 06 20 80",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Mitsubishi Motors",
       "adresse_pj": "75 avenue Etats Unis 31200 Toulouse",
       "code_postal_pj": "31200",
       "ville_pj": "Toulouse",
-      "telephone": "05 61 10 75 75"
+      "telephone": "05 61 10 75 75",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Land Rover - Mazda Auto Réal Distributeur Concessionnaire",
       "adresse_pj": "279 avenue Etats Unis 31200 Toulouse",
       "code_postal_pj": "31200",
       "ville_pj": "Toulouse",
-      "telephone": "05 34 40 35 00"
+      "telephone": "05 34 40 35 00",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Nissan Concessionnaire",
       "adresse_pj": "31 avenue Jean Zay 31200 Toulouse",
       "code_postal_pj": "31200",
       "ville_pj": "Toulouse",
-      "telephone": "05 34 42 26 26"
+      "telephone": "05 34 42 26 26",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Garage AD - FIAT / ALFA ROMEO L'Union Automobiles",
@@ -8571,21 +8632,24 @@
       "adresse_pj": "35 chemin Violettes 31240 L'Union",
       "code_postal_pj": "31240",
       "ville_pj": "L'Union",
-      "telephone": "05 61 74 45 34"
+      "telephone": "05 61 74 45 34",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "PEUGEOT PICARD AUTOS RAMONVILLE CONCESSIONNAIRE",
       "adresse_pj": "7 avenue Crêtes 31520 Ramonville Saint Agne",
       "code_postal_pj": "31520",
       "ville_pj": "Ramonville Saint Agne",
-      "telephone": "05 62 19 19 19"
+      "telephone": "05 62 19 19 19",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Centre Alpine Toulouse",
       "adresse_pj": "75 avenue Etats Unis 31200 Toulouse",
       "code_postal_pj": "31200",
       "ville_pj": "Toulouse",
-      "telephone": "0293894566"
+      "telephone": "0293894566",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Citroën Opel Garage Angles réparateur Agréé",
@@ -8593,21 +8657,24 @@
       "adresse_pj": "7 avenue Hermès 31240 L'Union",
       "code_postal_pj": "31240",
       "ville_pj": "L'Union",
-      "telephone": "05 34 25 33 22"
+      "telephone": "05 34 25 33 22",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Autobiz Montaudran",
       "adresse_pj": "28 avenue Didier Daurat 31400 Toulouse",
       "code_postal_pj": "31400",
       "ville_pj": "Toulouse",
-      "telephone": "05 17 12 85 25"
+      "telephone": "05 17 12 85 25",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Land Rover - Mazda Auto Réal Distributeur Concessionnaire",
       "adresse_pj": "279 avenue Etats Unis 31200 Toulouse",
       "code_postal_pj": "31200",
       "ville_pj": "Toulouse",
-      "telephone": "05 34 40 35 00"
+      "telephone": "05 34 40 35 00",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Modena Sport",
@@ -8615,21 +8682,24 @@
       "adresse_pj": "92 route Castres 31130 Balma",
       "code_postal_pj": "31130",
       "ville_pj": "Balma",
-      "telephone": "05 61 54 14 14"
+      "telephone": "05 61 54 14 14",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Volkswagen Dbf Toulouse",
       "adresse_pj": "2686 route Baziège 31670 Labège",
       "code_postal_pj": "31670",
       "ville_pj": "Labège",
-      "telephone": "05 61 36 30 00"
+      "telephone": "05 61 36 30 00",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Kia  Amk 31 Concessionnaire",
       "adresse_pj": "161 route Labège 31400 Toulouse",
       "code_postal_pj": "31400",
       "ville_pj": "Toulouse",
-      "telephone": "05 82 95 35 00"
+      "telephone": "05 82 95 35 00",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Domart Automobiles",
@@ -8637,14 +8707,16 @@
       "adresse_pj": "38 avenue Jean Moulin 31320 Castanet Tolosan",
       "code_postal_pj": "31320",
       "ville_pj": "Castanet Tolosan",
-      "telephone": "05 61 62 30 79"
+      "telephone": "05 61 62 30 79",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Passion Vsp SARL",
       "adresse_pj": "Zac La Glaciere 7 impasse Pierre Camo 31200 Toulouse",
       "code_postal_pj": "31200",
       "ville_pj": "Toulouse",
-      "telephone": "05 34 31 03 65"
+      "telephone": "05 34 31 03 65",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Renault Samec Delouvée Ets Agent",
@@ -8652,14 +8724,16 @@
       "adresse_pj": "25 avenue Larrieu Thibaud 31100 Toulouse",
       "code_postal_pj": "31100",
       "ville_pj": "Toulouse",
-      "telephone": "05 61 44 44 17"
+      "telephone": "05 61 44 44 17",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Nissan Toulouse",
       "adresse_pj": "31 avenue Jean Zay 31200 Toulouse",
       "code_postal_pj": "31200",
       "ville_pj": "Toulouse",
-      "telephone": "05 34 42 26 26"
+      "telephone": "05 34 42 26 26",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "RENAULT Tournefeuille Automobiles Agent",
@@ -8667,7 +8741,8 @@
       "adresse_pj": "54 boulevard Vincent Auriol 31170 Tournefeuille",
       "code_postal_pj": "31170",
       "ville_pj": "Tournefeuille",
-      "telephone": "0398000000"
+      "telephone": "0398000000",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Auto Sport - Agent Ford",
@@ -8675,77 +8750,88 @@
       "code_postal_pj": "31140",
       "ville_pj": "Launaguet",
       "telephone": "05 61 70 26 68",
-      "site_web": "http://www.asgarage-ford.com/contact"
+      "site_web": "http://www.asgarage-ford.com/contact",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "AUTOS-LABEGE.COM",
       "adresse_pj": "102 route Labège 31400 Toulouse",
       "code_postal_pj": "31400",
       "ville_pj": "Toulouse",
-      "telephone": "05 61 13 80 06"
+      "telephone": "05 61 13 80 06",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Nissan",
       "adresse_pj": "La Lauragaise 2286 route Baziège 31670 Labège",
       "code_postal_pj": "31670",
       "ville_pj": "Labège",
-      "telephone": "05 62 19 23 19"
+      "telephone": "05 62 19 23 19",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Seat Crystal Auto Concessionnaire SAS",
       "adresse_pj": "157 avenue Etats Unis 31200 Toulouse",
       "code_postal_pj": "31200",
       "ville_pj": "Toulouse",
-      "telephone": "05 34 40 24 55"
+      "telephone": "05 34 40 24 55",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "NCB AUTO",
       "adresse_pj": "35 avenue Crampel 31400 Toulouse",
       "code_postal_pj": "31400",
       "ville_pj": "Toulouse",
-      "telephone": "06 68 25 36 97"
+      "telephone": "06 68 25 36 97",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "AUTOS-LABEGE.COM",
       "adresse_pj": "102 route Labège 31400 Toulouse",
       "code_postal_pj": "31400",
       "ville_pj": "Toulouse",
-      "telephone": "05 61 13 80 06"
+      "telephone": "05 61 13 80 06",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Dacia Edenauto Concessionnaire",
       "adresse_pj": "75 avenue Etats Unis 31200 Toulouse",
       "code_postal_pj": "31200",
       "ville_pj": "Toulouse",
-      "telephone": "05 61 10 75 75"
+      "telephone": "05 61 10 75 75",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Land Rover - Mazda Auto Réal Distributeur Concessionnaire",
       "adresse_pj": "279 avenue Etats Unis 31200 Toulouse",
       "code_postal_pj": "31200",
       "ville_pj": "Toulouse",
-      "telephone": "05 34 40 35 00"
+      "telephone": "05 34 40 35 00",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Mitsubishi Motors",
       "adresse_pj": "75 avenue Etats Unis 31200 Toulouse",
       "code_postal_pj": "31200",
       "ville_pj": "Toulouse",
-      "telephone": "05 61 10 75 75"
+      "telephone": "05 61 10 75 75",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Garage Degriff Auto",
       "adresse_pj": "80 route Labège 31400 Toulouse",
       "code_postal_pj": "31400",
       "ville_pj": "Toulouse",
-      "telephone": "09 53 43 94 90"
+      "telephone": "09 53 43 94 90",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Nissan Toulouse",
       "adresse_pj": "31 avenue Jean Zay 31200 Toulouse",
       "code_postal_pj": "31200",
       "ville_pj": "Toulouse",
-      "telephone": "05 34 42 26 26"
+      "telephone": "05 34 42 26 26",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Garage AD - FIAT / ALFA ROMEO L'Union Automobiles",
@@ -8753,7 +8839,8 @@
       "adresse_pj": "35 chemin Violettes 31240 L'Union",
       "code_postal_pj": "31240",
       "ville_pj": "L'Union",
-      "telephone": "05 61 74 45 34"
+      "telephone": "05 61 74 45 34",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Marcel Candiard",
@@ -8761,98 +8848,112 @@
       "adresse_pj": "3 allée Comminges 31770 Colomiers",
       "code_postal_pj": "31770",
       "ville_pj": "Colomiers",
-      "telephone": "05 61 78 02 53"
+      "telephone": "05 61 78 02 53",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Bh Service Carte Grise",
       "adresse_pj": "12 place Pradettes 31100 Toulouse",
       "code_postal_pj": "31100",
       "ville_pj": "Toulouse",
-      "telephone": "09 63 69 97 14"
+      "telephone": "09 63 69 97 14",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Auto Real Automobiles",
       "adresse_pj": "La Lauragaise 2979 route Baziège BP 78178 31670 Labège",
       "code_postal_pj": "78178",
       "ville_pj": "31670 Labège",
-      "telephone": "05 62 24 67 67"
+      "telephone": "05 62 24 67 67",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Passion Vsp SARL",
       "adresse_pj": "Zac La Glaciere 7 impasse Pierre Camo 31200 Toulouse",
       "code_postal_pj": "31200",
       "ville_pj": "Toulouse",
-      "telephone": "05 34 31 03 65"
+      "telephone": "05 34 31 03 65",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Seat Crystal Auto Concessionnaire SAS",
       "adresse_pj": "157 avenue Etats Unis 31200 Toulouse",
       "code_postal_pj": "31200",
       "ville_pj": "Toulouse",
-      "telephone": "05 34 40 24 55"
+      "telephone": "05 34 40 24 55",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "AutoSelect31",
       "adresse_pj": "5 chemin Tourterelles 31120 Portet sur Garonne",
       "code_postal_pj": "31120",
       "ville_pj": "Portet sur Garonne",
-      "telephone": "06 98 64 43 55"
+      "telephone": "06 98 64 43 55",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Garage du Chateau de l'Hers",
       "adresse_pj": "91 chemin Château de L'Hers 31500 Toulouse",
       "code_postal_pj": "31500",
       "ville_pj": "Toulouse",
-      "telephone": "05 62 47 74 00"
+      "telephone": "05 62 47 74 00",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Renault ACL",
       "adresse_pj": "3 route Aussonne 31700 Cornebarrieu",
       "code_postal_pj": "31700",
       "ville_pj": "Cornebarrieu",
-      "telephone": "05 34 52 90 15"
+      "telephone": "05 34 52 90 15",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "JI AUTOMOBILE",
       "adresse_pj": "49 chemin Vieilles Ecoles 31200 Toulouse",
       "code_postal_pj": "31200",
       "ville_pj": "Toulouse",
-      "telephone": "06 61 76 99 58"
+      "telephone": "06 61 76 99 58",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "NCB AUTO",
       "adresse_pj": "35 avenue Crampel 31400 Toulouse",
       "code_postal_pj": "31400",
       "ville_pj": "Toulouse",
-      "telephone": "06 68 25 36 97"
+      "telephone": "06 68 25 36 97",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "SAS OURAGAN MECA",
       "adresse_pj": "139 chemin Lapujade 31200 Toulouse",
       "code_postal_pj": "31200",
       "ville_pj": "Toulouse",
-      "telephone": "05 32 02 45 77"
+      "telephone": "05 32 02 45 77",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Mercedes-Benz Hamecher Toulouse VI",
       "adresse_pj": "15 avenue Cerisiers 31120 Portet sur Garonne",
       "code_postal_pj": "31120",
       "ville_pj": "Portet sur Garonne",
-      "telephone": "05 62 20 08 87"
+      "telephone": "05 62 20 08 87",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Honda - Groupe Clim - Toulouse",
       "adresse_pj": "30 rue Max Planck 31670 Labège",
       "code_postal_pj": "31670",
       "ville_pj": "Labège",
-      "telephone": "05 62 88 45 45"
+      "telephone": "05 62 88 45 45",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "J . L . B . Automobile SARL",
       "adresse_pj": "56 route Grenade 31700 Beauzelle",
       "code_postal_pj": "31700",
       "ville_pj": "Beauzelle",
-      "telephone": "05 61 59 93 74"
+      "telephone": "05 61 59 93 74",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Garage Cousseau",
@@ -8860,7 +8961,8 @@
       "adresse_pj": "5 allée Sports 31120 Portet sur Garonne",
       "code_postal_pj": "31120",
       "ville_pj": "Portet sur Garonne",
-      "telephone": "05 62 87 68 06"
+      "telephone": "05 62 87 68 06",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Garage Thomas Chloë",
@@ -8868,7 +8970,8 @@
       "adresse_pj": "6 route Gratentour 31140 Pechbonnieu",
       "code_postal_pj": "31140",
       "ville_pj": "Pechbonnieu",
-      "telephone": "05 61 09 73 40"
+      "telephone": "05 61 09 73 40",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Auto Villeneuve",
@@ -8876,28 +8979,32 @@
       "adresse_pj": "32 avenue Cugnaux 31270 Villeneuve Tolosane",
       "code_postal_pj": "31270",
       "ville_pj": "Villeneuve Tolosane",
-      "telephone": "05 81 60 47 61"
+      "telephone": "05 81 60 47 61",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Garage Ad Expert Wrc Fils",
       "adresse_pj": "2 impasse Marcel Paul 31170 Tournefeuille",
       "code_postal_pj": "31170",
       "ville_pj": "Tournefeuille",
-      "telephone": "05 67 16 64 16"
+      "telephone": "05 67 16 64 16",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Tesla",
       "adresse_pj": "4 rue Sadi Carnot 31830 Plaisance du Touch",
       "code_postal_pj": "31830",
       "ville_pj": "Plaisance du Touch",
-      "telephone": "05 32 63 03 48"
+      "telephone": "05 32 63 03 48",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "ABSOLUX",
       "adresse_pj": "1 rue Boissin 31500 Toulouse",
       "code_postal_pj": "31500",
       "ville_pj": "Toulouse",
-      "telephone": "06 34 31 33 53"
+      "telephone": "06 34 31 33 53",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Garage Laporte",
@@ -8905,55 +9012,63 @@
       "adresse_pj": "79 route Mons 31130 Balma",
       "code_postal_pj": "31130",
       "ville_pj": "Balma",
-      "telephone": "05 61 24 51 51"
+      "telephone": "05 61 24 51 51",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "M-Import",
       "adresse_pj": "38 rue Gabriel Péri 31000 Toulouse",
       "code_postal_pj": "31000",
       "ville_pj": "Toulouse",
-      "telephone": "06 80 67 52 53"
+      "telephone": "06 80 67 52 53",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "DOLCE MAMMA",
       "adresse_pj": "13 rue Ste Ursule 31000 Toulouse",
       "code_postal_pj": "31000",
       "ville_pj": "Toulouse",
-      "telephone": "07 82 05 03 17"
+      "telephone": "07 82 05 03 17",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "AD Distribution",
       "adresse_pj": "327 route Seysses 31100 Toulouse",
       "code_postal_pj": "31100",
-      "ville_pj": "Toulouse"
+      "ville_pj": "Toulouse",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Bh Service Carte Grise",
       "adresse_pj": "12 place Pradettes 31100 Toulouse",
       "code_postal_pj": "31100",
       "ville_pj": "Toulouse",
-      "telephone": "09 63 69 97 14"
+      "telephone": "09 63 69 97 14",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Auto Real Automobiles",
       "adresse_pj": "La Lauragaise 2979 route Baziège BP 78178 31670 Labège",
       "code_postal_pj": "78178",
       "ville_pj": "31670 Labège",
-      "telephone": "05 62 24 67 67"
+      "telephone": "05 62 24 67 67",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "MC Auto",
       "adresse_pj": "74 route Paris 31150 Fenouillet",
       "code_postal_pj": "31150",
       "ville_pj": "Fenouillet",
-      "telephone": "05 34 66 60 70"
+      "telephone": "05 34 66 60 70",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Audi Sterling Automobiles Concessionnaire",
       "adresse_pj": "575 rue Hers 31750 Escalquens",
       "code_postal_pj": "31750",
       "ville_pj": "Escalquens",
-      "telephone": "0453837000"
+      "telephone": "0453837000",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Garage Olivan",
@@ -8961,21 +9076,24 @@
       "adresse_pj": "Sortie 15 périphérique extérieur 2 avenue Prat Gimont 31130 Balma",
       "code_postal_pj": "31130",
       "ville_pj": "Balma",
-      "telephone": "05 61 61 81 50"
+      "telephone": "05 61 61 81 50",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Mercedes-Benz Hamecher Toulouse VI",
       "adresse_pj": "15 avenue Cerisiers 31120 Portet sur Garonne",
       "code_postal_pj": "31120",
       "ville_pj": "Portet sur Garonne",
-      "telephone": "05 62 20 08 87"
+      "telephone": "05 62 20 08 87",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Automobiles Delahaye Ventes et Après Ventes",
       "adresse_pj": "av Lauragaise rue Max Planck 31670 Labège",
       "code_postal_pj": "31670",
       "ville_pj": "Labège",
-      "telephone": "05 61 00 77 44"
+      "telephone": "05 61 00 77 44",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "DB Automobiles",
@@ -8983,21 +9101,24 @@
       "adresse_pj": "18 avenue Fronton 31140 Saint Alban",
       "code_postal_pj": "31140",
       "ville_pj": "Saint Alban",
-      "telephone": "05 61 37 16 47"
+      "telephone": "05 61 37 16 47",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Clickandbuyauto Easy Buy Carte Grise",
       "adresse_pj": "3 boulevard Libre Echange 31650 Saint Orens de Gameville",
       "code_postal_pj": "31650",
       "ville_pj": "Saint Orens de Gameville",
-      "telephone": "05 61 28 65 05"
+      "telephone": "05 61 28 65 05",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Tesla",
       "adresse_pj": "4 rue Sadi Carnot 31830 Plaisance du Touch",
       "code_postal_pj": "31830",
       "ville_pj": "Plaisance du Touch",
-      "telephone": "05 32 63 03 48"
+      "telephone": "05 32 63 03 48",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Horizon VSP",
@@ -9005,21 +9126,24 @@
       "adresse_pj": "6 rue Partanais 31650 Saint Orens de Gameville",
       "code_postal_pj": "31650",
       "ville_pj": "Saint Orens de Gameville",
-      "telephone": "05 34 66 17 90"
+      "telephone": "05 34 66 17 90",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Bh Service Carte Grise",
       "adresse_pj": "12 place Pradettes 31100 Toulouse",
       "code_postal_pj": "31100",
       "ville_pj": "Toulouse",
-      "telephone": "09 63 69 97 14"
+      "telephone": "09 63 69 97 14",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Ml Automobiles",
       "adresse_pj": "117 route Toulouse 31270 Cugnaux",
       "code_postal_pj": "31270",
       "ville_pj": "Cugnaux",
-      "telephone": "05 34 57 56 87"
+      "telephone": "05 34 57 56 87",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Play Soccer",
@@ -9027,28 +9151,32 @@
       "adresse_pj": "33 avenue Larrieu 31100 Toulouse",
       "code_postal_pj": "31100",
       "ville_pj": "Toulouse",
-      "telephone": "05 61 91 19 11"
+      "telephone": "05 61 91 19 11",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Honda - Groupe Clim - Toulouse",
       "adresse_pj": "30 rue Max Planck 31670 Labège",
       "code_postal_pj": "31670",
       "ville_pj": "Labège",
-      "telephone": "05 62 88 45 45"
+      "telephone": "05 62 88 45 45",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "C.R Automobiles",
       "adresse_pj": "47 rue St Laurent 31270 Villeneuve Tolosane",
       "code_postal_pj": "31270",
       "ville_pj": "Villeneuve Tolosane",
-      "telephone": "05 62 83 46 82"
+      "telephone": "05 62 83 46 82",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Cesar Auto 31",
       "adresse_pj": "61 chemin Moulis 31200 Toulouse",
       "code_postal_pj": "31200",
       "ville_pj": "Toulouse",
-      "telephone": "09 70 96 50 60"
+      "telephone": "09 70 96 50 60",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Auto Evasion",
@@ -9056,42 +9184,48 @@
       "adresse_pj": "77 chemin Malepère 31400 Toulouse",
       "code_postal_pj": "31400",
       "ville_pj": "Toulouse",
-      "telephone": "06 10 13 71 61"
+      "telephone": "06 10 13 71 61",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Espace Auto 31 Skoda",
       "adresse_pj": "Rte De Bazeige rue Max Planck 31670 Labège",
       "code_postal_pj": "31670",
       "ville_pj": "Labège",
-      "telephone": "05 62 24 52 00"
+      "telephone": "05 62 24 52 00",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "SF Carrosserie",
       "adresse_pj": "217 chemin Boudou 31140 Launaguet",
       "code_postal_pj": "31140",
       "ville_pj": "Launaguet",
-      "telephone": "06 99 94 85 41"
+      "telephone": "06 99 94 85 41",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "AutoSelect31",
       "adresse_pj": "5 chemin Tourterelles 31120 Portet sur Garonne",
       "code_postal_pj": "31120",
       "ville_pj": "Portet sur Garonne",
-      "telephone": "06 98 64 43 55"
+      "telephone": "06 98 64 43 55",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "EURECARS",
       "adresse_pj": "9 Ter avenue Lyon 31500 Toulouse",
       "code_postal_pj": "31500",
       "ville_pj": "Toulouse",
-      "telephone": "06 34 65 84 84"
+      "telephone": "06 34 65 84 84",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "J . L . B . Automobile SARL",
       "adresse_pj": "56 route Grenade 31700 Beauzelle",
       "code_postal_pj": "31700",
       "ville_pj": "Beauzelle",
-      "telephone": "05 61 59 93 74"
+      "telephone": "05 61 59 93 74",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "TPL Toulouse",
@@ -9099,21 +9233,24 @@
       "adresse_pj": "Route Nationale 20 route Paris BP 80240 31140 Saint Alban",
       "code_postal_pj": "80240",
       "ville_pj": "31140 Saint Alban",
-      "telephone": "04 68 44 16 47"
+      "telephone": "04 68 44 16 47",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Marcassus Sport",
       "adresse_pj": "Zac Des Marrots 26 avenue Louron 31770 Colomiers",
       "code_postal_pj": "31770",
       "ville_pj": "Colomiers",
-      "telephone": "05 62 12 29 00"
+      "telephone": "05 62 12 29 00",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Technic Automobiles",
       "adresse_pj": "15 rue Isaac Newton 31830 Plaisance du Touch",
       "code_postal_pj": "31830",
       "ville_pj": "Plaisance du Touch",
-      "telephone": "05 61 91 90 90"
+      "telephone": "05 61 91 90 90",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "DB Automobiles",
@@ -9121,7 +9258,8 @@
       "adresse_pj": "18 avenue Fronton 31140 Saint Alban",
       "code_postal_pj": "31140",
       "ville_pj": "Saint Alban",
-      "telephone": "05 61 37 16 47"
+      "telephone": "05 61 37 16 47",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Renault & Dacia Cugnaux Automobiles",
@@ -9129,42 +9267,48 @@
       "adresse_pj": "113 Bis route Toulouse 31270 Cugnaux",
       "code_postal_pj": "31270",
       "ville_pj": "Cugnaux",
-      "telephone": "05 61 92 11 30"
+      "telephone": "05 61 92 11 30",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Hunday",
       "adresse_pj": "la Lauragaise 3690 route Baziège 31670 Labège",
       "code_postal_pj": "31670",
       "ville_pj": "Labège",
-      "telephone": "05 61 00 77 44"
+      "telephone": "05 61 00 77 44",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Carington",
       "adresse_pj": "22 chemin Echut 31770 Colomiers",
       "code_postal_pj": "31770",
       "ville_pj": "Colomiers",
-      "telephone": "09 53 28 43 29"
+      "telephone": "09 53 28 43 29",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Fr Automobiles Polat",
       "adresse_pj": "15 allée Catchère 31770 Colomiers",
       "code_postal_pj": "31770",
       "ville_pj": "Colomiers",
-      "telephone": "05 61 78 10 69"
+      "telephone": "05 61 78 10 69",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Oxylio Toulouse",
       "adresse_pj": "Zone Industrielle La Pointe 1 chemin Novital 31150 Lespinasse",
       "code_postal_pj": "31150",
       "ville_pj": "Lespinasse",
-      "telephone": "0477500000"
+      "telephone": "0477500000",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "LB-Automobiles.com",
       "adresse_pj": "12 route Lavaur 31850 Beaupuy",
       "code_postal_pj": "31850",
       "ville_pj": "Beaupuy",
-      "telephone": "05 82 95 39 40"
+      "telephone": "05 82 95 39 40",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "TPL Toulouse",
@@ -9172,35 +9316,40 @@
       "adresse_pj": "Route Nationale 20 route Paris BP 80240 31140 Saint Alban",
       "code_postal_pj": "80240",
       "ville_pj": "31140 Saint Alban",
-      "telephone": "04 68 44 16 47"
+      "telephone": "04 68 44 16 47",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "SF Carrosserie",
       "adresse_pj": "217 chemin Boudou 31140 Launaguet",
       "code_postal_pj": "31140",
       "ville_pj": "Launaguet",
-      "telephone": "06 99 94 85 41"
+      "telephone": "06 99 94 85 41",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Auto Classic",
       "adresse_pj": "132 avenue Etats Unis 31200 Toulouse",
       "code_postal_pj": "31200",
       "ville_pj": "Toulouse",
-      "telephone": "05 61 25 68 30"
+      "telephone": "05 61 25 68 30",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Bavaria Auto",
       "adresse_pj": "5 rue Gén Pelet 31200 Toulouse",
       "code_postal_pj": "31200",
       "ville_pj": "Toulouse",
-      "telephone": "06 98 15 15 34"
+      "telephone": "06 98 15 15 34",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Hunday",
       "adresse_pj": "la Lauragaise 3690 route Baziège 31670 Labège",
       "code_postal_pj": "31670",
       "ville_pj": "Labège",
-      "telephone": "05 61 00 77 44"
+      "telephone": "05 61 00 77 44",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Play Soccer",
@@ -9208,14 +9357,16 @@
       "adresse_pj": "33 avenue Larrieu 31100 Toulouse",
       "code_postal_pj": "31100",
       "ville_pj": "Toulouse",
-      "telephone": "05 61 91 19 11"
+      "telephone": "05 61 91 19 11",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "M-Import",
       "adresse_pj": "38 rue Gabriel Péri 31000 Toulouse",
       "code_postal_pj": "31000",
       "ville_pj": "Toulouse",
-      "telephone": "06 80 67 52 53"
+      "telephone": "06 80 67 52 53",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Garage Eutrope",
@@ -9223,21 +9374,24 @@
       "adresse_pj": "109 route Toulouse 31270 Cugnaux",
       "code_postal_pj": "31270",
       "ville_pj": "Cugnaux",
-      "telephone": "05 61 92 24 50"
+      "telephone": "05 61 92 24 50",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "BYD - Sipa Automobiles - Toulouse Nord",
       "adresse_pj": "79 route Paris 31150 Fenouillet",
       "code_postal_pj": "31150",
       "ville_pj": "Fenouillet",
-      "telephone": "05 82 84 34 34"
+      "telephone": "05 82 84 34 34",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Marcassus Sport",
       "adresse_pj": "Zac Des Marrots 26 avenue Louron 31770 Colomiers",
       "code_postal_pj": "31770",
       "ville_pj": "Colomiers",
-      "telephone": "05 62 12 29 00"
+      "telephone": "05 62 12 29 00",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Vivies Bruguières Automobiles",
@@ -9245,7 +9399,8 @@
       "adresse_pj": "1 rue Clavel 31150 Bruguières",
       "code_postal_pj": "31150",
       "ville_pj": "Bruguières",
-      "telephone": "05 61 82 20 11"
+      "telephone": "05 61 82 20 11",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "DB Automobiles",
@@ -9253,14 +9408,16 @@
       "adresse_pj": "18 avenue Fronton 31140 Saint Alban",
       "code_postal_pj": "31140",
       "ville_pj": "Saint Alban",
-      "telephone": "05 61 37 16 47"
+      "telephone": "05 61 37 16 47",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Youssef Chliyah",
       "adresse_pj": "32 passage Louis Pergaud 31100 Toulouse",
       "code_postal_pj": "31100",
       "ville_pj": "Toulouse",
-      "telephone": "06 51 65 06 05"
+      "telephone": "06 51 65 06 05",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Renault Garage Saint Christophe Concessionnaire",
@@ -9268,14 +9425,16 @@
       "adresse_pj": "37 route Toulouse 31820 Pibrac",
       "code_postal_pj": "31820",
       "ville_pj": "Pibrac",
-      "telephone": "05 61 86 04 24"
+      "telephone": "05 61 86 04 24",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Maluti",
       "adresse_pj": "12 rue Stalingrad 31000 Toulouse",
       "code_postal_pj": "31000",
       "ville_pj": "Toulouse",
-      "telephone": "09 50 96 54 84"
+      "telephone": "09 50 96 54 84",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Toulouse Service Auto T.S.A",
@@ -9283,41 +9442,47 @@
       "adresse_pj": "16 avenue Toulouse 31240 L'Union",
       "code_postal_pj": "31240",
       "ville_pj": "L'Union",
-      "telephone": "05 61 74 15 00"
+      "telephone": "05 61 74 15 00",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Tankova Tatyana",
       "adresse_pj": "23 avenue Angla 31500 Toulouse",
       "code_postal_pj": "31500",
       "ville_pj": "Toulouse",
-      "telephone": "05 82 75 58 05"
+      "telephone": "05 82 75 58 05",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "AD Distribution",
       "adresse_pj": "327 route Seysses 31100 Toulouse",
       "code_postal_pj": "31100",
-      "ville_pj": "Toulouse"
+      "ville_pj": "Toulouse",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Sao Auto",
       "adresse_pj": "33 rue Louis Vestrepain 31100 Toulouse",
       "code_postal_pj": "31100",
       "ville_pj": "Toulouse",
-      "telephone": "06 21 04 80 31"
+      "telephone": "06 21 04 80 31",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Nb Auto Prestige",
       "adresse_pj": "46 rue André Vasseur 31200 Toulouse",
       "code_postal_pj": "31200",
       "ville_pj": "Toulouse",
-      "telephone": "06 66 55 92 13"
+      "telephone": "06 66 55 92 13",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Mon agence Automobile .fr",
       "adresse_pj": "12 rue Georges Brassens 31140 Fonbeauzard",
       "code_postal_pj": "31140",
       "ville_pj": "Fonbeauzard",
-      "telephone": "06 60 56 64 79"
+      "telephone": "06 60 56 64 79",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Bye Buy Car",
@@ -9325,7 +9490,8 @@
       "adresse_pj": "461 avenue Garossos 31700 Beauzelle",
       "code_postal_pj": "31700",
       "ville_pj": "Beauzelle",
-      "telephone": "05 61 99 82 84"
+      "telephone": "05 61 99 82 84",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Garage Cousseau",
@@ -9333,7 +9499,8 @@
       "adresse_pj": "5 allée Sports 31120 Portet sur Garonne",
       "code_postal_pj": "31120",
       "ville_pj": "Portet sur Garonne",
-      "telephone": "05 62 87 68 06"
+      "telephone": "05 62 87 68 06",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Garage Millier",
@@ -9341,7 +9508,8 @@
       "adresse_pj": "1700 route Seilh 31840 Aussonne",
       "code_postal_pj": "31840",
       "ville_pj": "Aussonne",
-      "telephone": "05 61 49 67 23"
+      "telephone": "05 61 49 67 23",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Bs Cars",
@@ -9349,126 +9517,144 @@
       "adresse_pj": "20 route Albi 31180 Castelmaurou",
       "code_postal_pj": "31180",
       "ville_pj": "Castelmaurou",
-      "telephone": "05 62 10 76 91"
+      "telephone": "05 62 10 76 91",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "LOUBET AUTOMOBILES",
       "adresse_pj": "1 Ter rue Jean Criq 31500 Toulouse",
       "code_postal_pj": "31500",
       "ville_pj": "Toulouse",
-      "telephone": "06 45 87 83 81"
+      "telephone": "06 45 87 83 81",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Le Discount Auto",
       "adresse_pj": "4 rue Caulet 31300 Toulouse",
       "code_postal_pj": "31300",
       "ville_pj": "Toulouse",
-      "telephone": "05 82 95 18 84"
+      "telephone": "05 82 95 18 84",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "LB-Automobiles.com",
       "adresse_pj": "12 route Lavaur 31850 Beaupuy",
       "code_postal_pj": "31850",
       "ville_pj": "Beaupuy",
-      "telephone": "05 82 95 39 40"
+      "telephone": "05 82 95 39 40",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Eco Campers",
       "adresse_pj": "24 rue Hélios 31240 L'Union",
       "code_postal_pj": "31240",
       "ville_pj": "L'Union",
-      "telephone": "05 61 62 53 61"
+      "telephone": "05 61 62 53 61",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Technic Automobile",
       "adresse_pj": "4 rue Sadi Carnot 31830 Plaisance du Touch",
       "code_postal_pj": "31830",
       "ville_pj": "Plaisance du Touch",
-      "telephone": "05 61 91 90 90"
+      "telephone": "05 61 91 90 90",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Services Auto Rocade",
       "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=63524123&code_localite=Z03155400&code_rubrique=061240",
       "adresse_pj": "35 rue Touraine 31100 Toulouse",
       "code_postal_pj": "31100",
-      "ville_pj": "Toulouse"
+      "ville_pj": "Toulouse",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "BH Car",
       "adresse_pj": "63 route Castres 31130 Balma",
       "code_postal_pj": "31130",
       "ville_pj": "Balma",
-      "telephone": "05 61 24 67 90"
+      "telephone": "05 61 24 67 90",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Groupe Dallard - Muret",
       "adresse_pj": "RN 117 impasse Jacques Monod 31600 Muret",
       "code_postal_pj": "31600",
       "ville_pj": "Muret",
-      "telephone": "05 62 11 60 40"
+      "telephone": "05 62 11 60 40",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "MC Auto",
       "adresse_pj": "74 route Paris 31150 Fenouillet",
       "code_postal_pj": "31150",
       "ville_pj": "Fenouillet",
-      "telephone": "05 34 66 60 70"
+      "telephone": "05 34 66 60 70",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Auto Classic",
       "adresse_pj": "132 avenue Etats Unis 31200 Toulouse",
       "code_postal_pj": "31200",
       "ville_pj": "Toulouse",
-      "telephone": "05 61 25 68 30"
+      "telephone": "05 61 25 68 30",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Hunday",
       "adresse_pj": "la Lauragaise 3690 route Baziège 31670 Labège",
       "code_postal_pj": "31670",
       "ville_pj": "Labège",
-      "telephone": "05 61 00 77 44"
+      "telephone": "05 61 00 77 44",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "MC Auto",
       "adresse_pj": "74 route Paris 31150 Fenouillet",
       "code_postal_pj": "31150",
       "ville_pj": "Fenouillet",
-      "telephone": "05 34 66 60 70"
+      "telephone": "05 34 66 60 70",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "B B Diffusion",
       "adresse_pj": "6 route Lavaur 31850 Beaupuy",
       "code_postal_pj": "31850",
       "ville_pj": "Beaupuy",
-      "telephone": "05 31 08 10 91"
+      "telephone": "05 31 08 10 91",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Youssef Chliyah",
       "adresse_pj": "32 passage Louis Pergaud 31100 Toulouse",
       "code_postal_pj": "31100",
       "ville_pj": "Toulouse",
-      "telephone": "06 51 65 06 05"
+      "telephone": "06 51 65 06 05",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Espace Auto 31 Skoda",
       "adresse_pj": "Rte De Bazeige rue Max Planck 31670 Labège",
       "code_postal_pj": "31670",
       "ville_pj": "Labège",
-      "telephone": "05 62 24 52 00"
+      "telephone": "05 62 24 52 00",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Mat Location",
       "adresse_pj": "2740 chemin Enseigure 31840 Aussonne",
       "code_postal_pj": "31840",
       "ville_pj": "Aussonne",
-      "telephone": "06 75 57 07 95"
+      "telephone": "06 75 57 07 95",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Ma Titine",
       "adresse_pj": "La Lauragaise 2175 route Baziège 31670 Labège",
       "code_postal_pj": "31670",
       "ville_pj": "Labège",
-      "telephone": "05 64 28 72 27"
+      "telephone": "05 64 28 72 27",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Aziz Youmni",
@@ -9476,14 +9662,16 @@
       "adresse_pj": "bât F8 2 rue Antoine de Malras 31100 Toulouse",
       "code_postal_pj": "31100",
       "ville_pj": "Toulouse",
-      "telephone": "06 65 34 52 60"
+      "telephone": "06 65 34 52 60",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Youcef Seba",
       "adresse_pj": "30 cheminement Le Tintoret 31100 Toulouse",
       "code_postal_pj": "31100",
       "ville_pj": "Toulouse",
-      "telephone": "09 85 05 48 24"
+      "telephone": "09 85 05 48 24",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Norca Utilitaires",
@@ -9491,49 +9679,56 @@
       "adresse_pj": "4 impasse Chardons 31140 Aucamville",
       "code_postal_pj": "31140",
       "ville_pj": "Aucamville",
-      "telephone": "05 61 70 27 61"
+      "telephone": "05 61 70 27 61",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Live Auto 34",
       "adresse_pj": "10 rue Loubiague 31200 Toulouse",
       "code_postal_pj": "31200",
       "ville_pj": "Toulouse",
-      "telephone": "07 67 32 82 96"
+      "telephone": "07 67 32 82 96",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "RS6 Auto 31",
       "adresse_pj": "9 rue Ferdinand Laulanie 31100 Toulouse",
       "code_postal_pj": "31100",
       "ville_pj": "Toulouse",
-      "telephone": "05 67 33 79 27"
+      "telephone": "05 67 33 79 27",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Autohero",
       "adresse_pj": "57 chemin Fenouillet 31200 Toulouse",
       "code_postal_pj": "31200",
       "ville_pj": "Toulouse",
-      "telephone": "01 75 95 20 81"
+      "telephone": "01 75 95 20 81",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Autos 4x4 Azur",
       "adresse_pj": "73 route Paris 31140 Aucamville",
       "code_postal_pj": "31140",
       "ville_pj": "Aucamville",
-      "telephone": "05 61 70 24 44"
+      "telephone": "05 61 70 24 44",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Mon agence Automobile .fr",
       "adresse_pj": "12 rue Georges Brassens 31140 Fonbeauzard",
       "code_postal_pj": "31140",
       "ville_pj": "Fonbeauzard",
-      "telephone": "06 60 56 64 79"
+      "telephone": "06 60 56 64 79",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Benz Auto 31",
       "adresse_pj": "ZA Des Moulins 1 rue Georges Claude 31840 Aussonne",
       "code_postal_pj": "31840",
       "ville_pj": "Aussonne",
-      "telephone": "06 58 08 08 08"
+      "telephone": "06 58 08 08 08",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Horizon VSP",
@@ -9541,132 +9736,151 @@
       "adresse_pj": "6 rue Partanais 31650 Saint Orens de Gameville",
       "code_postal_pj": "31650",
       "ville_pj": "Saint Orens de Gameville",
-      "telephone": "05 34 66 17 90"
+      "telephone": "05 34 66 17 90",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Eco Campers",
       "adresse_pj": "24 rue Hélios 31240 L'Union",
       "code_postal_pj": "31240",
       "ville_pj": "L'Union",
-      "telephone": "05 61 62 53 61"
+      "telephone": "05 61 62 53 61",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "JEF AUTO",
       "adresse_pj": "Villa 10 14 rue Trois Pigeons 31200 Toulouse",
       "code_postal_pj": "31200",
       "ville_pj": "Toulouse",
-      "telephone": "06 58 18 04 70"
+      "telephone": "06 58 18 04 70",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Groupe Dallard - Muret",
       "adresse_pj": "RN 117 impasse Jacques Monod 31600 Muret",
       "code_postal_pj": "31600",
       "ville_pj": "Muret",
-      "telephone": "05 62 11 60 40"
+      "telephone": "05 62 11 60 40",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Lucid Motors SAS",
       "adresse_pj": "25 chemin Chapitre 31100 Toulouse",
       "code_postal_pj": "31100",
-      "ville_pj": "Toulouse"
+      "ville_pj": "Toulouse",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Haithem Mechi",
       "adresse_pj": "27 grande rue St Michel 31400 Toulouse",
       "code_postal_pj": "31400",
       "ville_pj": "Toulouse",
-      "telephone": "05 81 34 44 95"
+      "telephone": "05 81 34 44 95",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Distri Kodex 31",
       "adresse_pj": "85 chemin Ramelet Moundi 31100 Toulouse",
       "code_postal_pj": "31100",
       "ville_pj": "Toulouse",
-      "telephone": "05 61 06 23 53"
+      "telephone": "05 61 06 23 53",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Sélection 4x4",
       "adresse_pj": "16 rue Ariane 31240 L'Union",
       "code_postal_pj": "31240",
       "ville_pj": "L'Union",
-      "telephone": "05 62 79 63 85"
+      "telephone": "05 62 79 63 85",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Gari Automobile",
       "adresse_pj": "Appt 2101 121 chemin Ginestous 31200 Toulouse",
       "code_postal_pj": "31200",
       "ville_pj": "Toulouse",
-      "telephone": "07 56 84 30 11"
+      "telephone": "07 56 84 30 11",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Mohamed Chaib",
       "adresse_pj": "8 rue Myosotis 31700 Blagnac",
       "code_postal_pj": "31700",
       "ville_pj": "Blagnac",
-      "telephone": "09 80 61 78 10"
+      "telephone": "09 80 61 78 10",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Auto Classic",
       "adresse_pj": "132 avenue Etats Unis 31200 Toulouse",
       "code_postal_pj": "31200",
       "ville_pj": "Toulouse",
-      "telephone": "05 61 25 68 30"
+      "telephone": "05 61 25 68 30",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "BH Car",
       "adresse_pj": "63 route Castres 31130 Balma",
       "code_postal_pj": "31130",
       "ville_pj": "Balma",
-      "telephone": "05 61 24 67 90"
+      "telephone": "05 61 24 67 90",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Oodryvecar And Food",
       "adresse_pj": "11 chemin Boudou 31140 Launaguet",
       "code_postal_pj": "31140",
       "ville_pj": "Launaguet",
-      "telephone": "06 99 34 97 42"
+      "telephone": "06 99 34 97 42",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Youcef Seba",
       "adresse_pj": "30 cheminement Le Tintoret 31100 Toulouse",
       "code_postal_pj": "31100",
       "ville_pj": "Toulouse",
-      "telephone": "09 85 05 48 24"
+      "telephone": "09 85 05 48 24",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "SC Automobile",
       "adresse_pj": "22 chemin Violettes 31240 L'Union",
       "code_postal_pj": "31240",
       "ville_pj": "L'Union",
-      "telephone": "06 05 96 40 45"
+      "telephone": "06 05 96 40 45",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Auto Elégance",
       "adresse_pj": "2 Bis chemin Candie 31120 Portet sur Garonne",
       "code_postal_pj": "31120",
       "ville_pj": "Portet sur Garonne",
-      "telephone": "07 64 11 18 18"
+      "telephone": "07 64 11 18 18",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Auto Passion Saint Jean",
       "adresse_pj": "31 rue Jean Monnet 31240 Saint Jean",
       "code_postal_pj": "31240",
       "ville_pj": "Saint Jean",
-      "telephone": "05 34 24 27 89"
+      "telephone": "05 34 24 27 89",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "GBADAMASSI Sikirou",
       "adresse_pj": "31 lotissement Jardins de Teolario 31840 Aussonne",
       "code_postal_pj": "31840",
       "ville_pj": "Aussonne",
-      "telephone": "06 74 35 61 75"
+      "telephone": "06 74 35 61 75",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Trans Auto",
       "adresse_pj": "Voitures D Occasion A Toulouse 20 rue Dunkerque 31200 Toulouse",
       "code_postal_pj": "31200",
       "ville_pj": "Toulouse",
-      "telephone": "06 22 82 26 77"
+      "telephone": "06 22 82 26 77",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Bs Cars",
@@ -9674,48 +9888,55 @@
       "adresse_pj": "20 route Albi 31180 Castelmaurou",
       "code_postal_pj": "31180",
       "ville_pj": "Castelmaurou",
-      "telephone": "05 62 10 76 91"
+      "telephone": "05 62 10 76 91",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "JMC Auto Passion",
       "adresse_pj": "6 rue Amandier 31100 Toulouse",
       "code_postal_pj": "31100",
       "ville_pj": "Toulouse",
-      "telephone": "06 07 06 88 10"
+      "telephone": "06 07 06 88 10",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Séverine Delmay",
       "adresse_pj": "15 Bis rue Fénelon 31200 Toulouse",
       "code_postal_pj": "31200",
       "ville_pj": "Toulouse",
-      "telephone": "09 52 57 72 22"
+      "telephone": "09 52 57 72 22",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Lucid Motors SAS",
       "adresse_pj": "25 chemin Chapitre 31100 Toulouse",
       "code_postal_pj": "31100",
-      "ville_pj": "Toulouse"
+      "ville_pj": "Toulouse",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Mohamed Sanhaji",
       "adresse_pj": "76 route Agde 31500 Toulouse",
       "code_postal_pj": "31500",
       "ville_pj": "Toulouse",
-      "telephone": "07 82 90 08 35"
+      "telephone": "07 82 90 08 35",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Cesar Auto 31",
       "adresse_pj": "61 chemin Moulis 31200 Toulouse",
       "code_postal_pj": "31200",
       "ville_pj": "Toulouse",
-      "telephone": "09 70 96 50 60"
+      "telephone": "09 70 96 50 60",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Maluti",
       "adresse_pj": "12 rue Stalingrad 31000 Toulouse",
       "code_postal_pj": "31000",
       "ville_pj": "Toulouse",
-      "telephone": "09 50 96 54 84"
+      "telephone": "09 50 96 54 84",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Bs Cars",
@@ -9723,77 +9944,88 @@
       "adresse_pj": "20 route Albi 31180 Castelmaurou",
       "code_postal_pj": "31180",
       "ville_pj": "Castelmaurou",
-      "telephone": "05 62 10 76 91"
+      "telephone": "05 62 10 76 91",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Ginesta ETS",
       "adresse_pj": "6 rue Louis Bonin 31200 Toulouse",
       "code_postal_pj": "31200",
       "ville_pj": "Toulouse",
-      "telephone": "05 61 30 29 51"
+      "telephone": "05 61 30 29 51",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "JEF AUTO",
       "adresse_pj": "Villa 10 14 rue Trois Pigeons 31200 Toulouse",
       "code_postal_pj": "31200",
       "ville_pj": "Toulouse",
-      "telephone": "06 58 18 04 70"
+      "telephone": "06 58 18 04 70",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Carlos Buenos",
       "adresse_pj": "51 route Bessières 31240 L'Union",
       "code_postal_pj": "31240",
       "ville_pj": "L'Union",
-      "telephone": "05 61 35 66 55"
+      "telephone": "05 61 35 66 55",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Services Auto Rocade",
       "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=63524123&code_localite=Z03155400&code_rubrique=061240",
       "adresse_pj": "35 rue Touraine 31100 Toulouse",
       "code_postal_pj": "31100",
-      "ville_pj": "Toulouse"
+      "ville_pj": "Toulouse",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "RAYMOND ARENAS",
       "adresse_pj": "115 rue Bonnat 31400 Toulouse",
       "code_postal_pj": "31400",
       "ville_pj": "Toulouse",
-      "telephone": "06 09 03 53 46"
+      "telephone": "06 09 03 53 46",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "West Auto",
       "adresse_pj": "59 allée Jean Jaurès 31000 Toulouse",
       "code_postal_pj": "31000",
       "ville_pj": "Toulouse",
-      "telephone": "06 12 79 81 01"
+      "telephone": "06 12 79 81 01",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Evo solutions Automobile",
       "adresse_pj": "154 avenue Muret 31300 Toulouse",
       "code_postal_pj": "31300",
       "ville_pj": "Toulouse",
-      "telephone": "06 81 56 28 10"
+      "telephone": "06 81 56 28 10",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Garage Andy Mounier",
       "adresse_pj": "12 rue Ferdinand Laulanie 31100 Toulouse",
       "code_postal_pj": "31100",
       "ville_pj": "Toulouse",
-      "telephone": "07 68 38 61 32"
+      "telephone": "07 68 38 61 32",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Leite-France.Com",
       "adresse_pj": "23 Bis chemin Nasque 31770 Colomiers",
       "code_postal_pj": "31770",
       "ville_pj": "Colomiers",
-      "telephone": "05 31 60 51 61"
+      "telephone": "05 31 60 51 61",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "RM Discount",
       "adresse_pj": "APPT 83 6 allée Val d'Aran 31770 Colomiers",
       "code_postal_pj": "31770",
       "ville_pj": "Colomiers",
-      "telephone": "09 66 12 08 95"
+      "telephone": "09 66 12 08 95",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Carslift",
@@ -9801,187 +10033,214 @@
       "adresse_pj": "84 route Départementale 820 31790 Saint Jory",
       "code_postal_pj": "31790",
       "ville_pj": "Saint Jory",
-      "telephone": "05 62 22 46 32"
+      "telephone": "05 62 22 46 32",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Auto Passion Saint Jean",
       "adresse_pj": "31 rue Jean Monnet 31240 Saint Jean",
       "code_postal_pj": "31240",
       "ville_pj": "Saint Jean",
-      "telephone": "05 34 24 27 89"
+      "telephone": "05 34 24 27 89",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Live Auto 34",
       "adresse_pj": "10 rue Loubiague 31200 Toulouse",
       "code_postal_pj": "31200",
       "ville_pj": "Toulouse",
-      "telephone": "07 67 32 82 96"
+      "telephone": "07 67 32 82 96",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "JMC Auto Passion",
       "adresse_pj": "6 rue Amandier 31100 Toulouse",
       "code_postal_pj": "31100",
       "ville_pj": "Toulouse",
-      "telephone": "06 07 06 88 10"
+      "telephone": "06 07 06 88 10",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Sélection 4x4",
       "adresse_pj": "16 rue Ariane 31240 L'Union",
       "code_postal_pj": "31240",
       "ville_pj": "L'Union",
-      "telephone": "05 62 79 63 85"
+      "telephone": "05 62 79 63 85",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Novakiosk",
       "adresse_pj": "25 Bis chemin Delbousquet 31200 Toulouse",
       "code_postal_pj": "31200",
       "ville_pj": "Toulouse",
-      "telephone": "09 83 22 43 87"
+      "telephone": "09 83 22 43 87",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Patrick Berger",
       "adresse_pj": "12 rue Léonce Castelbou 31000 Toulouse",
       "code_postal_pj": "31000",
       "ville_pj": "Toulouse",
-      "telephone": "05 61 12 40 44"
+      "telephone": "05 61 12 40 44",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Séverine Delmay",
       "adresse_pj": "15 Bis rue Fénelon 31200 Toulouse",
       "code_postal_pj": "31200",
       "ville_pj": "Toulouse",
-      "telephone": "09 52 57 72 22"
+      "telephone": "09 52 57 72 22",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "FG Automobiles",
       "adresse_pj": "bât Fg Automobiles 94 route Villeneuve 31120 Roques sur Garonne",
       "code_postal_pj": "31120",
       "ville_pj": "Roques sur Garonne",
-      "telephone": "06 19 20 11 25"
+      "telephone": "06 19 20 11 25",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "GESSE AUTOS NEGOCE",
       "adresse_pj": "3 route Bayonne 31300 Toulouse",
       "code_postal_pj": "31300",
-      "ville_pj": "Toulouse"
+      "ville_pj": "Toulouse",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Luxury Automobiles 31",
       "adresse_pj": "117 avenue Arènes Romaines 31300 Toulouse",
       "code_postal_pj": "31300",
       "ville_pj": "Toulouse",
-      "telephone": "06 67 35 67 68"
+      "telephone": "06 67 35 67 68",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "JMC Auto Passion",
       "adresse_pj": "6 rue Amandier 31100 Toulouse",
       "code_postal_pj": "31100",
       "ville_pj": "Toulouse",
-      "telephone": "06 07 06 88 10"
+      "telephone": "06 07 06 88 10",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Ma Titine",
       "adresse_pj": "La Lauragaise 2175 route Baziège 31670 Labège",
       "code_postal_pj": "31670",
       "ville_pj": "Labège",
-      "telephone": "05 64 28 72 27"
+      "telephone": "05 64 28 72 27",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Happy Cars",
       "adresse_pj": "2 allée Bouvreuils 31270 Cugnaux",
       "code_postal_pj": "31270",
       "ville_pj": "Cugnaux",
-      "telephone": "09 82 37 93 88"
+      "telephone": "09 82 37 93 88",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Distri Kodex 31",
       "adresse_pj": "85 chemin Ramelet Moundi 31100 Toulouse",
       "code_postal_pj": "31100",
       "ville_pj": "Toulouse",
-      "telephone": "05 61 06 23 53"
+      "telephone": "05 61 06 23 53",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Lotus",
       "adresse_pj": "80 chemin Lalande 31670 Labège",
       "code_postal_pj": "31670",
       "ville_pj": "Labège",
-      "telephone": "07 56 41 79 84"
+      "telephone": "07 56 41 79 84",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Maserati",
       "adresse_pj": "80 chemin Lalande 31670 Labège",
       "code_postal_pj": "31670",
       "ville_pj": "Labège",
-      "telephone": "05 17 88 42 05"
+      "telephone": "05 17 88 42 05",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Mat Location",
       "adresse_pj": "2740 chemin Enseigure 31840 Aussonne",
       "code_postal_pj": "31840",
       "ville_pj": "Aussonne",
-      "telephone": "06 75 57 07 95"
+      "telephone": "06 75 57 07 95",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Ma Titine",
       "adresse_pj": "80 chemin Lalande 31670 Labège",
       "code_postal_pj": "31670",
       "ville_pj": "Labège",
-      "telephone": "05 64 28 16 48"
+      "telephone": "05 64 28 16 48",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "GBADAMASSI Sikirou",
       "adresse_pj": "31 lotissement Jardins de Teolario 31840 Aussonne",
       "code_postal_pj": "31840",
       "ville_pj": "Aussonne",
-      "telephone": "06 74 35 61 75"
+      "telephone": "06 74 35 61 75",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Jean Louis Bardou",
       "adresse_pj": "4 rue Augustin Fresnel 31300 Toulouse",
       "code_postal_pj": "31300",
       "ville_pj": "Toulouse",
-      "telephone": "05 61 49 80 49"
+      "telephone": "05 61 49 80 49",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "BC Remarketing",
       "adresse_pj": "150 rue Nicolas Louis Vauquelin 31100 Toulouse",
       "code_postal_pj": "31100",
       "ville_pj": "Toulouse",
-      "telephone": "05 62 85 68 96"
+      "telephone": "05 62 85 68 96",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Auto Sud Univers",
       "adresse_pj": "3 rue Benjamin Franklin 31140 Launaguet",
       "code_postal_pj": "31140",
       "ville_pj": "Launaguet",
-      "telephone": "06 72 29 61 73"
+      "telephone": "06 72 29 61 73",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Eric Moulet",
       "adresse_pj": "10 rue Van Dyck 31200 Toulouse",
       "code_postal_pj": "31200",
       "ville_pj": "Toulouse",
-      "telephone": "05 31 54 16 38"
+      "telephone": "05 31 54 16 38",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Garage Fernando Ros",
       "adresse_pj": "14 rue Adrien Legendre 31200 Toulouse",
       "code_postal_pj": "31200",
       "ville_pj": "Toulouse",
-      "telephone": "06 44 69 67 96"
+      "telephone": "06 44 69 67 96",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Bella Babayan",
       "adresse_pj": "8 rue Myosotis 31700 Blagnac",
       "code_postal_pj": "31700",
       "ville_pj": "Blagnac",
-      "telephone": "09 52 16 53 46"
+      "telephone": "09 52 16 53 46",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Lucid Motors SAS",
       "adresse_pj": "25 chemin Chapitre 31100 Toulouse",
       "code_postal_pj": "31100",
-      "ville_pj": "Toulouse"
+      "ville_pj": "Toulouse",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Toyota Edenauto Concessionnaire",
@@ -9989,61 +10248,70 @@
       "adresse_pj": "9 impasse Jacques Monod 31600 Muret",
       "code_postal_pj": "31600",
       "ville_pj": "Muret",
-      "telephone": "05 61 51 54 00"
+      "telephone": "05 61 51 54 00",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Saint Criq Automobile",
       "adresse_pj": "156 avenue Grande Bretagne 31300 Toulouse",
       "code_postal_pj": "31300",
-      "ville_pj": "Toulouse"
+      "ville_pj": "Toulouse",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Garage Fernando Ros",
       "adresse_pj": "14 rue Adrien Legendre 31200 Toulouse",
       "code_postal_pj": "31200",
       "ville_pj": "Toulouse",
-      "telephone": "06 44 69 67 96"
+      "telephone": "06 44 69 67 96",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Auto 3A",
       "adresse_pj": "8 rue Fleurs 31780 Castelginest",
       "code_postal_pj": "31780",
       "ville_pj": "Castelginest",
-      "telephone": "05 32 75 51 10"
+      "telephone": "05 32 75 51 10",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "MaTitine",
       "adresse_pj": "360 avenue Etats Unis 31200 Toulouse",
       "code_postal_pj": "31200",
-      "ville_pj": "Toulouse"
+      "ville_pj": "Toulouse",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "RS6 Auto 31",
       "adresse_pj": "9 rue Ferdinand Laulanie 31100 Toulouse",
       "code_postal_pj": "31100",
       "ville_pj": "Toulouse",
-      "telephone": "05 67 33 79 27"
+      "telephone": "05 67 33 79 27",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "FG Automobiles",
       "adresse_pj": "bât Fg Automobiles 94 route Villeneuve 31120 Roques sur Garonne",
       "code_postal_pj": "31120",
       "ville_pj": "Roques sur Garonne",
-      "telephone": "06 19 20 11 25"
+      "telephone": "06 19 20 11 25",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Citroën Groupe Dallard",
       "adresse_pj": "Zone Industrielle impasse Jacques Monod 31600 Muret",
       "code_postal_pj": "31600",
       "ville_pj": "Muret",
-      "telephone": "05 62 11 60 40"
+      "telephone": "05 62 11 60 40",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "JEF AUTO",
       "adresse_pj": "Villa 10 14 rue Trois Pigeons 31200 Toulouse",
       "code_postal_pj": "31200",
       "ville_pj": "Toulouse",
-      "telephone": "06 58 18 04 70"
+      "telephone": "06 58 18 04 70",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "CH DE B INVEST",
@@ -10051,14 +10319,16 @@
       "adresse_pj": "rue Max Planck 31670 Labège",
       "code_postal_pj": "31670",
       "ville_pj": "Labège",
-      "telephone": "05 67 22 25 01"
+      "telephone": "05 67 22 25 01",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Lotus",
       "adresse_pj": "80 chemin Lalande 31670 Labège",
       "code_postal_pj": "31670",
       "ville_pj": "Labège",
-      "telephone": "07 56 41 79 84"
+      "telephone": "07 56 41 79 84",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Carslift",
@@ -10066,97 +10336,111 @@
       "adresse_pj": "84 route Départementale 820 31790 Saint Jory",
       "code_postal_pj": "31790",
       "ville_pj": "Saint Jory",
-      "telephone": "05 62 22 46 32"
+      "telephone": "05 62 22 46 32",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Michel Escafit Automobiles",
       "adresse_pj": "3 route Bessières 31240 L'Union",
       "code_postal_pj": "31240",
       "ville_pj": "L'Union",
-      "telephone": "05 61 37 61 38"
+      "telephone": "05 61 37 61 38",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Auto Réal 31",
       "adresse_pj": "21 boulevard Joffrery 31600 Muret",
       "code_postal_pj": "31600",
       "ville_pj": "Muret",
-      "telephone": "05 61 56 97 00"
+      "telephone": "05 61 56 97 00",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "DADOYAN ALAIN-PHILIPPE",
       "adresse_pj": "6 avenue Gutenberg 31120 Portet sur Garonne",
       "code_postal_pj": "31120",
       "ville_pj": "Portet sur Garonne",
-      "telephone": "06 21 14 73 34"
+      "telephone": "06 21 14 73 34",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Opel - Sipa Automobiles - Muret",
       "adresse_pj": "impasse Jacques Monod 31600 Muret",
       "code_postal_pj": "31600",
       "ville_pj": "Muret",
-      "telephone": "05 82 84 34 09"
+      "telephone": "05 82 84 34 09",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "AUTO EIGHT SARL",
       "adresse_pj": "6 allée Sisteron 31770 Colomiers",
       "code_postal_pj": "31770",
       "ville_pj": "Colomiers",
-      "telephone": "05 40 00 02 26"
+      "telephone": "05 40 00 02 26",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Seat Perpignan Catalauto Concessionnaires",
       "adresse_pj": "21 boulevard Joffrery 31600 Muret",
       "code_postal_pj": "31600",
       "ville_pj": "Muret",
-      "telephone": "04 68 54 08 66"
+      "telephone": "04 68 54 08 66",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Jeep - Sipa Automobiles - Muret",
       "adresse_pj": "impasse Jacques Monod 31600 Muret",
       "code_postal_pj": "31600",
       "ville_pj": "Muret",
-      "telephone": "0755731000"
+      "telephone": "0755731000",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Jugand Autos",
       "adresse_pj": "Zac De La Bruyere 8 rue de la Bruyère 31120 Pinsaguel",
       "code_postal_pj": "31120",
       "ville_pj": "Pinsaguel",
-      "telephone": "05 36 09 14 60"
+      "telephone": "05 36 09 14 60",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "René Necer",
       "adresse_pj": "11 rue Paul Valéry 31170 Tournefeuille",
       "code_postal_pj": "31170",
       "ville_pj": "Tournefeuille",
-      "telephone": "09 54 85 08 63"
+      "telephone": "09 54 85 08 63",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Accor Autos",
       "adresse_pj": "7 rue Aristide Berges 31600 Muret",
       "code_postal_pj": "31600",
       "ville_pj": "Muret",
-      "telephone": "06 50 87 27 75"
+      "telephone": "06 50 87 27 75",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "JSF Automobiles",
       "adresse_pj": "45 route Bessières 31240 L'Union",
       "code_postal_pj": "31240",
-      "ville_pj": "L'Union"
+      "ville_pj": "L'Union",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Opel - Sipa Automobiles - Muret",
       "adresse_pj": "impasse Jacques Monod 31600 Muret",
       "code_postal_pj": "31600",
       "ville_pj": "Muret",
-      "telephone": "05 82 84 34 09"
+      "telephone": "05 82 84 34 09",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Cd Auto",
       "adresse_pj": "1 Bis chemin Bordeneuve 31150 Lespinasse",
       "code_postal_pj": "31150",
       "ville_pj": "Lespinasse",
-      "telephone": "06 44 87 89 78"
+      "telephone": "06 44 87 89 78",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Lauragais Motoculture",
@@ -10164,146 +10448,167 @@
       "adresse_pj": "2 chemin Monges 31450 Deyme",
       "code_postal_pj": "31450",
       "ville_pj": "Deyme",
-      "telephone": "05 62 57 06 03"
+      "telephone": "05 62 57 06 03",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Compol",
       "adresse_pj": "18 avenue Château D'Eau 31880 La Salvetat Saint Gilles",
       "code_postal_pj": "31880",
       "ville_pj": "La Salvetat Saint Gilles",
-      "telephone": "06 33 04 65 47"
+      "telephone": "06 33 04 65 47",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Lotus",
       "adresse_pj": "80 chemin Lalande 31670 Labège",
       "code_postal_pj": "31670",
       "ville_pj": "Labège",
-      "telephone": "07 56 41 79 84"
+      "telephone": "07 56 41 79 84",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Dylan Pinton",
       "adresse_pj": "résid Les Vignes 8 Bis rue Irma Brunet Faure 31170 Tournefeuille",
       "code_postal_pj": "31170",
       "ville_pj": "Tournefeuille",
-      "telephone": "06 18 84 24 47"
+      "telephone": "06 18 84 24 47",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Fiat Professionnal - Sipa Automobiles - Muret",
       "adresse_pj": "11 impasse Jacques Monod 31600 Muret",
       "code_postal_pj": "31600",
       "ville_pj": "Muret",
-      "telephone": "0130000041"
+      "telephone": "0130000041",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "AUTO EIGHT SARL",
       "adresse_pj": "6 allée Sisteron 31770 Colomiers",
       "code_postal_pj": "31770",
       "ville_pj": "Colomiers",
-      "telephone": "05 40 00 02 26"
+      "telephone": "05 40 00 02 26",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Automobile De La Lèze",
       "adresse_pj": "209 zone artisanale Agries 31860 Labarthe sur Lèze",
       "code_postal_pj": "31860",
       "ville_pj": "Labarthe sur Lèze",
-      "telephone": "05 61 91 61 56"
+      "telephone": "05 61 91 61 56",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Patrick Moisset",
       "adresse_pj": "4 rue Cigognes 31270 Cugnaux",
       "code_postal_pj": "31270",
       "ville_pj": "Cugnaux",
-      "telephone": "05 61 31 13 47"
+      "telephone": "05 61 31 13 47",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Jeep - Sipa Automobiles - Muret",
       "adresse_pj": "impasse Jacques Monod 31600 Muret",
       "code_postal_pj": "31600",
       "ville_pj": "Muret",
-      "telephone": "0755731000"
+      "telephone": "0755731000",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Jugand Autos",
       "adresse_pj": "Zac De La Bruyere 8 rue de la Bruyère 31120 Pinsaguel",
       "code_postal_pj": "31120",
       "ville_pj": "Pinsaguel",
-      "telephone": "05 36 09 14 60"
+      "telephone": "05 36 09 14 60",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Citroën Groupe Dallard",
       "adresse_pj": "Zone Industrielle impasse Jacques Monod 31600 Muret",
       "code_postal_pj": "31600",
       "ville_pj": "Muret",
-      "telephone": "05 62 11 60 40"
+      "telephone": "05 62 11 60 40",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Auto Réal 31",
       "adresse_pj": "21 boulevard Joffrery 31600 Muret",
       "code_postal_pj": "31600",
       "ville_pj": "Muret",
-      "telephone": "05 61 56 97 00"
+      "telephone": "05 61 56 97 00",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Selfa Auto",
       "adresse_pj": "33 rue Robert Louis Stevenson 31270 Villeneuve Tolosane",
       "code_postal_pj": "31270",
       "ville_pj": "Villeneuve Tolosane",
-      "telephone": "05 67 68 52 87"
+      "telephone": "05 67 68 52 87",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Ora e-Cars",
       "adresse_pj": "380 chemin Agries 31860 Labarthe sur Lèze",
       "code_postal_pj": "31860",
       "ville_pj": "Labarthe sur Lèze",
-      "telephone": "05 62 87 89 30"
+      "telephone": "05 62 87 89 30",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "RL PRESTIGE",
       "adresse_pj": "26 rue de la Bruyère 31120 Pinsaguel",
       "code_postal_pj": "31120",
       "ville_pj": "Pinsaguel",
-      "telephone": "07 82 12 47 87"
+      "telephone": "07 82 12 47 87",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Mg Motor",
       "adresse_pj": "32 boulevard Joffrery 31600 Muret",
       "code_postal_pj": "31600",
       "ville_pj": "Muret",
-      "telephone": "05 54 07 08 54"
+      "telephone": "05 54 07 08 54",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Laurent Prat",
       "adresse_pj": "6 rue Dauphine 31170 Tournefeuille",
       "code_postal_pj": "31170",
       "ville_pj": "Tournefeuille",
-      "telephone": "09 53 08 52 61"
+      "telephone": "09 53 08 52 61",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Tressol-Chabrier",
       "adresse_pj": "27 rue Pierre De Fermat 31600 Muret",
       "code_postal_pj": "31600",
       "ville_pj": "Muret",
-      "telephone": "05 61 51 02 69"
+      "telephone": "05 61 51 02 69",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "JSF Automobiles",
       "adresse_pj": "45 route Bessières 31240 L'Union",
       "code_postal_pj": "31240",
-      "ville_pj": "L'Union"
+      "ville_pj": "L'Union",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Fiat Professionnal - Sipa Automobiles - Muret",
       "adresse_pj": "11 impasse Jacques Monod 31600 Muret",
       "code_postal_pj": "31600",
       "ville_pj": "Muret",
-      "telephone": "0130000041"
+      "telephone": "0130000041",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "RL PRESTIGE",
       "adresse_pj": "26 rue de la Bruyère 31120 Pinsaguel",
       "code_postal_pj": "31120",
       "ville_pj": "Pinsaguel",
-      "telephone": "07 82 12 47 87"
+      "telephone": "07 82 12 47 87",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "CH DE B INVEST",
@@ -10311,125 +10616,910 @@
       "adresse_pj": "rue Max Planck 31670 Labège",
       "code_postal_pj": "31670",
       "ville_pj": "Labège",
-      "telephone": "05 67 22 25 01"
+      "telephone": "05 67 22 25 01",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Patrick Moisset",
       "adresse_pj": "4 rue Cigognes 31270 Cugnaux",
       "code_postal_pj": "31270",
       "ville_pj": "Cugnaux",
-      "telephone": "05 61 31 13 47"
+      "telephone": "05 61 31 13 47",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Akroum Hanifi",
       "adresse_pj": "3 rue Boutons D'Or 31860 Pins Justaret",
       "code_postal_pj": "31860",
-      "ville_pj": "Pins Justaret"
+      "ville_pj": "Pins Justaret",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "DS Salon Muret",
       "adresse_pj": "impasse Jacques Monod 31600 Muret",
       "code_postal_pj": "31600",
       "ville_pj": "Muret",
-      "telephone": "05 34 51 52 07"
+      "telephone": "05 34 51 52 07",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Jeep - Sipa Automobiles - Muret",
       "adresse_pj": "impasse Jacques Monod 31600 Muret",
       "code_postal_pj": "31600",
       "ville_pj": "Muret",
-      "telephone": "0755731000"
+      "telephone": "0755731000",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Automobile De La Lèze",
       "adresse_pj": "209 zone artisanale Agries 31860 Labarthe sur Lèze",
       "code_postal_pj": "31860",
       "ville_pj": "Labarthe sur Lèze",
-      "telephone": "05 61 91 61 56"
+      "telephone": "05 61 91 61 56",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Auto Réal 31",
       "adresse_pj": "21 boulevard Joffrery 31600 Muret",
       "code_postal_pj": "31600",
       "ville_pj": "Muret",
-      "telephone": "05 61 56 97 00"
+      "telephone": "05 61 56 97 00",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Auto Real RN 20",
       "adresse_pj": "21 boulevard Joffrery 31600 Muret",
       "code_postal_pj": "31600",
       "ville_pj": "Muret",
-      "telephone": "05 61 56 97 00"
+      "telephone": "05 61 56 97 00",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "CTA Automobiles",
       "adresse_pj": "61 chemin Sauveur 31270 Frouzins",
       "code_postal_pj": "31270",
       "ville_pj": "Frouzins",
-      "telephone": "06 68 61 27 12"
+      "telephone": "06 68 61 27 12",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Accor Autos",
       "adresse_pj": "7 rue Aristide Berges 31600 Muret",
       "code_postal_pj": "31600",
       "ville_pj": "Muret",
-      "telephone": "06 50 87 27 75"
+      "telephone": "06 50 87 27 75",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "RL Luxury Wrap",
       "adresse_pj": "26 rue de la Bruyère 31120 Pinsaguel",
       "code_postal_pj": "31120",
       "ville_pj": "Pinsaguel",
-      "telephone": "07 82 12 47 87"
+      "telephone": "07 82 12 47 87",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "René Necer",
       "adresse_pj": "11 rue Paul Valéry 31170 Tournefeuille",
       "code_postal_pj": "31170",
       "ville_pj": "Tournefeuille",
-      "telephone": "09 54 85 08 63"
+      "telephone": "09 54 85 08 63",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Dacia Muret Concessionnaire",
       "adresse_pj": "254 avenue Pyrénées 31600 Muret",
       "code_postal_pj": "31600",
       "ville_pj": "Muret",
-      "telephone": "05 34 46 34 63"
+      "telephone": "05 34 46 34 63",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "CEL AUTO CEL AUTO",
       "adresse_pj": "11 avenue Grand Tetras 31860 Labarthe sur Lèze",
       "code_postal_pj": "31860",
       "ville_pj": "Labarthe sur Lèze",
-      "telephone": "09 53 80 89 37"
+      "telephone": "09 53 80 89 37",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "M7 Auto",
       "adresse_pj": "100 route Labastidette 31600 Seysses",
       "code_postal_pj": "31600",
       "ville_pj": "Seysses",
-      "telephone": "06 25 89 29 39"
+      "telephone": "06 25 89 29 39",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Dacia Muret Concessionnaire",
       "adresse_pj": "254 avenue Pyrénées 31600 Muret",
       "code_postal_pj": "31600",
       "ville_pj": "Muret",
-      "telephone": "05 34 46 34 63"
+      "telephone": "05 34 46 34 63",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Dz 31 Automobiles",
       "adresse_pj": "10 rue Joseph d'Olivier 31600 Muret",
       "code_postal_pj": "31600",
       "ville_pj": "Muret",
-      "telephone": "07 67 45 96 29"
+      "telephone": "07 67 45 96 29",
+      "search_category": "concession automobile"
     },
     {
       "nom_pj": "Pièces Entretien Automobil Bordelais",
       "adresse_pj": "348 avenue Pic du Ger 31600 Muret",
       "code_postal_pj": "31600",
       "ville_pj": "Muret",
-      "telephone": "05 34 47 08 30"
+      "telephone": "05 34 47 08 30",
+      "search_category": "concession automobile"
+    }
+  ],
+  "cat_carrosserie automobile": [
+    {
+      "nom_pj": "Garage Faugères - Concession Citroën",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=06246653&code_localite=Z03155400&code_rubrique=388310",
+      "adresse_pj": "295 route Seysses 31100 Toulouse",
+      "code_postal_pj": "31100",
+      "ville_pj": "Toulouse",
+      "telephone": "05 61 40 29 10"
+    },
+    {
+      "nom_pj": "BMW MINI PELRAS CONCESSIONNAIRE",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00487500&code_localite=Z03155400&code_rubrique=388310",
+      "adresse_pj": "145 rue Nicolas Louis Vauquelin 31100 Toulouse",
+      "code_postal_pj": "31100",
+      "ville_pj": "Toulouse",
+      "telephone": "05 34 60 86 08"
+    },
+    {
+      "nom_pj": "Carrosserie de l'Auto",
+      "adresse_pj": "4 impasse Flambère 31300 Toulouse",
+      "code_postal_pj": "31300",
+      "ville_pj": "Toulouse",
+      "telephone": "05 33 06 09 31"
+    },
+    {
+      "nom_pj": "Carrosserie Perez",
+      "adresse_pj": "265 route Narbonne 31400 Toulouse",
+      "code_postal_pj": "31400",
+      "ville_pj": "Toulouse",
+      "telephone": "05 62 88 98 68"
+    },
+    {
+      "nom_pj": "Chrono Débossauto",
+      "adresse_pj": "6 rue Bourdon 31200 Toulouse",
+      "code_postal_pj": "31200",
+      "ville_pj": "Toulouse",
+      "telephone": "06 03 25 73 14",
+      "site_web": "https://chronodebossauto.com/contact-et-sites-des-techniciens-partenaires-new-port/"
+    },
+    {
+      "nom_pj": "Edenauto Toyota LabegeConnu sous : carrosserie",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=12156086&code_localite=Z03155400&code_rubrique=388310",
+      "adresse_pj": "159 route Labège 31400 Toulouse",
+      "code_postal_pj": "31400",
+      "ville_pj": "Toulouse",
+      "telephone": "05 62 71 64 10"
+    },
+    {
+      "nom_pj": "Alfa Romeo – Sipa Automobiles – Toulouse Sud",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=61766461&code_localite=Z03155400&code_rubrique=142320",
+      "adresse_pj": "123 route Revel 31400 Toulouse",
+      "code_postal_pj": "31400",
+      "ville_pj": "Toulouse",
+      "telephone": "0531731000"
+    },
+    {
+      "nom_pj": "Garage des SaulesConnu sous : ETABLISSEMENTS CLEMENT AUTOMOBILES",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=53377179&code_localite=Z03155400&code_rubrique=388310",
+      "adresse_pj": "25 rue Saules 31400 Toulouse",
+      "code_postal_pj": "31400",
+      "ville_pj": "Toulouse",
+      "telephone": "0480618101"
+    },
+    {
+      "nom_pj": "Volvo - Sipa Automobiles - Toulouse Nord",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=61157166&code_localite=Z03155400&code_rubrique=142320",
+      "adresse_pj": "360 avenue Etats Unis 31200 Toulouse",
+      "code_postal_pj": "31200",
+      "ville_pj": "Toulouse",
+      "telephone": "05 82 84 32 40"
+    },
+    {
+      "nom_pj": "Fiat - Sipa Automobiles - Toulouse Sud",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00489469&code_localite=Z03155400&code_rubrique=142320",
+      "adresse_pj": "123 route Revel 31400 Toulouse",
+      "code_postal_pj": "31400",
+      "ville_pj": "Toulouse",
+      "telephone": "05 82 84 34 12"
+    },
+    {
+      "nom_pj": "Garage Brefeil",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=06911206&code_localite=Z03155400&code_rubrique=388310",
+      "adresse_pj": "106 rue Edmond Rostand 31200 Toulouse",
+      "code_postal_pj": "31200",
+      "ville_pj": "Toulouse",
+      "telephone": "05 61 48 57 16"
+    },
+    {
+      "nom_pj": "Fiat - Sipa Automobiles - Toulouse Nord",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=59248850&code_localite=Z03155400&code_rubrique=142320",
+      "adresse_pj": "360 avenue Etats Unis 31200 Toulouse",
+      "code_postal_pj": "31200",
+      "ville_pj": "Toulouse",
+      "telephone": "05 82 84 85 80"
+    },
+    {
+      "nom_pj": "Garage Nicol Citroën Cianni",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=01726261&code_localite=Z03155400&code_rubrique=388310",
+      "adresse_pj": "6 chemin Nicol 31200 Toulouse",
+      "code_postal_pj": "31200",
+      "ville_pj": "Toulouse",
+      "telephone": "05 61 48 32 08"
+    },
+    {
+      "nom_pj": "Anthony CustoConnu sous : AC AUTO",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=09001913&code_localite=Z03155400&code_rubrique=142320",
+      "adresse_pj": "92 rue Edmond Rostand 31200 Toulouse",
+      "code_postal_pj": "31200",
+      "ville_pj": "Toulouse",
+      "telephone": "05 34 30 94 77"
+    },
+    {
+      "nom_pj": "Car Size",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=59164845&code_localite=Z03155400&code_rubrique=388310",
+      "adresse_pj": "10 boulevard Thibaud 31100 Toulouse",
+      "code_postal_pj": "31100",
+      "ville_pj": "Toulouse",
+      "telephone": "05 81 10 60 60"
+    },
+    {
+      "nom_pj": "Comptoir de la Carrosserie",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=62121967&code_localite=Z03155400&code_rubrique=025710",
+      "adresse_pj": "10 place Laganne 31300 Toulouse",
+      "code_postal_pj": "31300",
+      "ville_pj": "Toulouse",
+      "telephone": "0673100009",
+      "site_web": "https://www.comptoir-carrosserie.fr/"
+    },
+    {
+      "nom_pj": "Spoticar Sipa Automobiles Concessionnaire",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=59248846&code_localite=Z03155400&code_rubrique=142320",
+      "adresse_pj": "360 avenue Etats Unis 31200 Toulouse",
+      "code_postal_pj": "31200",
+      "ville_pj": "Toulouse",
+      "telephone": "05 82 84 30 20"
+    },
+    {
+      "nom_pj": "Mécapeintol SarlConnu sous : carrosserie",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=08139621&code_localite=Z03155400&code_rubrique=142320",
+      "adresse_pj": "51 rue Bourrassol 31300 Toulouse",
+      "code_postal_pj": "31300",
+      "ville_pj": "Toulouse",
+      "telephone": "05 61 42 92 07"
+    },
+    {
+      "nom_pj": "Alfa Romeo - Sipa Automobiles - Toulouse NordConnu sous : Carrosserie",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=59248813&code_localite=Z03155400&code_rubrique=142320",
+      "adresse_pj": "360 avenue Etats Unis 31200 Toulouse",
+      "code_postal_pj": "31200",
+      "ville_pj": "Toulouse",
+      "telephone": "0531531000"
+    },
+    {
+      "nom_pj": "Garage Grand",
+      "adresse_pj": "52 impasse Glacière 31200 Toulouse",
+      "code_postal_pj": "31200",
+      "ville_pj": "Toulouse",
+      "telephone": "05 62 72 14 46"
+    },
+    {
+      "nom_pj": "Comptoir de la Carrosserie",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=62121967&code_localite=Z03155400&code_rubrique=025710",
+      "adresse_pj": "10 place Laganne 31300 Toulouse",
+      "code_postal_pj": "31300",
+      "ville_pj": "Toulouse",
+      "telephone": "0673100009",
+      "site_web": "https://www.comptoir-carrosserie.fr/"
+    },
+    {
+      "nom_pj": "Fulcheri SARL",
+      "adresse_pj": "40 avenue Larrieu 31100 Toulouse",
+      "code_postal_pj": "31100",
+      "ville_pj": "Toulouse",
+      "telephone": "05 62 20 17 89"
+    },
+    {
+      "nom_pj": "Garage Grand",
+      "adresse_pj": "52 impasse Glacière 31200 Toulouse",
+      "code_postal_pj": "31200",
+      "ville_pj": "Toulouse",
+      "telephone": "05 62 72 14 46"
+    },
+    {
+      "nom_pj": "DBF Toulouse Automobiles",
+      "adresse_pj": "290 rue Léon Joulin 31100 Toulouse",
+      "code_postal_pj": "31100",
+      "ville_pj": "Toulouse",
+      "telephone": "05 61 44 44 44"
+    },
+    {
+      "nom_pj": "LavaConnu sous : Ad Carrosserie Sarl Lava",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00489471&code_localite=Z03155400&code_rubrique=388310",
+      "adresse_pj": "10 place Alexandre Bisson 31300 Toulouse",
+      "code_postal_pj": "31300",
+      "ville_pj": "Toulouse",
+      "telephone": "05 61 49 16 95"
+    },
+    {
+      "nom_pj": "Ford Carrosserie Toulouse Sud - Auto Services",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=53819661&code_localite=Z03155400&code_rubrique=388310",
+      "adresse_pj": "2 rue Jean Rodier 31400 Toulouse",
+      "code_postal_pj": "31400",
+      "ville_pj": "Toulouse",
+      "telephone": "05 61 36 06 96"
+    },
+    {
+      "nom_pj": "Garage Beauchamps",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=01730734&code_localite=Z03155400&code_rubrique=388310",
+      "adresse_pj": "274 avenue Lardenne 31100 Toulouse",
+      "code_postal_pj": "31100",
+      "ville_pj": "Toulouse",
+      "telephone": "05 61 49 29 61"
+    },
+    {
+      "nom_pj": "Carrosserie Toniol SARL",
+      "adresse_pj": "Zac Garonne 13 rue Louis Bonin 31200 Toulouse",
+      "code_postal_pj": "31200",
+      "ville_pj": "Toulouse",
+      "telephone": "05 61 57 07 88"
+    },
+    {
+      "nom_pj": "Carrosserie de SouzaConnu sous : CAROSSERIE L. DE SOUZA",
+      "adresse_pj": "31 avenue Lavaur 31500 Toulouse",
+      "code_postal_pj": "31500",
+      "ville_pj": "Toulouse",
+      "telephone": "05 61 48 72 62"
+    },
+    {
+      "nom_pj": "Anthony Vautour",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=06237069&code_localite=Z03155400&code_rubrique=388310",
+      "adresse_pj": "239 rue Fontaines 31300 Toulouse",
+      "code_postal_pj": "31300",
+      "ville_pj": "Toulouse",
+      "telephone": "05 61 49 32 41"
+    },
+    {
+      "nom_pj": "CARROSSERIE FOURCADE ET FILS",
+      "adresse_pj": "51 boulevard Récollets 31400 Toulouse",
+      "code_postal_pj": "31400",
+      "ville_pj": "Toulouse",
+      "telephone": "05 61 52 81 43"
+    },
+    {
+      "nom_pj": "Garage Tonéatti Perlin",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=12061158&code_localite=Z03155400&code_rubrique=388310",
+      "adresse_pj": "107 chemin Tuileries 31400 Toulouse",
+      "code_postal_pj": "31400",
+      "ville_pj": "Toulouse",
+      "telephone": "05 61 20 53 98"
+    },
+    {
+      "nom_pj": "Garage DougnacConnu sous : FIAT GARAGE DOUGNAC MÉCANIQUE ET CARROSSERIE",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00704336&code_localite=Z03155400&code_rubrique=388310",
+      "adresse_pj": "Zac De Gabardie 21 rue Paule Raymondis 31200 Toulouse",
+      "code_postal_pj": "31200",
+      "ville_pj": "Toulouse",
+      "telephone": "0614000010"
+    },
+    {
+      "nom_pj": "Carrosserie Saint Simon",
+      "adresse_pj": "141 chemin Basso Cambo 31100 Toulouse",
+      "code_postal_pj": "31100",
+      "ville_pj": "Toulouse",
+      "telephone": "0796331694"
+    },
+    {
+      "nom_pj": "Renault Samec Delouvée Ets Agent",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00487246&code_localite=Z03155400&code_rubrique=388310",
+      "adresse_pj": "25 avenue Larrieu Thibaud 31100 Toulouse",
+      "code_postal_pj": "31100",
+      "ville_pj": "Toulouse",
+      "telephone": "05 61 44 44 17"
+    },
+    {
+      "nom_pj": "Serignac IndustrieConnu sous : CARROSSERIE INDUSTRIELLE SERIGNAC",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=05679648&code_localite=Z03155400&code_rubrique=142320",
+      "adresse_pj": "141 chemin Fenouillet 31200 Toulouse",
+      "code_postal_pj": "31200",
+      "ville_pj": "Toulouse",
+      "telephone": "05 61 70 14 81"
+    },
+    {
+      "nom_pj": "Carrosserie Serignac",
+      "adresse_pj": "avenue Fondeyre 31200 Toulouse",
+      "code_postal_pj": "31200",
+      "ville_pj": "Toulouse",
+      "telephone": "05 61 47 39 39"
+    },
+    {
+      "nom_pj": "Azur Automobile",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00489398&code_localite=Z03155400&code_rubrique=388310",
+      "adresse_pj": "16 chemin Perpignan 31100 Toulouse",
+      "code_postal_pj": "31100",
+      "ville_pj": "Toulouse",
+      "telephone": "05 61 40 20 48"
+    },
+    {
+      "nom_pj": "Cars Carrosserie",
+      "adresse_pj": "Zone Industrielle Thibaud 4 rue Labouche 31100 Toulouse",
+      "code_postal_pj": "31100",
+      "ville_pj": "Toulouse",
+      "telephone": "05 34 63 92 38"
+    },
+    {
+      "nom_pj": "Carrosserie Sanchez Père et Fils",
+      "adresse_pj": "185 Bis route Revel 31400 Toulouse",
+      "code_postal_pj": "31400",
+      "ville_pj": "Toulouse",
+      "telephone": "05 61 80 60 02"
+    },
+    {
+      "nom_pj": "Carrosserie Saint Simon",
+      "adresse_pj": "141 chemin Basso Cambo 31100 Toulouse",
+      "code_postal_pj": "31100",
+      "ville_pj": "Toulouse",
+      "telephone": "0796331694"
+    },
+    {
+      "nom_pj": "Anthony Vautour",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=06237069&code_localite=Z03155400&code_rubrique=388310",
+      "adresse_pj": "239 rue Fontaines 31300 Toulouse",
+      "code_postal_pj": "31300",
+      "ville_pj": "Toulouse",
+      "telephone": "05 61 49 32 41"
+    },
+    {
+      "nom_pj": "Garage Du Port Saint Sauveur",
+      "adresse_pj": "8 rue Bernard Mule 31400 Toulouse",
+      "code_postal_pj": "31400",
+      "ville_pj": "Toulouse",
+      "telephone": "05 61 80 80 73"
+    },
+    {
+      "nom_pj": "Carrosserie Borderouge",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=51884182&code_localite=Z03155400&code_rubrique=388310",
+      "adresse_pj": "65 Bis rue Michel Ange 31200 Toulouse",
+      "code_postal_pj": "31200",
+      "ville_pj": "Toulouse",
+      "telephone": "05 61 48 48 00"
+    },
+    {
+      "nom_pj": "Garage Peugeot - Lafforgue Frères",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00488315&code_localite=Z03155400&code_rubrique=388310",
+      "adresse_pj": "Za Fontgrasse 24 rue Briquetiers 31700 Blagnac",
+      "code_postal_pj": "31700",
+      "ville_pj": "Blagnac",
+      "telephone": "05 34 60 61 30"
+    },
+    {
+      "nom_pj": "BarrosConnu sous : CARROSSERIE BARROS EURL",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=04284081&code_localite=Z03155400&code_rubrique=388310",
+      "adresse_pj": "32 avenue Raymond Naves 31500 Toulouse",
+      "code_postal_pj": "31500",
+      "ville_pj": "Toulouse",
+      "telephone": "05 61 80 92 34"
+    },
+    {
+      "nom_pj": "Peugeot PGV Automobiles Agent",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=54556549&code_localite=Z03155400&code_rubrique=388310",
+      "adresse_pj": "6 Bis avenue Edouard Serres 31770 Colomiers",
+      "code_postal_pj": "31770",
+      "ville_pj": "Colomiers",
+      "telephone": "05 61 15 58 88"
+    },
+    {
+      "nom_pj": "Carrosserie Garage Maupas",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=50940184&code_localite=Z03155400&code_rubrique=388310",
+      "adresse_pj": "29 chemin Pépinière 31130 Balma",
+      "code_postal_pj": "31130",
+      "ville_pj": "Balma",
+      "telephone": "05 34 43 38 16"
+    },
+    {
+      "nom_pj": "Carrosserie Matre",
+      "adresse_pj": "10 chemin Croix Bénite 31200 Toulouse",
+      "code_postal_pj": "31200",
+      "ville_pj": "Toulouse",
+      "telephone": "05 61 47 04 00"
+    },
+    {
+      "nom_pj": "Jérémy Tapia",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=06809867&code_localite=Z03155400&code_rubrique=388310",
+      "adresse_pj": "32 rue Foyer Toulousain 31300 Toulouse",
+      "code_postal_pj": "31300",
+      "ville_pj": "Toulouse",
+      "telephone": "05 61 49 36 64"
+    },
+    {
+      "nom_pj": "Garage Foltran - Euro Repar",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00810834&code_localite=Z03155400&code_rubrique=388310",
+      "adresse_pj": "3 impasse Grand Rond 31140 Launaguet",
+      "code_postal_pj": "31140",
+      "ville_pj": "Launaguet",
+      "telephone": "05 61 74 47 56",
+      "site_web": "https://rendezvous.eurorepar.fr/booking?xcode=X003065#_ga=2.180922343.1545981066.1631174446-2124742898.1630910751"
+    },
+    {
+      "nom_pj": "Serignac IndustrieConnu sous : CARROSSERIE INDUSTRIELLE SERIGNAC",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=05679648&code_localite=Z03155400&code_rubrique=142320",
+      "adresse_pj": "141 chemin Fenouillet 31200 Toulouse",
+      "code_postal_pj": "31200",
+      "ville_pj": "Toulouse",
+      "telephone": "05 61 70 14 81"
+    },
+    {
+      "nom_pj": "RIEUX CARROSSERIE",
+      "adresse_pj": "232 avenue Castres 31500 Toulouse",
+      "code_postal_pj": "31500",
+      "ville_pj": "Toulouse",
+      "telephone": "05 34 42 14 80"
+    },
+    {
+      "nom_pj": "Sabathie Pere Et FilsConnu sous : Carrosserie Sabathie",
+      "adresse_pj": "15 Bis avenue Francazal 31270 Cugnaux",
+      "code_postal_pj": "31270",
+      "ville_pj": "Cugnaux",
+      "telephone": "05 61 40 43 41"
+    },
+    {
+      "nom_pj": "RM Automobile",
+      "adresse_pj": "178 route Launaguet 31200 Toulouse",
+      "code_postal_pj": "31200",
+      "ville_pj": "Toulouse",
+      "telephone": "05 61 47 49 98"
+    },
+    {
+      "nom_pj": "Citroën Opel Garage Angles réparateur Agréé",
+      "adresse_pj": "7 avenue Hermès 31240 L'Union",
+      "code_postal_pj": "31240",
+      "ville_pj": "L'Union",
+      "telephone": "05 34 25 33 22"
+    },
+    {
+      "nom_pj": "Renault Samec Delouvée Ets Agent",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00487246&code_localite=Z03155400&code_rubrique=388310",
+      "adresse_pj": "25 avenue Larrieu Thibaud 31100 Toulouse",
+      "code_postal_pj": "31100",
+      "ville_pj": "Toulouse",
+      "telephone": "05 61 44 44 17"
+    },
+    {
+      "nom_pj": "Car Staging France",
+      "adresse_pj": "35 avenue Jean Zay 31200 Toulouse",
+      "code_postal_pj": "31200",
+      "ville_pj": "Toulouse",
+      "telephone": "05 62 17 68 61"
+    },
+    {
+      "nom_pj": "Carrosserie Pressoir",
+      "adresse_pj": "22 avenue Italie 31400 Toulouse",
+      "code_postal_pj": "31400",
+      "ville_pj": "Toulouse",
+      "telephone": "05 61 52 56 81"
+    },
+    {
+      "nom_pj": "Auto Sport - Agent Ford",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=51366627&code_localite=Z03155400&code_rubrique=142320",
+      "adresse_pj": "219 Bis chemin Boudou 31140 Launaguet",
+      "code_postal_pj": "31140",
+      "ville_pj": "Launaguet",
+      "telephone": "05 61 70 26 68",
+      "site_web": "http://www.asgarage-ford.com/contact"
+    },
+    {
+      "nom_pj": "Loddo Reilhac",
+      "adresse_pj": "1 route Bessières 31780 Castelginest",
+      "code_postal_pj": "31780",
+      "ville_pj": "Castelginest",
+      "telephone": "05 61 37 16 99"
+    },
+    {
+      "nom_pj": "Carrosserie Garage Maupas",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=50940184&code_localite=Z03155400&code_rubrique=388310",
+      "adresse_pj": "29 chemin Pépinière 31130 Balma",
+      "code_postal_pj": "31130",
+      "ville_pj": "Balma",
+      "telephone": "05 34 43 38 16"
+    },
+    {
+      "nom_pj": "Auto Sport - Agent Ford",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=51366627&code_localite=Z03155400&code_rubrique=142320",
+      "adresse_pj": "219 Bis chemin Boudou 31140 Launaguet",
+      "code_postal_pj": "31140",
+      "ville_pj": "Launaguet",
+      "telephone": "05 61 70 26 68",
+      "site_web": "http://www.asgarage-ford.com/contact"
+    },
+    {
+      "nom_pj": "Garage AD - FIAT / ALFA ROMEO L'Union Automobiles",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00827724&code_localite=Z03155400&code_rubrique=388310",
+      "adresse_pj": "35 chemin Violettes 31240 L'Union",
+      "code_postal_pj": "31240",
+      "ville_pj": "L'Union",
+      "telephone": "05 61 74 45 34"
+    },
+    {
+      "nom_pj": "Carrosserie Alleman",
+      "adresse_pj": "Za Des 4 Saisons 11 rue Georges Brassens 31140 Fonbeauzard",
+      "code_postal_pj": "31140",
+      "ville_pj": "Fonbeauzard",
+      "telephone": "05 61 70 98 99",
+      "site_web": "https://www.carrosserie-alleman.fr/contact"
+    },
+    {
+      "nom_pj": "Sabathie Pere Et FilsConnu sous : Carrosserie Sabathie",
+      "adresse_pj": "15 Bis avenue Francazal 31270 Cugnaux",
+      "code_postal_pj": "31270",
+      "ville_pj": "Cugnaux",
+      "telephone": "05 61 40 43 41"
+    },
+    {
+      "nom_pj": "Ad Agm Auto",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=62616450&code_localite=Z03155400&code_rubrique=388310",
+      "adresse_pj": "9 avenue Marcaissonne 31400 Toulouse",
+      "code_postal_pj": "31400",
+      "ville_pj": "Toulouse",
+      "telephone": "05 61 47 11 86"
+    },
+    {
+      "nom_pj": "Arc En Ciel Auto SARLConnu sous : Ad Carrosserie",
+      "adresse_pj": "95 route Seilh 31700 Cornebarrieu",
+      "code_postal_pj": "31700",
+      "ville_pj": "Cornebarrieu",
+      "telephone": "05 61 59 11 59"
+    },
+    {
+      "nom_pj": "Victoria Automobiles - Agent Renault et Dacia",
+      "adresse_pj": "115 route Grenade 31700 Blagnac",
+      "code_postal_pj": "31700",
+      "ville_pj": "Blagnac",
+      "telephone": "05 61 92 33 33"
+    },
+    {
+      "nom_pj": "Jean-Luc Foures",
+      "adresse_pj": "5 avenue Raymond Naves 31500 Toulouse",
+      "code_postal_pj": "31500",
+      "ville_pj": "Toulouse",
+      "telephone": "05 61 80 92 72"
+    },
+    {
+      "nom_pj": "2 L AUTOConnu sous : Carrosserie Deux L Auto",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=52399844&code_localite=Z03155400&code_rubrique=388310",
+      "adresse_pj": "9 avenue Marcaissonne 31400 Toulouse",
+      "code_postal_pj": "31400",
+      "ville_pj": "Toulouse",
+      "telephone": "05 62 80 93 51"
+    },
+    {
+      "nom_pj": "Fix Auto Colomiers",
+      "adresse_pj": "11 avenue Edouard Serres 31770 Colomiers",
+      "code_postal_pj": "31770",
+      "ville_pj": "Colomiers",
+      "telephone": "05 62 74 86 82"
+    },
+    {
+      "nom_pj": "Domingues",
+      "adresse_pj": "64 rue Achille Viadieu 31400 Toulouse",
+      "code_postal_pj": "31400",
+      "ville_pj": "Toulouse",
+      "telephone": "05 61 52 94 29"
+    },
+    {
+      "nom_pj": "Garage Ricard SARLConnu sous : Ad Carrosserie Sarl Garage Ricard",
+      "adresse_pj": "46 route Gauré 31130 Balma",
+      "code_postal_pj": "31130",
+      "ville_pj": "Balma",
+      "telephone": "0680000240"
+    },
+    {
+      "nom_pj": "Garage Foltran - Euro Repar",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00810834&code_localite=Z03155400&code_rubrique=388310",
+      "adresse_pj": "3 impasse Grand Rond 31140 Launaguet",
+      "code_postal_pj": "31140",
+      "ville_pj": "Launaguet",
+      "telephone": "05 61 74 47 56",
+      "site_web": "https://rendezvous.eurorepar.fr/booking?xcode=X003065#_ga=2.180922343.1545981066.1631174446-2124742898.1630910751"
+    },
+    {
+      "nom_pj": "Renault Muret NordConnu sous : Muret Nord Automobiles",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=58619499&code_localite=Z03155400&code_rubrique=388310",
+      "adresse_pj": "1 rue Aristide Berges 31600 Muret",
+      "code_postal_pj": "31600",
+      "ville_pj": "Muret",
+      "telephone": "05 34 46 38 50"
+    },
+    {
+      "nom_pj": "Garage Delcroix",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00488205&code_localite=Z03155400&code_rubrique=388310",
+      "adresse_pj": "408 route Launaguet 31140 Launaguet",
+      "code_postal_pj": "31140",
+      "ville_pj": "Launaguet",
+      "telephone": "05 61 70 05 37"
+    },
+    {
+      "nom_pj": "Carrosserie Presta Carr",
+      "adresse_pj": "1 impasse Azais 31140 Aucamville",
+      "code_postal_pj": "31140",
+      "ville_pj": "Aucamville",
+      "telephone": "05 61 53 91 54"
+    },
+    {
+      "nom_pj": "CARROSSERIE OCTANIE",
+      "adresse_pj": "22 Bis chemin Violettes 31240 L'Union",
+      "code_postal_pj": "31240",
+      "ville_pj": "L'Union",
+      "telephone": "05 61 09 67 22"
+    },
+    {
+      "nom_pj": "Garage Du Centre",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=08642361&code_localite=Z03155400&code_rubrique=388310",
+      "adresse_pj": "34 rue Raymond Grimaud 31700 Blagnac",
+      "code_postal_pj": "31700",
+      "ville_pj": "Blagnac",
+      "telephone": "05 61 71 10 85"
+    },
+    {
+      "nom_pj": "Garage Vinhas Autos",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=08036812&code_localite=Z03155400&code_rubrique=142320",
+      "adresse_pj": "365 avenue Etats Unis 31000 Toulouse",
+      "code_postal_pj": "31000",
+      "ville_pj": "Toulouse",
+      "telephone": "05 62 75 17 17"
+    },
+    {
+      "nom_pj": "S. T. E. C. A. V.Connu sous : carrosserie",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00487576&code_localite=Z03155400&code_rubrique=388310",
+      "adresse_pj": "71 avenue Toulouse 31240 L'Union",
+      "code_postal_pj": "31240",
+      "ville_pj": "L'Union",
+      "telephone": "05 62 89 01 89"
+    },
+    {
+      "nom_pj": "Peugeot Sodiscar SARL Agent",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=06407851&code_localite=Z03155400&code_rubrique=388310",
+      "adresse_pj": "93 route Tarbes 31170 Tournefeuille",
+      "code_postal_pj": "31170",
+      "ville_pj": "Tournefeuille",
+      "telephone": "05 61 07 17 18",
+      "site_web": "https://rendezvousenligne.peugeot.fr/fr-FR/rendez-vous-garage-peugeot/france/sodiscar/0000022489"
+    },
+    {
+      "nom_pj": "GBV Truck",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=53392057&code_localite=Z03155400&code_rubrique=025710",
+      "adresse_pj": "ZI BOIS VERT 19 avenue Cerisiers 31120 Portet sur Garonne",
+      "code_postal_pj": "31120",
+      "ville_pj": "Portet sur Garonne",
+      "telephone": "0990438870"
+    },
+    {
+      "nom_pj": "Laurent Gheusi",
+      "adresse_pj": "21 place Marius Pinel 31500 Toulouse",
+      "code_postal_pj": "31500",
+      "ville_pj": "Toulouse",
+      "telephone": "05 61 80 88 69"
+    },
+    {
+      "nom_pj": "Garage Foltran - Euro Repar",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00810834&code_localite=Z03155400&code_rubrique=388310",
+      "adresse_pj": "3 impasse Grand Rond 31140 Launaguet",
+      "code_postal_pj": "31140",
+      "ville_pj": "Launaguet",
+      "telephone": "05 61 74 47 56",
+      "site_web": "https://rendezvous.eurorepar.fr/booking?xcode=X003065#_ga=2.180922343.1545981066.1631174446-2124742898.1630910751"
+    },
+    {
+      "nom_pj": "Benetti Et Fils SARL",
+      "adresse_pj": "3 chemin Pouzou 31140 Saint Loup Cammas",
+      "code_postal_pj": "31140",
+      "ville_pj": "Saint Loup Cammas",
+      "telephone": "05 61 09 81 23"
+    },
+    {
+      "nom_pj": "Renault Portet Automobiles",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=54705937&code_localite=Z03155400&code_rubrique=388310",
+      "adresse_pj": "113 Bis route Espagne 31120 Portet sur Garonne",
+      "code_postal_pj": "31120",
+      "ville_pj": "Portet sur Garonne",
+      "telephone": "0971595748"
+    },
+    {
+      "nom_pj": "Renault ACLConnu sous : Cornebarrieu Automobiles",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=09662520&code_localite=Z03155400&code_rubrique=142320",
+      "adresse_pj": "3 route Aussonne 31700 Cornebarrieu",
+      "code_postal_pj": "31700",
+      "ville_pj": "Cornebarrieu",
+      "telephone": "05 34 52 90 15"
+    },
+    {
+      "nom_pj": "ELITE CARROSSERIE 31",
+      "adresse_pj": "rue Gaspard Gustave Coriolis 31830 Plaisance du Touch",
+      "code_postal_pj": "31830",
+      "ville_pj": "Plaisance du Touch",
+      "telephone": "05 54 54 53 31"
+    },
+    {
+      "nom_pj": "Victoria Automobiles - Agent Renault et Dacia",
+      "adresse_pj": "115 route Grenade 31700 Blagnac",
+      "code_postal_pj": "31700",
+      "ville_pj": "Blagnac",
+      "telephone": "05 61 92 33 33"
+    },
+    {
+      "nom_pj": "LacanConnu sous : Renault Carrosserie Lacan",
+      "adresse_pj": "71 avenue Toulouse 31240 L'Union",
+      "code_postal_pj": "31240",
+      "ville_pj": "L'Union",
+      "telephone": "05 61 09 86 28"
+    },
+    {
+      "nom_pj": "Loddo Reilhac",
+      "adresse_pj": "1 route Bessières 31780 Castelginest",
+      "code_postal_pj": "31780",
+      "ville_pj": "Castelginest",
+      "telephone": "05 61 37 16 99"
+    },
+    {
+      "nom_pj": "Tek Auto Sport",
+      "adresse_pj": "18 chemin Fondeyre 31200 Toulouse",
+      "code_postal_pj": "31200",
+      "ville_pj": "Toulouse",
+      "telephone": "05 61 52 10 54"
+    },
+    {
+      "nom_pj": "Garage AD - FIAT / ALFA ROMEO L'Union Automobiles",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00827724&code_localite=Z03155400&code_rubrique=388310",
+      "adresse_pj": "35 chemin Violettes 31240 L'Union",
+      "code_postal_pj": "31240",
+      "ville_pj": "L'Union",
+      "telephone": "05 61 74 45 34"
+    },
+    {
+      "nom_pj": "FIAT Camping-Car L'Union Automobiles",
+      "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=60943422&code_localite=Z03155400&code_rubrique=388310",
+      "adresse_pj": "35 chemin Violettes 31240 L'Union",
+      "code_postal_pj": "31240",
+      "ville_pj": "L'Union",
+      "telephone": "05 61 74 45 34"
+    },
+    {
+      "nom_pj": "Gge AUTO ASSISTANCE",
+      "adresse_pj": "8 rue Frères Lumière 31520 Ramonville Saint Agne",
+      "code_postal_pj": "31520",
+      "ville_pj": "Ramonville Saint Agne",
+      "telephone": "05 61 42 19 02"
+    },
+    {
+      "nom_pj": "Axial Flash Auto 31 Adhérent",
+      "adresse_pj": "62 chemin Bourdettes 31270 Cugnaux",
+      "code_postal_pj": "31270",
+      "ville_pj": "Cugnaux",
+      "telephone": "05 61 07 27 71"
+    },
+    {
+      "nom_pj": "St Alban AccessoiresConnu sous : CENTRE TECHNIQUE CARROSSERIE ST ALBAN",
+      "adresse_pj": "36 rue Rempart 31140 Saint Alban",
+      "code_postal_pj": "31140",
+      "ville_pj": "Saint Alban",
+      "telephone": "05 34 27 12 12"
+    },
+    {
+      "nom_pj": "CARROSSERIE CAROZZANI",
+      "adresse_pj": "33 chemin Palanques Sud 31120 Portet sur Garonne",
+      "code_postal_pj": "31120",
+      "ville_pj": "Portet sur Garonne",
+      "telephone": "05 61 72 48 41"
     }
   ]
 }
