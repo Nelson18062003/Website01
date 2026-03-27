@@ -28,8 +28,8 @@ PJ_SOURCES = [
 OUT_PATH          = "/home/user/Website01/agent_out_10_siret_pj_only.json"
 SIMILARITY_THRESH = 0.70
 MAX_PJ_ONLY       = 500
-API_DELAY         = 5.0    # 5s between calls (~12 req/min)
-RETRY_DELAY       = 900.0  # 15-min wait on 429 quota reset
+API_DELAY         = 7.0    # 7s between calls (observed: ~3 req per 15min)
+RETRY_DELAY       = 300.0  # 5-min wait on first 429, then try again
 
 
 # ─── HELPERS ───────────────────────────────────────────────────────────────────
@@ -153,8 +153,8 @@ print(f"  Processing (max {MAX_PJ_ONLY}): {len(candidates)}")
 # ─── API SEARCH ────────────────────────────────────────────────────────────────
 API_BASE = "https://recherche-entreprises.api.gouv.fr/search"
 
-def fetch_url(url: str, max_retries: int = 5) -> dict | None:
-    """Fetch URL using curl subprocess, handles 429 with fixed long wait."""
+def fetch_url(url: str, max_retries: int = 10) -> dict | None:
+    """Fetch URL using curl subprocess, handles 429 with progressive waits."""
     for attempt in range(max_retries):
         try:
             result = subprocess.run(
@@ -171,8 +171,9 @@ def fetch_url(url: str, max_retries: int = 5) -> dict | None:
             if http_code == 200:
                 return json.loads(body)
             elif http_code == 429:
-                wait = RETRY_DELAY + random.uniform(0, 30)
-                print(f"    429 (attempt {attempt+1}/{max_retries}), rate-limited → sleeping {wait:.0f}s...", flush=True)
+                # Progressive wait: 5min, 10min, 15min...
+                wait = RETRY_DELAY * (attempt + 1) + random.uniform(0, 30)
+                print(f"    429 (attempt {attempt+1}/{max_retries}), sleeping {wait/60:.1f}min...", flush=True)
                 time.sleep(wait)
                 continue
             else:
