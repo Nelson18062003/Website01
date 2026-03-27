@@ -84,20 +84,19 @@ def clean_phone(phone):
     return re.sub(r'[\s.]', '', phone)
 
 
-def fetch_with_retry(session, url, max_retries=8, base_delay=2):
+def fetch_with_retry(session, url, max_retries=10, base_delay=1):
     """Fetch URL with retry on 403 (Cloudflare intermittent challenge)."""
     headers = dict(HEADERS)
     for attempt in range(max_retries):
         imp = next_impersonate()
         try:
-            resp = session.get(url, headers=headers, timeout=35, impersonate=imp)
+            resp = session.get(url, headers=headers, timeout=30, impersonate=imp)
             if resp.status_code == 200:
                 return resp
             if resp.status_code == 404:
                 return None
-            # 403: retry with backoff + different impersonate
-            delay = base_delay + attempt * 2
-            time.sleep(delay)
+            # 403: short delay then retry with next impersonate
+            time.sleep(base_delay + (attempt % 3))
         except Exception as e:
             time.sleep(base_delay)
     return None
@@ -147,25 +146,41 @@ def extract_listings(html, category, zone):
         if not nom:
             continue
 
-        # Address
+        # Address extraction
         addr_el = card.select_one('.bi-address')
-        adresse_full = addr_el.get_text(strip=True) if addr_el else ''
-
-        # Extract postal code from address
+        adresse_full = ''
         cp = ''
         ville_card = ''
-        cp_match = re.search(r'\b(9\d{4})\b', adresse_full)
-        if cp_match:
-            cp = cp_match.group(1)
-            # Ville is after the CP
-            ville_match = re.search(r'\b9\d{4}\b\s*(.+)', adresse_full)
-            if ville_match:
-                ville_card = ville_match.group(1).strip()
+        adresse = ''
+        if addr_el:
+            # Strategy 1: get text from the link (full address is often inside <a>)
+            addr_link = addr_el.select_one('a')
+            if addr_link:
+                raw_text = addr_link.get_text(separator=' ', strip=True)
+                # Remove "Voir le plan" suffix
+                raw_text = re.sub(r'\s*Voir le plan\s*$', '', raw_text, flags=re.IGNORECASE).strip()
+                adresse_full = re.sub(r'\s+', ' ', raw_text).strip()
+            else:
+                # Strategy 2: direct text nodes + matched span
+                direct_text = ' '.join(
+                    t.strip() for t in addr_el.find_all(string=True, recursive=False)
+                    if t.strip()
+                )
+                matched_span = addr_el.select_one('.matched')
+                if matched_span:
+                    direct_text = direct_text + ' ' + matched_span.get_text(strip=True)
+                adresse_full = re.sub(r'\s+', ' ', direct_text).strip()
 
-        # Street address (before CP)
-        adresse = adresse_full
-        if cp:
-            adresse = adresse_full[:adresse_full.find(cp)].strip()
+            # Extract postal code
+            cp_match = re.search(r'\b(\d{5})\b', adresse_full)
+            if cp_match:
+                cp = cp_match.group(1)
+                after_cp = adresse_full[cp_match.end():].strip()
+                if after_cp:
+                    ville_card = after_cp
+                adresse = adresse_full[:cp_match.start()].strip()
+            else:
+                adresse = adresse_full
 
         # Phone: try from img src filename first
         telephone = ''

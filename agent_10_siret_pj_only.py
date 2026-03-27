@@ -28,8 +28,8 @@ PJ_SOURCES = [
 OUT_PATH         = "/home/user/Website01/agent_out_10_siret_pj_only.json"
 SIMILARITY_THRESH = 0.70
 MAX_PJ_ONLY      = 500
-API_DELAY        = 1.5   # 1.5s base delay between calls
-RETRY_DELAY      = 6.0   # fallback if no retry-after header
+API_DELAY        = 3.0   # 3s base delay between calls (API limit ~20 req/min)
+RETRY_DELAY      = 8.0   # fallback if no retry-after header
 
 
 # ─── HELPERS ───────────────────────────────────────────────────────────────────
@@ -275,7 +275,7 @@ for i, entry in enumerate(candidates, 1):
         print(f"  Progress: {i}/{len(candidates)} | enriched={len(enriched)}, not_found={not_found}")
 
     result = search_siret(nom, cp)
-    time.sleep(API_DELAY + random.uniform(0, 1.0))
+    time.sleep(API_DELAY + random.uniform(0, 0.5))
 
     if result and result.get("siret"):
         enriched.append({

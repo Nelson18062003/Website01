@@ -425,24 +425,40 @@ def main():
     print("\n[4/12] Chargement outputs des agents parallèles...")
 
     # Agent 1: PJ Toulouse fresh
-    data = load_json(f"{BASE}/agent_out_1_pj_toulouse.json", [])
+    raw1 = load_json(f"{BASE}/agent_out_1_pj_toulouse.json", [])
+    data = raw1.get("etablissements", raw1) if isinstance(raw1, dict) else raw1
     for e in data:
-        entry = from_pj_entry(e, "Toulouse")
-        add_entry(registry, entry)
+        if isinstance(e, dict):
+            entry = from_pj_entry(e, "Toulouse")
+            add_entry(registry, entry)
     source_counts["agent1_pj_toulouse"] += len(data)
     print(f"  Agent 1 (PJ Toulouse fresh): {len(data)} entrées")
 
+    def unwrap(raw, *keys):
+        """Extraire une liste depuis un dict enveloppant ou retourner la liste directement."""
+        if isinstance(raw, list):
+            return raw
+        if isinstance(raw, dict):
+            for k in keys:
+                if k in raw and isinstance(raw[k], list):
+                    return raw[k]
+        return []
+
     # Agent 2: PJ Évry suburbs
-    data = load_json(f"{BASE}/agent_out_2_pj_evry_suburbs.json", [])
+    raw2 = load_json(f"{BASE}/agent_out_2_pj_evry_suburbs.json", [])
+    data = unwrap(raw2, "results", "etablissements")
     for e in data:
-        entry = from_pj_entry(e, e.get("zone_recherche", "Evry_suburb"))
-        add_entry(registry, entry)
+        if isinstance(e, dict):
+            entry = from_pj_entry(e, e.get("zone_recherche", "Evry_suburb"))
+            add_entry(registry, entry)
     source_counts["agent2_pj_evry_suburbs"] += len(data)
     print(f"  Agent 2 (PJ Évry suburbs): {len(data)} entrées")
 
     # Agent 3: API dept 31
-    data = load_json(f"{BASE}/agent_out_3_api_31.json", [])
+    raw3 = load_json(f"{BASE}/agent_out_3_api_31.json", [])
+    data = unwrap(raw3, "etablissements", "results")
     for e in data:
+        if not isinstance(e, dict): continue
         if e.get("statut", "Actif") not in ("Actif", "actif", "A", ""):
             continue
         entry = from_api_entry(e, "API_dept31")
@@ -451,8 +467,10 @@ def main():
     print(f"  Agent 3 (API dept 31): {len(data)} entrées")
 
     # Agent 4: API dept 91
-    data = load_json(f"{BASE}/agent_out_4_api_91.json", [])
+    raw4 = load_json(f"{BASE}/agent_out_4_api_91.json", [])
+    data = unwrap(raw4, "etablissements", "results")
     for e in data:
+        if not isinstance(e, dict): continue
         if e.get("statut", "Actif") not in ("Actif", "actif", "A", ""):
             continue
         entry = from_api_entry(e, "API_dept91")
@@ -461,26 +479,32 @@ def main():
     print(f"  Agent 4 (API dept 91): {len(data)} entrées")
 
     # Agent 5: OSM Toulouse
-    data = load_json(f"{BASE}/agent_out_5_osm_toulouse.json", [])
+    raw5 = load_json(f"{BASE}/agent_out_5_osm_toulouse.json", [])
+    data = unwrap(raw5, "pois", "results", "etablissements")
     for e in data:
-        entry = from_osm_entry(e)
-        add_entry(registry, entry)
+        if isinstance(e, dict):
+            entry = from_osm_entry(e)
+            add_entry(registry, entry)
     source_counts["agent5_osm_toulouse"] += len(data)
     print(f"  Agent 5 (OSM Toulouse): {len(data)} entrées")
 
     # Agent 6: OSM Évry
-    data = load_json(f"{BASE}/agent_out_6_osm_evry.json", [])
+    raw6 = load_json(f"{BASE}/agent_out_6_osm_evry.json", [])
+    data = unwrap(raw6, "pois", "results", "etablissements")
     for e in data:
-        entry = from_osm_entry(e)
-        add_entry(registry, entry)
+        if isinstance(e, dict):
+            entry = from_osm_entry(e)
+            add_entry(registry, entry)
     source_counts["agent6_osm_evry"] += len(data)
     print(f"  Agent 6 (OSM Évry): {len(data)} entrées")
 
     # Agent 10: SIRET pour entrées PJ-only
-    data = load_json(f"{BASE}/agent_out_10_siret_pj_only.json", [])
+    raw10 = load_json(f"{BASE}/agent_out_10_siret_pj_only.json", [])
+    data = unwrap(raw10, "etablissements", "results") if isinstance(raw10, dict) else raw10
     for e in data:
-        entry = from_api_entry(e, "PJ+API_SIRET")
-        add_entry(registry, entry)
+        if isinstance(e, dict):
+            entry = from_api_entry(e, "PJ+API_SIRET")
+            add_entry(registry, entry)
     source_counts["agent10_siret_pj"] += len(data)
     print(f"  Agent 10 (SIRET PJ-only): {len(data)} entrées")
 
