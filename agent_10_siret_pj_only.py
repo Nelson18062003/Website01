@@ -26,8 +26,8 @@ PJ_SOURCES = [
 OUT_PATH         = "/home/user/Website01/agent_out_10_siret_pj_only.json"
 SIMILARITY_THRESH = 0.70
 MAX_PJ_ONLY      = 500
-API_DELAY        = 1.0
-RETRY_DELAY      = 10.0
+API_DELAY        = 1.2   # 1.2s between calls (~50 req/min)
+RETRY_DELAY      = 5.0   # fallback if no retry-after header
 
 
 # ─── HELPERS ───────────────────────────────────────────────────────────────────
@@ -156,29 +156,22 @@ def search_siret(nom: str, cp: str) -> dict | None:
     query = urllib.parse.quote(nom)
     url   = f"{API_BASE}?q={query}&per_page=5"
 
-    for attempt in range(5):
-        wait = RETRY_DELAY * (2 ** attempt)  # exponential backoff
+    for attempt in range(6):
         try:
             req = urllib.request.Request(url, headers={"User-Agent": "SIRET-Enricher/1.0"})
-            with urllib.request.urlopen(req, timeout=10) as resp:
-                if resp.status == 429:
-                    print(f"    429 rate-limit (attempt {attempt+1}), sleeping {wait}s...")
-                    time.sleep(wait)
-                    continue
+            with urllib.request.urlopen(req, timeout=15) as resp:
                 data = json.loads(resp.read().decode("utf-8"))
                 break
         except urllib.error.HTTPError as exc:
             if exc.code == 429:
-                print(f"    429 rate-limit (attempt {attempt+1}), sleeping {wait}s...")
+                retry_after = float(exc.headers.get("retry-after") or RETRY_DELAY)
+                wait = max(retry_after + 1.0, RETRY_DELAY)
+                print(f"    429 (attempt {attempt+1}), retry-after={retry_after}s, sleeping {wait:.0f}s...")
                 time.sleep(wait)
                 continue
-            print(f"    API HTTP error for '{nom}': {exc}")
+            print(f"    API HTTP {exc.code} for '{nom}': {exc.reason}")
             return None
         except Exception as exc:
-            if "429" in str(exc):
-                print(f"    429 rate-limit (exc, attempt {attempt+1}), sleeping {wait}s...")
-                time.sleep(wait)
-                continue
             print(f"    API error for '{nom}': {exc}")
             return None
     else:
