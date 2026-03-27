@@ -5994,7 +5994,7 @@
       "ville": "Colomiers"
     }
   ],
-  "garage+moto_toulouse+31_partial": [
+  "garage+moto_toulouse+31": [
     {
       "nom_pj": "Deal Motos",
       "adresse_pj": "1 Bis avenue Lavaur 31500 Toulouse",
@@ -6594,6 +6594,243 @@
       "location_query": "toulouse+31",
       "code_postal": "31000",
       "ville": "Toulouse"
+    },
+    {
+      "nom_pj": "Pep S Motos",
+      "adresse_pj": "bât Pep S Motos 27 route Clé 31120 Portet sur Garonne",
+      "telephone": "0561721375",
+      "pj_id": "01804065",
+      "categorie": "garage moto",
+      "location_query": "toulouse+31",
+      "code_postal": "31120",
+      "ville": "Portet sur Garonne"
+    },
+    {
+      "nom_pj": "Galop Motos",
+      "adresse_pj": "11 impasse Castelviel 31180 Rouffiac Tolosan",
+      "telephone": "0987186424",
+      "pj_id": "59759610",
+      "categorie": "garage moto",
+      "location_query": "toulouse+31",
+      "code_postal": "31180",
+      "ville": "Rouffiac Tolosan"
+    },
+    {
+      "nom_pj": "Geier LTD",
+      "adresse_pj": "8 place Echut 31770 Colomiers",
+      "telephone": "0534390122",
+      "pj_id": "09518248",
+      "categorie": "garage moto",
+      "location_query": "toulouse+31",
+      "code_postal": "31770",
+      "ville": "Colomiers"
+    },
+    {
+      "nom_pj": "Toulouse Motos Cycles SARL",
+      "adresse_pj": "zone artisanale Ribaute 31130 Quint Fonsegrives",
+      "telephone": "0534254254",
+      "pj_id": "57041765",
+      "categorie": "garage moto",
+      "location_query": "toulouse+31",
+      "code_postal": "31130",
+      "ville": "Quint Fonsegrives"
+    },
+    {
+      "nom_pj": "X Motors",
+      "adresse_pj": "45 route Labège 31400 Toulouse",
+      "telephone": "0561800000",
+      "pj_id": "64732071",
+      "categorie": "garage moto",
+      "location_query": "toulouse+31",
+      "code_postal": "31400",
+      "ville": "Toulouse"
+    },
+    {
+      "nom_pj": "Fred Duces",
+      "adresse_pj": "bât 24 197 avenue Fronton 31200 Toulouse",
+      "pj_id": "59653937",
+      "categorie": "garage moto",
+      "location_query": "toulouse+31",
+      "code_postal": "31200",
+      "ville": "Toulouse"
+    },
+    {
+      "nom_pj": "Mbs",
+      "adresse_pj": "7 rue Europe 31850 Montrabé",
+      "telephone": "0688772705",
+      "pj_id": "51252001",
+      "categorie": "garage moto",
+      "location_query": "toulouse+31",
+      "code_postal": "31850",
+      "ville": "Montrabé"
+    },
+    {
+      "nom_pj": "Vince Motors",
+      "adresse_pj": "23 Bis chemin Mailheaux 31270 Frouzins",
+      "telephone": "0981025940",
+      "pj_id": "56434674",
+      "categorie": "garage moto",
+      "location_query": "toulouse+31",
+      "code_postal": "31270",
+      "ville": "Frouzins"
+    },
+    {
+      "nom_pj": "BRCT",
+      "adresse_pj": "7 Bis rue Partanais 31650 Saint Orens de Gameville",
+      "telephone": "0561290178",
+      "pj_id": "63244912",
+      "categorie": "garage moto",
+      "location_query": "toulouse+31",
+      "code_postal": "31650",
+      "ville": "Saint Orens de Gameville"
+    },
+    {
+      "nom_pj": "Sp Auto",
+      "adresse_pj": "place Marronniers 31700 Blagnac",
+      "telephone": "0638950305",
+      "pj_id": "58651455",
+      "categorie": "garage moto",
+      "location_query": "toulouse+31",
+      "code_postal": "31700",
+      "ville": "Blagnac"
+    },
+    {
+      "nom_pj": "X Motors",
+      "adresse_pj": "4 boulevard Libre Echange 31650 Saint Orens de Gameville",
+      "telephone": "0561800000",
+      "pj_id": "64699332",
+      "categorie": "garage moto",
+      "location_query": "toulouse+31",
+      "code_postal": "31650",
+      "ville": "Saint Orens de Gameville"
+    },
+    {
+      "nom_pj": "Mob'Elec",
+      "adresse_pj": "42 boulevard Joffrery 31600 Muret",
+      "telephone": "0562769985",
+      "pj_id": "63460553",
+      "categorie": "garage moto",
+      "location_query": "toulouse+31",
+      "code_postal": "31600",
+      "ville": "Muret"
+    },
+    {
+      "nom_pj": "David Attal",
+      "adresse_pj": "32 rue Gourgues 31150 Fenouillet",
+      "telephone": "0771822429",
+      "pj_id": "56422452",
+      "categorie": "garage moto",
+      "location_query": "toulouse+31",
+      "code_postal": "31150",
+      "ville": "Fenouillet"
+    },
+    {
+      "nom_pj": "David Garcia",
+      "adresse_pj": "2 impasse Tolosan 31270 Frouzins",
+      "telephone": "0984313986",
+      "pj_id": "55643363",
+      "categorie": "garage moto",
+      "location_query": "toulouse+31",
+      "code_postal": "31270",
+      "ville": "Frouzins"
+    },
+    {
+      "nom_pj": "Garage Culos",
+      "adresse_pj": "35 rue Marclan 31600 Muret",
+      "telephone": "0561985300",
+      "pj_id": "56576846",
+      "categorie": "garage moto",
+      "location_query": "toulouse+31",
+      "code_postal": "31600",
+      "ville": "Muret"
+    },
+    {
+      "nom_pj": "ADA Location",
+      "adresse_pj": "Zi De Jory Rn Ccal Casino route Paris 31150 Fenouillet",
+      "pj_id": "55662710",
+      "categorie": "garage moto",
+      "location_query": "toulouse+31",
+      "code_postal": "31150",
+      "ville": "Fenouillet"
+    },
+    {
+      "nom_pj": "LibScoot",
+      "adresse_pj": "3 boulevard Courties 31120 Portet sur Garonne",
+      "telephone": "0973556953",
+      "pj_id": "54859592",
+      "categorie": "garage moto",
+      "location_query": "toulouse+31",
+      "code_postal": "31120",
+      "ville": "Portet sur Garonne"
+    },
+    {
+      "nom_pj": "Style Bikes",
+      "adresse_pj": "2 avenue Vincent Auriol 31120 Roquettes",
+      "telephone": "0674759434",
+      "pj_id": "53893598",
+      "categorie": "garage moto",
+      "location_query": "toulouse+31",
+      "code_postal": "31120",
+      "ville": "Roquettes"
+    },
+    {
+      "nom_pj": "Darkpads",
+      "adresse_pj": "16 rue Isaac Newton 31830 Plaisance du Touch",
+      "pj_id": "59653292",
+      "categorie": "garage moto",
+      "location_query": "toulouse+31",
+      "code_postal": "31830",
+      "ville": "Plaisance du Touch"
+    },
+    {
+      "nom_pj": "BROUGH SUPERIOR MOTORCYCLES",
+      "adresse_pj": "20 rue Jean Monnet 31240 Saint Jean",
+      "telephone": "0562892460",
+      "pj_id": "64494179",
+      "categorie": "garage moto",
+      "location_query": "toulouse+31",
+      "code_postal": "31240",
+      "ville": "Saint Jean"
+    },
+    {
+      "nom_pj": "X Motors",
+      "adresse_pj": "4 boulevard Libre Echange 31650 Saint Orens de Gameville",
+      "telephone": "0561800000",
+      "pj_id": "64699332",
+      "categorie": "garage moto",
+      "location_query": "toulouse+31",
+      "code_postal": "31650",
+      "ville": "Saint Orens de Gameville"
+    },
+    {
+      "nom_pj": "Racer Garage Toulouse",
+      "adresse_pj": "72 route Départementale 820 31790 Saint Jory",
+      "telephone": "0553954353",
+      "pj_id": "61838595",
+      "categorie": "garage moto",
+      "location_query": "toulouse+31",
+      "code_postal": "31790",
+      "ville": "Saint Jory"
+    },
+    {
+      "nom_pj": "JET 31",
+      "adresse_pj": "8 route Seysses 31600 Muret",
+      "telephone": "0561569141",
+      "pj_id": "08051229",
+      "categorie": "garage moto",
+      "location_query": "toulouse+31",
+      "code_postal": "31600",
+      "ville": "Muret"
+    },
+    {
+      "nom_pj": "Mouysset Gérard",
+      "adresse_pj": "24 avenue Pyrénées 31600 Muret",
+      "telephone": "0561564430",
+      "pj_id": "04280081",
+      "categorie": "garage moto",
+      "location_query": "toulouse+31",
+      "code_postal": "31600",
+      "ville": "Muret"
     }
   ]
 }
