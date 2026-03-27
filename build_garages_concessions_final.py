@@ -562,6 +562,7 @@ def main():
         "agent_phones_aggressive_toulouse.json",
         "agent_phones_aggressive_evry.json",
         "agent_phones_annuaires.json",
+        "agent_phones_live_batch.json",
     ]
     for fname in phone_files:
         path = f"{BASE}/{fname}"
