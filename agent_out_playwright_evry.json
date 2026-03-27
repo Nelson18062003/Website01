@@ -1579,7 +1579,17 @@
     "adresse_pj": "14 rue Paul Langevin 91130 Ris Orangis",
     "telephone": "0169579339",
     "pj_id": "60351643",
-    "categorie": "concession automobile",
+    "categorie": "garage automobile",
+    "location_query": "ris-orangis+91",
+    "code_postal": "91130",
+    "ville": "Ris Orangis"
+  },
+  {
+    "nom_pj": "Atz Autodiag",
+    "adresse_pj": "13 rue Pasteur 91130 Ris Orangis",
+    "telephone": "0686252730",
+    "pj_id": "60097625",
+    "categorie": "garage automobile",
     "location_query": "ris-orangis+91",
     "code_postal": "91130",
     "ville": "Ris Orangis"
@@ -1589,17 +1599,46 @@
     "adresse_pj": "6 rue Pierre Brossolette 91130 Ris Orangis",
     "telephone": "0169062494",
     "pj_id": "03730786",
-    "categorie": "concession automobile",
+    "categorie": "garage automobile",
     "location_query": "ris-orangis+91",
     "code_postal": "91130",
     "ville": "Ris Orangis"
+  },
+  {
+    "nom_pj": "Auto Export 91",
+    "adresse_pj": "13 avenue Jacques Chirac 91200 Athis Mons",
+    "telephone": "0160485252",
+    "pj_id": "06029251",
+    "categorie": "garage automobile",
+    "location_query": "ris-orangis+91",
+    "code_postal": "91200",
+    "ville": "Athis Mons"
   },
   {
     "nom_pj": "Renault Chabanon-Chabrier Agent SA",
     "adresse_pj": "14 rue Copernic 91130 Ris Orangis",
     "telephone": "0169065308",
     "pj_id": "06042286",
-    "categorie": "concession automobile",
+    "categorie": "garage automobile",
+    "location_query": "ris-orangis+91",
+    "code_postal": "91130",
+    "ville": "Ris Orangis"
+  },
+  {
+    "nom_pj": "Auto Primo Garage de l'Aunette",
+    "adresse_pj": "7 avenue Victor Leray 91130 Ris Orangis",
+    "telephone": "0169060503",
+    "pj_id": "00218528",
+    "categorie": "garage automobile",
+    "location_query": "ris-orangis+91",
+    "code_postal": "91130",
+    "ville": "Ris Orangis"
+  },
+  {
+    "nom_pj": "Quai De L'auto",
+    "adresse_pj": "10 quai Borde 91130 Ris Orangis",
+    "pj_id": "63559523",
+    "categorie": "garage automobile",
     "location_query": "ris-orangis+91",
     "code_postal": "91130",
     "ville": "Ris Orangis"
@@ -1609,7 +1648,17 @@
     "adresse_pj": "57 rue Edmond Bonté 91130 Ris Orangis",
     "telephone": "0951666806",
     "pj_id": "57011734",
-    "categorie": "concession automobile",
+    "categorie": "garage automobile",
+    "location_query": "ris-orangis+91",
+    "code_postal": "91130",
+    "ville": "Ris Orangis"
+  },
+  {
+    "nom_pj": "KS Auto 91",
+    "adresse_pj": "22 rue Paul Langevin 91130 Ris Orangis",
+    "telephone": "0659079764",
+    "pj_id": "63488713",
+    "categorie": "garage automobile",
     "location_query": "ris-orangis+91",
     "code_postal": "91130",
     "ville": "Ris Orangis"
@@ -1619,7 +1668,290 @@
     "adresse_pj": "3 rue Jules Guesde 91130 Ris Orangis",
     "telephone": "0604676784",
     "pj_id": "63485818",
-    "categorie": "concession automobile",
+    "categorie": "garage automobile",
+    "location_query": "ris-orangis+91",
+    "code_postal": "91130",
+    "ville": "Ris Orangis"
+  },
+  {
+    "nom_pj": "Mondiale Auto",
+    "adresse_pj": "22 avenue Parc 91130 Ris Orangis",
+    "telephone": "0651401762",
+    "pj_id": "56504100",
+    "categorie": "garage automobile",
+    "location_query": "ris-orangis+91",
+    "code_postal": "91130",
+    "ville": "Ris Orangis"
+  },
+  {
+    "nom_pj": "HDAS Auto Dépollution",
+    "adresse_pj": "rue Paul Langevin 91130 Ris Orangis",
+    "pj_id": "07492849",
+    "categorie": "garage automobile",
+    "location_query": "ris-orangis+91",
+    "code_postal": "91130",
+    "ville": "Ris Orangis"
+  },
+  {
+    "nom_pj": "Mourad bouznif",
+    "adresse_pj": "2 rue Maindreville 28300 Amilly",
+    "telephone": "0753876062",
+    "pj_id": "61697514",
+    "categorie": "garage automobile",
+    "location_query": "ris-orangis+91",
+    "code_postal": "28300",
+    "ville": "Amilly"
+  },
+  {
+    "nom_pj": "G.M.S Interventions",
+    "adresse_pj": "rue Clément Ader 91700 Fleury Mérogis",
+    "telephone": "0160155079",
+    "pj_id": "00883029",
+    "categorie": "garage automobile",
+    "location_query": "ris-orangis+91",
+    "code_postal": "91700",
+    "ville": "Fleury Mérogis"
+  },
+  {
+    "nom_pj": "Todd GT",
+    "adresse_pj": "4 avenue Front Populaire 91130 Ris Orangis",
+    "telephone": "0169778750",
+    "pj_id": "08439788",
+    "categorie": "garage automobile",
+    "location_query": "ris-orangis+91",
+    "code_postal": "91130",
+    "ville": "Ris Orangis"
+  },
+  {
+    "nom_pj": "Man Truck & Bus France",
+    "adresse_pj": "Zi Courcouronnes Cp 8005 12 avenue Bois de l'Epine 91080 Courcouronnes",
+    "telephone": "0169471700",
+    "pj_id": "01833162",
+    "categorie": "garage automobile",
+    "location_query": "ris-orangis+91",
+    "code_postal": "91080",
+    "ville": "Courcouronnes"
+  },
+  {
+    "nom_pj": "Autodream",
+    "adresse_pj": "3 rue Fontaine 91130 Ris Orangis",
+    "telephone": "0756953050",
+    "pj_id": "59980045",
+    "categorie": "garage automobile",
+    "location_query": "ris-orangis+91",
+    "code_postal": "91130",
+    "ville": "Ris Orangis"
+  },
+  {
+    "nom_pj": "M.P.L Melun Poids Lourds",
+    "adresse_pj": "1 rue Edouard Aubert 91700 Fleury Mérogis",
+    "telephone": "0160168811",
+    "pj_id": "08379906",
+    "categorie": "garage automobile",
+    "location_query": "ris-orangis+91",
+    "code_postal": "91700",
+    "ville": "Fleury Mérogis"
+  },
+  {
+    "nom_pj": "ABG Sayara",
+    "adresse_pj": "3 rue Jules Guesde 91130 Ris Orangis",
+    "telephone": "0756963423",
+    "pj_id": "63554878",
+    "categorie": "garage automobile",
+    "location_query": "ris-orangis+91",
+    "code_postal": "91130",
+    "ville": "Ris Orangis"
+  },
+  {
+    "nom_pj": "ES Auto Service",
+    "adresse_pj": "39 avenue Libération 91130 Ris Orangis",
+    "telephone": "0973572202",
+    "pj_id": "63559481",
+    "categorie": "garage automobile",
+    "location_query": "ris-orangis+91",
+    "code_postal": "91130",
+    "ville": "Ris Orangis"
+  },
+  {
+    "nom_pj": "Coignieres Controles Accessoires SA CCA",
+    "adresse_pj": "17 rue Henri Dunant 91070 Bondoufle",
+    "telephone": "0169913308",
+    "pj_id": "55680003",
+    "categorie": "garage automobile",
+    "location_query": "ris-orangis+91",
+    "code_postal": "91070",
+    "ville": "Bondoufle"
+  },
+  {
+    "nom_pj": "Autosolus",
+    "adresse_pj": "3 rue Jules Guesde 91130 Ris Orangis",
+    "pj_id": "63544678",
+    "categorie": "garage automobile",
+    "location_query": "ris-orangis+91",
+    "code_postal": "91130",
+    "ville": "Ris Orangis"
+  },
+  {
+    "nom_pj": "Colovering",
+    "adresse_pj": "3 rue Jules Guesde 91130 Ris Orangis",
+    "pj_id": "61527455",
+    "categorie": "garage automobile",
+    "location_query": "ris-orangis+91",
+    "code_postal": "91130",
+    "ville": "Ris Orangis"
+  },
+  {
+    "nom_pj": "CLOVIS Corbeil",
+    "adresse_pj": "Les Coquibus 43 avenue 8 Mai 1945 BP 202 91100 Corbeil Essonnes",
+    "telephone": "0169221750",
+    "pj_id": "50138513",
+    "categorie": "garage automobile",
+    "location_query": "ris-orangis+91",
+    "code_postal": "91100",
+    "ville": "Corbeil Essonnes"
+  },
+  {
+    "nom_pj": "Scania Ile De France",
+    "adresse_pj": "rue Clément Ader 91700 Fleury Mérogis",
+    "telephone": "0160159898",
+    "pj_id": "03737752",
+    "categorie": "garage automobile",
+    "location_query": "ris-orangis+91",
+    "code_postal": "91700",
+    "ville": "Fleury Mérogis"
+  },
+  {
+    "nom_pj": "Rbvi",
+    "adresse_pj": "221 route Fleury 91170 Viry Chatillon",
+    "telephone": "0169427393",
+    "pj_id": "58513017",
+    "categorie": "garage automobile",
+    "location_query": "ris-orangis+91",
+    "code_postal": "91170",
+    "ville": "Viry Chatillon"
+  },
+  {
+    "nom_pj": "A2M Poids Lourds",
+    "adresse_pj": "5 rue Porte Ecluse 91270 Vigneux sur Seine",
+    "telephone": "0178840375",
+    "pj_id": "61373554",
+    "categorie": "garage automobile",
+    "location_query": "ris-orangis+91",
+    "code_postal": "91270",
+    "ville": "Vigneux sur Seine"
+  },
+  {
+    "nom_pj": "Antiquaire LBJ",
+    "adresse_pj": "27 Bis rue Henri Hamel 91200 Athis Mons",
+    "telephone": "0169211984",
+    "pj_id": "60290421",
+    "categorie": "garage automobile",
+    "location_query": "ris-orangis+91",
+    "code_postal": "91200",
+    "ville": "Athis Mons"
+  },
+  {
+    "nom_pj": "Trouillet Services",
+    "adresse_pj": "17 avenue Ferdinand de Lesseps BP 8 91420 Morangis",
+    "telephone": "0169101550",
+    "pj_id": "52206362",
+    "categorie": "garage automobile",
+    "location_query": "ris-orangis+91",
+    "code_postal": "91420",
+    "ville": "Morangis"
+  },
+  {
+    "nom_pj": "Les Pneus Parisiens",
+    "adresse_pj": "6 rue Maryse Bastié 91080 Courcouronnes",
+    "telephone": "0613754412",
+    "pj_id": "55460788",
+    "categorie": "garage automobile",
+    "location_query": "ris-orangis+91",
+    "code_postal": "91080",
+    "ville": "Courcouronnes"
+  },
+  {
+    "nom_pj": "ASSIST MAINTENANCE VEHICULES INDUST AMVI",
+    "adresse_pj": "7 9 7 avenue Blaise Pascal 91420 Morangis",
+    "telephone": "0183539802",
+    "pj_id": "59594446",
+    "categorie": "garage automobile",
+    "location_query": "ris-orangis+91",
+    "code_postal": "91420",
+    "ville": "Morangis"
+  },
+  {
+    "nom_pj": "CTPL Contrôle Technique",
+    "adresse_pj": "140 avenue Charles de Gaulle 91420 Morangis",
+    "pj_id": "52612431",
+    "categorie": "garage automobile",
+    "location_query": "ris-orangis+91",
+    "code_postal": "91420",
+    "ville": "Morangis"
+  },
+  {
+    "nom_pj": "Prestige Auto France",
+    "adresse_pj": "17 rue Mercure 91230 Montgeron",
+    "telephone": "0169524249",
+    "pj_id": "09261595",
+    "categorie": "garage automobile",
+    "location_query": "ris-orangis+91",
+    "code_postal": "91230",
+    "ville": "Montgeron"
+  },
+  {
+    "nom_pj": "Urbia",
+    "adresse_pj": "160 avenue Charles de Gaulle 91420 Morangis",
+    "telephone": "0185534537",
+    "pj_id": "62201160",
+    "categorie": "garage automobile",
+    "location_query": "ris-orangis+91",
+    "code_postal": "91420",
+    "ville": "Morangis"
+  },
+  {
+    "nom_pj": "Pièces Auto 91 EPA",
+    "adresse_pj": "11 avenue Libération 91130 Ris Orangis",
+    "telephone": "0178842530",
+    "pj_id": "61927359",
+    "categorie": "carrosserie automobile",
+    "location_query": "ris-orangis+91",
+    "code_postal": "91130",
+    "ville": "Ris Orangis"
+  },
+  {
+    "nom_pj": "CARTERCASH Ris-Orangis",
+    "adresse_pj": "1 rue Paul Langevin 91130 Ris Orangis",
+    "telephone": "0180884242",
+    "pj_id": "59610625",
+    "categorie": "carrosserie automobile",
+    "location_query": "ris-orangis+91",
+    "code_postal": "91130",
+    "ville": "Ris Orangis"
+  },
+  {
+    "nom_pj": "Elite Auto Glass",
+    "adresse_pj": "34 rue Château d'Eau 91130 Ris Orangis",
+    "pj_id": "63721919",
+    "categorie": "carrosserie automobile",
+    "location_query": "ris-orangis+91",
+    "code_postal": "91130",
+    "ville": "Ris Orangis"
+  },
+  {
+    "nom_pj": "Atm Auto",
+    "adresse_pj": "12 rue Paul Langevin 91130 Ris Orangis",
+    "pj_id": "60563217",
+    "categorie": "carrosserie automobile",
+    "location_query": "ris-orangis+91",
+    "code_postal": "91130",
+    "ville": "Ris Orangis"
+  },
+  {
+    "nom_pj": "Sureau Auto",
+    "adresse_pj": "83 rue Pierre Brossolette 91130 Ris Orangis",
+    "pj_id": "62031148",
+    "categorie": "carrosserie automobile",
     "location_query": "ris-orangis+91",
     "code_postal": "91130",
     "ville": "Ris Orangis"
@@ -1649,7 +1981,7 @@
     "adresse_pj": "146 rue Corbeil 91090 Lisses",
     "telephone": "0756834685",
     "pj_id": "62615856",
-    "categorie": "concession automobile",
+    "categorie": "garage automobile",
     "location_query": "lisses+91",
     "code_postal": "91090",
     "ville": "Lisses"
@@ -1659,7 +1991,27 @@
     "adresse_pj": "6 8 Zac Du Clos Aux Pois 6 rue Closerie 91090 Lisses",
     "telephone": "0698533324",
     "pj_id": "62417578",
-    "categorie": "concession automobile",
+    "categorie": "garage automobile",
+    "location_query": "lisses+91",
+    "code_postal": "91090",
+    "ville": "Lisses"
+  },
+  {
+    "nom_pj": "Garage CNV",
+    "adresse_pj": "11 route Versailles 91080 Courcouronnes",
+    "telephone": "0160771984",
+    "pj_id": "01670647",
+    "categorie": "garage automobile",
+    "location_query": "lisses+91",
+    "code_postal": "91080",
+    "ville": "Courcouronnes"
+  },
+  {
+    "nom_pj": "TM Pneus",
+    "adresse_pj": "8 rue Cantal 91090 Lisses",
+    "telephone": "0175665341",
+    "pj_id": "64666219",
+    "categorie": "garage automobile",
     "location_query": "lisses+91",
     "code_postal": "91090",
     "ville": "Lisses"
@@ -1669,20 +2021,49 @@
     "adresse_pj": "12 impasse Maxime Lisbonne 91000 Evry",
     "telephone": "0662309099",
     "pj_id": "61172724",
-    "categorie": "concession automobile",
+    "categorie": "garage automobile",
     "location_query": "lisses+91",
     "code_postal": "91000",
     "ville": "Evry"
   },
   {
-    "nom_pj": "Garage CNV",
-    "adresse_pj": "11 route Versailles 91080 Courcouronnes",
-    "telephone": "0160771984",
-    "pj_id": "01670647",
-    "categorie": "concession automobile",
+    "nom_pj": "Crack'Auto",
+    "adresse_pj": "24 avenue Courtes Epluches 91100 Villabé",
+    "telephone": "0160889097",
+    "pj_id": "09365753",
+    "categorie": "garage automobile",
     "location_query": "lisses+91",
-    "code_postal": "91080",
-    "ville": "Courcouronnes"
+    "code_postal": "91100",
+    "ville": "Villabé"
+  },
+  {
+    "nom_pj": "S.T.E Auto",
+    "adresse_pj": "30 avenue Courtes Epluches 91100 Villabé",
+    "telephone": "0660193256",
+    "pj_id": "57019289",
+    "categorie": "garage automobile",
+    "location_query": "lisses+91",
+    "code_postal": "91100",
+    "ville": "Villabé"
+  },
+  {
+    "nom_pj": "Olivier Cruz",
+    "adresse_pj": "10 chemin Bas Cornus 91100 Villabé",
+    "telephone": "0618854529",
+    "pj_id": "55324885",
+    "categorie": "carrosserie automobile",
+    "location_query": "lisses+91",
+    "code_postal": "91100",
+    "ville": "Villabé"
+  },
+  {
+    "nom_pj": "XYT",
+    "adresse_pj": "65 route Leudeville 91220 Le Plessis Pâté",
+    "pj_id": "57701457",
+    "categorie": "carrosserie automobile",
+    "location_query": "lisses+91",
+    "code_postal": "91220",
+    "ville": "Le Plessis Pâté"
   },
   {
     "nom_pj": "Aramisauto Sainte-Geneviève-des-Bois",
