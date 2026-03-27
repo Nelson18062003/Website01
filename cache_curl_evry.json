@@ -6128,6 +6128,136 @@
       "location_query": "lisses+91",
       "code_postal": "92360",
       "ville": "Meudon la Forêt"
+    },
+    {
+      "nom_pj": "Adam Auto",
+      "adresse_pj": "26 route Calais 95200 Sarcelles",
+      "telephone": "0650449742",
+      "pj_id": "52820011",
+      "categorie": "garage automobile",
+      "location_query": "lisses+91",
+      "code_postal": "95200",
+      "ville": "Sarcelles"
+    },
+    {
+      "nom_pj": "Mourad bouznif",
+      "adresse_pj": "2 rue Maindreville 28300 Amilly",
+      "telephone": "0753876062",
+      "pj_id": "61697514",
+      "categorie": "garage automobile",
+      "location_query": "lisses+91",
+      "code_postal": "28300",
+      "ville": "Amilly"
+    },
+    {
+      "nom_pj": "Garage De L'Eglantier",
+      "adresse_pj": "8 rue Aubépine 91090 Lisses Site web",
+      "telephone": "0160861635",
+      "pj_id": "00218450",
+      "categorie": "garage automobile",
+      "location_query": "lisses+91",
+      "code_postal": "91090",
+      "ville": "Lisses Site web"
+    },
+    {
+      "nom_pj": "Coignieres Controles Accessoires SA CCA",
+      "adresse_pj": "17 rue Henri Dunant 91070 Bondoufle",
+      "telephone": "0169913308",
+      "pj_id": "55680003",
+      "categorie": "garage automobile",
+      "location_query": "lisses+91",
+      "code_postal": "91070",
+      "ville": "Bondoufle"
+    },
+    {
+      "nom_pj": "Todd GT",
+      "adresse_pj": "4 avenue Front Populaire 91130 Ris Orangis",
+      "telephone": "0169778750",
+      "pj_id": "08439788",
+      "categorie": "garage automobile",
+      "location_query": "lisses+91",
+      "code_postal": "91130",
+      "ville": "Ris Orangis"
+    },
+    {
+      "nom_pj": "Man Truck & Bus France",
+      "adresse_pj": "Zi Courcouronnes Cp 8005 12 avenue Bois de l'Epine 91080 Courcouronnes",
+      "telephone": "0169471700",
+      "pj_id": "01833162",
+      "categorie": "garage automobile",
+      "location_query": "lisses+91",
+      "code_postal": "91080",
+      "ville": "Courcouronnes"
+    },
+    {
+      "nom_pj": "G.M.S Interventions",
+      "adresse_pj": "rue Clément Ader 91700 Fleury Mérogis",
+      "telephone": "0160155079",
+      "pj_id": "00883029",
+      "categorie": "garage automobile",
+      "location_query": "lisses+91",
+      "code_postal": "91700",
+      "ville": "Fleury Mérogis"
+    },
+    {
+      "nom_pj": "CLOVIS Corbeil",
+      "adresse_pj": "Les Coquibus 43 avenue 8 Mai 1945 BP 202 91100 Corbeil Essonnes",
+      "telephone": "0169221750",
+      "pj_id": "50138513",
+      "categorie": "garage automobile",
+      "location_query": "lisses+91",
+      "code_postal": "91100",
+      "ville": "Corbeil Essonnes"
+    },
+    {
+      "nom_pj": "Scania Ile De France",
+      "adresse_pj": "rue Clément Ader 91700 Fleury Mérogis",
+      "telephone": "0160159898",
+      "pj_id": "03737752",
+      "categorie": "garage automobile",
+      "location_query": "lisses+91",
+      "code_postal": "91700",
+      "ville": "Fleury Mérogis"
+    },
+    {
+      "nom_pj": "M.P.L Melun Poids Lourds",
+      "adresse_pj": "1 rue Edouard Aubert 91700 Fleury Mérogis",
+      "telephone": "0160168811",
+      "pj_id": "08379906",
+      "categorie": "garage automobile",
+      "location_query": "lisses+91",
+      "code_postal": "91700",
+      "ville": "Fleury Mérogis"
+    },
+    {
+      "nom_pj": "Rbvi",
+      "adresse_pj": "221 route Fleury 91170 Viry Chatillon",
+      "telephone": "0169427393",
+      "pj_id": "58513017",
+      "categorie": "garage automobile",
+      "location_query": "lisses+91",
+      "code_postal": "91170",
+      "ville": "Viry Chatillon"
+    },
+    {
+      "nom_pj": "Les Pneus Parisiens",
+      "adresse_pj": "6 rue Maryse Bastié 91080 Courcouronnes",
+      "telephone": "0613754412",
+      "pj_id": "55460788",
+      "categorie": "garage automobile",
+      "location_query": "lisses+91",
+      "code_postal": "91080",
+      "ville": "Courcouronnes"
+    },
+    {
+      "nom_pj": "SAS Pascal Vergne",
+      "adresse_pj": "13 route Rouen 27950 Saint Just",
+      "telephone": "0134677752",
+      "pj_id": "08336563",
+      "categorie": "garage automobile",
+      "location_query": "lisses+91",
+      "code_postal": "27950",
+      "ville": "Saint Just"
     }
   ]
 }
