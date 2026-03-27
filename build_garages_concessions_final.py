@@ -526,6 +526,16 @@ def main():
     source_counts["playwright_evry"] += len(pw_evry)
     print(f"  Playwright Évry: {len(pw_evry)} entrées")
 
+    # Fresh PJ scrape
+    raw_fresh = load_json(f"{BASE}/agent_pj_fresh_scrape.json", [])
+    pj_fresh = unwrap(raw_fresh, "etablissements", "results") if isinstance(raw_fresh, dict) else raw_fresh
+    for e in pj_fresh:
+        if isinstance(e, dict):
+            entry = from_pj_entry(e, e.get("zone_recherche", e.get("ville", "")))
+            add_entry(registry, entry)
+    source_counts["pj_fresh"] = len(pj_fresh)
+    print(f"  PJ fresh scrape: {len(pj_fresh)} entrées")
+
     # Agent 10: PJ-only entries with phones
     raw10 = load_json(f"{BASE}/agent_out_10_siret_pj_only.json", [])
     data10 = unwrap(raw10, "etablissements", "results") if isinstance(raw10, dict) else raw10

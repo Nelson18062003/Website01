@@ -1301,6 +1301,7 @@ Depanneur Poids Lours;01 75 29 35 55;bât A 10 rue Papeterie 91100 Corbeil Esson
 Dufour Motos;01 64 96 95 95;16 rue Glacière 91100 Corbeil Essonnes;91100;CORBEIL-ESSONNES;;;concession_moto;;;;PagesJaunes
 ESSONNE POIDS LOURDS (ESPL);;43 AVENUE DU 8 MAI 1945 91100 CORBEIL-ESSONNES;91100;CORBEIL-ESSONNES;31051767700012;310517677;concession_auto;45.19Z;;;API_dept91
 ETAMPES TRUCKS;;43 AVENUE DU 8 MAI 1945 91100 CORBEIL-ESSONNES;91100;CORBEIL-ESSONNES;32043190100109;320431901;garage_auto;70.10Z;;;API_dept91
+EWIGO;01 75 66 19 36;109 boulevard Fontainebleau 91100 Corbeil Essonnes;91100;CORBEIL-ESSONNES;;;garage_auto;;;;PagesJaunes
 EXCLUSIV CARS;;75 ROUTE DE LISSES 91100 CORBEIL-ESSONNES;91100;CORBEIL-ESSONNES;48996897400019;489968974;garage_auto;45.32Z;;;API_dept91
 Essentiel;01 60 89 14 14;50 avenue 8 Mai 1945 91100 Corbeil Essonnes;91100;CORBEIL-ESSONNES;;;garage_auto;;;;PagesJaunes
 Euromaster Corbeil Essonnes - Centre Auto VL;01 60 89 15 25;80 boulevard Fontainebleau;91100;CORBEIL-ESSONNES;;;garage_auto;;;;PagesJaunes
@@ -1333,6 +1334,7 @@ Kia Cervinia 19 Concessionnaire;01 69 22 19 20;33 avenue 8 Mai 1945 91100 Corbei
 LAVANCE EXPLOITATION;;45 AVENUE DU 8 MAI 1945 91100 CORBEIL-ESSONNES;91100;CORBEIL-ESSONNES;41511264800431;415112648;garage_auto;45.20A;;;API_dept91
 Leader Auto;07 86 36 21 85;14 rue Jacques Anquetil 91100 Corbeil Essonnes;91100;CORBEIL-ESSONNES;;;concession_auto;;;;PagesJaunes
 Linat Auto Corbeil;01 64 96 17 33;67 rue Emile Zola;91100;CORBEIL-ESSONNES;;;carrossier_auto;;;;PagesJaunes
+Lohr Service;01 64 13 31 10;420 rue Albert Einstein 77550 Moissy Cramayel;77550;CORBEIL-ESSONNES;;;garage_auto;;;;PagesJaunes
 MCA Automobile;01 60 89 43 23;82 boulevard Jean Jaurès 91100 Corbeil Essonnes;91100;CORBEIL-ESSONNES;;;garage_auto;;;;PagesJaunes
 MD AUTO;06 25 86 39 52;52 rue Papeterie 91100 Corbeil Essonnes;91100;CORBEIL-ESSONNES;;;garage_auto;;;;PagesJaunes
 MECANIQUE91;;Z I LES TARTERETS 8 RUE GUSTAVE EIFFEL 91100 CORBEIL-ESSONNES;91100;CORBEIL-ESSONNES;51906114700020;519061147;garage_auto;45.20B;;;API_dept91
@@ -1377,6 +1379,8 @@ Skoda Vega Automobiles Concessionnaires;01 60 90 80 10;66- 68 route Lisses 91100
 Sos Pare-Brise +;01 61 69 44 47;27 boulevard Fontainebleau 91100 Corbeil Essonnes;91100;CORBEIL-ESSONNES;;;garage_auto;;;;PagesJaunes
 Speedy;01 64 96 28 00;10 12 10 boulevard Jean Jaurès 91100 Corbeil Essonnes;91100;CORBEIL-ESSONNES;;;garage_auto;;;;PagesJaunes
 Suzuki Corbeil Automobile - Car Lovers;01 75 90 97 69;Espace Coquibus 4 rue Jacques Anquetil 91100 Corbeil Essonnes;91100;CORBEIL-ESSONNES;;;concession_auto;;;;PagesJaunes
+Sénart Poids Lourds Concessionnaire Renault Trucks;01 60 60 72 53;Zone Industrielle Parisud rue Danemark 77127 Lieusaint;77127;CORBEIL-ESSONNES;;;concession_auto;;;;PagesJaunes
+TMVI;06 76 56 30 57;6 villa Jacques Offenbach 91860 Epinay sous Sénart;91860;CORBEIL-ESSONNES;;;garage_auto;;;;PagesJaunes
 Toyota Corbeil;01 75 90 96 93;Espace Coquibus 7 rue Jacques Anquetil;91100;CORBEIL-ESSONNES;;;concession_auto;;;;PagesJaunes
 Toyota CorbeilConnu sous : AUTOMOBILES DE CORBEIL ESSONNES ACE;01 75 90 96 93;Espace Coquibus 7 rue Jacques Anquetil;91100;CORBEIL-ESSONNES;;;carrossier_auto;;;;PagesJaunes
 VOLOGEA MIHALIUC;;12 RUE DE GOURNAY 91100 CORBEIL-ESSONNES;91100;CORBEIL-ESSONNES;82353213000015;823532130;garage_auto;45.32Z;;;API_dept91
@@ -3519,6 +3523,7 @@ AGARTHA;;22 ROUTE D'ESPAGNE 31100 TOULOUSE;31100;TOULOUSE;80852706300016;8085270
 AGATA DURAL (DURAL SECURITY GLASS EXPERTS);05 62 20 86 65;63 RUE VESTREPAIN 31100 TOULOUSE;31100;TOULOUSE;93022208800013;930222088;garage_auto;45.20A;;;API Recherche Entreprises (gouv.fr)|PJ_match
 AGM AUTO;05 61 47 11 86;9 AVENUE DE LA MARCAISSONNE 31400 TOULOUSE;31400;TOULOUSE;90285792900019;902857929;concession_auto;45.11Z;;;API Recherche Entreprises (gouv.fr)|API+PJ|API_dept31
 AGOSTINO CAVACA;05 61 06 23 53;165 CHEMIN DU RAMELET MOUNDI 31100 TOULOUSE;31100;TOULOUSE;35124818200013;351248182;garage_auto;45.20A;;;API Recherche Entreprises (gouv.fr)|PJ_match
+AH Autos;07 62 58 96 23;1 rue Muguet 31170 Tournefeuille;31170;TOULOUSE;;;concession_auto;;;;PagesJaunes
 AHMED ABDELHAK;06 10 15 48 69;10 CHEMINEMENT LE TITIEN 31100 TOULOUSE;31100;TOULOUSE;33376545100021;333765451;concession_auto;45.11Z;;;API Recherche Entreprises (gouv.fr)|PJ_aggressive
 AHMED AZZOUZ BOUCHAHMA;;BOITE 41609 10 AVENUE DU GRAND RAMIER 31400 TOULOUSE;31400;TOULOUSE;92858105700017;928581057;concession_auto;45.11Z;;;API Recherche Entreprises (gouv.fr)|API+PJ
 AHMED BELARBI (ADEM AUTO);;RC A7 CAGE A2 APPT.7 227 B CHE LAPUJADE 31000 TOULOUSE;31000;TOULOUSE;91485619000014;914856190;concession_auto;45.11Z;;;API Recherche Entreprises (gouv.fr)|API+PJ
@@ -3617,6 +3622,7 @@ AMIR OMER (AMIR TOP AUTODRIVE);05 31 73 10 00;70 B AVENUE DE L'URSS 31400 TOULOU
 AMK 31;05 62 72 34 34;143 AVENUE DES ETATS UNIS 31200 TOULOUSE;31200;TOULOUSE;84442529800016;844425298;concession_auto;45.11Z;;;API Recherche Entreprises (gouv.fr)|API_dept31|PJ_match
 AMLD MOTORS;01 43 43 35 20;8 PLACE ROGER SALENGRO 31000 TOULOUSE;31000;TOULOUSE;94262345500014;942623455;concession_moto;45.11Z;;;API Recherche Entreprises (gouv.fr)|API+PJ|API_dept31
 AMPERE SOFTWARE TECHNOLOGY;;Basso Cambo Fr Sl1 B01 0 0 2 avenue Doct Maurice Grynfogel 31100 Toulouse;31100;TOULOUSE;;;garage_auto;;;;PagesJaunes
+AMR;05 61 00 53 54;2233 La Lauragaise 31670 Labège;31670;TOULOUSE;;;concession_auto;;;;PagesJaunes
 AMS-TOULOUSE PORTET (1 2 3 PARE BRISE);07 67 87 84 94;2 BD HELENE VIANNAY 31000 TOULOUSE;31000;TOULOUSE;94841162400018;948411624;garage_auto;45.20A;;;API Recherche Entreprises (gouv.fr)|PJ_aggressive
 AMSA;06 51 80 86 80;53 RUE DEVIC 31400 TOULOUSE;31400;TOULOUSE;85061541000014;850615410;concession_auto;45.11Z;;;API Recherche Entreprises (gouv.fr)|PJ_aggressive
 AMV;05 61 44 59 29;5 avenue Jean François Champollion 31100 Toulouse;31100;TOULOUSE;;;garage_auto;;;;PagesJaunes
@@ -3721,6 +3727,7 @@ AUTO DS PREMIUM;06 29 84 39 84;17 chemin Silos 31100 Toulouse;31100;TOULOUSE;;;c
 AUTO EMG;07 49 63 45 77;BATIMENT C 43 RUE CORNEILLE 31100 TOULOUSE;31100;TOULOUSE;88414496500016;884144965;concession_auto;45.11Z;;;API Recherche Entreprises (gouv.fr)|API+PJ
 AUTO EVASION (DEGRIFF AUTO DISCOUNT);06 10 13 71 61;77 CHEMIN DE MALEPERE 31400 TOULOUSE;31400;TOULOUSE;81302652300023;813026523;concession_auto;45.11Z;;;API Recherche Entreprises (gouv.fr)|API+PJ|API_dept31
 AUTO EXPORT 31;07 69 06 79 58;3 RUE GEORGES BERNANOS 31100 TOULOUSE;31100;TOULOUSE;93343897000016;933438970;concession_auto;45.11Z;;;API Recherche Entreprises (gouv.fr)|API+PJ
+AUTO GARONNE;06 59 79 88 77;59 allée Jean Jaurès 31000 Toulouse;31000;TOULOUSE;;;concession_auto;;;;PagesJaunes
 AUTO GARONNE (AUTO GARONNE);;59 ALLEES JEAN JAURES 31000 TOULOUSE;31000;TOULOUSE;83203333600013;832033336;concession_auto;45.11Z;;;API Recherche Entreprises (gouv.fr)|API+PJ
 AUTO GARONNE (VENDEZ-VOTRE-VEHICULE);;44 RUE DOMINIQUE CLOS 31000 TOULOUSE;31000;TOULOUSE;82128478300015;821284783;concession_auto;45.11Z;;;API Recherche Entreprises (gouv.fr)|API+PJ
 AUTO GENERATION;05 82 95 27 16;32 RUE PIERRE-PAUL RIQUET 31000 TOULOUSE;31000;TOULOUSE;79159978000032;791599780;concession_auto;45.11Z;;;API Recherche Entreprises (gouv.fr)|API+PJ|API_dept31
@@ -4054,6 +4061,7 @@ CAROSSERIE CHRISTOL;05 61 48 95 14;211 ROUTE D'ALBI 31200 TOULOUSE;31200;TOULOUS
 CARRODESIGN;05 62 22 55 52;42 RUE DE VENISE 31400 TOULOUSE;31400;TOULOUSE;52288886600012;522888866;garage_auto;45.20A;;;API Recherche Entreprises (gouv.fr)|PJ_match
 CARROSSERIE 31;05 61 73 73 99;46 AV PIERRE MOLETTE 31000 TOULOUSE;31000;TOULOUSE;44526811300013;445268113;carrossier_auto;45.20A;;;API Recherche Entreprises (gouv.fr)|PJ_match
 CARROSSERIE BLEUE;05 61 73 73 99;58 AV DE LARDENNE 31000 TOULOUSE;31000;TOULOUSE;48822108600017;488221086;carrossier_auto;45.20A;;;API Recherche Entreprises (gouv.fr)|PJ_match
+CARROSSERIE BLONDY;07 77 95 02 25;31 rue Jean Monnet 31240 Saint Jean;31240;TOULOUSE;;;carrossier_auto;;;;PagesJaunes
 CARROSSERIE BONHOMME;05 61 73 73 99;52 RUE DES SEPT TROUBADOURS 31000 TOULOUSE;31000;TOULOUSE;90988165800027;909881658;carrossier_auto;45.20A;;;API Recherche Entreprises (gouv.fr)|PJ_match
 CARROSSERIE BONHOMME;05 61 73 73 99;52 rue Sept Troubadours 31000 Toulouse;31000;TOULOUSE;;;carrossier_auto;;;;PagesJaunes
 CARROSSERIE BORDEROUGE;05 61 48 48 00;65 B RUE MICHEL ANGE 31200 TOULOUSE;31200;TOULOUSE;51318882100013;513188821;carrossier_auto;45.20A;;;API Recherche Entreprises (gouv.fr)|API_dept31|PJ_match
@@ -4252,10 +4260,14 @@ Cardy Toulouse Larrieu;05 34 60 11 38;31 avenue Larrieu 31100 Toulouse;31100;TOU
 Carosserie Moga;05 61 47 72 50;94 chemin Flambère 31300 Toulouse;31300;TOULOUSE;;;garage_auto;;;;PagesJaunes
 Carrosserie Barros;09 26 75 05 87;39 rue Franz Schubert 31200 Toulouse;31200;TOULOUSE;;;carrossier_auto;;;;PagesJaunes
 Carrosserie Borderouge;05 61 48 48 00;65 Bis rue Michel Ange 31200 Toulouse;31200;TOULOUSE;;;carrossier_auto;;;;PagesJaunes
+Carrosserie Coviglio;05 61 48 09 00;29 rue Georges Ohnet 31200 Toulouse;31200;TOULOUSE;;;carrossier_auto;;;;PagesJaunes
+Carrosserie LFP Muret;06 19 99 70 48;4 rue Aristide Bergès 31840 Aussonne;31840;TOULOUSE;;;carrossier_auto;;;;PagesJaunes
 Carrosserie Liénard;05 61 47 77 28;63 chemin Fenouillet 31200 Toulouse;31200;TOULOUSE;;;carrossier_auto;;;;PagesJaunes
+Carrosserie Maintenat By Rémy;05 61 84 75 60;1 rue Europe 31850 Montrabé;31850;TOULOUSE;;;carrossier_auto;;;;PagesJaunes
 Carrosserie Matre;05 61 47 04 00;10 chemin Croix Bénite 31200 Toulouse;31200;TOULOUSE;;;carrossier_auto;;;;PagesJaunes
 Carrosserie Perez;05 62 88 98 68;265 route Narbonne 31400 Toulouse;31400;TOULOUSE;;;carrossier_auto;;;;PagesJaunes
 Carrosserie Pressoir;05 61 52 56 81;22 avenue Italie 31400 Toulouse;31400;TOULOUSE;;;carrossier_auto;;;;PagesJaunes
+Carrosserie Procar 31;09 81 76 61 76;32 chemin Violettes 31240 L'Union;31240;TOULOUSE;;;carrossier_auto;;;;PagesJaunes
 Carrosserie Saint Simon;07 96 33 16 94;141 chemin Basso Cambo 31100 Toulouse;31100;TOULOUSE;;;carrossier_auto;;;;PagesJaunes
 Carrosserie Sanchez Père et Fils;05 61 80 60 02;185 Bis route Revel 31400 Toulouse;31400;TOULOUSE;;;carrossier_auto;;;;PagesJaunes
 Carrosserie Serignac;05 61 47 39 39;avenue Fondeyre 31200 Toulouse;31200;TOULOUSE;;;carrossier_auto;;;;PagesJaunes
@@ -4271,6 +4283,7 @@ Casa Meca 31;05 61 52 20 82;69 avenue Italie 31400 Toulouse;31400;TOULOUSE;;;gar
 Centre Alpine Toulouse;02 93 89 45 66;75 avenue Etats Unis 31200 Toulouse;31200;TOULOUSE;;;garage_auto;;;;PagesJaunes
 Cesar Auto 31;09 70 96 50 60;61 chemin Moulis 31200 Toulouse;31200;TOULOUSE;;;garage_auto;;;;PagesJaunes
 Chatenet Toulouse - Alizé Autos;;31 Rue André Vasseur;31200;TOULOUSE;;;garage_auto;;https://www.alize-autos.fr/;;OpenStreetMap
+Chiron Daniel Sarl;05 61 44 63 60;173 Bis route Seysses 31100 Toulouse;31100;TOULOUSE;;;carrossier_auto;;;;PagesJaunes
 Chiron Daniel SarlConnu sous : CARROSSERIE CHIRON SEE;05 61 44 63 60;173 Bis route Seysses 31100 Toulouse;31100;TOULOUSE;;;carrossier_auto;;;;PagesJaunes
 Chrono Débossauto;06 03 25 73 14;6 rue Bourdon 31200 Toulouse;31200;TOULOUSE;;;garage_auto;;https://chronodebossauto.com/contact-et-sites-des-techniciens-partenaires-new-port/;;PagesJaunes
 Citroën;;55 Rue Ernest Renan;31200;TOULOUSE;;;concession_auto;;;;OpenStreetMap
@@ -4341,6 +4354,7 @@ DEBUMP (DEBUMP);05 61 36 06 96;6 PLACE DU PRESIDENT THOMAS WOODROW WILSON 31000 
 DEGRIFF AUTO;09 53 43 94 90;80 ROUTE DE LABEGE 31400 TOULOUSE;31400;TOULOUSE;53321565300015;533215653;concession_auto;45.11Z;;;API Recherche Entreprises (gouv.fr)|API_dept31|PJ_match
 DEGRIFF'AUTO DEGRIFF AUTO;;84 route Labège 31400 Toulouse;31400;TOULOUSE;;;garage_auto;;;;PagesJaunes
 DELEG'AUTO;06 58 18 04 70;139 AVENUE DES MINIMES 31200 TOULOUSE;31200;TOULOUSE;83382285100022;833822851;concession_auto;45.11Z;;;API Recherche Entreprises (gouv.fr)|API+PJ|API_dept31
+DELKO Balma;05 61 17 08 08;66 rue St Jean 31130 Balma;31130;TOULOUSE;;;garage_auto;;;;PagesJaunes
 DENCAR;;2 RUE D'AUSTERLITZ 31000 TOULOUSE;31000;TOULOUSE;89826157300015;898261573;concession_auto;45.11Z;;;API Recherche Entreprises (gouv.fr)|API+PJ
 DENIS KISELEV (DENIS AUTOMOBILES);;BP 70413 2 B RUE DE BELFORT 31000 TOULOUSE;31000;TOULOUSE;92525742000016;925257420;garage_auto;45.20A;;;API Recherche Entreprises (gouv.fr)
 DERCY ON FOURA NTSI (OND AUTOS);;APT211 RES.LES JARDINS DE PABLO ETG 2 225 ROUTE DE REVEL 31400 TOULOUSE;31400;TOULOUSE;82214104000011;822141040;concession_auto;45.11Z;;;API Recherche Entreprises (gouv.fr)
@@ -4427,7 +4441,9 @@ Dacia Edenauto Concessionnaire;05 61 10 75 75;75 avenue Etats Unis 31200 Toulous
 Dacia TMA Montauban;05 62 47 87 87;125 route Revel 31400 Toulouse;31400;TOULOUSE;;;concession_auto;;;;PagesJaunes
 Dafy Moto;05 34 25 11 99;21 rue Georges Ohnet 31200 Toulouse;31200;TOULOUSE;;;concession_moto;;;;PagesJaunes
 Dafy Moto;05 61 41 46 30;Zone Industrielle De Thibaud 7 boulevard Thibaud 31100 Toulouse;31100;TOULOUSE;;;concession_moto;;;;PagesJaunes
+De Boussac Automobiles Crystal Auto;05 61 00 11 61;3684 La Lauragaise 31670 Labège;31670;TOULOUSE;;;garage_auto;;;;PagesJaunes
 Deal Motos;05 61 62 75 74;1 Bis avenue Lavaur 31500 Toulouse;31500;TOULOUSE;;;concession_moto;;;;OpenStreetMap|PagesJaunes
+Dekra;05 34 40 84 09;66 avenue Etats Unis 31200 Toulouse;31200;TOULOUSE;;;garage_auto;;;;PagesJaunes
 Dibauto AD Expert VL & Poids Lourds;05 62 20 86 65;5 rue Sirven 31100 Toulouse;31100;TOULOUSE;;;concession_auto;;;;PagesJaunes
 Distri Kodex 31;05 61 06 23 53;85 chemin Ramelet Moundi 31100 Toulouse;31100;TOULOUSE;;;garage_auto;;;;PagesJaunes
 Doc'Biker Toulouse Demoiselles;05 61 25 62 78;38 allée Demoiselles 31400 Toulouse;31400;TOULOUSE;;;concession_moto;;;;PagesJaunes
@@ -4574,8 +4590,10 @@ Edenauto Toyota LabegeConnu sous : carrosserie;05 62 71 64 10;159 route Labège 
 Enidec Auto;05 61 41 23 60;133 route Seysses 31100 Toulouse;31100;TOULOUSE;;;garage_auto;;;;PagesJaunes
 Eric Moulet;05 31 54 16 38;10 rue Van Dyck 31200 Toulouse;31200;TOULOUSE;;;concession_auto;;;;PagesJaunes
 Euromaster;;Avenue de la Reynerie;;TOULOUSE;;;garage_auto;;;;OpenStreetMap
+Euromaster - LePneu;05 62 89 05 05;1 route Bessières 31240 L'Union;31240;TOULOUSE;;;garage_auto;;;;PagesJaunes
 Euromaster - Taquipneu - Le Pneu Toulouse;05 62 87 89 00;59 boulevard Thibaud 31100 Toulouse;31100;TOULOUSE;;;garage_auto;;;;PagesJaunes
 Euromaster - Taquipneu Toulouse Etats-Unis;05 61 47 80 80;205 avenue Etats Unis 31200 Toulouse;31200;TOULOUSE;;;garage_auto;;;;PagesJaunes
+Euromaster - Taquipneu Toulouse Marquette;05 62 30 69 30;71 boulevard Marquette 31000 Toulouse;31000;TOULOUSE;;;garage_auto;;;;PagesJaunes
 Euromaster - Taquipneu Toulouse Montaudran;05 62 47 51 60;ZI Montaudran 10 avenue Didier Daurat 31400 Toulouse;31400;TOULOUSE;;;garage_auto;;;;PagesJaunes
 Euromaster - Taquipneu Toulouse Thibaud;05 62 87 46 70;19 boulevard Thibaud 31100 Toulouse;31100;TOULOUSE;;;garage_auto;;;;PagesJaunes
 Eval Auto 31;06 11 17 42 60;27 rue André Vasseur 31200 Toulouse;31200;TOULOUSE;;;garage_auto;;;;PagesJaunes
@@ -4696,8 +4714,10 @@ Fiat - Sipa Automobiles - Toulouse Sud;05 82 84 34 12;123 route Revel 31400 Toul
 Fiat Professionnal - Sipa Automobiles - Toulouse Nord;05 82 84 85 80;360 avenue Etats Unis 31200 Toulouse;31200;TOULOUSE;;;concession_auto;;;;PagesJaunes
 Fiat Professionnal - Sipa Automobiles - Toulouse Sud;05 82 84 34 13;123 route Revel 31400 Toulouse;31400;TOULOUSE;;;concession_auto;;;;PagesJaunes
 Fix Auto France;05 61 44 23 29;116 route Espagne 31100 Toulouse;31100;TOULOUSE;;;garage_auto;;;;PagesJaunes
+Fix Auto Ramonville;05 61 73 49 28;Za Nord 2 rue Claude Chappe 31520 Ramonville Saint Agne;31520;TOULOUSE;;;carrossier_auto;;;;PagesJaunes
 Ford Carrosserie Toulouse Sud - Auto Services;05 61 36 06 96;2 rue Jean Rodier 31400 Toulouse;31400;TOULOUSE;;;carrossier_auto;;;;PagesJaunes
 Ford Slada Toulouse - Auto Services;05 61 13 54 54;1 avenue Salvador Allende 31200 Toulouse;31200;TOULOUSE;;;concession_auto;;;;PagesJaunes
+Ford Toulouse Sud - Auto Services;05 61 36 86 86;134 route Revel 31400 Toulouse;31400;TOULOUSE;;;concession_auto;;;;PagesJaunes
 France Carte Grise;05 32 59 16 27;139 avenue Minimes 31200 Toulouse;31200;TOULOUSE;;;garage_auto;;;;PagesJaunes
 France Decalamine Clean Motor's;05 61 23 94 08;292 avenue Fronton 31200 Toulouse;31200;TOULOUSE;;;garage_moto;;;;PagesJaunes
 François Pneus;;Rue du Faubourg Bonnefoy;31500;TOULOUSE;;;garage_auto;;;;OpenStreetMap
@@ -4953,6 +4973,7 @@ HSMT;;4 RUE DE CAULET 31300 TOULOUSE;31300;TOULOUSE;90040298300010;900402983;con
 HTH-AUTOMOTIVE;;175 AVENUE DE CASTRES 31500 TOULOUSE;31500;TOULOUSE;80883353700034;808833537;garage_auto;45.32Z;;;API_dept31
 HUBERT VILLE FINANCES - HVF;;4 RUE FONTENAY 31500 TOULOUSE;31500;TOULOUSE;45133201900012;451332019;concession_auto;45.11Z;;;API+PJ
 HUG MOTORS SERVICES;05 34 26 18 86;APPARTEMENT 27 6 PLACE RAYMOND GRIMAUD 31300 TOULOUSE;31300;TOULOUSE;83908173400015;839081734;garage_moto;45.20A;;;API Recherche Entreprises (gouv.fr)|API_dept31|PagesJaunes
+HUG Motors Services Toulouse;05 81 97 06 60;4 chemin Nicol 31200 Toulouse;31200;TOULOUSE;;;garage_moto;;;;PagesJaunes
 HUGO DITRIA-CROS (HYGIE CAR);;[ND] [ND] [ND] [ND] [ND] [ND] [ND] [ND];00000;TOULOUSE;84084359300012;840843593;garage_auto;45.20A;;;API Recherche Entreprises (gouv.fr)
 HUGO HERNANDEZ (H2-GUIDANCE);;5 BOULEVARD DES MINIMES 31000 TOULOUSE;31000;TOULOUSE;93411647600011;934116476;concession_auto;45.11Z;;;API Recherche Entreprises (gouv.fr)
 HUGO RICHARD;;5 IMPASSE JEAN DELFOUR 31400 TOULOUSE;31400;TOULOUSE;84761695000014;847616950;garage_auto;45.20A;;;API Recherche Entreprises (gouv.fr)
@@ -4964,6 +4985,7 @@ HYPROMAT LAVAGE TOULOUSE;05 53 95 43 53;ANGLE RTE D'ALBI 2 AVENUE D'ATLANTA 3120
 Haithem Mechi;05 81 34 44 95;27 grande rue St Michel 31400 Toulouse;31400;TOULOUSE;;;concession_auto;;;;PagesJaunes
 Harley-Davidson;05 61 58 26 76;6 Impasse Gaston Monnerville;31200;TOULOUSE;;;garage_moto;;http://www.american-motos.com/;;OpenStreetMap
 Henri Caussat;05 61 47 89 69;171 route Launaguet 31200 Toulouse;31200;TOULOUSE;;;garage_auto;;;;PagesJaunes
+Henri Girard;05 61 06 41 90;23 rue Aristide Bergès 31270 Cugnaux;31270;TOULOUSE;;;carrossier_auto;;;;PagesJaunes
 Hermance Auto;07 61 05 99 18;46 chemin 150 Rue Nicolas Louis Vauquelin 31100 Toulouse;31100;TOULOUSE;;;garage_auto;;;;PagesJaunes
 Honda;;Rue André Vasseur;31200;TOULOUSE;;;garage_moto;;;;OpenStreetMap
 Hot Bikes;05 61 12 60 00;2 Rue Norias 31200 Toulouse;31200;TOULOUSE;;;concession_moto;;;;PagesJaunes
@@ -5166,6 +5188,7 @@ JULIEN MORALES;01 43 43 35 20;4 EME ETAGE APPT 8 26 RUE DE DUNKERQUE 31200 TOULO
 JULIEN PETITJEAN;05 61 40 10 47;APPARTEMENT 35 BATIMENT B 9 RUE CLAUDIUS ROUGENET 31500 TOULOUSE;31500;TOULOUSE;49084276200034;490842762;garage_auto;45.20A;;;API Recherche Entreprises (gouv.fr)|API_dept31|PJ_live
 JULIEN TOUYET ([ND]);;[ND] [ND] [ND] [ND] [ND] [ND] [ND] [ND];00000;TOULOUSE;79290445000022;792904450;concession_auto;45.11Z;;;API Recherche Entreprises (gouv.fr)|API+PJ
 Jean Louis Bardou;05 61 49 80 49;4 rue Augustin Fresnel 31300 Toulouse;31300;TOULOUSE;;;garage_auto;;;;PagesJaunes
+Jean Philippe Mété;05 62 24 39 92;53 avenue Marqueille 31650 Saint Orens de Gameville;31650;TOULOUSE;;;carrossier_auto;;;;PagesJaunes
 Jean-Louis Roch;05 61 44 00 22;333 route Seysses 31100 Toulouse;31100;TOULOUSE;;;garage_auto;;;;PagesJaunes
 Jean-Luc Foures;05 61 80 92 72;5 avenue Raymond Naves 31500 Toulouse;31500;TOULOUSE;;;garage_auto;;;;PagesJaunes
 Jeep - Sipa Automobiles - Toulouse Su;05 82 84 34 13;123 route Revel 31400 Toulouse;31400;TOULOUSE;;;concession_auto;;;;PagesJaunes
@@ -5266,9 +5289,11 @@ Kawa Toulouse SARL;05 33 09 37 47;6 rue Louis Bonin 31200 Toulouse;31200;TOULOUS
 Kia;;Rue Nicolas-Louis Vauquelin;;TOULOUSE;;;concession_auto;;;;OpenStreetMap
 Kia  Amk 31 Concessionnaire;05 82 95 35 00;161 route Labège 31400 Toulouse;31400;TOULOUSE;;;concession_auto;;;;PagesJaunes
 Koob Smain;06 27 87 71 33;127 boulevard Deodat de Severac 31300 Toulouse;31300;TOULOUSE;;;garage_auto;;;;PagesJaunes
+L&S Automobiles;05 61 35 50 10;66 Route 66 route Départementale 820 31790 Saint Jory;31790;TOULOUSE;;;concession_auto;;;;PagesJaunes
 L'ATELIER AUTO SECOURS;05 61 48 35 94;76 B RUE DE FENOUILLET 31200 TOULOUSE;31200;TOULOUSE;93251635400028;932516354;garage_auto;45.20A;;;API Recherche Entreprises (gouv.fr)|PJ_match
 L'ATELIER DE L'UTILITAIRE;;37 AVENUE DE LARRIEU 31100 TOULOUSE;31100;TOULOUSE;85130211700011;851302117;garage_auto;45.32Z;;;API_dept31
 L'ATELIER DETAIL;09 52 57 72 22;46 RUE ANDRE VASSEUR 31200 TOULOUSE;31200;TOULOUSE;92266347100014;922663471;garage_moto;45.40Z;;;API Recherche Entreprises (gouv.fr)|API+PJ|API_dept31|PJ_aggressive
+L'Auto E.Leclerc;05 61 72 71 80;Centre Commercial Roques 3 allée Fraixinet 31120 Roques sur Garonne;31120;TOULOUSE;;;garage_auto;;;;PagesJaunes
 L.E AUTO REPAR;05 62 88 98 60;39 ROUTE DE NARBONNE 31400 TOULOUSE;31400;TOULOUSE;90109487000010;901094870;garage_auto;45.20A;;;API Recherche Entreprises (gouv.fr)|PJ_match
 L.L MOTORS 31;06 47 33 93 73;BAL 47 4 RUE DE CAULET 31300 TOULOUSE;31300;TOULOUSE;89460352100010;894603521;garage_moto;45.20A;;;API Recherche Entreprises (gouv.fr)|API_dept31|PJ_match
 L.T CARROSSERIE;06 29 84 39 84;17 CHEMIN DES SILOS 31100 TOULOUSE;31100;TOULOUSE;99249167000012;992491670;carrossier_auto;45.20A;;;API Recherche Entreprises (gouv.fr)|API_dept31|PJ_match
@@ -5502,6 +5527,7 @@ MAXIMO RODRIGUEZ (NIA);;APT B801 13 RUE THOMAS DUPUY 31300 TOULOUSE;31300;TOULOU
 MAZOUNI AUTO PIECES;;52 BOULEVARD GABRIEL KOENIGS 31300 TOULOUSE;31300;TOULOUSE;82805364500028;828053645;garage_auto;45.32Z;;;API_dept31
 MB AUTO (MB AUTO);09 53 80 89 37;92 CHEMIN DE LA FLAMBERE 31300 TOULOUSE;31300;TOULOUSE;98407327000014;984073270;garage_auto;45.20A;;;API Recherche Entreprises (gouv.fr)|PJ_match
 MB AUTOS;06 17 22 39 76;17 CHEMIN DES SILOS 31100 TOULOUSE;31100;TOULOUSE;84932039500015;849320395;concession_auto;45.11Z;;;API Recherche Entreprises (gouv.fr)|API+PJ
+MB Services MBS;05 32 59 62 61;1 impasse Mozart 31140 Aucamville;31140;TOULOUSE;;;garage_auto;;;;PagesJaunes
 MBAYE THIAM;07 49 46 49 55;APPT 9 2E ETAGE 8 RUE AXEL DUBOUL 31100 TOULOUSE;31100;TOULOUSE;89809523700019;898095237;concession_auto;45.11Z;;;API Recherche Entreprises (gouv.fr)|PJ_aggressive
 MBK AUTO 31;06 13 16 89 99;22 RUE DU PONT GUILHEMERY 31000 TOULOUSE;31000;TOULOUSE;93534704700018;935347047;concession_auto;45.11Z;;;API Recherche Entreprises (gouv.fr)|PJ_match
 MC AUTO (MARCAISSONNE CARROSSERIE);06 67 48 35 34;9 AVENUE DE LA MARCAISSONNE 31400 TOULOUSE;31400;TOULOUSE;81828139600015;818281396;carrossier_auto;45.20A;;;API Recherche Entreprises (gouv.fr)|API_dept31|PJ_match
@@ -5764,6 +5790,7 @@ Midas Toulouse Revel;05 61 34 95 60;166 route Revel 31400 Toulouse;31400;TOULOUS
 Mil & 1 Garage;05 64 72 26 39;119 rue Négreneys 31200 Toulouse;31200;TOULOUSE;;;garage_auto;;;;PagesJaunes
 Mini;;145 Rue Nicolas-Louis Vauquelin;;TOULOUSE;;;garage_auto;;;;OpenStreetMap
 Mitsubishi Motors;05 61 10 75 75;75 avenue Etats Unis 31200 Toulouse;31200;TOULOUSE;;;garage_moto;;;;PagesJaunes
+Modern'Auto;06 19 98 13 75;15 rue Tchad 31300 Toulouse;31300;TOULOUSE;;;concession_auto;;;;PagesJaunes
 Mohamed Mordjana;;1 impasse Alpages 31400 Toulouse;31400;TOULOUSE;;;garage_auto;;;;PagesJaunes
 Mohamed Sanhaji;07 82 90 08 35;76 route Agde 31500 Toulouse;31500;TOULOUSE;;;garage_auto;;;;PagesJaunes
 Mohamed-benkoibich Lakhdar;06 10 15 48 69;13 rue Cher 31100 Toulouse;31100;TOULOUSE;;;garage_auto;;;;PagesJaunes
@@ -6002,6 +6029,7 @@ PETRICA MIRON (ALEXAUTOMOBILES);;APPT 317 16 RUE JULES AMILHAU 31100 TOULOUSE;31
 PETRU PAVELIUC;;1 RUE DU CHER 31100 TOULOUSE;31100;TOULOUSE;99175587700016;991755877;concession_auto;45.11Z;;;API+PJ
 PETRU ROSTAS (PIERRE AUTOMOBILE.FR);05 62 17 68 61;APT A 008 BAT A 21 IMPASSE DU CIMETIERE CROIX DAURADE 31200 TOULOUSE;31200;TOULOUSE;94048097300012;940480973;concession_auto;45.11Z;;;API Recherche Entreprises (gouv.fr)|API+PJ|PJ_aggressive
 PETRUTA CIURAR (SAKHIRA AUTO31);;APPT 18 36 BOULEVARD DE SUISSE 31200 TOULOUSE;31200;TOULOUSE;94466453100018;944664531;concession_auto;45.11Z;;;API Recherche Entreprises (gouv.fr)|API+PJ
+PFS Automobiles;06 14 87 71 11;Route Departementale 820 490 chemin Agries 31860 Labarthe sur Lèze;31860;TOULOUSE;;;concession_auto;;;;PagesJaunes
 PHARM'AUTO;;216 RUE HENRI DESBALS 31100 TOULOUSE;31100;TOULOUSE;93312576700014;933125767;garage_auto;45.32Z;;;API_dept31
 PHENIX AUTO;06 71 04 42 63;4 RUE DE CAULET 31300 TOULOUSE;31300;TOULOUSE;97867768000016;978677680;concession_auto;45.11Z;;;API Recherche Entreprises (gouv.fr)|API+PJ
 PHILIPPE BADET;05 61 47 77 28;CTRE COMMERCIAL DE GRAMONT 92 CHEMIN DE GABARDIE 31200 TOULOUSE;31200;TOULOUSE;30716377400036;307163774;garage_auto;45.20A;;;API Recherche Entreprises (gouv.fr)|PJ_aggressive
@@ -6058,9 +6086,11 @@ Peugeot Psa Retail Montaudran;05 61 54 52 52;28 Avenue Didier Daurat;31400;TOULO
 Peugeot Stellantis &You Toulouse Etats-Unis;05 62 72 96 96;1 Bis avenue Salvador Allende 31200 Toulouse;31200;TOULOUSE;;;concession_auto;;;;PagesJaunes
 Pimas Toulouse;05 61 13 85 97;11 allée Paul Harris 31200 Toulouse;31200;TOULOUSE;;;garage_auto;;;;PagesJaunes
 Play Soccer;05 61 91 19 11;33 avenue Larrieu 31100 Toulouse;31100;TOULOUSE;;;concession_auto;;;;PagesJaunes
+Point S -sarl Potaux Cornebarrieu;05 81 97 80 54;1 rue Emile Dewoitine 31700 Cornebarrieu;31700;TOULOUSE;;;garage_auto;;;;PagesJaunes
 Potaux Saint Martin;05 61 49 45 61;28 chemin Espeissière 31300 Toulouse;31300;TOULOUSE;;;garage_auto;;;;PagesJaunes
 Prestige Moto 31;05 81 76 09 25;26 avenue Didier Daurat 31400 Toulouse;31400;TOULOUSE;;;garage_moto;;;;PagesJaunes
 Proxis Auto;06 71 04 42 63;8 route Bayonne 31300 Toulouse;31300;TOULOUSE;;;garage_auto;;;;PagesJaunes
+Puertolas Frères;05 61 74 24 77;11 route Bessières 31240 L'Union;31240;TOULOUSE;;;carrossier_auto;;;;PagesJaunes
 QENAN SAKHVERDIEV (CASPIAN AUTO);05 61 44 44 17;297 ROUTE D'ESPAGNE 31100 TOULOUSE;31100;TOULOUSE;81537729600026;815377296;garage_auto;45.20A;;;API Recherche Entreprises (gouv.fr)|PJ_aggressive
 QUALITICAR;;HELIOPOLIS BATIMENT HELIOS 4 116 ROUTE D'ESPAGNE 31100 TOULOUSE;31100;TOULOUSE;51537993100014;515379931;concession_auto;45.11Z;;;API Recherche Entreprises (gouv.fr)
 R-CARROSSERIE (R-CARROSSERIE);05 61 26 36 32;42 RUE MURATET 31200 TOULOUSE;31200;TOULOUSE;81140318700016;811403187;carrossier_auto;45.20A;;;API Recherche Entreprises (gouv.fr)|API_dept31|PJ_match
@@ -6171,6 +6201,7 @@ ROZIK SARKISSIAN  VEUVE (SARKISSIAN);;APPT 222 38 ALLEE DE BELLEFONTAINE 31100 T
 RPB (RAPID PARE BRISE);05 34 43 10 15;110 AVENUE DES ETATS UNIS 31200 TOULOUSE;31200;TOULOUSE;80214855100012;802148551;garage_auto;45.20A;;;API Recherche Entreprises (gouv.fr)|PJ_aggressive
 RR MOTORS ETATS-UNIS (MECANIC' A DOM);05 61 47 80 80;243 ROUTE D'ALBI 31200 TOULOUSE;31200;TOULOUSE;75246461000027;752464610;garage_moto;45.40Z;;;API Recherche Entreprises (gouv.fr)|API_dept31|PJ_aggressive
 RRH;05 61 47 04 00;20 B CHEMIN DE FENOUILLET 31200 TOULOUSE;31200;TOULOUSE;94882821500012;948828215;garage_auto;45.20A;;;API Recherche Entreprises (gouv.fr)|PJ_match
+RS Automobile;05 61 71 81 10;22 route Seilh 31700 Cornebarrieu;31700;TOULOUSE;;;concession_auto;;;;PagesJaunes
 RS6 Auto 31;05 67 33 79 27;9 rue Ferdinand Laulanie 31100 Toulouse;31100;TOULOUSE;;;garage_auto;;;;PagesJaunes
 RSP REPARATE;07 67 87 84 94;BUREAU 3 16 RUE SAINT ANTOINE DU T 31000 TOULOUSE;31000;TOULOUSE;10119009800018;101190098;garage_auto;45.20A;;;API Recherche Entreprises (gouv.fr)|PJ_match
 RTE SPORT;;110 AVENUE DES ETATS UNIS 31200 TOULOUSE;31200;TOULOUSE;48837389500017;488373895;garage_auto;45.32Z;;;API_dept31
@@ -6194,8 +6225,10 @@ Renault;05 61 10 75 75;274 Avenue de Lardenne;31000;TOULOUSE;;;concession_auto;;
 Renault Edenauto Concessionnaire;05 61 10 75 75;75 avenue Etats Unis 31200 Toulouse;31200;TOULOUSE;;;concession_auto;;;;PagesJaunes
 Renault Samec Delouvée Ets Agent;05 61 44 44 17;25 avenue Larrieu Thibaud 31100 Toulouse;31100;TOULOUSE;;;concession_auto;;;;PagesJaunes
 Renault Toulouse Rocade Ouest;05 61 19 21 21;131 Rue Nicolas-Louis Vauquelin;31100;TOULOUSE;;;concession_auto;;https://renault-toulouse-rocade.edenauto.com/;;OpenStreetMap
+Renovation Phare Toulouse;07 45 27 60 25;impasse Colombette 31000 Toulouse;31000;TOULOUSE;;;garage_auto;;;;PagesJaunes
 Revolte Racing;05 61 48 35 94;bât 5 6 rue Louis Bonin 31200 Toulouse;31200;TOULOUSE;;;concession_moto;;;;PagesJaunes
 Rivluxure Covering;07 82 11 24 78;48 route Espagne 31100 Toulouse;31100;TOULOUSE;;;garage_auto;;;;PagesJaunes
+Roques Garage;05 61 76 42 00;19 chemin Castelet 31120 Roques sur Garonne;31120;TOULOUSE;;;carrossier_auto;;;;PagesJaunes
 Route 66;06 60 68 43 19;23 rue Hilaire Pader 31200 Toulouse;31200;TOULOUSE;;;carrossier_auto;;;;PagesJaunes
 Rouzaud Autos;06 33 36 68 61;72 impasse Capelles 31100 Toulouse;31100;TOULOUSE;;;garage_auto;;;;PagesJaunes
 Runaway Bikes Concessionnaire officiel Suzuki, Benelli & Sym;05 61 15 09 00;Bd D'atlanta 31 rue André Vasseur 31200 Toulouse;31200;TOULOUSE;;;concession_moto;;;;PagesJaunes
@@ -6537,6 +6570,7 @@ Sao Auto;06 21 04 80 31;33 rue Louis Vestrepain 31100 Toulouse;31100;TOULOUSE;;;
 Seat Crystal Auto Concessionnaire SAS;05 34 40 24 55;157 avenue Etats Unis 31200 Toulouse;31200;TOULOUSE;;;concession_auto;;;;PagesJaunes
 Self Moto Service;;2 Avenue d'Atlanta;31200;TOULOUSE;;;garage_moto;;http://www.selfmotoservice.fr/;;OpenStreetMap
 Seres;05 31 61 45 01;161 route Labège 31400 Toulouse;31400;TOULOUSE;;;garage_auto;;;;PagesJaunes
+Serignac Industrie;05 61 70 14 81;141 chemin Fenouillet 31200 Toulouse;31200;TOULOUSE;;;carrossier_auto;;;;PagesJaunes
 Serignac IndustrieConnu sous : CARROSSERIE INDUSTRIELLE SERIGNAC;05 61 70 14 81;141 chemin Fenouillet 31200 Toulouse;31200;TOULOUSE;;;carrossier_auto;;;;PagesJaunes
 Services Auto Rocade;;35 rue Touraine 31100 Toulouse;31100;TOULOUSE;;;garage_auto;;;;PagesJaunes
 Sesquieres Automobile;07 68 59 51 75;23 chemin Glacière 31200 Toulouse;31200;TOULOUSE;;;garage_auto;;;;PagesJaunes
@@ -6546,11 +6580,14 @@ Speed Auto;05 61 86 49 04;1 rue André Mazana 31100 Toulouse;31100;TOULOUSE;;;ga
 Speedy;05 61 40 52 97;344 route St Simon 31100 Toulouse;31100;TOULOUSE;;;garage_auto;;;;PagesJaunes
 Speedy;05 61 49 36 26;65 route Bayonne 31300 Toulouse;31300;TOULOUSE;;;garage_auto;;;;PagesJaunes
 Speedy;05 61 49 36 26;Route de Bayonne;;TOULOUSE;;;garage_auto;;https://centres-auto.speedy.fr/garage/toulouse-bayonne-31300/533;;OpenStreetMap
+Speedy;05 61 48 21 96;5 boulevard Minimes 31200 Toulouse;31200;TOULOUSE;;;garage_auto;;;;PagesJaunes
+Speedy;05 61 52 91 22;93 route Narbonne 31400 Toulouse;31400;TOULOUSE;;;garage_auto;;;;PagesJaunes
 Spoticar Sipa Automobiles Concessionnaire;05 82 84 30 20;360 avenue Etats Unis 31200 Toulouse;31200;TOULOUSE;;;concession_auto;;;;PagesJaunes
 Spoticar Stellantis &You Toulouse Etats-Unis;05 23 58 50 11;1 avenue Salvador Allende 31200 Toulouse;31200;TOULOUSE;;;concession_auto;;;;PagesJaunes
 Spoticar Stellantis &You Toulouse Montaudran;05 23 58 50 03;28 avenue Didier Daurat 31400 Toulouse;31400;TOULOUSE;;;concession_auto;;;;PagesJaunes
 Start Engine;06 77 14 11 46;17 rue Saint Hilaire 31000 Toulouse;31000;TOULOUSE;;;garage_moto;;;;PagesJaunes
 SteelScooterShop;05 67 33 84 09;10 avenue Fronton 31200 Toulouse;31200;TOULOUSE;;;concession_moto;;;;PagesJaunes
+Stéphane Sabathie;09 52 48 34 42;17 rue Béarn 31100 Toulouse;31100;TOULOUSE;;;concession_auto;;;;PagesJaunes
 Subaru;;Rue Nicolas-Louis Vauquelin;;TOULOUSE;;;garage_auto;;;;OpenStreetMap
 Suzuki Auto Réal 31 Distrib. Agréé;05 34 40 64 07;109 avenue Etats Unis 31200 Toulouse;31200;TOULOUSE;;;concession_auto;;;;PagesJaunes
 Sylvie Cash Mecanique;05 31 54 80 44;5 rue Henri Frenay 31200 Toulouse;31200;TOULOUSE;;;garage_auto;;;;PagesJaunes
