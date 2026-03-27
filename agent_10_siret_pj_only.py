@@ -6,7 +6,9 @@ then searches for their SIRET via the Recherche Entreprises API.
 """
 
 import json
+import random
 import re
+import subprocess
 import time
 import urllib.parse
 import urllib.request
@@ -26,8 +28,8 @@ PJ_SOURCES = [
 OUT_PATH         = "/home/user/Website01/agent_out_10_siret_pj_only.json"
 SIMILARITY_THRESH = 0.70
 MAX_PJ_ONLY      = 500
-API_DELAY        = 1.2   # 1.2s between calls (~50 req/min)
-RETRY_DELAY      = 5.0   # fallback if no retry-after header
+API_DELAY        = 1.5   # 1.5s base delay between calls
+RETRY_DELAY      = 6.0   # fallback if no retry-after header
 
 
 # ─── HELPERS ───────────────────────────────────────────────────────────────────
@@ -151,30 +153,55 @@ print(f"  Processing (max {MAX_PJ_ONLY}): {len(candidates)}")
 # ─── API SEARCH ────────────────────────────────────────────────────────────────
 API_BASE = "https://recherche-entreprises.api.gouv.fr/search"
 
+def fetch_url(url: str, max_retries: int = 8) -> dict | None:
+    """Fetch URL using curl subprocess, handles 429 with retry-after."""
+    for attempt in range(max_retries):
+        try:
+            result = subprocess.run(
+                ["curl", "-s", "-w", "\n%{http_code}", "--max-time", "15", url],
+                capture_output=True, text=True, timeout=20
+            )
+            output = result.stdout.strip()
+            if not output:
+                return None
+            lines = output.rsplit("\n", 1)
+            http_code = int(lines[-1]) if len(lines) > 1 else 0
+            body = lines[0] if len(lines) > 1 else output
+
+            if http_code == 200:
+                return json.loads(body)
+            elif http_code == 429:
+                # Parse retry-after from body if available
+                wait = RETRY_DELAY + random.uniform(1, 3)
+                try:
+                    err_data = json.loads(body)
+                    wait = float(err_data.get("retry-after", wait))
+                except Exception:
+                    pass
+                wait = max(wait, RETRY_DELAY)
+                print(f"    429 (attempt {attempt+1}), sleeping {wait:.1f}s...")
+                time.sleep(wait)
+                continue
+            else:
+                print(f"    HTTP {http_code} for URL: {url[:80]}")
+                return None
+        except subprocess.TimeoutExpired:
+            print(f"    Timeout on attempt {attempt+1}")
+            time.sleep(RETRY_DELAY)
+            continue
+        except Exception as exc:
+            print(f"    Error: {exc}")
+            return None
+    print(f"    Max retries exceeded")
+    return None
+
+
 def search_siret(nom: str, cp: str) -> dict | None:
     """Search the API and return best matching result dict, or None."""
     query = urllib.parse.quote(nom)
     url   = f"{API_BASE}?q={query}&per_page=5"
-
-    for attempt in range(6):
-        try:
-            req = urllib.request.Request(url, headers={"User-Agent": "SIRET-Enricher/1.0"})
-            with urllib.request.urlopen(req, timeout=15) as resp:
-                data = json.loads(resp.read().decode("utf-8"))
-                break
-        except urllib.error.HTTPError as exc:
-            if exc.code == 429:
-                retry_after = float(exc.headers.get("retry-after") or RETRY_DELAY)
-                wait = max(retry_after + 1.0, RETRY_DELAY)
-                print(f"    429 (attempt {attempt+1}), retry-after={retry_after}s, sleeping {wait:.0f}s...")
-                time.sleep(wait)
-                continue
-            print(f"    API HTTP {exc.code} for '{nom}': {exc.reason}")
-            return None
-        except Exception as exc:
-            print(f"    API error for '{nom}': {exc}")
-            return None
-    else:
+    data  = fetch_url(url)
+    if data is None:
         return None
 
     results = data.get("results", [])
@@ -248,7 +275,7 @@ for i, entry in enumerate(candidates, 1):
         print(f"  Progress: {i}/{len(candidates)} | enriched={len(enriched)}, not_found={not_found}")
 
     result = search_siret(nom, cp)
-    time.sleep(API_DELAY)
+    time.sleep(API_DELAY + random.uniform(0, 1.0))
 
     if result and result.get("siret"):
         enriched.append({

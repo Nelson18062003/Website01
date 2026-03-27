@@ -43,7 +43,24 @@ HEADERS = {
     "Accept-Language": "fr-FR,fr;q=0.9,en;q=0.8",
 }
 
-IMPERSONATE = "safari17_2_ios"
+# Rotate between known-working impersonation targets
+IMPERSONATE_POOL = [
+    "safari17_2_ios",
+    "chrome131",
+    "firefox133",
+    "edge99",
+    "chrome110",
+    "safari15_5",
+    "chrome107",
+    "edge101",
+]
+_imp_idx = 0
+
+def next_impersonate():
+    global _imp_idx
+    val = IMPERSONATE_POOL[_imp_idx % len(IMPERSONATE_POOL)]
+    _imp_idx += 1
+    return val
 
 PHONE_RE = re.compile(r'0[1-9][\s.]?\d{2}[\s.]?\d{2}[\s.]?\d{2}[\s.]?\d{2}')
 PHONE_10_RE = re.compile(r'0[1-9]\d{8}')
@@ -67,18 +84,19 @@ def clean_phone(phone):
     return re.sub(r'[\s.]', '', phone)
 
 
-def fetch_with_retry(session, url, max_retries=6, base_delay=3):
+def fetch_with_retry(session, url, max_retries=8, base_delay=2):
     """Fetch URL with retry on 403 (Cloudflare intermittent challenge)."""
     headers = dict(HEADERS)
     for attempt in range(max_retries):
+        imp = next_impersonate()
         try:
-            resp = session.get(url, headers=headers, timeout=35, impersonate=IMPERSONATE)
+            resp = session.get(url, headers=headers, timeout=35, impersonate=imp)
             if resp.status_code == 200:
                 return resp
             if resp.status_code == 404:
                 return None
-            # 403: retry with backoff
-            delay = base_delay + attempt * 3
+            # 403: retry with backoff + different impersonate
+            delay = base_delay + attempt * 2
             time.sleep(delay)
         except Exception as e:
             time.sleep(base_delay)
@@ -265,7 +283,7 @@ def deduplicate(results):
 
 def main():
     print("=== Scraper Pages Jaunes - Banlieue d'Évry ===")
-    print(f"Impersonate: {IMPERSONATE}")
+    print(f"Impersonate pool: {IMPERSONATE_POOL}")
     print(f"Villes: {[c[0] for c in CITIES]}")
     print(f"Catégories: {CATEGORIES}")
     print()
