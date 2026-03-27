@@ -37,5 +37,57 @@
     "site_web": "",
     "source": "PagesJaunes+API",
     "zone_recherche": "Toulouse"
+  },
+  {
+    "nom": "Carrosserie de l'Auto Fenouillet",
+    "siret": "94206448600015",
+    "siren": "942064486",
+    "adresse": "31150 FENOUILLET",
+    "code_postal": "31150",
+    "ville": "FENOUILLET",
+    "code_naf": "45.20A",
+    "telephone": "05 32 62 97 27",
+    "site_web": "",
+    "source": "PagesJaunes+API",
+    "zone_recherche": "Toulouse"
+  },
+  {
+    "nom": "Technic Automobiles",
+    "siret": "44468047400038",
+    "siren": "444680474",
+    "adresse": "31830 PLAISANCE-DU-TOUCH",
+    "code_postal": "31830",
+    "ville": "PLAISANCE-DU-TOUCH",
+    "code_naf": "45.20A",
+    "telephone": "05 61 91 90 90",
+    "site_web": "",
+    "source": "PagesJaunes+API",
+    "zone_recherche": "Toulouse"
+  },
+  {
+    "nom": "Garage Olivan",
+    "siret": "30032622000021",
+    "siren": "300326220",
+    "adresse": "31130 BALMA",
+    "code_postal": "31130",
+    "ville": "BALMA",
+    "code_naf": "45.20A",
+    "telephone": "05 61 61 81 50",
+    "site_web": "",
+    "source": "PagesJaunes+API",
+    "zone_recherche": "Toulouse"
+  },
+  {
+    "nom": "Garage Pour Tous ... Du Grand Toulouse",
+    "siret": "52325744200021",
+    "siren": "523257442",
+    "adresse": "31200 TOULOUSE",
+    "code_postal": "31200",
+    "ville": "TOULOUSE",
+    "code_naf": "94.99Z",
+    "telephone": "05 61 26 14 54",
+    "site_web": "",
+    "source": "PagesJaunes+API",
+    "zone_recherche": "Toulouse"
   }
 ]
