@@ -251,7 +251,7 @@ def scrape_category_location(category, location, cache):
 
     total_pages = None
     cf_retries = 0
-    MAX_CF_RETRIES = 3
+    MAX_CF_RETRIES = 5
 
     page_num = 1
     while page_num <= MAX_PAGES:
@@ -328,7 +328,8 @@ def scrape_category_location(category, location, cache):
         time.sleep(3)
 
     print(f"    Total for {category} @ {location}: {len(all_results)}")
-    cache[cache_key] = all_results
+    if all_results:
+        cache[cache_key] = all_results
     return all_results
 
 
