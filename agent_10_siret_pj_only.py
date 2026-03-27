@@ -25,11 +25,11 @@ PJ_SOURCES = [
     ("/home/user/Website01/pj_cache_toulouse.json",    "Toulouse",  "dict"),
     ("/home/user/Website01/pj_cache_evry.json",        "Evry",      "dict"),
 ]
-OUT_PATH         = "/home/user/Website01/agent_out_10_siret_pj_only.json"
+OUT_PATH          = "/home/user/Website01/agent_out_10_siret_pj_only.json"
 SIMILARITY_THRESH = 0.70
-MAX_PJ_ONLY      = 500
-API_DELAY        = 4.0    # 4s base delay between calls (~15 req/min)
-RETRY_DELAY      = 60.0  # wait 60s on 429 (quota window reset)
+MAX_PJ_ONLY       = 500
+API_DELAY         = 5.0    # 5s between calls (~12 req/min)
+RETRY_DELAY       = 900.0  # 15-min wait on 429 quota reset
 
 
 # ─── HELPERS ───────────────────────────────────────────────────────────────────
@@ -153,13 +153,12 @@ print(f"  Processing (max {MAX_PJ_ONLY}): {len(candidates)}")
 # ─── API SEARCH ────────────────────────────────────────────────────────────────
 API_BASE = "https://recherche-entreprises.api.gouv.fr/search"
 
-def fetch_url(url: str, max_retries: int = 20) -> dict | None:
-    """Fetch URL using curl subprocess, handles 429 with exponential backoff."""
+def fetch_url(url: str, max_retries: int = 5) -> dict | None:
+    """Fetch URL using curl subprocess, handles 429 with fixed long wait."""
     for attempt in range(max_retries):
         try:
             result = subprocess.run(
-                ["curl", "-s", "-w", "\n%{http_code}", "--max-time", "15",
-                 "-H", "User-Agent: Mozilla/5.0 (compatible; SIRETEnricher/1.0)", url],
+                ["curl", "-s", "-w", "\n%{http_code}", "--max-time", "15", url],
                 capture_output=True, text=True, timeout=20
             )
             output = result.stdout.strip()
@@ -172,9 +171,8 @@ def fetch_url(url: str, max_retries: int = 20) -> dict | None:
             if http_code == 200:
                 return json.loads(body)
             elif http_code == 429:
-                # Exponential backoff: 60s, 120s, 240s...
-                wait = RETRY_DELAY * (2 ** min(attempt, 4)) + random.uniform(1, 5)
-                print(f"    429 (attempt {attempt+1}/{max_retries}), sleeping {wait:.0f}s...", flush=True)
+                wait = RETRY_DELAY + random.uniform(0, 30)
+                print(f"    429 (attempt {attempt+1}/{max_retries}), rate-limited → sleeping {wait:.0f}s...", flush=True)
                 time.sleep(wait)
                 continue
             else:
@@ -182,12 +180,12 @@ def fetch_url(url: str, max_retries: int = 20) -> dict | None:
                 return None
         except subprocess.TimeoutExpired:
             print(f"    Timeout on attempt {attempt+1}")
-            time.sleep(10)
+            time.sleep(30)
             continue
         except Exception as exc:
             print(f"    Error: {exc}")
             return None
-    print(f"    Max retries exceeded")
+    print(f"    Max retries exceeded, skipping")
     return None
 
 
