@@ -503,7 +503,19 @@ def main():
     print(f"\n  => Registry total après agents collecte: {len(registry)}")
 
     # ------------------------------------------------------------------
-    # 4b. Playwright Évry data
+    # 4b. Playwright Toulouse data
+    # ------------------------------------------------------------------
+    raw_pw_toulouse = load_json(f"{BASE}/agent_out_playwright_toulouse.json", [])
+    pw_toulouse = unwrap(raw_pw_toulouse, "etablissements", "results", "pois") if isinstance(raw_pw_toulouse, dict) else raw_pw_toulouse
+    for e in pw_toulouse:
+        if isinstance(e, dict):
+            entry = from_pj_entry(e, e.get("zone_recherche", "Toulouse"))
+            add_entry(registry, entry)
+    source_counts["playwright_toulouse"] = len(pw_toulouse)
+    print(f"  Playwright Toulouse: {len(pw_toulouse)} entrées")
+
+    # ------------------------------------------------------------------
+    # 4c. Playwright Évry data
     # ------------------------------------------------------------------
     raw_pw_evry = load_json(f"{BASE}/agent_out_playwright_evry.json", [])
     pw_evry = unwrap(raw_pw_evry, "etablissements", "results", "pois") if isinstance(raw_pw_evry, dict) else raw_pw_evry

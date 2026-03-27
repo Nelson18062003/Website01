@@ -4200,6 +4200,7 @@ Car Staging France;05 62 17 68 61;35 avenue Jean Zay 31200 Toulouse;31200;TOULOU
 Cardy;;2 Avenue d'Atlanta;31200;TOULOUSE;;;garage_moto;;https://www.cardy.fr/stores-27.html;;OpenStreetMap
 Cardy;05 34 60 11 38;Avenue de Larrieu;31100;TOULOUSE;;;garage_moto;;https://www.cardy.fr/stores-8.html;;OpenStreetMap
 Cardy Toulouse Larrieu;05 34 60 11 38;31 avenue Larrieu 31100 Toulouse;31100;TOULOUSE;;;concession_moto;;;;PagesJaunes
+Carosserie Moga;05 61 47 72 50;94 chemin Flambère 31300 Toulouse;31300;TOULOUSE;;;carrossier_auto;;;;PagesJaunes
 Carrosserie Barros;09 26 75 05 87;39 rue Franz Schubert 31200 Toulouse;31200;TOULOUSE;;;carrossier_auto;;;;PagesJaunes
 Carrosserie Borderouge;05 61 48 48 00;65 Bis rue Michel Ange 31200 Toulouse;31200;TOULOUSE;;;carrossier_auto;;;;PagesJaunes
 Carrosserie Liénard;05 61 47 77 28;63 chemin Fenouillet 31200 Toulouse;31200;TOULOUSE;;;carrossier_auto;;;;PagesJaunes
@@ -4640,6 +4641,7 @@ Feu Vert;05 62 74 81 00;36 route Bayonne 31300 Toulouse;31300;TOULOUSE;;;garage_
 Fiat - Sipa Automobiles - Toulouse Nord;05 82 84 85 80;360 avenue Etats Unis 31200 Toulouse;31200;TOULOUSE;;;concession_auto;;;;PagesJaunes
 Fiat - Sipa Automobiles - Toulouse Sud;05 82 84 34 12;123 route Revel 31400 Toulouse;31400;TOULOUSE;;;concession_auto;;;;PagesJaunes
 Fiat Professionnal - Sipa Automobiles - Toulouse Nord;05 82 84 85 80;360 avenue Etats Unis 31200 Toulouse;31200;TOULOUSE;;;concession_auto;;;;PagesJaunes
+Fiat Professionnal - Sipa Automobiles - Toulouse Sud;05 82 84 34 13;123 route Revel 31400 Toulouse;31400;TOULOUSE;;;concession_auto;;;;PagesJaunes
 Fix Auto France;05 61 44 23 29;116 route Espagne 31100 Toulouse;31100;TOULOUSE;;;garage_auto;;;;PagesJaunes
 Ford Carrosserie Toulouse Sud - Auto Services;05 61 36 06 96;2 rue Jean Rodier 31400 Toulouse;31400;TOULOUSE;;;carrossier_auto;;;;PagesJaunes
 Ford Slada Toulouse - Auto Services;05 61 13 54 54;1 avenue Salvador Allende 31200 Toulouse;31200;TOULOUSE;;;concession_auto;;;;PagesJaunes
@@ -5324,9 +5326,11 @@ LUXURY CAR 31;09 70 96 50 60;APART 2404 ETAGE 04 30 CHEMIN DES IZARDS 31200 TOUL
 Labelle Auto;06 21 52 31 06;40 rue Fleurance 31400 Toulouse;31400;TOULOUSE;;;garage_auto;;;;PagesJaunes
 Land Rover - Mazda Auto Réal Distributeur Concessionnaire;05 34 40 35 00;279 avenue Etats Unis 31200 Toulouse;31200;TOULOUSE;;;concession_auto;;;;PagesJaunes
 Laurent Gheusi;05 61 80 88 69;21 place Marius Pinel 31500 Toulouse;31500;TOULOUSE;;;garage_auto;;;;PagesJaunes
+Lava;05 61 49 16 95;10 place Alexandre Bisson 31300 Toulouse;31300;TOULOUSE;;;carrossier_auto;;;;PagesJaunes
 LavaConnu sous : Ad Carrosserie Sarl Lava;05 61 49 16 95;10 place Alexandre Bisson 31300 Toulouse;31300;TOULOUSE;;;carrossier_auto;;;;PagesJaunes
 Le Discount Auto;05 82 95 18 84;4 rue Caulet 31300 Toulouse;31300;TOULOUSE;;;garage_auto;;;;PagesJaunes
 Le Pneu;;27 Avenue des États-Unis;31200;TOULOUSE;;;garage_auto;;;;OpenStreetMap
+Lecour;05 61 47 68 00;9 Bis impasse Louis de Froidour 31200 Toulouse;31200;TOULOUSE;;;carrossier_auto;;;;PagesJaunes
 Lexus;;Rue Nicolas-Louis Vauquelin;;TOULOUSE;;;garage_auto;;;;OpenStreetMap
 Lious Et Cie-peugeot Sarl;05 62 26 79 39;46 rue Chaussée 31000 Toulouse;31000;TOULOUSE;;;concession_moto;;;;PagesJaunes
 Live Auto 34;07 67 32 82 96;10 rue Loubiague 31200 Toulouse;31200;TOULOUSE;;;concession_auto;;;;PagesJaunes
@@ -5684,6 +5688,7 @@ Ma Carte Grise;07 81 47 21 87;332 avenue Etats Unis 31200 Toulouse;31200;TOULOUS
 MaTitine;;360 avenue Etats Unis 31200 Toulouse;31200;TOULOUSE;;;garage_auto;;;;PagesJaunes
 Maluti;09 50 96 54 84;12 rue Stalingrad 31000 Toulouse;31000;TOULOUSE;;;garage_auto;;;;PagesJaunes
 Marcaissonne Carrosserie;06 67 48 35 34;9 avenue Marcaissonne 31400 Toulouse;31400;TOULOUSE;;;carrossier_auto;;;;PagesJaunes
+Matabiau Services;05 61 62 36 46;53 rue Matabiau 31000 Toulouse;31000;TOULOUSE;;;concession_auto;;;;PagesJaunes
 Matitine - Toulouse nord;05 38 13 10 00;360 avenue Etats Unis 31200 Toulouse;31200;TOULOUSE;;;garage_auto;;;;PagesJaunes
 Maxxess;04 00 00 17 59;6 rue Louis Bonin 31200 Toulouse;31200;TOULOUSE;;;garage_moto;;;;PagesJaunes
 Meca Expert Sam31;07 69 06 79 58;3 rue Jean Grandjean 31100 Toulouse;31100;TOULOUSE;;;garage_auto;;;;PagesJaunes
