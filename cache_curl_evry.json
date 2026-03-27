@@ -5729,6 +5729,405 @@
       "location_query": "lisses+91",
       "code_postal": "91540",
       "ville": "Mennecy"
+    },
+    {
+      "nom_pj": "Kia Cervinia 19 Concessionnaire",
+      "adresse_pj": "33 avenue 8 Mai 1945 91100 Corbeil Essonnes",
+      "telephone": "0169221920",
+      "pj_id": "60901554",
+      "categorie": "garage automobile",
+      "location_query": "lisses+91",
+      "code_postal": "91100",
+      "ville": "Corbeil Essonnes"
+    },
+    {
+      "nom_pj": "RB Auto",
+      "adresse_pj": "146 rue Corbeil 91090 Lisses",
+      "telephone": "0756834685",
+      "pj_id": "62615856",
+      "categorie": "garage automobile",
+      "location_query": "lisses+91",
+      "code_postal": "91090",
+      "ville": "Lisses"
+    },
+    {
+      "nom_pj": "Pare-Brise Éco Évry",
+      "adresse_pj": "6 rue Closerie 91090 Lisses",
+      "telephone": "0695301771",
+      "pj_id": "63703669",
+      "categorie": "garage automobile",
+      "location_query": "lisses+91",
+      "code_postal": "91090",
+      "ville": "Lisses"
+    },
+    {
+      "nom_pj": "TS Automobiles",
+      "adresse_pj": "23 rue Malines 91090 Lisses",
+      "telephone": "0984093177",
+      "pj_id": "64753961",
+      "categorie": "garage automobile",
+      "location_query": "lisses+91",
+      "code_postal": "91090",
+      "ville": "Lisses"
+    },
+    {
+      "nom_pj": "Citroën EVRY CORBEIL AUTOMOBILES",
+      "adresse_pj": "33 avenue 8 Mai 1945 91100 Corbeil Essonnes",
+      "telephone": "0169228100",
+      "pj_id": "00218633",
+      "categorie": "garage automobile",
+      "location_query": "lisses+91",
+      "code_postal": "91100",
+      "ville": "Corbeil Essonnes"
+    },
+    {
+      "nom_pj": "GBM AUTO 91",
+      "adresse_pj": "BATIMENT F 8 rue Closerie 91090 Lisses",
+      "telephone": "0769528031",
+      "pj_id": "64759804",
+      "categorie": "garage automobile",
+      "location_query": "lisses+91",
+      "code_postal": "91090",
+      "ville": "Lisses"
+    },
+    {
+      "nom_pj": "Renault Minute",
+      "adresse_pj": "46 avenue 8 Mai 1945 91100 Corbeil Essonnes",
+      "telephone": "0160905050",
+      "pj_id": "56472074",
+      "categorie": "garage automobile",
+      "location_query": "lisses+91",
+      "code_postal": "91100",
+      "ville": "Corbeil Essonnes"
+    },
+    {
+      "nom_pj": "Global Bus",
+      "adresse_pj": "17 rue Henri Dunant 91070 Bondoufle",
+      "telephone": "0160761220",
+      "pj_id": "51426754",
+      "categorie": "garage automobile",
+      "location_query": "lisses+91",
+      "code_postal": "91070",
+      "ville": "Bondoufle"
+    },
+    {
+      "nom_pj": "Uncle's Car",
+      "adresse_pj": "6 8 Zac Du Clos Aux Pois 6 rue Closerie 91090 Lisses",
+      "telephone": "0698533324",
+      "pj_id": "62417578",
+      "categorie": "garage automobile",
+      "location_query": "lisses+91",
+      "code_postal": "91090",
+      "ville": "Lisses"
+    },
+    {
+      "nom_pj": "Speed Auto",
+      "adresse_pj": "17 rue Bel Air 91090 Lisses",
+      "telephone": "0178058955",
+      "pj_id": "63544841",
+      "categorie": "garage automobile",
+      "location_query": "lisses+91",
+      "code_postal": "91090",
+      "ville": "Lisses"
+    },
+    {
+      "nom_pj": "Garage CNV",
+      "adresse_pj": "11 route Versailles 91080 Courcouronnes",
+      "telephone": "0160771984",
+      "pj_id": "01670647",
+      "categorie": "garage automobile",
+      "location_query": "lisses+91",
+      "code_postal": "91080",
+      "ville": "Courcouronnes"
+    },
+    {
+      "nom_pj": "Ben's Motors",
+      "adresse_pj": "17 rue Malines 91090 Lisses",
+      "telephone": "0760190280",
+      "pj_id": "63854277",
+      "categorie": "garage automobile",
+      "location_query": "lisses+91",
+      "code_postal": "91090",
+      "ville": "Lisses"
+    },
+    {
+      "nom_pj": "TM Pneus",
+      "adresse_pj": "8 rue Cantal 91090 Lisses",
+      "telephone": "0175665341",
+      "pj_id": "64666219",
+      "categorie": "garage automobile",
+      "location_query": "lisses+91",
+      "code_postal": "91090",
+      "ville": "Lisses"
+    },
+    {
+      "nom_pj": "AMS - Auto",
+      "adresse_pj": "11 rue André Lalande 91000 Evry",
+      "pj_id": "55286062",
+      "categorie": "garage automobile",
+      "location_query": "lisses+91",
+      "code_postal": "91000",
+      "ville": "Evry"
+    },
+    {
+      "nom_pj": "Skoda Vega Automobiles Concessionnaires",
+      "adresse_pj": "66- 68 route Lisses 91100 Corbeil Essonnes",
+      "telephone": "0160908010",
+      "pj_id": "64531346",
+      "categorie": "garage automobile",
+      "location_query": "lisses+91",
+      "code_postal": "91100",
+      "ville": "Corbeil Essonnes"
+    },
+    {
+      "nom_pj": "Renault",
+      "adresse_pj": "11 Rte de Versailles 11 route Versailles 91080 Courcouronnes",
+      "telephone": "0160771984",
+      "pj_id": "63539330",
+      "categorie": "garage automobile",
+      "location_query": "lisses+91",
+      "code_postal": "91080",
+      "ville": "Courcouronnes"
+    },
+    {
+      "nom_pj": "OUFIR RADOUANE",
+      "adresse_pj": "12 impasse Maxime Lisbonne 91000 Evry",
+      "telephone": "0662309099",
+      "pj_id": "61172724",
+      "categorie": "garage automobile",
+      "location_query": "lisses+91",
+      "code_postal": "91000",
+      "ville": "Evry"
+    },
+    {
+      "nom_pj": "Rebaia Landoulsi",
+      "adresse_pj": "3 rue Honoré D'Estienne d'Orves 91000 Evry",
+      "telephone": "0980533163",
+      "pj_id": "54579466",
+      "categorie": "garage automobile",
+      "location_query": "lisses+91",
+      "code_postal": "91000",
+      "ville": "Evry"
+    },
+    {
+      "nom_pj": "Dacia Groupe Maurin Concessionnaire",
+      "adresse_pj": "46 avenue 8 Mai 1945 91100 Corbeil Essonnes",
+      "telephone": "0160905050",
+      "pj_id": "62699372",
+      "categorie": "garage automobile",
+      "location_query": "lisses+91",
+      "code_postal": "91100",
+      "ville": "Corbeil Essonnes"
+    },
+    {
+      "nom_pj": "ITIS AUTO",
+      "adresse_pj": "15 allée Butte Rouge 91000 Evry",
+      "telephone": "0675932822",
+      "pj_id": "60305108",
+      "categorie": "garage automobile",
+      "location_query": "lisses+91",
+      "code_postal": "91000",
+      "ville": "Evry"
+    },
+    {
+      "nom_pj": "Crack'Auto",
+      "adresse_pj": "24 avenue Courtes Epluches 91100 Villabé",
+      "telephone": "0160889097",
+      "pj_id": "09365753",
+      "categorie": "garage automobile",
+      "location_query": "lisses+91",
+      "code_postal": "91100",
+      "ville": "Villabé"
+    },
+    {
+      "nom_pj": "S.T.E Auto",
+      "adresse_pj": "30 avenue Courtes Epluches 91100 Villabé",
+      "telephone": "0660193256",
+      "pj_id": "57019289",
+      "categorie": "garage automobile",
+      "location_query": "lisses+91",
+      "code_postal": "91100",
+      "ville": "Villabé"
+    },
+    {
+      "nom_pj": "Rebaia Landoulsi",
+      "adresse_pj": "3 rue Honoré D'Estienne d'Orves 91000 Evry",
+      "telephone": "0980533163",
+      "pj_id": "54579466",
+      "categorie": "garage automobile",
+      "location_query": "lisses+91",
+      "code_postal": "91000",
+      "ville": "Evry"
+    },
+    {
+      "nom_pj": "ITIS AUTO",
+      "adresse_pj": "15 allée Butte Rouge 91000 Evry",
+      "telephone": "0675932822",
+      "pj_id": "60305108",
+      "categorie": "garage automobile",
+      "location_query": "lisses+91",
+      "code_postal": "91000",
+      "ville": "Evry"
+    },
+    {
+      "nom_pj": "Leader Auto",
+      "adresse_pj": "14 rue Jacques Anquetil 91100 Corbeil Essonnes",
+      "telephone": "0786362185",
+      "pj_id": "62741860",
+      "categorie": "garage automobile",
+      "location_query": "lisses+91",
+      "code_postal": "91100",
+      "ville": "Corbeil Essonnes"
+    },
+    {
+      "nom_pj": "CARGLASS Pare-Brise Viry Chatillon",
+      "adresse_pj": "RN7 64 avenue Gén de Gaulle 91170 Viry Chatillon",
+      "telephone": "0977401920",
+      "pj_id": "06030326",
+      "categorie": "garage automobile",
+      "location_query": "lisses+91",
+      "code_postal": "91170",
+      "ville": "Viry Chatillon"
+    },
+    {
+      "nom_pj": "CARGLASS Pare-Brise Bretigny sur Orge",
+      "adresse_pj": "chemin Départemental 133 91220 Brétigny sur Orge",
+      "telephone": "0977401920",
+      "pj_id": "59027967",
+      "categorie": "garage automobile",
+      "location_query": "lisses+91",
+      "code_postal": "91220",
+      "ville": "Brétigny sur Orge"
+    },
+    {
+      "nom_pj": "CARGLASS Pare-Brise Epinay sur Orge",
+      "adresse_pj": "route Departementale 257 91360 Epinay sur Orge",
+      "telephone": "0977401920",
+      "pj_id": "57406474",
+      "categorie": "garage automobile",
+      "location_query": "lisses+91",
+      "code_postal": "91360",
+      "ville": "Epinay sur Orge"
+    },
+    {
+      "nom_pj": "Garage Le Baron et Fils",
+      "adresse_pj": "56 route nationale 6 91800 Brunoy",
+      "telephone": "0169437710",
+      "pj_id": "00219310",
+      "categorie": "garage automobile",
+      "location_query": "lisses+91",
+      "code_postal": "91800",
+      "ville": "Brunoy"
+    },
+    {
+      "nom_pj": "Autos Pièces Services 77",
+      "adresse_pj": "22 rue Elsa Triolet 77176 Savigny le Temple",
+      "telephone": "0164101010",
+      "pj_id": "59251774",
+      "categorie": "garage automobile",
+      "location_query": "lisses+91",
+      "code_postal": "77176",
+      "ville": "Savigny le Temple"
+    },
+    {
+      "nom_pj": "Boussy Autos",
+      "adresse_pj": "36 rue Forêt 91860 Epinay sous Sénart",
+      "telephone": "0651552830",
+      "pj_id": "12403005",
+      "categorie": "garage automobile",
+      "location_query": "lisses+91",
+      "code_postal": "91860",
+      "ville": "Epinay sous Sénart"
+    },
+    {
+      "nom_pj": "CARGLASS Pare-Brise Longpont sur Orge",
+      "adresse_pj": "RN 20 58 Bis avenue Division Leclerc 91310 Longpont sur Orge",
+      "telephone": "0977401920",
+      "pj_id": "06030028",
+      "categorie": "garage automobile",
+      "location_query": "lisses+91",
+      "code_postal": "91310",
+      "ville": "Longpont sur Orge"
+    },
+    {
+      "nom_pj": "Auto Export 91",
+      "adresse_pj": "13 avenue Jacques Chirac 91200 Athis Mons",
+      "telephone": "0160485252",
+      "pj_id": "06029251",
+      "categorie": "garage automobile",
+      "location_query": "lisses+91",
+      "code_postal": "91200",
+      "ville": "Athis Mons"
+    },
+    {
+      "nom_pj": "MAJESTIC PIECES AUTO",
+      "adresse_pj": "1 rue Mares Juliennes 91380 Chilly Mazarin",
+      "telephone": "0160925512",
+      "pj_id": "62514380",
+      "categorie": "garage automobile",
+      "location_query": "lisses+91",
+      "code_postal": "91380",
+      "ville": "Chilly Mazarin"
+    },
+    {
+      "nom_pj": "CARGLASS Pare-Brise Villebon sur Yvette",
+      "adresse_pj": "Centre Commercial Villebon 2, niveau 3 avenue Plesse 91140 Villebon sur Yvette",
+      "telephone": "0977401920",
+      "pj_id": "59679852",
+      "categorie": "garage automobile",
+      "location_query": "lisses+91",
+      "code_postal": "91140",
+      "ville": "Villebon sur Yvette"
+    },
+    {
+      "nom_pj": "Ligier Microcar Urban's Cars Concessionnaire",
+      "adresse_pj": "7 rue Brévannes 94470 Boissy Saint Léger",
+      "telephone": "0145989064",
+      "pj_id": "54594279",
+      "categorie": "garage automobile",
+      "location_query": "lisses+91",
+      "code_postal": "94470",
+      "ville": "Boissy Saint Léger"
+    },
+    {
+      "nom_pj": "CARGLASS Pare-Brise Les Ulis",
+      "adresse_pj": "ZAC Courtaboeuf 1 avenue Océanie 91940 Les Ulis",
+      "telephone": "0977401920",
+      "pj_id": "56250239",
+      "categorie": "garage automobile",
+      "location_query": "lisses+91",
+      "code_postal": "91940",
+      "ville": "Les Ulis"
+    },
+    {
+      "nom_pj": "CARGLASS Pare-Brise Milly la Foret",
+      "adresse_pj": "Station-service TOTAL Access - RN 148 58 avenue Ganay 91490 Milly la Forêt",
+      "telephone": "0977401920",
+      "pj_id": "56012424",
+      "categorie": "garage automobile",
+      "location_query": "lisses+91",
+      "code_postal": "91490",
+      "ville": "Milly la Forêt"
+    },
+    {
+      "nom_pj": "CARGLASS Pare-Brise Morigny Champigny",
+      "adresse_pj": "Parc Brunehaut route Nationale 20 91150 Morigny Champigny",
+      "telephone": "0977401920",
+      "pj_id": "55400133",
+      "categorie": "garage automobile",
+      "location_query": "lisses+91",
+      "code_postal": "91150",
+      "ville": "Morigny Champigny"
+    },
+    {
+      "nom_pj": "Renault Miles Auto Agent",
+      "adresse_pj": "1 avenue Gén de Gaulle 92360 Meudon la Forêt",
+      "telephone": "0180871794",
+      "pj_id": "64443411",
+      "categorie": "garage automobile",
+      "location_query": "lisses+91",
+      "code_postal": "92360",
+      "ville": "Meudon la Forêt"
     }
   ]
 }
