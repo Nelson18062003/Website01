@@ -1,0 +1,2346 @@
+[
+  {
+    "nom_pj": "BMW MINI Indigo Lisses",
+    "adresse_pj": "D260 2 route Villabé 91090 Lisses",
+    "code_postal_pj": "91090",
+    "ville_pj": "Lisses",
+    "telephone": "01 69 87 70 70",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Lisses Auto",
+    "adresse_pj": "9 rue Mennecy 91090 Lisses",
+    "code_postal_pj": "91090",
+    "ville_pj": "Lisses",
+    "telephone": "01 64 97 59 51",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Garage de la Marinière",
+    "adresse_pj": "Zone Industrielle Des Ciroliers 32 rue Edouard Aubert 91700 Fleury Mérogis",
+    "code_postal_pj": "91700",
+    "ville_pj": "Fleury Mérogis",
+    "telephone": "01 60 16 60 19",
+    "site_web": "http://www.garage-de-la-mariniere.fr",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Garage Du Souterrain",
+    "adresse_pj": "59 rue Mar de Lattre de Tassigny 91100 Corbeil Essonnes",
+    "code_postal_pj": "91100",
+    "ville_pj": "Corbeil Essonnes",
+    "telephone": "0750000127",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Renault Concessionnaire",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00219810&code_localite=L09122800&code_rubrique=061240",
+    "adresse_pj": "46 avenue 8 Mai 1945 91100 Corbeil Essonnes",
+    "code_postal_pj": "91100",
+    "ville_pj": "Corbeil Essonnes",
+    "telephone": "01 60 90 50 50",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "TYGROO PNEUS",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=61030423&code_localite=L09122800&code_rubrique=000220",
+    "adresse_pj": "48 rue Paul Claudel 91000 Evry",
+    "code_postal_pj": "91000",
+    "ville_pj": "Evry",
+    "telephone": "09 86 36 56 31",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Feu Vert Services",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=50492268&code_localite=L09122800&code_rubrique=388310",
+    "adresse_pj": "route Villoison 91100 Villabé",
+    "code_postal_pj": "91100",
+    "ville_pj": "Villabé",
+    "telephone": "01 60 86 38 92",
+    "site_web": "https://www.feuvert.fr/toutes-nos-prestations-ateliers/r2745.html?setcenter=405?utm_campaign=bouton_RDV_PJ&utm_medium=display&utm_source=PagesJaunes",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "LIVING CARS",
+    "adresse_pj": "5 rue Gutenberg 91070 Bondoufle",
+    "code_postal_pj": "91070",
+    "ville_pj": "Bondoufle",
+    "telephone": "07 83 33 15 34",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Midas",
+    "adresse_pj": "Les Pyramides Rn7 rue Paul Claudel 91000 Evry",
+    "code_postal_pj": "91000",
+    "ville_pj": "Evry",
+    "telephone": "01 60 77 86 16",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Brie Champagne",
+    "adresse_pj": "6 avenue Paul Maintenant 91100 Corbeil Essonnes",
+    "code_postal_pj": "91100",
+    "ville_pj": "Corbeil Essonnes",
+    "telephone": "0691914365",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Atelier Du Pneu",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=61176899&code_localite=L09122800&code_rubrique=388310",
+    "adresse_pj": "8 rue Gaz 91100 Corbeil Essonnes",
+    "code_postal_pj": "91100",
+    "ville_pj": "Corbeil Essonnes",
+    "telephone": "0720831000",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Evry Pieces Auto",
+    "adresse_pj": "10 rue Paul Claudel 91000 Evry",
+    "code_postal_pj": "91000",
+    "ville_pj": "Evry",
+    "telephone": "01 60 77 81 04",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "CARGLASS Pare-Brise Corbeil Essonnes",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=07469513&code_localite=L09122800&code_rubrique=388310",
+    "adresse_pj": "2 avenue Paul Maintenant 91100 Corbeil Essonnes",
+    "code_postal_pj": "91100",
+    "ville_pj": "Corbeil Essonnes",
+    "telephone": "09 77 40 19 20",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Hyundai Cap Fournier",
+    "adresse_pj": "17 avenue 8 Mai 1945 91100 Corbeil Essonnes",
+    "code_postal_pj": "91100",
+    "ville_pj": "Corbeil Essonnes",
+    "telephone": "0531000086",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Nissan Avenir Corbeil",
+    "adresse_pj": "56 avenue 8 Mai 1945 91100 Corbeil Essonnes",
+    "code_postal_pj": "91100",
+    "ville_pj": "Corbeil Essonnes",
+    "telephone": "01 64 96 51 91",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Service Auto Concept",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=60731990&code_localite=L09122800&code_rubrique=388310",
+    "adresse_pj": "12 rue Gutenberg 91070 Bondoufle",
+    "code_postal_pj": "91070",
+    "ville_pj": "Bondoufle",
+    "telephone": "06 60 60 42 36",
+    "site_web": "https://www.service-auto-concept.fr/",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Dekra Contrôle Plus Indépendant",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=52207071&code_localite=L09122800&code_rubrique=388310",
+    "adresse_pj": "Zone Industrielle La Mariniere 5 rue Gutenberg 91070 Bondoufle",
+    "code_postal_pj": "91070",
+    "ville_pj": "Bondoufle",
+    "telephone": "01 60 86 10 87",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Hatauto",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=57438735&code_localite=L09122800&code_rubrique=388310",
+    "adresse_pj": "6 square Vesoul 91080 Courcouronnes",
+    "code_postal_pj": "91080",
+    "ville_pj": "Courcouronnes",
+    "telephone": "06 56 74 96 54",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Peugeot - C.D.J Auto",
+    "adresse_pj": "ZI La Marinière 2 rue Gutenberg 91070 Bondoufle",
+    "code_postal_pj": "91070",
+    "ville_pj": "Bondoufle",
+    "telephone": "01 60 86 43 00",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Suzuki Corbeil Automobile - Car Lovers",
+    "adresse_pj": "Espace Coquibus 4 rue Jacques Anquetil 91100 Corbeil Essonnes",
+    "code_postal_pj": "91100",
+    "ville_pj": "Corbeil Essonnes",
+    "telephone": "01 75 90 97 69",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Citroën EVRY CORBEIL AUTOMOBILES",
+    "adresse_pj": "33 avenue 8 Mai 1945 91100 Corbeil Essonnes",
+    "code_postal_pj": "91100",
+    "ville_pj": "Corbeil Essonnes",
+    "telephone": "01 69 22 81 00",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "AMS - Auto",
+    "adresse_pj": "11 rue André Lalande 91000 Evry",
+    "code_postal_pj": "91000",
+    "ville_pj": "Evry",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Paris Sud Prestige Automobile",
+    "adresse_pj": "11 rue Gutenberg 91070 Bondoufle",
+    "code_postal_pj": "91070",
+    "ville_pj": "Bondoufle",
+    "telephone": "06 67 39 32 38",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Kia Cervinia 19 Concessionnaire",
+    "adresse_pj": "33 avenue 8 Mai 1945 91100 Corbeil Essonnes",
+    "code_postal_pj": "91100",
+    "ville_pj": "Corbeil Essonnes",
+    "telephone": "01 69 22 19 20",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "CARGLASS Pare-Brise Viry Chatillon",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=06030326&code_localite=L09122800&code_rubrique=388310",
+    "adresse_pj": "RN7 64 avenue Gén de Gaulle 91170 Viry Chatillon",
+    "code_postal_pj": "91170",
+    "ville_pj": "Viry Chatillon",
+    "telephone": "09 77 40 19 20",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Service Auto Concept",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=60731990&code_localite=L09122800&code_rubrique=388310",
+    "adresse_pj": "12 rue Gutenberg 91070 Bondoufle",
+    "code_postal_pj": "91070",
+    "ville_pj": "Bondoufle",
+    "telephone": "06 60 60 42 36",
+    "site_web": "https://www.service-auto-concept.fr/",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Peugeot Groupe Gueudet Concessionnaire",
+    "adresse_pj": "15 rue Jacques Anquetil 91100 Corbeil Essonnes",
+    "code_postal_pj": "91100",
+    "ville_pj": "Corbeil Essonnes",
+    "telephone": "01 69 22 82 40",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Hatauto",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=57438735&code_localite=L09122800&code_rubrique=388310",
+    "adresse_pj": "6 square Vesoul 91080 Courcouronnes",
+    "code_postal_pj": "91080",
+    "ville_pj": "Courcouronnes",
+    "telephone": "06 56 74 96 54",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Garage RPA SAS",
+    "adresse_pj": "10 rue Closerie 91090 Lisses",
+    "code_postal_pj": "91090",
+    "ville_pj": "Lisses",
+    "telephone": "0880000637",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Teknik Motor Sport",
+    "adresse_pj": "11 boulevard Coquibus 91000 Evry",
+    "code_postal_pj": "91000",
+    "ville_pj": "Evry",
+    "telephone": "09 81 11 31 70",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Frogs 2000",
+    "adresse_pj": "6 rue Petits Champs 91100 Villabé",
+    "code_postal_pj": "91100",
+    "ville_pj": "Villabé",
+    "telephone": "01 64 57 47 76",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "OUFIR RADOUANE",
+    "adresse_pj": "12 impasse Maxime Lisbonne 91000 Evry",
+    "code_postal_pj": "91000",
+    "ville_pj": "Evry",
+    "telephone": "06 62 30 90 99",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Essentiel",
+    "adresse_pj": "50 avenue 8 Mai 1945 91100 Corbeil Essonnes",
+    "code_postal_pj": "91100",
+    "ville_pj": "Corbeil Essonnes",
+    "telephone": "01 60 89 14 14",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Mondial Garage",
+    "adresse_pj": "117 boulevard John Kennedy 91100 Corbeil Essonnes",
+    "code_postal_pj": "91100",
+    "ville_pj": "Corbeil Essonnes",
+    "telephone": "07 82 07 86 14",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Dépannage 3J",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=50231765&code_localite=L09122800&code_rubrique=388310",
+    "adresse_pj": "36 rue Tournenfils 91540 Mennecy",
+    "code_postal_pj": "91540",
+    "ville_pj": "Mennecy",
+    "telephone": "01 69 09 81 18",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Garage Bcr",
+    "adresse_pj": "22 Bis rue Malines 91090 Lisses",
+    "code_postal_pj": "91090",
+    "ville_pj": "Lisses",
+    "telephone": "01 60 86 18 38",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Station-Services Total",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=55942519&code_localite=L09122800&code_rubrique=061240",
+    "adresse_pj": "23 rue Villeroy 91070 Bondoufle",
+    "code_postal_pj": "91070",
+    "ville_pj": "Bondoufle",
+    "telephone": "01 60 86 46 95",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Auto Eco 91",
+    "adresse_pj": "3 rue Jules Guesde 91130 Ris Orangis",
+    "code_postal_pj": "91130",
+    "ville_pj": "Ris Orangis",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Aramisauto Sainte-Geneviève-des-Bois",
+    "adresse_pj": "13 avenue Régiment Normandie Niemen 91700 Sainte Geneviève des Bois",
+    "code_postal_pj": "91700",
+    "ville_pj": "Sainte Geneviève des Bois",
+    "telephone": "0903310000",
+    "site_web": "https://www.aramisauto.com/contact/prise-rdv",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Garage Danesh",
+    "adresse_pj": "12 rue Gutenberg 91070 Bondoufle",
+    "code_postal_pj": "91070",
+    "ville_pj": "Bondoufle",
+    "telephone": "01 47 83 22 18",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Station-Services Total",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=55942519&code_localite=L09122800&code_rubrique=061240",
+    "adresse_pj": "23 rue Villeroy 91070 Bondoufle",
+    "code_postal_pj": "91070",
+    "ville_pj": "Bondoufle",
+    "telephone": "01 60 86 46 95",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Lionel Auto",
+    "adresse_pj": "Courcouronnes 6 rue Paul Claudel 91000 Evry",
+    "code_postal_pj": "91000",
+    "ville_pj": "Evry",
+    "telephone": "06 49 01 65 15",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Mondial Garage",
+    "adresse_pj": "117 boulevard John Kennedy 91100 Corbeil Essonnes",
+    "code_postal_pj": "91100",
+    "ville_pj": "Corbeil Essonnes",
+    "telephone": "07 82 07 86 14",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Garage CNV",
+    "adresse_pj": "11 route Versailles 91080 Courcouronnes",
+    "code_postal_pj": "91080",
+    "ville_pj": "Courcouronnes",
+    "telephone": "01 60 77 19 84",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Business Autos",
+    "adresse_pj": "14 rue Bois Guillaume 91000 Evry",
+    "code_postal_pj": "91000",
+    "ville_pj": "Evry",
+    "telephone": "06 14 35 91 66",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Pare-Brise Éco Évry",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=63703669&code_localite=L09122800&code_rubrique=388310",
+    "adresse_pj": "6 rue Closerie 91090 Lisses",
+    "code_postal_pj": "91090",
+    "ville_pj": "Lisses",
+    "telephone": "06 95 30 17 71",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Activ'Auto",
+    "adresse_pj": "Automobile A Bondoufle 15 rue Gutenberg 91070 Bondoufle",
+    "code_postal_pj": "91070",
+    "ville_pj": "Bondoufle",
+    "telephone": "06 71 63 39 46",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "CSV Auto Point S",
+    "adresse_pj": "18 boulevard Charles de Gaulle 91540 Mennecy",
+    "code_postal_pj": "91540",
+    "ville_pj": "Mennecy",
+    "telephone": "01 69 23 32 19",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Garage Danesh",
+    "adresse_pj": "12 rue Gutenberg 91070 Bondoufle",
+    "code_postal_pj": "91070",
+    "ville_pj": "Bondoufle",
+    "telephone": "01 47 83 22 18",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Is Auto",
+    "adresse_pj": "6 rue Jules Guesde 91130 Ris Orangis",
+    "code_postal_pj": "91130",
+    "ville_pj": "Ris Orangis",
+    "telephone": "01 72 49 52 24",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Renault Minute",
+    "adresse_pj": "46 avenue 8 Mai 1945 91100 Corbeil Essonnes",
+    "code_postal_pj": "91100",
+    "ville_pj": "Corbeil Essonnes",
+    "telephone": "01 60 90 50 50",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Lavage Auto 3000",
+    "adresse_pj": "rue Paul Claudel 91000 Evry",
+    "code_postal_pj": "91000",
+    "ville_pj": "Evry",
+    "telephone": "06 08 24 02 90",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "RB Auto",
+    "adresse_pj": "146 rue Corbeil 91090 Lisses",
+    "code_postal_pj": "91090",
+    "ville_pj": "Lisses",
+    "telephone": "07 56 83 46 85",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Global Bus",
+    "adresse_pj": "17 rue Henri Dunant 91070 Bondoufle",
+    "code_postal_pj": "91070",
+    "ville_pj": "Bondoufle",
+    "telephone": "01 60 76 12 20",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Uncle's Car",
+    "adresse_pj": "6 8 Zac Du Clos Aux Pois 6 rue Closerie 91090 Lisses",
+    "code_postal_pj": "91090",
+    "ville_pj": "Lisses",
+    "telephone": "06 98 53 33 24",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Naïma Engar",
+    "adresse_pj": "7 rue Mathilde 91000 Evry",
+    "code_postal_pj": "91000",
+    "ville_pj": "Evry",
+    "telephone": "09 84 50 10 55",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Dépannage 3J",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=50231765&code_localite=L09122800&code_rubrique=388310",
+    "adresse_pj": "36 rue Tournenfils 91540 Mennecy",
+    "code_postal_pj": "91540",
+    "ville_pj": "Mennecy",
+    "telephone": "01 69 09 81 18",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Dacia Groupe Maurin Concessionnaire",
+    "adresse_pj": "46 avenue 8 Mai 1945 91100 Corbeil Essonnes",
+    "code_postal_pj": "91100",
+    "ville_pj": "Corbeil Essonnes",
+    "telephone": "01 60 90 50 50",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Bernier Garage du Chateau",
+    "adresse_pj": "Zac La Croix Blanche 4 avenue Bout du Plessis 91700 Sainte Geneviève des Bois",
+    "code_postal_pj": "91700",
+    "ville_pj": "Sainte Geneviève des Bois",
+    "telephone": "01 60 15 29 27",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Routeco",
+    "adresse_pj": "219 route Fleury 91170 Viry Chatillon",
+    "code_postal_pj": "91170",
+    "ville_pj": "Viry Chatillon",
+    "telephone": "01 69 24 49 29",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "TM Pneus",
+    "adresse_pj": "8 rue Cantal 91090 Lisses",
+    "code_postal_pj": "91090",
+    "ville_pj": "Lisses",
+    "telephone": "01 75 66 53 41",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Assainicap",
+    "adresse_pj": "Zac De La Mariniere 13 rue Gutenberg 91070 Bondoufle",
+    "code_postal_pj": "91070",
+    "ville_pj": "Bondoufle",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Dépannage 3J - Ris Orangis",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=07996856&code_localite=L09122800&code_rubrique=388310",
+    "adresse_pj": "7 avenue Joliot Curie 91130 Ris Orangis",
+    "code_postal_pj": "91130",
+    "ville_pj": "Ris Orangis",
+    "telephone": "01 69 09 81 18",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Garage CNV",
+    "adresse_pj": "11 route Versailles 91080 Courcouronnes",
+    "code_postal_pj": "91080",
+    "ville_pj": "Courcouronnes",
+    "telephone": "01 60 77 19 84",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "S.T.E Auto",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=57019289&code_localite=L09122800&code_rubrique=388310",
+    "adresse_pj": "30 avenue Courtes Epluches 91100 Villabé",
+    "code_postal_pj": "91100",
+    "ville_pj": "Villabé",
+    "telephone": "06 60 19 32 56",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Avel Auto",
+    "adresse_pj": "9 rue Canal 91070 Bondoufle",
+    "code_postal_pj": "91070",
+    "ville_pj": "Bondoufle",
+    "telephone": "01 59 13 34 44",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Routeco",
+    "adresse_pj": "219 route Fleury 91170 Viry Chatillon",
+    "code_postal_pj": "91170",
+    "ville_pj": "Viry Chatillon",
+    "telephone": "01 69 24 49 29",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Speed Auto",
+    "adresse_pj": "17 rue Bel Air 91090 Lisses",
+    "code_postal_pj": "91090",
+    "ville_pj": "Lisses",
+    "telephone": "01 78 05 89 55",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Honorine Samevi",
+    "adresse_pj": "square Quatre Bacheliers 91080 Courcouronnes",
+    "code_postal_pj": "91080",
+    "ville_pj": "Courcouronnes",
+    "telephone": "09 80 49 99 50",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "CSV Auto Point S",
+    "adresse_pj": "18 boulevard Charles de Gaulle 91540 Mennecy",
+    "code_postal_pj": "91540",
+    "ville_pj": "Mennecy",
+    "telephone": "01 69 23 32 19",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "TS Automobiles",
+    "adresse_pj": "23 rue Malines 91090 Lisses",
+    "code_postal_pj": "91090",
+    "ville_pj": "Lisses",
+    "telephone": "09 84 09 31 77",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Soo Cars",
+    "adresse_pj": "18 rue Plessis Briard 91080 Courcouronnes",
+    "code_postal_pj": "91080",
+    "ville_pj": "Courcouronnes",
+    "telephone": "01 60 77 03 93",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Atlantico UTilitaires",
+    "adresse_pj": "16 rue Fosse aux Leux 91700 Sainte Geneviève des Bois",
+    "code_postal_pj": "91700",
+    "ville_pj": "Sainte Geneviève des Bois",
+    "telephone": "01 60 47 41 41",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Skoda Vega Automobiles Concessionnaires",
+    "adresse_pj": "66- 68 route Lisses 91100 Corbeil Essonnes",
+    "code_postal_pj": "91100",
+    "ville_pj": "Corbeil Essonnes",
+    "telephone": "01 60 90 80 10",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "GBM AUTO 91",
+    "adresse_pj": "BATIMENT F 8 rue Closerie 91090 Lisses",
+    "code_postal_pj": "91090",
+    "ville_pj": "Lisses",
+    "telephone": "07 69 52 80 31",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Garage Le Baron et Fils",
+    "adresse_pj": "56 route nationale 6 91800 Brunoy",
+    "code_postal_pj": "91800",
+    "ville_pj": "Brunoy",
+    "telephone": "01 69 43 77 10",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Uncle's Car",
+    "adresse_pj": "6 8 Zac Du Clos Aux Pois 6 rue Closerie 91090 Lisses",
+    "code_postal_pj": "91090",
+    "ville_pj": "Lisses",
+    "telephone": "06 98 53 33 24",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "GMS",
+    "adresse_pj": "1 avenue Bois de l'Epine 91080 Courcouronnes",
+    "code_postal_pj": "91080",
+    "ville_pj": "Courcouronnes",
+    "telephone": "01 80 85 90 17",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "AUTO SUD 91",
+    "adresse_pj": "5 rue Gutenberg 91070 Bondoufle",
+    "code_postal_pj": "91070",
+    "ville_pj": "Bondoufle",
+    "telephone": "07 68 34 60 88",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Peugeot LECA S.A.S Réparateur agréé",
+    "adresse_pj": "Zac La Croix Blanche 1 avenue Bout du Plessis 91700 Sainte Geneviève des Bois",
+    "code_postal_pj": "91700",
+    "ville_pj": "Sainte Geneviève des Bois",
+    "telephone": "01 60 16 31 63",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "OSKAST",
+    "adresse_pj": "3 rue Jules Guesde 91130 Ris Orangis",
+    "code_postal_pj": "91130",
+    "ville_pj": "Ris Orangis",
+    "telephone": "06 04 67 67 84",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Assainicap",
+    "adresse_pj": "Zac De La Mariniere 13 rue Gutenberg 91070 Bondoufle",
+    "code_postal_pj": "91070",
+    "ville_pj": "Bondoufle",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Loc'azion",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=55895009&code_localite=L09122800&code_rubrique=061240",
+    "adresse_pj": "13 rue Abbé Grégoire 91350 Grigny",
+    "code_postal_pj": "91350",
+    "ville_pj": "Grigny",
+    "telephone": "06 26 41 27 96",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Garage du Polygone",
+    "adresse_pj": "3 rue Jules Guesde 91130 Ris Orangis",
+    "code_postal_pj": "91130",
+    "ville_pj": "Ris Orangis",
+    "telephone": "04 67 17 73 97",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Nadmadsam Autos",
+    "adresse_pj": "12 rue Bicentenaire Révolution 91220 Le Plessis Pâté",
+    "code_postal_pj": "91220",
+    "ville_pj": "Le Plessis Pâté",
+    "telephone": "01 60 84 43 67",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "TS Automobiles",
+    "adresse_pj": "23 rue Malines 91090 Lisses",
+    "code_postal_pj": "91090",
+    "ville_pj": "Lisses",
+    "telephone": "09 84 09 31 77",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Ambicion",
+    "adresse_pj": "12 rue Petit Fief 91700 Sainte Geneviève des Bois",
+    "code_postal_pj": "91700",
+    "ville_pj": "Sainte Geneviève des Bois",
+    "telephone": "01 60 15 01 34",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "GBM AUTO 91",
+    "adresse_pj": "BATIMENT F 8 rue Closerie 91090 Lisses",
+    "code_postal_pj": "91090",
+    "ville_pj": "Lisses",
+    "telephone": "07 69 52 80 31",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "S.T.E Auto",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=57019289&code_localite=L09122800&code_rubrique=388310",
+    "adresse_pj": "30 avenue Courtes Epluches 91100 Villabé",
+    "code_postal_pj": "91100",
+    "ville_pj": "Villabé",
+    "telephone": "06 60 19 32 56",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "CARGLASS Pare-Brise Epinay sur Orge",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=57406474&code_localite=L09122800&code_rubrique=388310",
+    "adresse_pj": "route Departementale 257 91360 Epinay sur Orge",
+    "code_postal_pj": "91360",
+    "ville_pj": "Epinay sur Orge",
+    "telephone": "09 77 40 19 20",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Skm 91 Occasions",
+    "adresse_pj": "8 rue Jean Jacques Rousseau 91700 Sainte Geneviève des Bois",
+    "code_postal_pj": "91700",
+    "ville_pj": "Sainte Geneviève des Bois",
+    "telephone": "09 86 45 25 91",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Bema Vitesse",
+    "adresse_pj": "4 rue Diderot 91240 Saint Michel sur Orge",
+    "code_postal_pj": "91240",
+    "ville_pj": "Saint Michel sur Orge",
+    "telephone": "06 40 98 22 68",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Boussy Autos",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=12403005&code_localite=L09122800&code_rubrique=388310",
+    "adresse_pj": "36 rue Forêt 91860 Epinay sous Sénart",
+    "code_postal_pj": "91860",
+    "ville_pj": "Epinay sous Sénart",
+    "telephone": "06 51 55 28 30",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Auto Export 91",
+    "adresse_pj": "13 avenue Jacques Chirac 91200 Athis Mons",
+    "code_postal_pj": "91200",
+    "ville_pj": "Athis Mons",
+    "telephone": "01 60 48 52 52",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "CARGLASS Pare-Brise Bretigny sur Orge",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=59027967&code_localite=L09122800&code_rubrique=388310",
+    "adresse_pj": "chemin Départemental 133 91220 Brétigny sur Orge",
+    "code_postal_pj": "91220",
+    "ville_pj": "Brétigny sur Orge",
+    "telephone": "09 77 40 19 20",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "OUEST AUTOMOBILE DISTRIBUTION",
+    "adresse_pj": "70 avenue Charles de Gaulle 91220 Brétigny sur Orge",
+    "code_postal_pj": "91220",
+    "ville_pj": "Brétigny sur Orge",
+    "telephone": "01 60 84 68 10",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Autos Pièces Services 77",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=59251774&code_localite=L09122800&code_rubrique=388310",
+    "adresse_pj": "22 rue Elsa Triolet 77176 Savigny le Temple",
+    "code_postal_pj": "77176",
+    "ville_pj": "Savigny le Temple",
+    "telephone": "01 64 10 10 10",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "CARGLASS Pare-Brise Longpont sur Orge",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=06030028&code_localite=L09122800&code_rubrique=388310",
+    "adresse_pj": "RN 20 58 Bis avenue Division Leclerc 91310 Longpont sur Orge",
+    "code_postal_pj": "91310",
+    "ville_pj": "Longpont sur Orge",
+    "telephone": "09 77 40 19 20",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "CARGLASS Pare-Brise Villebon sur Yvette",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=59679852&code_localite=L09122800&code_rubrique=388310",
+    "adresse_pj": "Centre Commercial Villebon 2, niveau 3 avenue Plesse 91140 Villebon sur Yvette",
+    "code_postal_pj": "91140",
+    "ville_pj": "Villebon sur Yvette",
+    "telephone": "09 77 40 19 20",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "MAJESTIC PIECES AUTO",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=62514380&code_localite=L09122800&code_rubrique=388500",
+    "adresse_pj": "1 rue Mares Juliennes 91380 Chilly Mazarin",
+    "code_postal_pj": "91380",
+    "ville_pj": "Chilly Mazarin",
+    "telephone": "01 60 92 55 12",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Ligier Microcar Urban's Cars Concessionnaire",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=54594279&code_localite=L09122800&code_rubrique=388310",
+    "adresse_pj": "7 rue Brévannes 94470 Boissy Saint Léger",
+    "code_postal_pj": "94470",
+    "ville_pj": "Boissy Saint Léger",
+    "telephone": "01 45 98 90 64",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Ici Ton Pneu",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=62996399&code_localite=L09122800&code_rubrique=388310",
+    "adresse_pj": "39 boulevard Stalingrad 94320 Thiais",
+    "code_postal_pj": "94320",
+    "ville_pj": "Thiais",
+    "telephone": "01 41 77 00 98",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Alfort GPL",
+    "adresse_pj": "4 rue Darse 94600 Choisy le Roi",
+    "code_postal_pj": "94600",
+    "ville_pj": "Choisy le Roi",
+    "telephone": "01 58 43 09 34",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "CARGLASS Pare-Brise Les Ulis",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=56250239&code_localite=L09122800&code_rubrique=388310",
+    "adresse_pj": "ZAC Courtaboeuf 1 avenue Océanie 91940 Les Ulis",
+    "code_postal_pj": "91940",
+    "ville_pj": "Les Ulis",
+    "telephone": "09 77 40 19 20",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Renault Miles Auto Agent",
+    "adresse_pj": "1 avenue Gén de Gaulle  92360 Meudon la Forêt",
+    "code_postal_pj": "92360",
+    "ville_pj": "Meudon la Forêt",
+    "telephone": "01 80 87 17 94",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "CARGLASS Pare-Brise Milly la Foret",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=56012424&code_localite=L09122800&code_rubrique=388310",
+    "adresse_pj": "Station-service TOTAL Access - RN 148 58 avenue Ganay 91490 Milly la Forêt",
+    "code_postal_pj": "91490",
+    "ville_pj": "Milly la Forêt",
+    "telephone": "09 77 40 19 20",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "CARGLASS Pare-Brise Morigny Champigny",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=55400133&code_localite=L09122800&code_rubrique=388310",
+    "adresse_pj": "Parc Brunehaut route Nationale 20 91150 Morigny Champigny",
+    "code_postal_pj": "91150",
+    "ville_pj": "Morigny Champigny",
+    "telephone": "09 77 40 19 20",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Adam Auto",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=52820011&code_localite=L09122800&code_rubrique=061240",
+    "adresse_pj": "26 route Calais 95200 Sarcelles",
+    "code_postal_pj": "95200",
+    "ville_pj": "Sarcelles",
+    "telephone": "06 50 44 97 42",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Technic Diesel Injection",
+    "adresse_pj": "29 rue Cayennes 78700 Conflans Sainte Honorine",
+    "code_postal_pj": "78700",
+    "ville_pj": "Conflans Sainte Honorine",
+    "telephone": "0430456885",
+    "site_web": "https://www.technic-diesel-injection.com/contact",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Mourad bouznif",
+    "adresse_pj": "2 rue Maindreville 28300 Amilly",
+    "code_postal_pj": "28300",
+    "ville_pj": "Amilly",
+    "telephone": "07 53 87 60 62",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "RCS 4x4",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=07265407&code_localite=L09122800&code_rubrique=388310",
+    "adresse_pj": "Lieu Dit Les Filles Pitou route Nationale 20 45520 Cercottes",
+    "code_postal_pj": "45520",
+    "ville_pj": "Cercottes",
+    "telephone": "02 38 75 44 44",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Garage De L'Eglantier",
+    "adresse_pj": "8 rue Aubépine 91090 Lisses",
+    "code_postal_pj": "91090",
+    "ville_pj": "Lisses",
+    "telephone": "0274601683",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Linat Autos Evry",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=51051374&code_localite=L09122800&code_rubrique=142320",
+    "adresse_pj": "50 rue Paul Claudel 91000 Evry",
+    "code_postal_pj": "91000",
+    "ville_pj": "Evry",
+    "telephone": "01 60 78 23 78",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Carrosserie Auto Multiservices CAMS",
+    "adresse_pj": "Entree C 2 rue Charles de Gaulle 91070 Bondoufle",
+    "code_postal_pj": "91070",
+    "ville_pj": "Bondoufle",
+    "telephone": "06 37 77 03 73",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Man Truck & Bus France",
+    "adresse_pj": "Zi Courcouronnes Cp 8005 12 avenue Bois de l'Epine 91080 Courcouronnes",
+    "code_postal_pj": "91080",
+    "ville_pj": "Courcouronnes",
+    "telephone": "01 69 47 17 00",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "IMMATRICULATION MINUTE",
+    "adresse_pj": "11 boulevard Europe 91000 Evry",
+    "code_postal_pj": "91000",
+    "ville_pj": "Evry",
+    "telephone": "01 60 77 37 79",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Coignieres Controles Accessoires SA CCA",
+    "adresse_pj": "17 rue Henri Dunant 91070 Bondoufle",
+    "code_postal_pj": "91070",
+    "ville_pj": "Bondoufle",
+    "telephone": "01 69 91 33 08",
+    "site_web": "https://www.chronotachygraphe-controles-accessoires.fr/contact/",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "G.M.S Interventions",
+    "adresse_pj": "rue Clément Ader 91700 Fleury Mérogis",
+    "code_postal_pj": "91700",
+    "ville_pj": "Fleury Mérogis",
+    "telephone": "01 60 15 50 79",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Diamond Car",
+    "adresse_pj": "28 rue Alphonse Daudet 91000 Evry",
+    "code_postal_pj": "91000",
+    "ville_pj": "Evry",
+    "telephone": "06 48 06 41 37",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "CLOVIS Corbeil",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=50138513&code_localite=L09122800&code_rubrique=131900",
+    "adresse_pj": "Les Coquibus 43 avenue 8 Mai 1945 BP 202 91100 Corbeil Essonnes",
+    "code_postal_pj": "91100",
+    "ville_pj": "Corbeil Essonnes",
+    "telephone": "01 69 22 17 50",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Todd GT",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=08439788&code_localite=L09122800&code_rubrique=388500",
+    "adresse_pj": "4 avenue Front Populaire 91130 Ris Orangis",
+    "code_postal_pj": "91130",
+    "ville_pj": "Ris Orangis",
+    "telephone": "01 69 77 87 50",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "M.P.L Melun Poids Lourds",
+    "adresse_pj": "1 rue Edouard Aubert 91700 Fleury Mérogis",
+    "code_postal_pj": "91700",
+    "ville_pj": "Fleury Mérogis",
+    "telephone": "01 60 16 88 11",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Claire Zidago",
+    "adresse_pj": "5 square Jean Paul Sartre 91000 Evry",
+    "code_postal_pj": "91000",
+    "ville_pj": "Evry",
+    "telephone": "01 83 41 69 04",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Scania Ile De France",
+    "adresse_pj": "rue Clément Ader 91700 Fleury Mérogis",
+    "code_postal_pj": "91700",
+    "ville_pj": "Fleury Mérogis",
+    "telephone": "01 60 15 98 98",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "ROBERT PLUS",
+    "adresse_pj": "6 rue Bois Sauvage 91000 Evry",
+    "code_postal_pj": "91000",
+    "ville_pj": "Evry",
+    "telephone": "0155920000",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "ZRI MAN AUTO",
+    "adresse_pj": "5 square Jean Paul Sartre 91000 Evry",
+    "code_postal_pj": "91000",
+    "ville_pj": "Evry",
+    "telephone": "06 19 35 57 43",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Auto Parc",
+    "adresse_pj": "10 rue Alexandre Soljenitsyne 91000 Evry",
+    "code_postal_pj": "91000",
+    "ville_pj": "Evry",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "ABG Sayara",
+    "adresse_pj": "3 rue Jules Guesde 91130 Ris Orangis",
+    "code_postal_pj": "91130",
+    "ville_pj": "Ris Orangis",
+    "telephone": "07 56 96 34 23",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Rbvi",
+    "adresse_pj": "221 route Fleury 91170 Viry Chatillon",
+    "code_postal_pj": "91170",
+    "ville_pj": "Viry Chatillon",
+    "telephone": "01 69 42 73 93",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Autosolus",
+    "adresse_pj": "3 rue Jules Guesde 91130 Ris Orangis",
+    "code_postal_pj": "91130",
+    "ville_pj": "Ris Orangis",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Les Pneus Parisiens",
+    "adresse_pj": "6 rue Maryse Bastié 91080 Courcouronnes",
+    "code_postal_pj": "91080",
+    "ville_pj": "Courcouronnes",
+    "telephone": "06 13 75 44 12",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Viry Auto Plus",
+    "adresse_pj": "107 avenue La Gribelette 91170 Viry Chatillon",
+    "code_postal_pj": "91170",
+    "ville_pj": "Viry Chatillon",
+    "telephone": "06 50 38 43 94",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Auto Occasions Essonne",
+    "adresse_pj": "9 rue Lucien Sampaix 91700 Sainte Geneviève des Bois",
+    "code_postal_pj": "91700",
+    "ville_pj": "Sainte Geneviève des Bois",
+    "telephone": "01 69 04 65 85",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Tsa occasion",
+    "adresse_pj": "Ste Genevieve Bois Mar Automobil rue Miss Paget 91700 Sainte Geneviève des Bois",
+    "code_postal_pj": "91700",
+    "ville_pj": "Sainte Geneviève des Bois",
+    "telephone": "06 50 51 49 23",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Semat",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=55611966&code_localite=L09122800&code_rubrique=388500",
+    "adresse_pj": "10 rue Languedoc 91220 Brétigny sur Orge",
+    "code_postal_pj": "91220",
+    "ville_pj": "Brétigny sur Orge",
+    "telephone": "01 64 59 56 72",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "Medellin Auto",
+    "adresse_pj": "rue René Leduc 91220 Brétigny sur Orge",
+    "code_postal_pj": "91220",
+    "ville_pj": "Brétigny sur Orge",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "SAS Pascal Vergne",
+    "adresse_pj": "13 route Rouen 27950 Saint Just",
+    "code_postal_pj": "27950",
+    "ville_pj": "Saint Just",
+    "telephone": "01 34 67 77 52",
+    "search_category": "garage automobile"
+  },
+  {
+    "nom_pj": "BMW MINI Indigo Lisses",
+    "adresse_pj": "D260 2 route Villabé 91090 Lisses",
+    "code_postal_pj": "91090",
+    "ville_pj": "Lisses",
+    "telephone": "01 69 87 70 70",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Garage de la Marinière",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00219287&code_localite=L09122800&code_rubrique=061240",
+    "adresse_pj": "Zone Industrielle Des Ciroliers 32 rue Edouard Aubert 91700 Fleury Mérogis",
+    "code_postal_pj": "91700",
+    "ville_pj": "Fleury Mérogis",
+    "telephone": "01 60 16 60 19",
+    "site_web": "http://www.garage-de-la-mariniere.fr",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Renault Concessionnaire",
+    "adresse_pj": "46 avenue 8 Mai 1945 91100 Corbeil Essonnes",
+    "code_postal_pj": "91100",
+    "ville_pj": "Corbeil Essonnes",
+    "telephone": "01 60 90 50 50",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Lisses Auto",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00645295&code_localite=L09122800&code_rubrique=061240",
+    "adresse_pj": "9 rue Mennecy 91090 Lisses",
+    "code_postal_pj": "91090",
+    "ville_pj": "Lisses",
+    "telephone": "01 64 97 59 51",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Hyundai Cap Fournier",
+    "adresse_pj": "17 avenue 8 Mai 1945 91100 Corbeil Essonnes",
+    "code_postal_pj": "91100",
+    "ville_pj": "Corbeil Essonnes",
+    "telephone": "0531000086",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Nissan Avenir Corbeil",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=50492952&code_localite=L09122800&code_rubrique=061240",
+    "adresse_pj": "56 avenue 8 Mai 1945 91100 Corbeil Essonnes",
+    "code_postal_pj": "91100",
+    "ville_pj": "Corbeil Essonnes",
+    "telephone": "01 64 96 51 91",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Brie Champagne",
+    "adresse_pj": "6 avenue Paul Maintenant 91100 Corbeil Essonnes",
+    "code_postal_pj": "91100",
+    "ville_pj": "Corbeil Essonnes",
+    "telephone": "0691914365",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Frogs 2000",
+    "adresse_pj": "6 rue Petits Champs 91100 Villabé",
+    "code_postal_pj": "91100",
+    "ville_pj": "Villabé",
+    "telephone": "01 64 57 47 76",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Citroën EVRY CORBEIL AUTOMOBILES",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00218633&code_localite=L09122800&code_rubrique=061240",
+    "adresse_pj": "33 avenue 8 Mai 1945 91100 Corbeil Essonnes",
+    "code_postal_pj": "91100",
+    "ville_pj": "Corbeil Essonnes",
+    "telephone": "01 69 22 81 00",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Peugeot Groupe Gueudet Concessionnaire",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=53344628&code_localite=L09122800&code_rubrique=061240",
+    "adresse_pj": "15 rue Jacques Anquetil 91100 Corbeil Essonnes",
+    "code_postal_pj": "91100",
+    "ville_pj": "Corbeil Essonnes",
+    "telephone": "01 69 22 82 40",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "AMS - Auto",
+    "adresse_pj": "11 rue André Lalande 91000 Evry",
+    "code_postal_pj": "91000",
+    "ville_pj": "Evry",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Auto Eco 91",
+    "adresse_pj": "3 rue Jules Guesde 91130 Ris Orangis",
+    "code_postal_pj": "91130",
+    "ville_pj": "Ris Orangis",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Kia Cervinia 19 Concessionnaire",
+    "adresse_pj": "33 avenue 8 Mai 1945 91100 Corbeil Essonnes",
+    "code_postal_pj": "91100",
+    "ville_pj": "Corbeil Essonnes",
+    "telephone": "01 69 22 19 20",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Peugeot - C.D.J Auto",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=06032564&code_localite=L09122800&code_rubrique=061240",
+    "adresse_pj": "ZI La Marinière 2 rue Gutenberg 91070 Bondoufle",
+    "code_postal_pj": "91070",
+    "ville_pj": "Bondoufle",
+    "telephone": "01 60 86 43 00",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Station-Services Total",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=55942519&code_localite=L09122800&code_rubrique=061240",
+    "adresse_pj": "23 rue Villeroy 91070 Bondoufle",
+    "code_postal_pj": "91070",
+    "ville_pj": "Bondoufle",
+    "telephone": "01 60 86 46 95",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Suzuki Corbeil Automobile - Car Lovers",
+    "adresse_pj": "Espace Coquibus 4 rue Jacques Anquetil 91100 Corbeil Essonnes",
+    "code_postal_pj": "91100",
+    "ville_pj": "Corbeil Essonnes",
+    "telephone": "01 75 90 97 69",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Bernier Garage du Chateau",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00217798&code_localite=L09122800&code_rubrique=061240",
+    "adresse_pj": "Zac La Croix Blanche 4 avenue Bout du Plessis 91700 Sainte Geneviève des Bois",
+    "code_postal_pj": "91700",
+    "ville_pj": "Sainte Geneviève des Bois",
+    "telephone": "01 60 15 29 27",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Aramisauto Sainte-Geneviève-des-Bois",
+    "adresse_pj": "13 avenue Régiment Normandie Niemen 91700 Sainte Geneviève des Bois",
+    "code_postal_pj": "91700",
+    "ville_pj": "Sainte Geneviève des Bois",
+    "telephone": "0903310000",
+    "site_web": "https://www.aramisauto.com/contact/prise-rdv",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Business Autos",
+    "adresse_pj": "14 rue Bois Guillaume 91000 Evry",
+    "code_postal_pj": "91000",
+    "ville_pj": "Evry",
+    "telephone": "06 14 35 91 66",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Skoda Vega Automobiles Concessionnaires",
+    "adresse_pj": "66- 68 route Lisses 91100 Corbeil Essonnes",
+    "code_postal_pj": "91100",
+    "ville_pj": "Corbeil Essonnes",
+    "telephone": "01 60 90 80 10",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Routeco",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00714440&code_localite=L09122800&code_rubrique=061240",
+    "adresse_pj": "219 route Fleury 91170 Viry Chatillon",
+    "code_postal_pj": "91170",
+    "ville_pj": "Viry Chatillon",
+    "telephone": "01 69 24 49 29",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Ali Chendar",
+    "adresse_pj": "8 rue Essonne 91000 Evry",
+    "code_postal_pj": "91000",
+    "ville_pj": "Evry",
+    "telephone": "09 52 74 60 86",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Bernier Garage du Chateau",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00217798&code_localite=L09122800&code_rubrique=061240",
+    "adresse_pj": "Zac La Croix Blanche 4 avenue Bout du Plessis 91700 Sainte Geneviève des Bois",
+    "code_postal_pj": "91700",
+    "ville_pj": "Sainte Geneviève des Bois",
+    "telephone": "01 60 15 29 27",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Rebaia Landoulsi",
+    "adresse_pj": "3 rue Honoré D'Estienne d'Orves 91000 Evry",
+    "code_postal_pj": "91000",
+    "ville_pj": "Evry",
+    "telephone": "09 80 53 31 63",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "PATRON AUTO À EVRY COURCOURONNES",
+    "adresse_pj": "50 rue Paul Claudel 91000 Evry",
+    "code_postal_pj": "91000",
+    "ville_pj": "Evry",
+    "telephone": "07 83 16 14 72",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Skoda Vega Automobiles Concessionnaires",
+    "adresse_pj": "66- 68 route Lisses 91100 Corbeil Essonnes",
+    "code_postal_pj": "91100",
+    "ville_pj": "Corbeil Essonnes",
+    "telephone": "01 60 90 80 10",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Dacia Groupe Maurin Concessionnaire",
+    "adresse_pj": "46 avenue 8 Mai 1945 91100 Corbeil Essonnes",
+    "code_postal_pj": "91100",
+    "ville_pj": "Corbeil Essonnes",
+    "telephone": "01 60 90 50 50",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "L&M Cars",
+    "adresse_pj": "22 allée Jacques Brel 91080 Courcouronnes",
+    "code_postal_pj": "91080",
+    "ville_pj": "Courcouronnes",
+    "telephone": "06 21 19 56 06",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Honorine Samevi",
+    "adresse_pj": "square Quatre Bacheliers 91080 Courcouronnes",
+    "code_postal_pj": "91080",
+    "ville_pj": "Courcouronnes",
+    "telephone": "09 80 49 99 50",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Global Bus",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=51426754&code_localite=L09122800&code_rubrique=061240",
+    "adresse_pj": "17 rue Henri Dunant 91070 Bondoufle",
+    "code_postal_pj": "91070",
+    "ville_pj": "Bondoufle",
+    "telephone": "01 60 76 12 20",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Renault Minute",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=56472074&code_localite=L09122800&code_rubrique=061240",
+    "adresse_pj": "46 avenue 8 Mai 1945 91100 Corbeil Essonnes",
+    "code_postal_pj": "91100",
+    "ville_pj": "Corbeil Essonnes",
+    "telephone": "01 60 90 50 50",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "AB Auto",
+    "adresse_pj": "8 rue Papeterie 91100 Corbeil Essonnes",
+    "code_postal_pj": "91100",
+    "ville_pj": "Corbeil Essonnes",
+    "telephone": "06 49 09 72 10",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Activ'Auto",
+    "adresse_pj": "Automobile A Bondoufle 15 rue Gutenberg 91070 Bondoufle",
+    "code_postal_pj": "91070",
+    "ville_pj": "Bondoufle",
+    "telephone": "06 71 63 39 46",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Peugeot LECA S.A.S Réparateur agréé",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=06864649&code_localite=L09122800&code_rubrique=061240",
+    "adresse_pj": "Zac La Croix Blanche 1 avenue Bout du Plessis 91700 Sainte Geneviève des Bois",
+    "code_postal_pj": "91700",
+    "ville_pj": "Sainte Geneviève des Bois",
+    "telephone": "01 60 16 31 63",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Atlantico UTilitaires",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=51281924&code_localite=L09122800&code_rubrique=061240",
+    "adresse_pj": "16 rue Fosse aux Leux 91700 Sainte Geneviève des Bois",
+    "code_postal_pj": "91700",
+    "ville_pj": "Sainte Geneviève des Bois",
+    "telephone": "01 60 47 41 41",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Garage du Plessis Pate",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=01817522&code_localite=L09122800&code_rubrique=061240",
+    "adresse_pj": "Zone Industrielle Parc 2 rue Bicentenaire Révolution 91220 Le Plessis Pâté",
+    "code_postal_pj": "91220",
+    "ville_pj": "Le Plessis Pâté",
+    "telephone": "01 60 85 01 62",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Garage CNV",
+    "adresse_pj": "11 route Versailles 91080 Courcouronnes",
+    "code_postal_pj": "91080",
+    "ville_pj": "Courcouronnes",
+    "telephone": "01 60 77 19 84",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Uncle's Car",
+    "adresse_pj": "6 8 Zac Du Clos Aux Pois 6 rue Closerie 91090 Lisses",
+    "code_postal_pj": "91090",
+    "ville_pj": "Lisses",
+    "telephone": "06 98 53 33 24",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "GMS",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=64746709&code_localite=L09122800&code_rubrique=061240",
+    "adresse_pj": "1 avenue Bois de l'Epine 91080 Courcouronnes",
+    "code_postal_pj": "91080",
+    "ville_pj": "Courcouronnes",
+    "telephone": "01 80 85 90 17",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Naïma Engar",
+    "adresse_pj": "7 rue Mathilde 91000 Evry",
+    "code_postal_pj": "91000",
+    "ville_pj": "Evry",
+    "telephone": "09 84 50 10 55",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Ambicion",
+    "adresse_pj": "12 rue Petit Fief 91700 Sainte Geneviève des Bois",
+    "code_postal_pj": "91700",
+    "ville_pj": "Sainte Geneviève des Bois",
+    "telephone": "01 60 15 01 34",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Avel Auto",
+    "adresse_pj": "9 rue Canal 91070 Bondoufle",
+    "code_postal_pj": "91070",
+    "ville_pj": "Bondoufle",
+    "telephone": "01 59 13 34 44",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "AB Auto",
+    "adresse_pj": "8 rue Papeterie 91100 Corbeil Essonnes",
+    "code_postal_pj": "91100",
+    "ville_pj": "Corbeil Essonnes",
+    "telephone": "06 49 09 72 10",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Leader Auto",
+    "adresse_pj": "14 rue Jacques Anquetil 91100 Corbeil Essonnes",
+    "code_postal_pj": "91100",
+    "ville_pj": "Corbeil Essonnes",
+    "telephone": "07 86 36 21 85",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "OSKAST",
+    "adresse_pj": "3 rue Jules Guesde 91130 Ris Orangis",
+    "code_postal_pj": "91130",
+    "ville_pj": "Ris Orangis",
+    "telephone": "06 04 67 67 84",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Nadmadsam Autos",
+    "adresse_pj": "12 rue Bicentenaire Révolution 91220 Le Plessis Pâté",
+    "code_postal_pj": "91220",
+    "ville_pj": "Le Plessis Pâté",
+    "telephone": "01 60 84 43 67",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Skm 91 Occasions",
+    "adresse_pj": "8 rue Jean Jacques Rousseau 91700 Sainte Geneviève des Bois",
+    "code_postal_pj": "91700",
+    "ville_pj": "Sainte Geneviève des Bois",
+    "telephone": "09 86 45 25 91",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Bema Vitesse",
+    "adresse_pj": "4 rue Diderot 91240 Saint Michel sur Orge",
+    "code_postal_pj": "91240",
+    "ville_pj": "Saint Michel sur Orge",
+    "telephone": "06 40 98 22 68",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "OUEST AUTOMOBILE DISTRIBUTION",
+    "adresse_pj": "70 avenue Charles de Gaulle 91220 Brétigny sur Orge",
+    "code_postal_pj": "91220",
+    "ville_pj": "Brétigny sur Orge",
+    "telephone": "01 60 84 68 10",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Ligier Microcar Urban's Cars Concessionnaire",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=54594279&code_localite=L09122800&code_rubrique=061240",
+    "adresse_pj": "7 rue Brévannes 94470 Boissy Saint Léger",
+    "code_postal_pj": "94470",
+    "ville_pj": "Boissy Saint Léger",
+    "telephone": "01 45 98 90 64",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Adam Auto",
+    "adresse_pj": "26 route Calais 95200 Sarcelles",
+    "code_postal_pj": "95200",
+    "ville_pj": "Sarcelles",
+    "telephone": "06 50 44 97 42",
+    "search_category": "concession automobile"
+  },
+  {
+    "nom_pj": "Linat Autos EvryConnu sous : Carrosserie Gomes",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=51051374&code_localite=L09122800&code_rubrique=062200",
+    "adresse_pj": "50 rue Paul Claudel 91000 Evry",
+    "code_postal_pj": "91000",
+    "ville_pj": "Evry",
+    "telephone": "01 60 78 23 78",
+    "search_category": "carrosserie automobile"
+  },
+  {
+    "nom_pj": "Garage De L'EglantierConnu sous : GLASS AUTO SERVICE GARAGE DE L'EGLANTIER RÉPARATEUR AGRÉÉ",
+    "adresse_pj": "8 rue Aubépine 91090 Lisses",
+    "code_postal_pj": "91090",
+    "ville_pj": "Lisses",
+    "telephone": "0274601683",
+    "search_category": "carrosserie automobile"
+  },
+  {
+    "nom_pj": "Carrosserie Auto Multiservices CAMS",
+    "adresse_pj": "Entree C 2 rue Charles de Gaulle 91070 Bondoufle",
+    "code_postal_pj": "91070",
+    "ville_pj": "Bondoufle",
+    "telephone": "06 37 77 03 73",
+    "search_category": "carrosserie automobile"
+  },
+  {
+    "nom_pj": "LIVING CARS",
+    "adresse_pj": "5 rue Gutenberg 91070 Bondoufle",
+    "code_postal_pj": "91070",
+    "ville_pj": "Bondoufle",
+    "telephone": "07 83 33 15 34",
+    "search_category": "carrosserie automobile"
+  },
+  {
+    "nom_pj": "Service Auto Concept",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=60731990&code_localite=L09122800&code_rubrique=142320",
+    "adresse_pj": "12 rue Gutenberg 91070 Bondoufle",
+    "code_postal_pj": "91070",
+    "ville_pj": "Bondoufle",
+    "telephone": "06 60 60 42 36",
+    "site_web": "https://www.service-auto-concept.fr/",
+    "search_category": "carrosserie automobile"
+  },
+  {
+    "nom_pj": "Nissan Avenir Corbeil",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=50492952&code_localite=L09122800&code_rubrique=388310",
+    "adresse_pj": "56 avenue 8 Mai 1945 91100 Corbeil Essonnes",
+    "code_postal_pj": "91100",
+    "ville_pj": "Corbeil Essonnes",
+    "telephone": "01 64 96 51 91",
+    "search_category": "carrosserie automobile"
+  },
+  {
+    "nom_pj": "Diamond Car",
+    "adresse_pj": "28 rue Alphonse Daudet 91000 Evry",
+    "code_postal_pj": "91000",
+    "ville_pj": "Evry",
+    "telephone": "06 48 06 41 37",
+    "search_category": "carrosserie automobile"
+  },
+  {
+    "nom_pj": "Frogs 2000",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=08441794&code_localite=L09122800&code_rubrique=142320",
+    "adresse_pj": "6 rue Petits Champs 91100 Villabé",
+    "code_postal_pj": "91100",
+    "ville_pj": "Villabé",
+    "telephone": "01 64 57 47 76",
+    "search_category": "carrosserie automobile"
+  },
+  {
+    "nom_pj": "Peugeot - C.D.J Auto",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=06032564&code_localite=L09122800&code_rubrique=388310",
+    "adresse_pj": "ZI La Marinière 2 rue Gutenberg 91070 Bondoufle",
+    "code_postal_pj": "91070",
+    "ville_pj": "Bondoufle",
+    "telephone": "01 60 86 43 00",
+    "search_category": "carrosserie automobile"
+  },
+  {
+    "nom_pj": "Paris Sud Prestige Automobile",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=57573808&code_localite=L09122800&code_rubrique=388310",
+    "adresse_pj": "11 rue Gutenberg 91070 Bondoufle",
+    "code_postal_pj": "91070",
+    "ville_pj": "Bondoufle",
+    "telephone": "06 67 39 32 38",
+    "search_category": "carrosserie automobile"
+  },
+  {
+    "nom_pj": "Soo Cars",
+    "adresse_pj": "18 rue Plessis Briard 91080 Courcouronnes",
+    "code_postal_pj": "91080",
+    "ville_pj": "Courcouronnes",
+    "telephone": "01 60 77 03 93",
+    "search_category": "carrosserie automobile"
+  },
+  {
+    "nom_pj": "Boussy Autos",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=12403005&code_localite=L09122800&code_rubrique=142320",
+    "adresse_pj": "36 rue Forêt 91860 Epinay sous Sénart",
+    "code_postal_pj": "91860",
+    "ville_pj": "Epinay sous Sénart",
+    "telephone": "06 51 55 28 30",
+    "search_category": "carrosserie automobile"
+  },
+  {
+    "nom_pj": "Renault Miles Auto Agent",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=64443411&code_localite=L09122800&code_rubrique=388310",
+    "adresse_pj": "1 avenue Gén de Gaulle  92360 Meudon la Forêt",
+    "code_postal_pj": "92360",
+    "ville_pj": "Meudon la Forêt",
+    "telephone": "01 80 87 17 94",
+    "search_category": "carrosserie automobile"
+  },
+  {
+    "nom_pj": "SAS Pascal Vergne",
+    "adresse_pj": "13 route Rouen 27950 Saint Just",
+    "code_postal_pj": "27950",
+    "ville_pj": "Saint Just",
+    "telephone": "01 34 67 77 52",
+    "search_category": "carrosserie automobile"
+  },
+  {
+    "nom_pj": "Evry Pieces Auto",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=58502513&code_localite=L09122800&code_rubrique=388310",
+    "adresse_pj": "10 rue Paul Claudel 91000 Evry",
+    "code_postal_pj": "91000",
+    "ville_pj": "Evry",
+    "telephone": "01 60 77 81 04",
+    "search_category": "carrosserie automobile"
+  },
+  {
+    "nom_pj": "Midas",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=06031574&code_localite=L09122800&code_rubrique=388310",
+    "adresse_pj": "Les Pyramides Rn7 rue Paul Claudel 91000 Evry",
+    "code_postal_pj": "91000",
+    "ville_pj": "Evry",
+    "telephone": "01 60 77 86 16",
+    "search_category": "carrosserie automobile"
+  },
+  {
+    "nom_pj": "Feu Vert Services",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=50492268&code_localite=L09122800&code_rubrique=388310",
+    "adresse_pj": "route Villoison 91100 Villabé",
+    "code_postal_pj": "91100",
+    "ville_pj": "Villabé",
+    "telephone": "01 60 86 38 92",
+    "site_web": "https://www.feuvert.fr/toutes-nos-prestations-ateliers/r2745.html?setcenter=405?utm_campaign=bouton_RDV_PJ&utm_medium=display&utm_source=PagesJaunes",
+    "search_category": "carrosserie automobile"
+  },
+  {
+    "nom_pj": "TYGROO PNEUS",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=61030423&code_localite=L09122800&code_rubrique=025710",
+    "adresse_pj": "48 rue Paul Claudel 91000 Evry",
+    "code_postal_pj": "91000",
+    "ville_pj": "Evry",
+    "telephone": "09 86 36 56 31",
+    "search_category": "carrosserie automobile"
+  },
+  {
+    "nom_pj": "Atelier Du Pneu",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=61176899&code_localite=L09122800&code_rubrique=388310",
+    "adresse_pj": "8 rue Gaz 91100 Corbeil Essonnes",
+    "code_postal_pj": "91100",
+    "ville_pj": "Corbeil Essonnes",
+    "telephone": "0720831000",
+    "search_category": "carrosserie automobile"
+  },
+  {
+    "nom_pj": "Teknik Motor Sport",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=58512039&code_localite=L09122800&code_rubrique=025710",
+    "adresse_pj": "11 boulevard Coquibus 91000 Evry",
+    "code_postal_pj": "91000",
+    "ville_pj": "Evry",
+    "telephone": "09 81 11 31 70",
+    "search_category": "carrosserie automobile"
+  },
+  {
+    "nom_pj": "Feu Vert Services",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=50492268&code_localite=L09122800&code_rubrique=388310",
+    "adresse_pj": "route Villoison 91100 Villabé",
+    "code_postal_pj": "91100",
+    "ville_pj": "Villabé",
+    "telephone": "01 60 86 38 92",
+    "site_web": "https://www.feuvert.fr/toutes-nos-prestations-ateliers/r2745.html?setcenter=405?utm_campaign=bouton_RDV_PJ&utm_medium=display&utm_source=PagesJaunes",
+    "search_category": "carrosserie automobile"
+  },
+  {
+    "nom_pj": "Teknik Motor Sport",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=58512039&code_localite=L09122800&code_rubrique=025710",
+    "adresse_pj": "11 boulevard Coquibus 91000 Evry",
+    "code_postal_pj": "91000",
+    "ville_pj": "Evry",
+    "telephone": "09 81 11 31 70",
+    "search_category": "carrosserie automobile"
+  },
+  {
+    "nom_pj": "Garage RPA SAS",
+    "adresse_pj": "10 rue Closerie 91090 Lisses",
+    "code_postal_pj": "91090",
+    "ville_pj": "Lisses",
+    "telephone": "0880000637",
+    "search_category": "carrosserie automobile"
+  },
+  {
+    "nom_pj": "Dekra Contrôle Plus Indépendant",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=52207071&code_localite=L09122800&code_rubrique=388310",
+    "adresse_pj": "Zone Industrielle La Mariniere 5 rue Gutenberg 91070 Bondoufle",
+    "code_postal_pj": "91070",
+    "ville_pj": "Bondoufle",
+    "telephone": "01 60 86 10 87",
+    "search_category": "carrosserie automobile"
+  },
+  {
+    "nom_pj": "Garage Du Souterrain",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00218644&code_localite=L09122800&code_rubrique=388310",
+    "adresse_pj": "59 rue Mar de Lattre de Tassigny 91100 Corbeil Essonnes",
+    "code_postal_pj": "91100",
+    "ville_pj": "Corbeil Essonnes",
+    "telephone": "0750000127",
+    "search_category": "carrosserie automobile"
+  },
+  {
+    "nom_pj": "A2R Motors",
+    "adresse_pj": "10 rue Closerie 91090 Lisses",
+    "code_postal_pj": "91090",
+    "ville_pj": "Lisses",
+    "telephone": "09 73 68 63 63",
+    "search_category": "carrosserie automobile"
+  },
+  {
+    "nom_pj": "First Stop Villabé",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=52162375&code_localite=L09122800&code_rubrique=388310",
+    "adresse_pj": "rue Petits Champs 91100 Villabé",
+    "code_postal_pj": "91100",
+    "ville_pj": "Villabé",
+    "telephone": "01 69 11 97 60",
+    "search_category": "carrosserie automobile"
+  },
+  {
+    "nom_pj": "PATRON AUTO À EVRY COURCOURONNES",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=63507715&code_localite=L09122800&code_rubrique=388310",
+    "adresse_pj": "50 rue Paul Claudel 91000 Evry",
+    "code_postal_pj": "91000",
+    "ville_pj": "Evry",
+    "telephone": "07 83 16 14 72",
+    "search_category": "carrosserie automobile"
+  },
+  {
+    "nom_pj": "ITIS AUTO",
+    "adresse_pj": "15 allée Butte Rouge 91000 Evry",
+    "code_postal_pj": "91000",
+    "ville_pj": "Evry",
+    "telephone": "06 75 93 28 22",
+    "search_category": "carrosserie automobile"
+  },
+  {
+    "nom_pj": "Hatauto",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=57438735&code_localite=L09122800&code_rubrique=388310",
+    "adresse_pj": "6 square Vesoul 91080 Courcouronnes",
+    "code_postal_pj": "91080",
+    "ville_pj": "Courcouronnes",
+    "telephone": "06 56 74 96 54",
+    "search_category": "carrosserie automobile"
+  },
+  {
+    "nom_pj": "CARGLASS Pare-Brise Viry Chatillon",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=06030326&code_localite=L09122800&code_rubrique=388310",
+    "adresse_pj": "RN7 64 avenue Gén de Gaulle 91170 Viry Chatillon",
+    "code_postal_pj": "91170",
+    "ville_pj": "Viry Chatillon",
+    "telephone": "09 77 40 19 20",
+    "search_category": "carrosserie automobile"
+  },
+  {
+    "nom_pj": "Lionel Auto",
+    "adresse_pj": "Courcouronnes 6 rue Paul Claudel 91000 Evry",
+    "code_postal_pj": "91000",
+    "ville_pj": "Evry",
+    "telephone": "06 49 01 65 15",
+    "search_category": "carrosserie automobile"
+  },
+  {
+    "nom_pj": "Eurorepar Mams Mécanique Automobile Multiservices",
+    "adresse_pj": "14 rue Plessis Briard 91080 Courcouronnes",
+    "code_postal_pj": "91080",
+    "ville_pj": "Courcouronnes",
+    "telephone": "01 64 97 26 95",
+    "search_category": "carrosserie automobile"
+  },
+  {
+    "nom_pj": "Turbo Compétition",
+    "adresse_pj": "23 rue Malines 91090 Lisses",
+    "code_postal_pj": "91090",
+    "ville_pj": "Lisses",
+    "telephone": "07 81 82 70 97",
+    "search_category": "carrosserie automobile"
+  },
+  {
+    "nom_pj": "Renault",
+    "adresse_pj": "11 Rte de Versailles 11 route Versailles 91080 Courcouronnes",
+    "code_postal_pj": "91080",
+    "ville_pj": "Courcouronnes",
+    "telephone": "01 60 77 19 84",
+    "search_category": "carrosserie automobile"
+  },
+  {
+    "nom_pj": "Is Auto",
+    "adresse_pj": "6 rue Jules Guesde 91130 Ris Orangis",
+    "code_postal_pj": "91130",
+    "ville_pj": "Ris Orangis",
+    "telephone": "01 72 49 52 24",
+    "search_category": "carrosserie automobile"
+  },
+  {
+    "nom_pj": "Speed Auto",
+    "adresse_pj": "17 rue Bel Air 91090 Lisses",
+    "code_postal_pj": "91090",
+    "ville_pj": "Lisses",
+    "telephone": "01 78 05 89 55",
+    "search_category": "carrosserie automobile"
+  },
+  {
+    "nom_pj": "Garage Bcr",
+    "adresse_pj": "22 Bis rue Malines 91090 Lisses",
+    "code_postal_pj": "91090",
+    "ville_pj": "Lisses",
+    "telephone": "01 60 86 18 38",
+    "search_category": "carrosserie automobile"
+  },
+  {
+    "nom_pj": "Lavage Auto 3000",
+    "adresse_pj": "rue Paul Claudel 91000 Evry",
+    "code_postal_pj": "91000",
+    "ville_pj": "Evry",
+    "telephone": "06 08 24 02 90",
+    "search_category": "carrosserie automobile"
+  },
+  {
+    "nom_pj": "Dépannage 3J - Ris Orangis",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=07996856&code_localite=L09122800&code_rubrique=388310",
+    "adresse_pj": "7 avenue Joliot Curie 91130 Ris Orangis",
+    "code_postal_pj": "91130",
+    "ville_pj": "Ris Orangis",
+    "telephone": "01 69 09 81 18",
+    "search_category": "carrosserie automobile"
+  },
+  {
+    "nom_pj": "Dinex",
+    "adresse_pj": "6 rue Malines 91090 Lisses",
+    "code_postal_pj": "91090",
+    "ville_pj": "Lisses",
+    "telephone": "01 69 11 88 00",
+    "search_category": "carrosserie automobile"
+  },
+  {
+    "nom_pj": "Is Auto",
+    "adresse_pj": "6 rue Jules Guesde 91130 Ris Orangis",
+    "code_postal_pj": "91130",
+    "ville_pj": "Ris Orangis",
+    "telephone": "01 72 49 52 24",
+    "search_category": "carrosserie automobile"
+  },
+  {
+    "nom_pj": "Dépannage 3J - Ris Orangis",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=07996856&code_localite=L09122800&code_rubrique=388310",
+    "adresse_pj": "7 avenue Joliot Curie 91130 Ris Orangis",
+    "code_postal_pj": "91130",
+    "ville_pj": "Ris Orangis",
+    "telephone": "01 69 09 81 18",
+    "search_category": "carrosserie automobile"
+  },
+  {
+    "nom_pj": "Turbo Compétition",
+    "adresse_pj": "23 rue Malines 91090 Lisses",
+    "code_postal_pj": "91090",
+    "ville_pj": "Lisses",
+    "telephone": "07 81 82 70 97",
+    "search_category": "carrosserie automobile"
+  },
+  {
+    "nom_pj": "Nissen France",
+    "adresse_pj": "37 rue Bois Chaland 91090 Lisses",
+    "code_postal_pj": "91090",
+    "ville_pj": "Lisses",
+    "telephone": "01 60 86 04 36",
+    "search_category": "carrosserie automobile"
+  },
+  {
+    "nom_pj": "GMS",
+    "adresse_pj": "1 avenue Bois de l'Epine 91080 Courcouronnes",
+    "code_postal_pj": "91080",
+    "ville_pj": "Courcouronnes",
+    "telephone": "01 80 85 90 17",
+    "search_category": "carrosserie automobile"
+  },
+  {
+    "nom_pj": "Speed Auto",
+    "adresse_pj": "17 rue Bel Air 91090 Lisses",
+    "code_postal_pj": "91090",
+    "ville_pj": "Lisses",
+    "telephone": "01 78 05 89 55",
+    "search_category": "carrosserie automobile"
+  },
+  {
+    "nom_pj": "Mafix",
+    "adresse_pj": "Zone Industrielle Les Bordes 16 rue Pierre Josse 91070 Bondoufle",
+    "code_postal_pj": "91070",
+    "ville_pj": "Bondoufle",
+    "search_category": "carrosserie automobile"
+  },
+  {
+    "nom_pj": "Grand Garage Bondouflois",
+    "adresse_pj": "Centre Commercial de Villeroy 23 rue Villeroy 91070 Bondoufle",
+    "code_postal_pj": "91070",
+    "ville_pj": "Bondoufle",
+    "telephone": "01 60 86 46 95",
+    "search_category": "carrosserie automobile"
+  },
+  {
+    "nom_pj": "OCCAZ MOTEUR",
+    "adresse_pj": "bât A 45 avenue Paul Maintenant 91100 Corbeil Essonnes",
+    "code_postal_pj": "91100",
+    "ville_pj": "Corbeil Essonnes",
+    "telephone": "01 60 88 95 90",
+    "search_category": "carrosserie automobile"
+  },
+  {
+    "nom_pj": "Ben's Motors",
+    "adresse_pj": "17 rue Malines 91090 Lisses",
+    "code_postal_pj": "91090",
+    "ville_pj": "Lisses",
+    "telephone": "07 60 19 02 80",
+    "search_category": "carrosserie automobile"
+  },
+  {
+    "nom_pj": "Tracking Online France",
+    "adresse_pj": "2 allée Rossignols 91210 Draveil",
+    "code_postal_pj": "91210",
+    "ville_pj": "Draveil",
+    "telephone": "06 66 71 62 73",
+    "search_category": "carrosserie automobile"
+  },
+  {
+    "nom_pj": "CARGLASS Pare-Brise Epinay sur Orge",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=57406474&code_localite=L09122800&code_rubrique=388310",
+    "adresse_pj": "route Departementale 257 91360 Epinay sur Orge",
+    "code_postal_pj": "91360",
+    "ville_pj": "Epinay sur Orge",
+    "telephone": "09 77 40 19 20",
+    "search_category": "carrosserie automobile"
+  },
+  {
+    "nom_pj": "TM PneusConnu sous : RM AUTO",
+    "adresse_pj": "8 rue Cantal 91090 Lisses",
+    "code_postal_pj": "91090",
+    "ville_pj": "Lisses",
+    "telephone": "01 75 66 53 41",
+    "search_category": "carrosserie automobile"
+  },
+  {
+    "nom_pj": "Garage Le Baron et FilsConnu sous : LE BARON ET FILS DEPANNAGE MECANIQUE AUTOMOBILE LE BARON ET FILS",
+    "adresse_pj": "56 route nationale 6 91800 Brunoy",
+    "code_postal_pj": "91800",
+    "ville_pj": "Brunoy",
+    "telephone": "01 69 43 77 10",
+    "search_category": "carrosserie automobile"
+  },
+  {
+    "nom_pj": "GBM AUTO 91",
+    "adresse_pj": "BATIMENT F 8 rue Closerie 91090 Lisses",
+    "code_postal_pj": "91090",
+    "ville_pj": "Lisses",
+    "telephone": "07 69 52 80 31",
+    "search_category": "carrosserie automobile"
+  },
+  {
+    "nom_pj": "TS Automobiles",
+    "adresse_pj": "23 rue Malines 91090 Lisses",
+    "code_postal_pj": "91090",
+    "ville_pj": "Lisses",
+    "telephone": "09 84 09 31 77",
+    "search_category": "carrosserie automobile"
+  },
+  {
+    "nom_pj": "Solution Levage",
+    "adresse_pj": "6 Bis rue Parc des Vergers 91250 Tigery",
+    "code_postal_pj": "91250",
+    "ville_pj": "Tigery",
+    "telephone": "06 77 66 01 15",
+    "search_category": "carrosserie automobile"
+  },
+  {
+    "nom_pj": "Assainicap",
+    "adresse_pj": "Zac De La Mariniere 13 rue Gutenberg 91070 Bondoufle",
+    "code_postal_pj": "91070",
+    "ville_pj": "Bondoufle",
+    "search_category": "carrosserie automobile"
+  },
+  {
+    "nom_pj": "Mimak Auto",
+    "adresse_pj": "3 rue Jules Guesde 91130 Ris Orangis",
+    "code_postal_pj": "91130",
+    "ville_pj": "Ris Orangis",
+    "telephone": "01 70 95 67 76",
+    "search_category": "carrosserie automobile"
+  },
+  {
+    "nom_pj": "AUTO SUD 91",
+    "adresse_pj": "5 rue Gutenberg 91070 Bondoufle",
+    "code_postal_pj": "91070",
+    "ville_pj": "Bondoufle",
+    "telephone": "07 68 34 60 88",
+    "search_category": "carrosserie automobile"
+  },
+  {
+    "nom_pj": "Olivier Cruz",
+    "adresse_pj": "10 chemin Bas Cornus 91100 Villabé",
+    "code_postal_pj": "91100",
+    "ville_pj": "Villabé",
+    "telephone": "06 18 85 45 29",
+    "search_category": "carrosserie automobile"
+  },
+  {
+    "nom_pj": "Mimak Auto",
+    "adresse_pj": "3 rue Jules Guesde 91130 Ris Orangis",
+    "code_postal_pj": "91130",
+    "ville_pj": "Ris Orangis",
+    "telephone": "01 70 95 67 76",
+    "search_category": "carrosserie automobile"
+  },
+  {
+    "nom_pj": "GARAGE MARIO PERE ET FILS",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=51628374&code_localite=L09122800&code_rubrique=062200",
+    "adresse_pj": "40 rue Croix Boissée 91810 Vert le Grand",
+    "code_postal_pj": "91810",
+    "ville_pj": "Vert le Grand",
+    "telephone": "01 60 80 37 15",
+    "search_category": "carrosserie automobile"
+  },
+  {
+    "nom_pj": "CARGLASS Pare-Brise Bretigny sur Orge",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=59027967&code_localite=L09122800&code_rubrique=388310",
+    "adresse_pj": "chemin Départemental 133 91220 Brétigny sur Orge",
+    "code_postal_pj": "91220",
+    "ville_pj": "Brétigny sur Orge",
+    "telephone": "09 77 40 19 20",
+    "search_category": "carrosserie automobile"
+  },
+  {
+    "nom_pj": "XYT",
+    "adresse_pj": "65 route Leudeville 91220 Le Plessis Pâté",
+    "code_postal_pj": "91220",
+    "ville_pj": "Le Plessis Pâté",
+    "search_category": "carrosserie automobile"
+  },
+  {
+    "nom_pj": "CARGLASS Pare-Brise Longpont sur Orge",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=06030028&code_localite=L09122800&code_rubrique=388310",
+    "adresse_pj": "RN 20 58 Bis avenue Division Leclerc 91310 Longpont sur Orge",
+    "code_postal_pj": "91310",
+    "ville_pj": "Longpont sur Orge",
+    "telephone": "09 77 40 19 20",
+    "search_category": "carrosserie automobile"
+  },
+  {
+    "nom_pj": "Autos Pièces Services 77",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=59251774&code_localite=L09122800&code_rubrique=388310",
+    "adresse_pj": "22 rue Elsa Triolet 77176 Savigny le Temple",
+    "code_postal_pj": "77176",
+    "ville_pj": "Savigny le Temple",
+    "telephone": "01 64 10 10 10",
+    "search_category": "carrosserie automobile"
+  },
+  {
+    "nom_pj": "MAJESTIC PIECES AUTO",
+    "adresse_pj": "1 rue Mares Juliennes 91380 Chilly Mazarin",
+    "code_postal_pj": "91380",
+    "ville_pj": "Chilly Mazarin",
+    "telephone": "01 60 92 55 12",
+    "search_category": "carrosserie automobile"
+  },
+  {
+    "nom_pj": "CARGLASS Pare-Brise Villebon sur Yvette",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=59679852&code_localite=L09122800&code_rubrique=388310",
+    "adresse_pj": "Centre Commercial Villebon 2, niveau 3 avenue Plesse 91140 Villebon sur Yvette",
+    "code_postal_pj": "91140",
+    "ville_pj": "Villebon sur Yvette",
+    "telephone": "09 77 40 19 20",
+    "search_category": "carrosserie automobile"
+  },
+  {
+    "nom_pj": "Ligier Microcar Urban's Cars Concessionnaire",
+    "adresse_pj": "7 rue Brévannes 94470 Boissy Saint Léger",
+    "code_postal_pj": "94470",
+    "ville_pj": "Boissy Saint Léger",
+    "telephone": "01 45 98 90 64",
+    "search_category": "carrosserie automobile"
+  },
+  {
+    "nom_pj": "Ici Ton Pneu",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=62996399&code_localite=L09122800&code_rubrique=388310",
+    "adresse_pj": "39 boulevard Stalingrad 94320 Thiais",
+    "code_postal_pj": "94320",
+    "ville_pj": "Thiais",
+    "telephone": "01 41 77 00 98",
+    "search_category": "carrosserie automobile"
+  },
+  {
+    "nom_pj": "Alfort GPL",
+    "adresse_pj": "4 rue Darse 94600 Choisy le Roi",
+    "code_postal_pj": "94600",
+    "ville_pj": "Choisy le Roi",
+    "telephone": "01 58 43 09 34",
+    "search_category": "carrosserie automobile"
+  },
+  {
+    "nom_pj": "CARGLASS Pare-Brise Les Ulis",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=56250239&code_localite=L09122800&code_rubrique=388310",
+    "adresse_pj": "ZAC Courtaboeuf 1 avenue Océanie 91940 Les Ulis",
+    "code_postal_pj": "91940",
+    "ville_pj": "Les Ulis",
+    "telephone": "09 77 40 19 20",
+    "search_category": "carrosserie automobile"
+  },
+  {
+    "nom_pj": "CARGLASS Pare-Brise Milly la Foret",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=56012424&code_localite=L09122800&code_rubrique=388310",
+    "adresse_pj": "Station-service TOTAL Access - RN 148 58 avenue Ganay 91490 Milly la Forêt",
+    "code_postal_pj": "91490",
+    "ville_pj": "Milly la Forêt",
+    "telephone": "09 77 40 19 20",
+    "search_category": "carrosserie automobile"
+  },
+  {
+    "nom_pj": "CARGLASS Pare-Brise Morigny Champigny",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=55400133&code_localite=L09122800&code_rubrique=388310",
+    "adresse_pj": "Parc Brunehaut route Nationale 20 91150 Morigny Champigny",
+    "code_postal_pj": "91150",
+    "ville_pj": "Morigny Champigny",
+    "telephone": "09 77 40 19 20",
+    "search_category": "carrosserie automobile"
+  },
+  {
+    "nom_pj": "Lenoir Handi Concept",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=51691260&code_localite=L09122800&code_rubrique=062200",
+    "adresse_pj": "27 rue Lavoisier 95220 Herblay sur Seine",
+    "code_postal_pj": "95220",
+    "ville_pj": "Herblay sur Seine",
+    "telephone": "0214694302",
+    "search_category": "carrosserie automobile"
+  },
+  {
+    "nom_pj": "Technic Diesel Injection",
+    "adresse_pj": "29 rue Cayennes 78700 Conflans Sainte Honorine",
+    "code_postal_pj": "78700",
+    "ville_pj": "Conflans Sainte Honorine",
+    "telephone": "0430456885",
+    "site_web": "https://www.technic-diesel-injection.com/contact",
+    "search_category": "carrosserie automobile"
+  },
+  {
+    "nom_pj": "RCS 4x4",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=07265407&code_localite=L09122800&code_rubrique=388310",
+    "adresse_pj": "Lieu Dit Les Filles Pitou route Nationale 20 45520 Cercottes",
+    "code_postal_pj": "45520",
+    "ville_pj": "Cercottes",
+    "telephone": "02 38 75 44 44",
+    "search_category": "carrosserie automobile"
+  },
+  {
+    "nom_pj": "Martin Seb Casse Poids Lourds",
+    "adresse_pj": "19 route Nieul 17250 Soulignonnes",
+    "code_postal_pj": "17250",
+    "ville_pj": "Soulignonnes",
+    "telephone": "05 46 93 90 06",
+    "search_category": "carrosserie automobile"
+  },
+  {
+    "nom_pj": "BMW Motorrad Indigo Lisses",
+    "adresse_pj": "D260 2 route Villabé 91090 Lisses",
+    "code_postal_pj": "91090",
+    "ville_pj": "Lisses",
+    "telephone": "01 69 87 70 71",
+    "search_category": "concession moto"
+  },
+  {
+    "nom_pj": "BMW MINI Indigo LissesConnu sous : BMW Indigo Concessionnaire",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=07862959&code_localite=L09122800&code_rubrique=545800",
+    "adresse_pj": "D260 2 route Villabé 91090 Lisses",
+    "code_postal_pj": "91090",
+    "ville_pj": "Lisses",
+    "telephone": "01 69 87 70 70",
+    "search_category": "concession moto"
+  },
+  {
+    "nom_pj": "C2R",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=58641849&code_localite=L09122800&code_rubrique=259510",
+    "adresse_pj": "48 rue Paris 91100 Corbeil Essonnes",
+    "code_postal_pj": "91100",
+    "ville_pj": "Corbeil Essonnes",
+    "telephone": "0959610000",
+    "search_category": "concession moto"
+  },
+  {
+    "nom_pj": "D S F MOTOS",
+    "adresse_pj": "5 boulevard Jean Jaurès 91100 Corbeil Essonnes",
+    "code_postal_pj": "91100",
+    "ville_pj": "Corbeil Essonnes",
+    "telephone": "01 60 89 84 46",
+    "search_category": "concession moto"
+  },
+  {
+    "nom_pj": "Dufour Motos",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=06661185&code_localite=L09122800&code_rubrique=259510",
+    "adresse_pj": "16 rue Glacière 91100 Corbeil Essonnes",
+    "code_postal_pj": "91100",
+    "ville_pj": "Corbeil Essonnes",
+    "telephone": "01 64 96 95 95",
+    "search_category": "concession moto"
+  },
+  {
+    "nom_pj": "Cms 91",
+    "url_pj": "https://www.pagesjaunes.fr/pros/detail?code_etablissement=00218647&code_localite=L09122800&code_rubrique=259510",
+    "adresse_pj": "20 boulevard Jean Jaurès 91100 Corbeil Essonnes",
+    "code_postal_pj": "91100",
+    "ville_pj": "Corbeil Essonnes",
+    "telephone": "01 60 88 12 88",
+    "search_category": "concession moto"
+  },
+  {
+    "nom_pj": "AMC Motos",
+    "adresse_pj": "3 boulevard Jean Jaurès 91100 Corbeil Essonnes",
+    "code_postal_pj": "91100",
+    "ville_pj": "Corbeil Essonnes",
+    "telephone": "01 60 89 84 46",
+    "search_category": "concession moto"
+  },
+  {
+    "nom_pj": "Ducati Bretigny",
+    "adresse_pj": "70 avenue Charles de Gaulle 91220 Brétigny sur Orge",
+    "code_postal_pj": "91220",
+    "ville_pj": "Brétigny sur Orge",
+    "telephone": "01 78 83 04 74",
+    "search_category": "concession moto"
+  },
+  {
+    "nom_pj": "Moto Axxe",
+    "adresse_pj": "Zac Croix Blanche 22 avenue Résistance 91700 Sainte Geneviève des Bois",
+    "code_postal_pj": "91700",
+    "ville_pj": "Sainte Geneviève des Bois",
+    "telephone": "01 69 25 25 25",
+    "search_category": "concession moto"
+  },
+  {
+    "nom_pj": "Harley-Davidson Borie",
+    "adresse_pj": "Zac Des Boutareines Van Parys 1 rue Georges Van Parys 94350 Villiers sur Marne",
+    "code_postal_pj": "94350",
+    "ville_pj": "Villiers sur Marne",
+    "telephone": "01 49 30 78 96",
+    "search_category": "concession moto"
+  },
+  {
+    "nom_pj": "Dafy Moto",
+    "adresse_pj": "48 avenue 8 Mai 1945 91100 Corbeil Essonnes",
+    "code_postal_pj": "91100",
+    "ville_pj": "Corbeil Essonnes",
+    "telephone": "01 64 96 54 32",
+    "search_category": "concession moto"
+  },
+  {
+    "nom_pj": "CYCLES L C O RACING",
+    "adresse_pj": "95 Ter rue Albert Rémy 91130 Ris Orangis",
+    "code_postal_pj": "91130",
+    "ville_pj": "Ris Orangis",
+    "telephone": "01 69 25 90 26",
+    "search_category": "concession moto"
+  },
+  {
+    "nom_pj": "GDC Mobilite",
+    "adresse_pj": "45 Bis avenue Gén de Gaulle 91140 Villebon sur Yvette",
+    "code_postal_pj": "91140",
+    "ville_pj": "Villebon sur Yvette",
+    "telephone": "01 69 31 55 00",
+    "search_category": "concession moto"
+  }
+]
