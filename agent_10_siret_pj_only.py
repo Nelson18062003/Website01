@@ -27,9 +27,9 @@ PJ_SOURCES = [
 ]
 OUT_PATH          = "/home/user/Website01/agent_out_10_siret_pj_only.json"
 SIMILARITY_THRESH = 0.70
-MAX_PJ_ONLY       = 500
-API_DELAY         = 7.0    # 7s between calls (observed: ~3 req per 15min)
-RETRY_DELAY       = 300.0  # 5-min wait on first 429, then try again
+MAX_PJ_ONLY       = 500   # up to 500 entries (rate-limited: will take time)
+API_DELAY         = 7.0   # 7s between calls
+RETRY_DELAY       = 300.0 # 5-min wait on first 429
 
 
 # ─── HELPERS ───────────────────────────────────────────────────────────────────
