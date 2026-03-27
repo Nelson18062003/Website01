@@ -11,11 +11,11 @@
       "Bondoufle",
       "Courcouronnes"
     ],
-    "total": 119,
+    "total": 123,
     "par_categorie": {
       "garages": 119,
       "concessionnaires": 0,
-      "moto": 0,
+      "moto": 4,
       "carrosserie": 0
     },
     "date_collecte": "2026-03-27"
@@ -1447,6 +1447,54 @@
       "site_web": "",
       "shop_type": "car_repair",
       "categorie": "garages",
+      "source": "OpenStreetMap"
+    },
+    {
+      "osm_id": 8765031397,
+      "nom": "Dainese",
+      "telephone": "+33160880421",
+      "adresse": "",
+      "code_postal": "",
+      "ville": "",
+      "site_web": "https://www.dainese.com",
+      "shop_type": "motorcycle",
+      "categorie": "moto",
+      "source": "OpenStreetMap"
+    },
+    {
+      "osm_id": 13542718701,
+      "nom": "Ducati",
+      "telephone": "+33 1 78 83 04 74",
+      "adresse": "",
+      "code_postal": "",
+      "ville": "",
+      "site_web": "",
+      "shop_type": "motorcycle",
+      "categorie": "moto",
+      "source": "OpenStreetMap"
+    },
+    {
+      "osm_id": 70226703,
+      "nom": "Honda Moto 91",
+      "telephone": "",
+      "adresse": "",
+      "code_postal": "",
+      "ville": "",
+      "site_web": "",
+      "shop_type": "motorcycle",
+      "categorie": "moto",
+      "source": "OpenStreetMap"
+    },
+    {
+      "osm_id": 81262928,
+      "nom": "Panda 2 Roues",
+      "telephone": "+33 1 46 60 40 77",
+      "adresse": "13 Rue Léonard de Vinci",
+      "code_postal": "92160",
+      "ville": "Antony",
+      "site_web": "https://www.panda2roues.com/",
+      "shop_type": "motorcycle_repair",
+      "categorie": "moto",
       "source": "OpenStreetMap"
     }
   ]
