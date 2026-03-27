@@ -41,16 +41,12 @@ CATEGORIES = [
 HEADERS = {
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
     "Accept-Language": "fr-FR,fr;q=0.9,en;q=0.8",
-    "Accept-Encoding": "gzip, deflate, br",
-    "Connection": "keep-alive",
-    "Upgrade-Insecure-Requests": "1",
-    "Cache-Control": "max-age=0",
-    "Referer": "https://www.pagesjaunes.fr/",
 }
 
 IMPERSONATE = "safari17_2_ios"
 
 PHONE_RE = re.compile(r'0[1-9][\s.]?\d{2}[\s.]?\d{2}[\s.]?\d{2}[\s.]?\d{2}')
+PHONE_10_RE = re.compile(r'0[1-9]\d{8}')
 
 
 def decode_pjlb_url(s):
@@ -71,196 +67,168 @@ def clean_phone(phone):
     return re.sub(r'[\s.]', '', phone)
 
 
+def fetch_with_retry(session, url, max_retries=6, base_delay=3):
+    """Fetch URL with retry on 403 (Cloudflare intermittent challenge)."""
+    headers = dict(HEADERS)
+    for attempt in range(max_retries):
+        try:
+            resp = session.get(url, headers=headers, timeout=35, impersonate=IMPERSONATE)
+            if resp.status_code == 200:
+                return resp
+            if resp.status_code == 404:
+                return None
+            # 403: retry with backoff
+            delay = base_delay + attempt * 3
+            time.sleep(delay)
+        except Exception as e:
+            time.sleep(base_delay)
+    return None
+
+
+def extract_phone_from_img(img_src):
+    """Extract phone number embedded in PJ image filename."""
+    if not img_src:
+        return ''
+    # The folder name (second-to-last path segment) contains the phone
+    parts = img_src.split('/')
+    if len(parts) >= 2:
+        folder = parts[-2]
+        m = PHONE_10_RE.search(folder)
+        if m:
+            phone = m.group()
+            if not phone.startswith('0300'):
+                return phone
+    return ''
+
+
+def get_next_page_info(soup):
+    """Extract AJAX URL for next page from pagination element."""
+    pag = soup.select_one('.pagination-inf[data-pjajax]')
+    if pag:
+        try:
+            data = json.loads(pag.get('data-pjajax', '{}'))
+            return data.get('url', '')
+        except Exception:
+            pass
+    return ''
+
+
 def extract_listings(html, category, zone):
     soup = BeautifulSoup(html, 'lxml')
     results = []
 
-    # Find all listing cards
-    cards = soup.select('li.bi-generic, li.bi-pro, article.bi-generic, article.bi-pro, div.bi-generic, div.bi-pro')
-    if not cards:
-        # fallback: broader selector
-        cards = soup.select('[class*="bi-"]')
-    if not cards:
-        cards = soup.select('div.trombi-item, div.listing-item')
-
-    # Try another approach - look for structured data
-    for script in soup.find_all('script', type='application/ld+json'):
-        try:
-            data = json.loads(script.string)
-            if isinstance(data, list):
-                items = data
-            elif isinstance(data, dict) and data.get('@type') == 'ItemList':
-                items = data.get('itemListElement', [])
-            else:
-                continue
-            for item in items:
-                if isinstance(item, dict):
-                    thing = item.get('item', item)
-                    name = thing.get('name', '')
-                    addr = thing.get('address', {})
-                    if isinstance(addr, str):
-                        address_str = addr
-                        cp = ''
-                        city = ''
-                    else:
-                        address_str = addr.get('streetAddress', '')
-                        cp = addr.get('postalCode', '')
-                        city = addr.get('addressLocality', '')
-                    phone = ''
-                    if thing.get('telephone'):
-                        phone = clean_phone(thing['telephone'])
-                    url = thing.get('url', '')
-                    if name:
-                        results.append({
-                            'nom': name,
-                            'adresse': address_str,
-                            'code_postal': cp,
-                            'ville': city,
-                            'telephone': phone,
-                            'site_web': url,
-                            'search_category': category,
-                            'zone_recherche': zone,
-                            'source': 'json-ld',
-                        })
-        except Exception:
-            pass
-
-    if results:
-        return results
-
-    # Parse HTML cards directly
-    # Pages Jaunes uses various selectors
-    cards = soup.select('div[class*="card"], li[class*="result"]')
-    if not cards:
-        # Try to find any block with a company name
-        cards = soup.select('div.bloc-result, div.result-content')
+    cards = soup.select('li.bi-generic, li.bi-pro')
 
     for card in cards:
-        nom = ''
-        adresse = ''
-        cp = ''
-        ville_card = ''
-        telephone = ''
-        site_web = ''
-
         # Name
-        name_el = card.select_one('a[class*="denomination"], span[class*="denomination"], h2, h3, a.bi-denomination')
-        if not name_el:
-            name_el = card.select_one('[class*="name"], [class*="nom"]')
-        if name_el:
-            nom = name_el.get_text(strip=True)
+        nom = ''
+        h = card.select_one('h3, h2, .bi-denomination')
+        if h:
+            nom = h.get_text(strip=True)
+
+        if not nom:
+            continue
 
         # Address
-        addr_el = card.select_one('[class*="address"], [class*="adresse"]')
-        if addr_el:
-            adresse = addr_el.get_text(strip=True)
+        addr_el = card.select_one('.bi-address')
+        adresse_full = addr_el.get_text(strip=True) if addr_el else ''
 
-        # Extract CP/ville from address
-        cp_match = re.search(r'\b(9\d{4})\b', adresse)
+        # Extract postal code from address
+        cp = ''
+        ville_card = ''
+        cp_match = re.search(r'\b(9\d{4})\b', adresse_full)
         if cp_match:
             cp = cp_match.group(1)
+            # Ville is after the CP
+            ville_match = re.search(r'\b9\d{4}\b\s*(.+)', adresse_full)
+            if ville_match:
+                ville_card = ville_match.group(1).strip()
 
-        # Phone from HTML
-        phones = PHONE_RE.findall(str(card))
-        for p in phones:
-            p_clean = clean_phone(p)
-            if not p_clean.startswith('0300'):
-                telephone = p_clean
-                break
+        # Street address (before CP)
+        adresse = adresse_full
+        if cp:
+            adresse = adresse_full[:adresse_full.find(cp)].strip()
 
-        # Site web - look for pjlb encoded URLs
-        for a in card.find_all('a', href=True):
-            href = a['href']
-            if 'pjlb' in href or 'site-web' in a.get('class', []):
-                # Try data attribute
-                data_pjlb = a.get('data-pjlb', '')
-                if data_pjlb:
-                    decoded = decode_pjlb_url(data_pjlb)
-                    if decoded:
-                        site_web = decoded
-                        break
+        # Phone: try from img src filename first
+        telephone = ''
+        img = card.select_one('img')
+        if img:
+            telephone = extract_phone_from_img(img.get('src', ''))
 
-        if nom:
-            results.append({
-                'nom': nom,
-                'adresse': adresse,
-                'code_postal': cp,
-                'ville': ville_card,
-                'telephone': telephone,
-                'site_web': site_web,
-                'search_category': category,
-                'zone_recherche': zone,
-                'source': 'html',
-            })
+        # Fallback: regex on raw card HTML (excluding image paths)
+        if not telephone:
+            # Search in text content only (not img src)
+            card_text = card.get_text()
+            phones_found = PHONE_RE.findall(card_text)
+            for p in phones_found:
+                p_clean = clean_phone(p)
+                if not p_clean.startswith('0300'):
+                    telephone = p_clean
+                    break
 
-    # If still no results, try extracting phones from raw HTML with context
-    if not results:
-        # Look for any structured listing blocks
-        # Try to extract from raw HTML with regex patterns
-        raw_phones = PHONE_RE.findall(html)
-        filtered = []
-        for p in raw_phones:
-            p_clean = clean_phone(p)
-            if not p_clean.startswith('0300') and p_clean not in filtered:
-                filtered.append(p_clean)
+        # Site web via pjlb decoding
+        site_web = ''
+        url_pj = ''
+        for a in card.find_all('a', attrs={'data-pjlb': True}):
+            label = a.get_text(strip=True).lower()
+            classes = ' '.join(a.get('class', []))
+            data_pjlb = a.get('data-pjlb', '')
+            if any(kw in label for kw in ['site web', 'website', 'visiter', 'voir le site']):
+                decoded = decode_pjlb_url(data_pjlb)
+                if decoded and decoded.startswith('http'):
+                    site_web = decoded
+                    break
 
-        # Try to find business names around phone numbers
-        blocks = re.findall(
-            r'(?:denomination|nom-enseigne)[^>]*>([^<]+)<',
-            html, re.IGNORECASE
-        )
-        if blocks and filtered:
-            for i, (name, phone) in enumerate(zip(blocks, filtered)):
-                results.append({
-                    'nom': name.strip(),
-                    'adresse': '',
-                    'code_postal': '',
-                    'ville': '',
-                    'telephone': phone,
-                    'site_web': '',
-                    'search_category': category,
-                    'zone_recherche': zone,
-                    'source': 'regex',
-                })
+        # PJ URL from main link
+        main_link = card.select_one('a.bi-link-mobile, a[href^="/pros/"]')
+        if main_link:
+            href = main_link.get('href', '')
+            if href.startswith('/pros/'):
+                url_pj = 'https://www.pagesjaunes.fr' + href
 
-    return results
+        results.append({
+            'nom': nom,
+            'adresse': adresse,
+            'code_postal': cp,
+            'ville': ville_card,
+            'telephone': telephone,
+            'site_web': site_web,
+            'url_pj': url_pj,
+            'search_category': category,
+            'zone_recherche': zone,
+        })
 
-
-def has_next_page(html):
-    soup = BeautifulSoup(html, 'lxml')
-    # Check for "page suivante" link or pagination
-    next_link = soup.select_one('a[class*="next"], a[rel="next"], [class*="pagination"] a[aria-label*="suivant"]')
-    if next_link:
-        return True
-    # Check if there are results at all
-    no_result = soup.select_one('[class*="no-result"], [class*="aucun"]')
-    if no_result:
-        return False
-    return False
+    return results, get_next_page_info(soup)
 
 
 def scrape_combination(session, city_label, city_query, category):
     results = []
     print(f"  [{city_label}] {category}", end="", flush=True)
 
-    for page in range(1, 31):
-        url = f"https://www.pagesjaunes.fr/annuaire/chercherlespros?quoiqui={category}&ou={city_query}&page={page}"
+    base_url = f"https://www.pagesjaunes.fr/annuaire/chercherlespros?quoiqui={category}&ou={city_query}"
 
-        try:
-            resp = session.get(url, headers=HEADERS, timeout=30, impersonate=IMPERSONATE)
-            html = resp.text
-        except Exception as e:
-            print(f" [ERROR: {e}]", end="", flush=True)
+    page = 1
+    next_ajax_url = None
+
+    while page <= 30:
+        if page == 1:
+            url = base_url + "&page=1"
+        else:
+            if next_ajax_url:
+                # For pages 2+, use the direct page URL (same pattern)
+                url = base_url + f"&page={page}"
+            else:
+                break
+
+        resp = fetch_with_retry(session, url)
+
+        if resp is None:
+            print(f" [FAIL p{page}]", end="", flush=True)
             break
 
-        if resp.status_code == 404 or resp.status_code == 403:
-            print(f" [HTTP {resp.status_code}]", end="", flush=True)
-            break
-
-        page_results = extract_listings(html, category, f"{city_label} 91")
+        page_results, next_url = extract_listings(resp.text, category, f"{city_label} 91")
 
         if not page_results:
-            # No more results
             if page == 1:
                 print(f" [0]", end="", flush=True)
             break
@@ -268,13 +236,15 @@ def scrape_combination(session, city_label, city_query, category):
         results.extend(page_results)
         print(f" p{page}({len(page_results)})", end="", flush=True)
 
-        # Check if there's a next page
-        if not has_next_page(html):
+        # Check for next page
+        if next_url:
+            next_ajax_url = next_url
+            page += 1
+            time.sleep(2)
+        else:
             break
 
-        time.sleep(2)
-
-    print(f" => total: {len(results)}")
+    print(f" => {len(results)}")
     return results
 
 
@@ -282,8 +252,12 @@ def deduplicate(results):
     seen = set()
     deduped = []
     for r in results:
-        key = (r.get('nom', '').lower().strip(), r.get('telephone', '').strip(), r.get('adresse', '').lower().strip()[:30])
-        if key not in seen and any(key):
+        key = (
+            r.get('nom', '').lower().strip(),
+            r.get('telephone', '').strip(),
+            r.get('adresse', '').lower().strip()[:30]
+        )
+        if key[0] and key not in seen:
             seen.add(key)
             deduped.append(r)
     return deduped
@@ -291,6 +265,7 @@ def deduplicate(results):
 
 def main():
     print("=== Scraper Pages Jaunes - Banlieue d'Évry ===")
+    print(f"Impersonate: {IMPERSONATE}")
     print(f"Villes: {[c[0] for c in CITIES]}")
     print(f"Catégories: {CATEGORIES}")
     print()
@@ -311,7 +286,8 @@ def main():
             time.sleep(1)
 
         all_results.extend(city_results)
-        print(f"  Sous-total {city_label}: {len(city_results)} entrées")
+        city_total = sum(summary[city_label].values())
+        print(f"  Sous-total {city_label}: {city_total} entrées brutes")
         time.sleep(3)
 
     # Deduplicate
@@ -325,6 +301,8 @@ def main():
             "source": "Pages Jaunes",
             "date": "2026-03-27",
             "zone": "Banlieue d'Évry (91)",
+            "categories": CATEGORIES,
+            "villes": [c[0] for c in CITIES],
             "total": len(all_results),
         },
         "summary": summary,
@@ -337,18 +315,20 @@ def main():
     print(f"\nFichier sauvegardé: {OUTPUT_FILE}")
 
     # Print summary table
-    print("\n=== RÉSUMÉ ===")
-    print(f"{'Ville':<25} {'Cat.':<30} {'Résultats':>10}")
-    print("-" * 70)
+    print("\n=== RÉSUMÉ PAR VILLE ET CATÉGORIE ===")
+    print(f"{'Ville':<25} {'Catégorie':<30} {'N':>6}")
+    print("-" * 65)
+    grand_total_raw = 0
     for city, cats in summary.items():
         for cat, count in cats.items():
-            print(f"{city:<25} {cat:<30} {count:>10}")
+            print(f"{city:<25} {cat:<30} {count:>6}")
+            grand_total_raw += count
         city_total = sum(cats.values())
-        print(f"{'':25} {'TOTAL ' + city:<30} {city_total:>10}")
+        print(f"{'':25} {'== TOTAL ==':30} {city_total:>6}")
         print()
 
-    grand_total = sum(sum(cats.values()) for cats in summary.values())
-    print(f"\nTotal général: {grand_total} entrées (après dédup: {len(all_results)})")
+    print(f"\nTotal général (brut): {grand_total_raw}")
+    print(f"Total (dédupliqué):   {len(all_results)}")
 
 
 if __name__ == "__main__":
