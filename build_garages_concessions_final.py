@@ -527,14 +527,15 @@ def main():
     print(f"  Playwright Évry: {len(pw_evry)} entrées")
 
     # Fresh PJ scrape
-    raw_fresh = load_json(f"{BASE}/agent_pj_fresh_scrape.json", [])
-    pj_fresh = unwrap(raw_fresh, "etablissements", "results") if isinstance(raw_fresh, dict) else raw_fresh
-    for e in pj_fresh:
-        if isinstance(e, dict):
-            entry = from_pj_entry(e, e.get("zone_recherche", e.get("ville", "")))
-            add_entry(registry, entry)
-    source_counts["pj_fresh"] = len(pj_fresh)
-    print(f"  PJ fresh scrape: {len(pj_fresh)} entrées")
+    for fname, label in [("agent_pj_fresh_scrape.json", "pj_fresh"), ("agent_pj_moto_missing.json", "pj_moto_missing")]:
+        raw_fresh = load_json(f"{BASE}/{fname}", [])
+        pj_fresh = unwrap(raw_fresh, "etablissements", "results") if isinstance(raw_fresh, dict) else raw_fresh
+        for e in pj_fresh:
+            if isinstance(e, dict):
+                entry = from_pj_entry(e, e.get("zone_recherche", e.get("ville", "")))
+                add_entry(registry, entry)
+        source_counts[label] = len(pj_fresh)
+        print(f"  {label}: {len(pj_fresh)} entrées")
 
     # Agent 10: PJ-only entries with phones
     raw10 = load_json(f"{BASE}/agent_out_10_siret_pj_only.json", [])

@@ -2809,7 +2809,7 @@ TP STORE;;ZAC DE LA BRUYERE 14 RUE DE LA BRUYERE 31120 PINSAGUEL;31120;PINSAGUEL
 AMELIE MELEN (RPK MOTORSPORT-E-COMMERCE);;1475 VIEILLE ROUTE DE RIEUMES 31370 PLAGNOLE;31370;PLAGNOLE;94493738200017;944937382;garage_moto;45.32Z;;;API_dept31
 Carrosserie car repair;05 62 83 74 29;1 rue Gaspard Gustave Coriolis 31830 Plaisance du Touch;31830;PLAISANCE DU TOUCH;;;carrossier_auto;;;;PagesJaunes
 DELKO Plaisance-du-Touch;05 61 63 44 13;95 route Lombez 31830 Plaisance du Touch;31830;PLAISANCE DU TOUCH;;;garage_auto;;;;PagesJaunes
-Darkpads;;16 rue Isaac Newton 31830 Plaisance du Touch;31830;PLAISANCE DU TOUCH;;;concession_moto;;;;PagesJaunes
+Darkpads;Ecrire un avis;16 rue Isaac Newton 31830 Plaisance du Touch;31830;PLAISANCE DU TOUCH;;;concession_moto;;;;PagesJaunes
 ELITE CARROSSERIE 31;05 54 54 53 31;rue Gaspard Gustave Coriolis 31830 Plaisance du Touch;31830;PLAISANCE DU TOUCH;;;carrossier_auto;;;;PagesJaunes
 Garage Du Golf;05 62 12 43 56;76 rue Landes 31830 Plaisance du Touch;31830;PLAISANCE DU TOUCH;;;garage_auto;;;;PagesJaunes
 Gomecarent;07 69 59 34 92;1 impasse Daniel Bernoulli 31830 Plaisance du Touch;31830;PLAISANCE DU TOUCH;;;garage_auto;;;;PagesJaunes
@@ -3003,7 +3003,7 @@ RIEUX VEHICULES OCCASIONS (R.V.O.);;2 CHEMIN DU TROU DE LA LUNE 31310 RIEUX-VOLV
 ABG Sayara;07 56 96 34 23;3 rue Jules Guesde 91130 Ris Orangis;91130;RIS ORANGIS;;;garage_auto;;;;PagesJaunes
 Atm Auto;;12 rue Paul Langevin 91130 Ris Orangis;91130;RIS ORANGIS;;;carrossier_auto;;;;PagesJaunes
 Atz Autodiag;06 86 25 27 30;13 rue Pasteur;91130;RIS ORANGIS;;;garage_auto;;;;PagesJaunes
-Auto Eco 91;;3 rue Jules Guesde 91130 Ris Orangis;91130;RIS ORANGIS;;;garage_auto;;;;PagesJaunes
+Auto Eco 91;Ecrire un avis;3 rue Jules Guesde 91130 Ris Orangis;91130;RIS ORANGIS;;;garage_auto;;;;PagesJaunes
 Auto Primo Garage de l'Aunette;01 69 06 05 03;7 avenue Victor Leray;91130;RIS ORANGIS;;;garage_auto;;;;PagesJaunes
 Autodream;07 56 95 30 50;3 rue Fontaine;91130;RIS ORANGIS;;;carrossier_auto;;;;PagesJaunes
 Autosolus;;3 rue Jules Guesde 91130 Ris Orangis;91130;RIS ORANGIS;;;garage_auto;;;;PagesJaunes
@@ -7217,7 +7217,7 @@ ALN SERVICES;05 63 75 55 26;38 CRS BLAISE PASCAL 91000 EVRY-COURCOURONNES;91000;
 ALPHA-SALIOU SOW (SOW AVVENO CONSEILS);;APPT 803 RDC 6 SQ CHARLES AMOUROUX 91000 EVRY-COURCOURONNES;91000;ÉVRY-COURCOURONNES;98140575600017;981405756;concession_auto;45.11Z;;;API Recherche Entreprises (gouv.fr)|API+PJ
 AMA CONCEPT CAR (A.C.C);;10 ALL DES CHAMPS ELYSEES 91000 EVRY-COURCOURONNES;91000;ÉVRY-COURCOURONNES;84340469000011;843404690;concession_auto;45.11Z;;;API Recherche Entreprises (gouv.fr)|API+PJ
 AMINE BOUCHERIT;09 56 03 30 43;COURCOURONNES CENTRE 7 AV DESCARTES 91000 EVRY-COURCOURONNES;91000;ÉVRY-COURCOURONNES;88872833400010;888728334;concession_auto;45.11Z;;;API Recherche Entreprises (gouv.fr)|API+PJ
-AMS - Auto;;11 rue André Lalande 91000 Evry;91000;ÉVRY-COURCOURONNES;;;garage_auto;;;;PagesJaunes
+AMS - Auto;Ecrire un avis;11 rue André Lalande 91000 Evry;91000;ÉVRY-COURCOURONNES;;;garage_auto;;;;PagesJaunes
 ANASS SAJID (SAKS SERVICES);;RESIDENCE LE FRAGONARD 44 RUE JULES VALLES 91000 EVRY-COURCOURONNES;91000;ÉVRY-COURCOURONNES;75329571600017;753295716;concession_auto;45.11Z;;;API Recherche Entreprises (gouv.fr)|API+PJ
 ANDREI BORDEIANU (AUTO GARDANNE);;9 SQ PAUL LAFARGUE 91000 EVRY-COURCOURONNES;91000;ÉVRY-COURCOURONNES;81343573200017;813435732;garage_moto;45.40Z;;;API Recherche Entreprises (gouv.fr)|API+PJ
 ANTHONY FELTRIN (ANTHONY FELTRIN);05 57 41 27 01;28 RUE CLAUDE DEBUSSY 91000 EVRY-COURCOURONNES;91000;ÉVRY-COURCOURONNES;80876155500016;808761555;garage_auto;45.20A;;;API Recherche Entreprises (gouv.fr)|API+PJ
