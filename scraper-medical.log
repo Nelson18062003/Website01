@@ -2730,3 +2730,176 @@
 2026-04-01 18:45:12,988 [garages_cergy] INFO: Exporting 391 records to /home/user/Website01/garages-cergy.xlsx
 2026-04-01 18:45:13,230 [garages_cergy] INFO: Excel saved: /home/user/Website01/garages-cergy.xlsx
 2026-04-01 18:45:13,234 [garages_cergy] INFO: === Scraper Garages Cergy — DONE ===
+2026-04-01 18:50:18,307 [garages_cergy] INFO: === Scraper Garages Cergy — START ===
+2026-04-01 18:50:20,977 [garages_cergy] INFO: API: 45.11Z / 95000 => 73 records
+2026-04-01 18:50:29,875 [garages_cergy] INFO: API: 45.11Z / 95800 => 91 records
+2026-04-01 18:50:30,394 [garages_cergy] INFO: API: 45.19Z / 95000 => 1 records
+2026-04-01 18:50:30,917 [garages_cergy] INFO: API: 45.19Z / 95800 => 2 records
+2026-04-01 18:50:33,046 [garages_cergy] INFO: API: 45.20A / 95000 => 55 records
+2026-04-01 18:50:39,637 [garages_cergy] INFO: API: 45.20A / 95800 => 29 records
+2026-04-01 18:50:45,377 [garages_cergy] INFO: API: 45.20B / 95000 => 0 records
+2026-04-01 18:50:45,894 [garages_cergy] INFO: API: 45.20B / 95800 => 1 records
+2026-04-01 18:50:46,419 [garages_cergy] INFO: API: 45.31Z / 95000 => 5 records
+2026-04-01 18:50:46,945 [garages_cergy] INFO: API: 45.31Z / 95800 => 5 records
+2026-04-01 18:50:47,232 [garages_cergy] INFO: API: 45.32Z / 95000 => 14 records
+2026-04-01 18:50:52,961 [garages_cergy] INFO: API: 45.32Z / 95800 => 8 records
+2026-04-01 18:50:58,981 [garages_cergy] INFO: API: 45.40Z / 95000 => 2 records
+2026-04-01 18:50:59,225 [garages_cergy] INFO: API: 45.40Z / 95800 => 1 records
+2026-04-01 18:50:59,225 [garages_cergy] INFO: API Entreprises total: 287 records
+2026-04-01 18:50:59,230 [garages_cergy] INFO: PJ: garage-automobile in cergy-95...
+2026-04-01 18:50:59,383 [garages_cergy] WARNING: PJ 403 for garage-automobile/cergy-95 page 1
+2026-04-01 18:51:03,690 [garages_cergy] INFO: PJ: concession-automobile in cergy-95...
+2026-04-01 18:51:04,760 [garages_cergy] INFO:   PJ: concession-automobile page 1: 20 new (20 raw)
+2026-04-01 18:51:09,914 [garages_cergy] WARNING: PJ 403 for concession-automobile/cergy-95 page 2
+2026-04-01 18:51:09,914 [garages_cergy] INFO:   => 20 records for concession-automobile
+2026-04-01 18:51:13,055 [garages_cergy] INFO: PJ: carrosserie-automobile in cergy-95...
+2026-04-01 18:51:13,164 [garages_cergy] WARNING: PJ 403 for carrosserie-automobile/cergy-95 page 1
+2026-04-01 18:51:18,611 [garages_cergy] INFO: PJ: garage-moto in cergy-95...
+2026-04-01 18:51:18,694 [garages_cergy] WARNING: PJ 403 for garage-moto/cergy-95 page 1
+2026-04-01 18:51:22,065 [garages_cergy] INFO: PJ: concession-moto in cergy-95...
+2026-04-01 18:51:22,472 [garages_cergy] WARNING: PJ 403 for concession-moto/cergy-95 page 1
+2026-04-01 18:51:28,319 [garages_cergy] INFO: PJ: reparation-automobile in cergy-95...
+2026-04-01 18:51:28,396 [garages_cergy] WARNING: PJ 403 for reparation-automobile/cergy-95 page 1
+2026-04-01 18:51:31,709 [garages_cergy] INFO: PJ: carrossier in cergy-95...
+2026-04-01 18:51:32,843 [garages_cergy] INFO:   PJ: carrossier page 1: 8 new (12 raw)
+2026-04-01 18:51:32,851 [garages_cergy] INFO:   => 8 records for carrossier
+2026-04-01 18:51:36,426 [garages_cergy] INFO: PJ: peinture-automobile in cergy-95...
+2026-04-01 18:51:37,190 [garages_cergy] INFO:   PJ: peinture-automobile page 1: 20 new (20 raw)
+2026-04-01 18:51:41,012 [garages_cergy] INFO:   PJ: peinture-automobile page 2: 6 new (6 raw)
+2026-04-01 18:51:41,017 [garages_cergy] INFO:   => 26 records for peinture-automobile
+2026-04-01 18:51:44,678 [garages_cergy] INFO: Pages Jaunes total: 54 records
+2026-04-01 18:51:45,755 [garages_cergy] INFO: OSM Overpass: 36 automotive POIs
+2026-04-01 18:51:45,817 [garages_cergy] INFO: After dedup: 369 unique records
+2026-04-01 18:51:45,818 [garages_cergy] INFO: Enriching SIRETs for 75 records...
+2026-04-01 18:52:56,679 [garages_cergy] INFO: SIRET enrichment: 28 records enriched
+2026-04-01 18:52:56,682 [garages_cergy] INFO: Enriching phones via PJ for 301 records...
+2026-04-01 18:54:00,036 [garages_cergy] WARNING: PJ phone enrichment: too many 403s, stopping
+2026-04-01 18:54:00,036 [garages_cergy] INFO: PJ phone enrichment: 0 phones added
+2026-04-01 18:54:00,068 [garages_cergy] INFO: Exporting 369 records to /home/user/Website01/garages-cergy.xlsx
+2026-04-01 18:54:00,187 [garages_cergy] INFO: Excel saved: /home/user/Website01/garages-cergy.xlsx
+2026-04-01 18:54:00,190 [garages_cergy] INFO: === Scraper Garages Cergy — DONE ===
+2026-04-01 18:55:15,674 [garages_cergy] INFO: === Scraper Garages Cergy — START ===
+2026-04-01 18:55:18,383 [garages_cergy] INFO: API: 45.11Z / 95000 => 73 records
+2026-04-01 18:55:21,727 [garages_cergy] INFO: API: 45.11Z / 95800 => 91 records
+2026-04-01 18:55:22,255 [garages_cergy] INFO: API: 45.19Z / 95000 => 1 records
+2026-04-01 18:55:22,778 [garages_cergy] INFO: API: 45.19Z / 95800 => 2 records
+2026-04-01 18:55:24,837 [garages_cergy] INFO: API: 45.20A / 95000 => 55 records
+2026-04-01 18:55:26,296 [garages_cergy] INFO: API: 45.20A / 95800 => 29 records
+2026-04-01 18:55:26,847 [garages_cergy] INFO: API: 45.20B / 95000 => 0 records
+2026-04-01 18:55:27,368 [garages_cergy] INFO: API: 45.20B / 95800 => 1 records
+2026-04-01 18:55:27,891 [garages_cergy] INFO: API: 45.31Z / 95000 => 5 records
+2026-04-01 18:55:33,925 [garages_cergy] INFO: API: 45.31Z / 95800 => 5 records
+2026-04-01 18:55:34,464 [garages_cergy] INFO: API: 45.32Z / 95000 => 14 records
+2026-04-01 18:55:35,027 [garages_cergy] INFO: API: 45.32Z / 95800 => 8 records
+2026-04-01 18:55:35,589 [garages_cergy] INFO: API: 45.40Z / 95000 => 2 records
+2026-04-01 18:55:36,161 [garages_cergy] INFO: API: 45.40Z / 95800 => 1 records
+2026-04-01 18:55:36,161 [garages_cergy] INFO: API Entreprises total: 287 records
+2026-04-01 18:55:36,166 [garages_cergy] INFO: PJ: garage-automobile in cergy-95...
+2026-04-01 18:55:37,313 [garages_cergy] INFO:   PJ: garage-automobile/cergy-95 page 1: 20 new (20 raw)
+2026-04-01 18:55:41,069 [garages_cergy] WARNING: PJ 403 for garage-automobile/cergy-95 page 2
+2026-04-01 18:55:44,902 [garages_cergy] INFO: PJ: garage-automobile in pontoise-95300...
+2026-04-01 18:55:45,274 [garages_cergy] WARNING: PJ 403 for garage-automobile/pontoise-95300 page 1
+2026-04-01 18:55:48,744 [garages_cergy] INFO: PJ: garage-automobile in cergy-pontoise-95...
+2026-04-01 18:55:50,027 [garages_cergy] INFO:   PJ: garage-automobile/cergy-pontoise-95 page 1: 4 new (20 raw)
+2026-04-01 18:55:53,972 [garages_cergy] INFO:   PJ: garage-automobile/cergy-pontoise-95 page 2: 15 new (20 raw)
+2026-04-01 18:55:57,634 [garages_cergy] INFO:   PJ: garage-automobile/cergy-pontoise-95 page 3: 18 new (20 raw)
+2026-04-01 18:56:02,078 [garages_cergy] WARNING: PJ 403 for garage-automobile/cergy-pontoise-95 page 4
+2026-04-01 18:56:04,909 [garages_cergy] INFO:   => 57 total records for garage-automobile
+2026-04-01 18:56:10,811 [garages_cergy] INFO: PJ: concession-automobile in cergy-95...
+2026-04-01 18:56:11,057 [garages_cergy] WARNING: PJ 403 for concession-automobile/cergy-95 page 1
+2026-04-01 18:56:14,974 [garages_cergy] INFO: PJ: concession-automobile in pontoise-95300...
+2026-04-01 18:56:15,059 [garages_cergy] WARNING: PJ 403 for concession-automobile/pontoise-95300 page 1
+2026-04-01 18:56:17,233 [garages_cergy] INFO: PJ: concession-automobile in cergy-pontoise-95...
+2026-04-01 18:56:21,535 [garages_cergy] WARNING: PJ 403 for concession-automobile/cergy-pontoise-95 page 2
+2026-04-01 18:56:30,107 [garages_cergy] INFO: PJ: carrosserie-automobile in cergy-95...
+2026-04-01 18:56:30,331 [garages_cergy] WARNING: PJ 403 for carrosserie-automobile/cergy-95 page 1
+2026-04-01 18:56:32,853 [garages_cergy] INFO: PJ: carrosserie-automobile in pontoise-95300...
+2026-04-01 18:56:32,937 [garages_cergy] WARNING: PJ 403 for carrosserie-automobile/pontoise-95300 page 1
+2026-04-01 18:56:36,194 [garages_cergy] INFO: PJ: carrosserie-automobile in cergy-pontoise-95...
+2026-04-01 18:56:37,364 [garages_cergy] INFO:   PJ: carrosserie-automobile/cergy-pontoise-95 page 1: 7 new (20 raw)
+2026-04-01 18:56:41,386 [garages_cergy] WARNING: PJ 403 for carrosserie-automobile/cergy-pontoise-95 page 2
+2026-04-01 18:56:43,837 [garages_cergy] INFO:   => 7 total records for carrosserie-automobile
+2026-04-01 18:56:48,603 [garages_cergy] INFO: PJ: garage-moto in cergy-95...
+2026-04-01 18:56:49,357 [garages_cergy] INFO:   PJ: garage-moto/cergy-95 page 1: 19 new (20 raw)
+2026-04-01 18:56:54,211 [garages_cergy] INFO:   PJ: garage-moto/cergy-95 page 2: 2 new (3 raw)
+2026-04-01 18:56:58,155 [garages_cergy] INFO: PJ: garage-moto in pontoise-95300...
+2026-04-01 18:56:58,229 [garages_cergy] WARNING: PJ 403 for garage-moto/pontoise-95300 page 1
+2026-04-01 18:57:00,983 [garages_cergy] INFO: PJ: garage-moto in cergy-pontoise-95...
+2026-04-01 18:57:01,830 [garages_cergy] INFO:   PJ: garage-moto/cergy-pontoise-95 page 1: 1 new (20 raw)
+2026-04-01 18:57:08,557 [garages_cergy] INFO:   => 22 total records for garage-moto
+2026-04-01 18:57:14,255 [garages_cergy] INFO: PJ: concession-moto in cergy-95...
+2026-04-01 18:57:14,341 [garages_cergy] WARNING: PJ 403 for concession-moto/cergy-95 page 1
+2026-04-01 18:57:17,884 [garages_cergy] INFO: PJ: concession-moto in pontoise-95300...
+2026-04-01 18:57:17,963 [garages_cergy] WARNING: PJ 403 for concession-moto/pontoise-95300 page 1
+2026-04-01 18:57:21,398 [garages_cergy] INFO: PJ: concession-moto in cergy-pontoise-95...
+2026-04-01 18:57:25,474 [garages_cergy] WARNING: PJ 403 for concession-moto/cergy-pontoise-95 page 2
+2026-04-01 18:57:34,700 [garages_cergy] INFO: PJ: reparation-automobile in cergy-95...
+2026-04-01 18:57:35,934 [garages_cergy] INFO:   PJ: reparation-automobile/cergy-95 page 1: 3 new (3 raw)
+2026-04-01 18:57:38,563 [garages_cergy] INFO: PJ: reparation-automobile in pontoise-95300...
+2026-04-01 18:57:38,820 [garages_cergy] WARNING: PJ 403 for reparation-automobile/pontoise-95300 page 1
+2026-04-01 18:57:41,628 [garages_cergy] INFO: PJ: reparation-automobile in cergy-pontoise-95...
+2026-04-01 18:57:42,860 [garages_cergy] INFO:   PJ: reparation-automobile/cergy-pontoise-95 page 1: 1 new (4 raw)
+2026-04-01 18:57:45,686 [garages_cergy] INFO:   => 4 total records for reparation-automobile
+2026-04-01 18:57:51,001 [garages_cergy] INFO: PJ: carrossier in cergy-95...
+2026-04-01 18:57:55,171 [garages_cergy] INFO: PJ: carrossier in pontoise-95300...
+2026-04-01 18:57:58,296 [garages_cergy] INFO: PJ: carrossier in cergy-pontoise-95...
+2026-04-01 18:57:58,330 [garages_cergy] WARNING: PJ 403 for carrossier/cergy-pontoise-95 page 1
+2026-04-01 18:58:06,993 [garages_cergy] INFO: PJ: peinture-automobile in cergy-95...
+2026-04-01 18:58:08,303 [garages_cergy] INFO:   PJ: peinture-automobile/cergy-95 page 1: 20 new (20 raw)
+2026-04-01 18:58:11,103 [garages_cergy] WARNING: PJ 403 for peinture-automobile/cergy-95 page 2
+2026-04-01 18:58:14,581 [garages_cergy] INFO: PJ: peinture-automobile in pontoise-95300...
+2026-04-01 18:58:15,674 [garages_cergy] INFO:   PJ: peinture-automobile/pontoise-95300 page 1: 3 new (20 raw)
+2026-04-01 18:58:19,066 [garages_cergy] INFO:   PJ: peinture-automobile/pontoise-95300 page 2: 3 new (6 raw)
+2026-04-01 18:58:22,731 [garages_cergy] INFO: PJ: peinture-automobile in cergy-pontoise-95...
+2026-04-01 18:58:30,409 [garages_cergy] INFO:   => 26 total records for peinture-automobile
+2026-04-01 18:58:36,209 [garages_cergy] INFO: PJ: mecanicien in cergy-95...
+2026-04-01 18:58:36,296 [garages_cergy] WARNING: PJ 403 for mecanicien/cergy-95 page 1
+2026-04-01 18:58:38,756 [garages_cergy] INFO: PJ: mecanicien in pontoise-95300...
+2026-04-01 18:58:38,799 [garages_cergy] WARNING: PJ 403 for mecanicien/pontoise-95300 page 1
+2026-04-01 18:58:41,804 [garages_cergy] INFO: PJ: mecanicien in cergy-pontoise-95...
+2026-04-01 18:58:42,990 [garages_cergy] INFO:   PJ: mecanicien/cergy-pontoise-95 page 1: 2 new (20 raw)
+2026-04-01 18:58:47,008 [garages_cergy] INFO:   PJ: mecanicien/cergy-pontoise-95 page 2: 2 new (20 raw)
+2026-04-01 18:58:50,993 [garages_cergy] INFO:   PJ: mecanicien/cergy-pontoise-95 page 3: 3 new (20 raw)
+2026-04-01 18:58:54,982 [garages_cergy] INFO:   PJ: mecanicien/cergy-pontoise-95 page 4: 13 new (17 raw)
+2026-04-01 18:59:00,802 [garages_cergy] INFO:   => 20 total records for mecanicien
+2026-04-01 18:59:06,184 [garages_cergy] INFO: PJ: controle-technique in cergy-95...
+2026-04-01 18:59:07,129 [garages_cergy] INFO:   PJ: controle-technique/cergy-95 page 1: 3 new (6 raw)
+2026-04-01 18:59:10,358 [garages_cergy] INFO: PJ: controle-technique in pontoise-95300...
+2026-04-01 18:59:13,838 [garages_cergy] INFO: PJ: controle-technique in cergy-pontoise-95...
+2026-04-01 18:59:18,281 [garages_cergy] INFO:   => 3 total records for controle-technique
+2026-04-01 18:59:21,328 [garages_cergy] INFO: PJ: pieces-automobiles in cergy-95...
+2026-04-01 18:59:21,673 [garages_cergy] WARNING: PJ 403 for pieces-automobiles/cergy-95 page 1
+2026-04-01 18:59:25,377 [garages_cergy] INFO: PJ: pieces-automobiles in pontoise-95300...
+2026-04-01 18:59:28,310 [garages_cergy] INFO:   PJ: pieces-automobiles/pontoise-95300 page 1: 6 new (20 raw)
+2026-04-01 18:59:32,107 [garages_cergy] INFO:   PJ: pieces-automobiles/pontoise-95300 page 2: 4 new (20 raw)
+2026-04-01 18:59:37,009 [garages_cergy] WARNING: PJ 403 for pieces-automobiles/pontoise-95300 page 3
+2026-04-01 18:59:40,712 [garages_cergy] INFO: PJ: pieces-automobiles in cergy-pontoise-95...
+2026-04-01 18:59:45,099 [garages_cergy] WARNING: PJ 403 for pieces-automobiles/cergy-pontoise-95 page 2
+2026-04-01 18:59:48,462 [garages_cergy] INFO:   => 10 total records for pieces-automobiles
+2026-04-01 18:59:54,227 [garages_cergy] INFO: PJ: accessoires-automobiles in cergy-95...
+2026-04-01 18:59:54,267 [garages_cergy] WARNING: PJ 403 for accessoires-automobiles/cergy-95 page 1
+2026-04-01 18:59:56,331 [garages_cergy] INFO: PJ: accessoires-automobiles in pontoise-95300...
+2026-04-01 18:59:58,484 [garages_cergy] INFO:   PJ: accessoires-automobiles/pontoise-95300 page 1: 1 new (20 raw)
+2026-04-01 19:00:02,065 [garages_cergy] INFO:   PJ: accessoires-automobiles/pontoise-95300 page 2: 3 new (20 raw)
+2026-04-01 19:00:05,586 [garages_cergy] WARNING: PJ 403 for accessoires-automobiles/pontoise-95300 page 3
+2026-04-01 19:00:08,149 [garages_cergy] INFO: PJ: accessoires-automobiles in cergy-pontoise-95...
+2026-04-01 19:00:08,221 [garages_cergy] WARNING: PJ 403 for accessoires-automobiles/cergy-pontoise-95 page 1
+2026-04-01 19:00:12,101 [garages_cergy] INFO:   => 4 total records for accessoires-automobiles
+2026-04-01 19:00:15,221 [garages_cergy] INFO: PJ: pneumatiques in cergy-95...
+2026-04-01 19:00:16,660 [garages_cergy] INFO:   PJ: pneumatiques/cergy-95 page 1: 14 new (20 raw)
+2026-04-01 19:00:23,020 [garages_cergy] WARNING: PJ 403 for pneumatiques/cergy-95 page 2
+2026-04-01 19:00:25,267 [garages_cergy] INFO: PJ: pneumatiques in pontoise-95300...
+2026-04-01 19:00:25,309 [garages_cergy] WARNING: PJ 403 for pneumatiques/pontoise-95300 page 1
+2026-04-01 19:00:27,917 [garages_cergy] INFO: PJ: pneumatiques in cergy-pontoise-95...
+2026-04-01 19:00:27,953 [garages_cergy] WARNING: PJ 403 for pneumatiques/cergy-pontoise-95 page 1
+2026-04-01 19:00:31,000 [garages_cergy] INFO:   => 14 total records for pneumatiques
+2026-04-01 19:00:35,413 [garages_cergy] INFO: Pages Jaunes total: 167 records
+2026-04-01 19:00:37,150 [garages_cergy] INFO: OSM Overpass: 36 automotive POIs
+2026-04-01 19:00:37,221 [garages_cergy] INFO: After dedup: 479 unique records
+2026-04-01 19:00:37,238 [garages_cergy] INFO: Fuzzy phone matching: 164 PJ phones available, 299 records missing phone
+2026-04-01 19:00:37,817 [garages_cergy] INFO: Fuzzy phone matching: 41 phones transferred
+2026-04-01 19:00:37,818 [garages_cergy] INFO: Enriching SIRETs for 150 records...
+2026-04-01 19:02:56,768 [garages_cergy] INFO: SIRET enrichment: 65 records enriched
+2026-04-01 19:02:56,808 [garages_cergy] INFO: Exporting 479 records to /home/user/Website01/garages-cergy.xlsx
+2026-04-01 19:02:56,929 [garages_cergy] INFO: Excel saved: /home/user/Website01/garages-cergy.xlsx
+2026-04-01 19:02:56,933 [garages_cergy] INFO: === Scraper Garages Cergy — DONE ===

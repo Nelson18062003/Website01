@@ -36,17 +36,22 @@ AUTO_NAF_CODES = {
 POSTAL_CODES = ["95000", "95800"]
 
 PJ_CATEGORIES = [
-    ("garage-automobile",       "Garage automobile",       "45.20A"),
-    ("concession-automobile",   "Concession automobile",   "45.11Z"),
-    ("carrosserie-automobile",  "Carrosserie",             "45.20A"),
-    ("garage-moto",             "Garage moto",             "45.40Z"),
-    ("concession-moto",         "Concession moto",         "45.40Z"),
-    ("reparation-automobile",   "Garage automobile",       "45.20A"),
-    ("carrossier",              "Carrosserie",             "45.20A"),
-    ("peinture-automobile",     "Carrosserie / Peinture",  "45.20A"),
+    ("garage-automobile",        "Garage automobile",       "45.20A"),
+    ("concession-automobile",    "Concession automobile",   "45.11Z"),
+    ("carrosserie-automobile",   "Carrosserie",             "45.20A"),
+    ("garage-moto",              "Garage moto",             "45.40Z"),
+    ("concession-moto",          "Concession moto",         "45.40Z"),
+    ("reparation-automobile",    "Garage automobile",       "45.20A"),
+    ("carrossier",               "Carrosserie",             "45.20A"),
+    ("peinture-automobile",      "Carrosserie / Peinture",  "45.20A"),
+    ("mecanicien",               "Garage automobile",       "45.20A"),
+    ("controle-technique",       "Contrôle technique",      "71.20A"),
+    ("pieces-automobiles",       "Équipements automobiles (détail)", "45.32Z"),
+    ("accessoires-automobiles",  "Équipements automobiles (détail)", "45.32Z"),
+    ("pneumatiques",             "Équipements automobiles (détail)", "45.32Z"),
 ]
 
-PJ_LOCATION = "cergy-95"
+PJ_LOCATIONS = ["cergy-95", "pontoise-95300", "cergy-pontoise-95"]
 PJ_MAX_PAGES = 10
 
 # Cergy bounding box (south, west, north, east) — generous to catch edges
@@ -277,64 +282,67 @@ def scrape_pages_jaunes():
     seen = set()
 
     for query, category, naf_code in PJ_CATEGORIES:
-        logger.info(f"PJ: {query} in {PJ_LOCATION}...")
-        category_count = 0
+        total_for_query = 0
+        for pj_loc in PJ_LOCATIONS:
+            logger.info(f"PJ: {query} in {pj_loc}...")
 
-        for page in range(1, PJ_MAX_PAGES + 1):
-            url = f"https://www.pagesjaunes.fr/annuaire/chercherlespros?quoiqui={query}&ou={PJ_LOCATION}&page={page}"
+            for page in range(1, PJ_MAX_PAGES + 1):
+                url = f"https://www.pagesjaunes.fr/annuaire/chercherlespros?quoiqui={query}&ou={pj_loc}&page={page}"
 
-            try:
-                r = cffi_requests.get(url, impersonate="chrome116", timeout=30)
+                try:
+                    r = cffi_requests.get(url, impersonate="chrome116", timeout=30)
 
-                if r.status_code == 403:
-                    logger.warning(f"PJ 403 for {query}/{PJ_LOCATION} page {page}")
+                    if r.status_code == 403:
+                        logger.warning(f"PJ 403 for {query}/{pj_loc} page {page}")
+                        break
+                    if r.status_code != 200:
+                        break
+
+                    soup = BeautifulSoup(r.text, 'lxml')
+
+                    if "challenge" in r.text.lower() and "enable javascript" in r.text.lower():
+                        logger.warning(f"PJ Cloudflare challenge for {query}")
+                        break
+
+                    articles = soup.select("li.bi")
+                    if not articles:
+                        break
+
+                    new_count = 0
+                    for article in articles:
+                        rec = parse_pj_listing(article)
+                        if not rec:
+                            continue
+
+                        rec["categorie"] = rec["categorie"] or category
+                        rec["code_naf"] = rec["code_naf"] or naf_code
+                        rec["code_postal"] = rec["code_postal"] or "95000"
+                        rec["ville"] = rec["ville"] or "CERGY"
+
+                        dedup_key = rec["raison_sociale"].upper()[:30] + "_" + rec["code_postal"]
+                        if dedup_key not in seen:
+                            seen.add(dedup_key)
+                            all_records.append(rec)
+                            new_count += 1
+
+                    total_for_query += new_count
+                    if new_count > 0:
+                        logger.info(f"  PJ: {query}/{pj_loc} page {page}: {new_count} new ({len(articles)} raw)")
+
+                    has_next = len(articles) >= 15 or bool(soup.select(".pagination-next a, a.next"))
+                    if not has_next:
+                        break
+
+                    time.sleep(random.uniform(2.5, 5.0))
+
+                except Exception as e:
+                    logger.error(f"PJ error: {query}/{pj_loc} page {page}: {e}")
                     break
-                if r.status_code != 200:
-                    break
 
-                soup = BeautifulSoup(r.text, 'lxml')
+            time.sleep(random.uniform(2, 4))
 
-                if "challenge" in r.text.lower() and "enable javascript" in r.text.lower():
-                    logger.warning(f"PJ Cloudflare challenge for {query}")
-                    break
-
-                articles = soup.select("li.bi")
-                if not articles:
-                    break
-
-                new_count = 0
-                for article in articles:
-                    rec = parse_pj_listing(article)
-                    if not rec:
-                        continue
-
-                    rec["categorie"] = rec["categorie"] or category
-                    rec["code_naf"] = rec["code_naf"] or naf_code
-                    rec["code_postal"] = rec["code_postal"] or "95000"
-                    rec["ville"] = rec["ville"] or "CERGY"
-
-                    dedup_key = rec["raison_sociale"].upper()[:30] + "_" + rec["code_postal"]
-                    if dedup_key not in seen:
-                        seen.add(dedup_key)
-                        all_records.append(rec)
-                        new_count += 1
-
-                category_count += new_count
-                if new_count > 0:
-                    logger.info(f"  PJ: {query} page {page}: {new_count} new ({len(articles)} raw)")
-
-                has_next = len(articles) >= 15 or bool(soup.select(".pagination-next a, a.next"))
-                if not has_next:
-                    break
-
-                time.sleep(random.uniform(2.5, 5.0))
-
-            except Exception as e:
-                logger.error(f"PJ error: {query} page {page}: {e}")
-                break
-
-        if category_count > 0:
-            logger.info(f"  => {category_count} records for {query}")
+        if total_for_query > 0:
+            logger.info(f"  => {total_for_query} total records for {query}")
         time.sleep(random.uniform(3, 6))
 
     logger.info(f"Pages Jaunes total: {len(all_records)} records")
@@ -506,6 +514,60 @@ def merge_and_deduplicate(api_records, pj_records, osm_records):
 
     df = df.loc[keep_indices].drop(columns=["_norm", "_cp", "_score"], errors='ignore')
     logger.info(f"After dedup: {len(df)} unique records")
+
+    # Second pass: fuzzy-match PJ phones to API records missing phones
+    # Build a lookup of PJ records with phones
+    pj_phones = []
+    for _, row in df.iterrows():
+        if row.get("telephone") and "Pages Jaunes" in str(row.get("source", "")):
+            pj_phones.append(row)
+
+    if pj_phones:
+        no_phone = df[df["telephone"] == ""]
+        logger.info(f"Fuzzy phone matching: {len(pj_phones)} PJ phones available, {len(no_phone)} records missing phone")
+        matched = 0
+        used_pj = set()
+
+        for idx, row in no_phone.iterrows():
+            name_norm = normalize_name(row["raison_sociale"])
+            if not name_norm:
+                continue
+            tokens_a = set(name_norm.split())
+            if len(tokens_a) < 1:
+                continue
+
+            best_score = 0
+            best_phone = None
+            best_pj_idx = None
+
+            for pi, pj_row in enumerate(pj_phones):
+                if pi in used_pj:
+                    continue
+                pj_norm = normalize_name(pj_row["raison_sociale"])
+                if not pj_norm:
+                    continue
+                tokens_b = set(pj_norm.split())
+                if not tokens_b:
+                    continue
+
+                overlap = len(tokens_a & tokens_b)
+                union = len(tokens_a | tokens_b)
+                score = overlap / union if union > 0 else 0
+
+                if score > best_score and score >= 0.30:
+                    best_score = score
+                    best_phone = pj_row["telephone"]
+                    best_pj_idx = pi
+
+            if best_phone and best_pj_idx is not None:
+                df.at[idx, "telephone"] = best_phone
+                if "Pages Jaunes" not in str(df.at[idx, "source"]):
+                    df.at[idx, "source"] = f"{df.at[idx, 'source']}; Pages Jaunes"
+                used_pj.add(best_pj_idx)
+                matched += 1
+
+        logger.info(f"Fuzzy phone matching: {matched} phones transferred")
+
     return df
 
 
@@ -552,6 +614,103 @@ def enrich_missing_sirets(df, max_enrichments=150):
             continue
 
     logger.info(f"SIRET enrichment: {enriched} records enriched")
+    return df
+
+
+# ── Phone Enrichment via Pages Jaunes ──────────────────────────────────────
+
+def enrich_phones_pj(df):
+    """For records without phone, search PJ by name + city to find phone numbers."""
+    missing = df[df["telephone"] == ""].copy()
+    if len(missing) == 0:
+        logger.info("All records already have phone numbers")
+        return df
+
+    logger.info(f"Enriching phones via PJ for {len(missing)} records...")
+    enriched = 0
+    blocked = 0
+
+    for idx, row in missing.iterrows():
+        name = row["raison_sociale"]
+        ville = row["ville"] or "Cergy"
+        if not name:
+            continue
+
+        # Search PJ for this specific business
+        query = re.sub(r'[^\w\s]', '', name).strip()
+        if len(query) < 3:
+            continue
+
+        url = f"https://www.pagesjaunes.fr/annuaire/chercherlespros?quoiqui={query}&ou={ville.lower()}-95&page=1"
+
+        try:
+            r = cffi_requests.get(url, impersonate="chrome116", timeout=25)
+
+            if r.status_code == 403:
+                blocked += 1
+                if blocked >= 5:
+                    logger.warning("PJ phone enrichment: too many 403s, stopping")
+                    break
+                time.sleep(random.uniform(10, 20))
+                continue
+
+            if r.status_code != 200:
+                continue
+
+            soup = BeautifulSoup(r.text, 'lxml')
+            articles = soup.select("li.bi")
+
+            for article in articles:
+                # Check if this result matches our business
+                art_name = ""
+                name_el = article.find(attrs={"data-denomination": True})
+                if name_el:
+                    art_name = name_el.get("data-denomination", "").strip()
+                if not art_name:
+                    h3 = article.select_one("h3 a")
+                    art_name = h3.get_text(strip=True) if h3 else ""
+
+                if not art_name:
+                    continue
+
+                # Simple name similarity check
+                name_norm = normalize_name(name)
+                art_norm = normalize_name(art_name)
+                if not name_norm or not art_norm:
+                    continue
+
+                # Token-based matching
+                tokens_a = set(name_norm.split())
+                tokens_b = set(art_norm.split())
+                if not tokens_a or not tokens_b:
+                    continue
+                overlap = len(tokens_a & tokens_b)
+                union = len(tokens_a | tokens_b)
+                similarity = overlap / union if union > 0 else 0
+
+                if similarity >= 0.35:
+                    # Extract phone from fantomas
+                    fantomas = article.select_one("[id*=fantomas]")
+                    if fantomas:
+                        text = fantomas.get_text(" ", strip=True)
+                        m = re.search(r'(\d{2}[\s\.]*\d{2}[\s\.]*\d{2}[\s\.]*\d{2}[\s\.]*\d{2})', text)
+                        if m:
+                            phone = format_phone(m.group(1))
+                            if phone:
+                                df.at[idx, "telephone"] = phone
+                                if "Pages Jaunes" not in str(df.at[idx, "source"]):
+                                    df.at[idx, "source"] = f"{df.at[idx, 'source']}; Pages Jaunes"
+                                enriched += 1
+                                break
+
+            blocked = 0  # Reset block counter on success
+            time.sleep(random.uniform(2.0, 4.0))
+
+        except Exception as e:
+            logger.error(f"PJ phone enrichment error for '{name}': {e}")
+            continue
+
+    logger.info(f"PJ phone enrichment: {enriched} phones added")
     return df
 
 
