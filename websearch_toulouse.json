@@ -1,0 +1,517 @@
+{
+  "metadata": {
+    "description": "Résultats de recherche web pour garages et concessions automobiles/moto à Toulouse",
+    "date_recherche": "2026-04-01",
+    "nombre_resultats_websearch": 47,
+    "nombre_entreprises_api_mises_a_jour": 11
+  },
+  "resultats_websearch": [
+    {
+      "nom": "Garage des Saules",
+      "telephone": "",
+      "site_web": "https://www.garage-saules.fr/",
+      "adresse": "Toulouse",
+      "source": "garages automobiles Toulouse"
+    },
+    {
+      "nom": "Meca Expert Sam31",
+      "telephone": "",
+      "site_web": "",
+      "adresse": "Toulouse",
+      "source": "garages automobiles Toulouse"
+    },
+    {
+      "nom": "Sipa Automobiles",
+      "telephone": "",
+      "site_web": "https://www.sipa-automobiles.fr/reseau/toulouse/",
+      "adresse": "360 avenue des États-Unis, 31200 Toulouse",
+      "source": "concessions automobiles Toulouse"
+    },
+    {
+      "nom": "BMW MINI Pelras",
+      "telephone": "05 34 60 86 08",
+      "site_web": "https://www.pelras.fr/",
+      "adresse": "145 rue Nicolas Vauquelin, 31100 Toulouse",
+      "source": "concessions automobiles Toulouse"
+    },
+    {
+      "nom": "Garage Bréfeil",
+      "telephone": "",
+      "site_web": "",
+      "adresse": "Toulouse",
+      "source": "concessions automobiles Toulouse"
+    },
+    {
+      "nom": "AUTOS-LABEGE.COM",
+      "telephone": "",
+      "site_web": "",
+      "adresse": "102 Route de Labège, 31400 Toulouse",
+      "source": "concessions automobiles Toulouse"
+    },
+    {
+      "nom": "AUTO SERVICES TOULOUSE",
+      "telephone": "",
+      "site_web": "",
+      "adresse": "1 Avenue Salvador Allende, 31200 Toulouse",
+      "source": "concessions automobiles Toulouse"
+    },
+    {
+      "nom": "Volkswagen DBF Toulouse Automobiles",
+      "telephone": "05 61 44 44 44",
+      "site_web": "https://www.volkswagen-toulouse.com/",
+      "adresse": "290 Avenue Léon Joulin, 31100 Toulouse",
+      "source": "concessions automobiles Toulouse"
+    },
+    {
+      "nom": "LAND ROVER TOULOUSE",
+      "telephone": "",
+      "site_web": "",
+      "adresse": "279 Avenue des États-Unis, 31200 Toulouse",
+      "source": "concessions automobiles Toulouse"
+    },
+    {
+      "nom": "Renault Edenauto Toulouse États-Unis",
+      "telephone": "05 61 10 75 75",
+      "site_web": "https://renault-toulouse-etats-unis.edenauto.com/",
+      "adresse": "75 avenue des États-Unis, 31200 Toulouse",
+      "source": "Renault Toulouse"
+    },
+    {
+      "nom": "Renault Edenauto Toulouse Montaudran",
+      "telephone": "",
+      "site_web": "https://renault-toulouse-montaudran.edenauto.com/",
+      "adresse": "Toulouse",
+      "source": "Renault Toulouse"
+    },
+    {
+      "nom": "Renault Edenauto Toulouse Rocade Ouest",
+      "telephone": "",
+      "site_web": "https://concessionnaire.renault.fr/toulouse-ouest.html",
+      "adresse": "Toulouse",
+      "source": "Renault Toulouse"
+    },
+    {
+      "nom": "Renault Retail Toulouse",
+      "telephone": "05 61 19 21 35",
+      "site_web": "https://concessionnaire.renault.fr/toulouse-etats-unis.html",
+      "adresse": "131 rue Nicolas Louis Vauquelin, 31100 Toulouse",
+      "source": "Renault Toulouse"
+    },
+    {
+      "nom": "MIDI SERVICE (Peugeot Toulouse)",
+      "telephone": "05 61 42 80 11",
+      "site_web": "https://concessions.peugeot.fr/toulouse/",
+      "adresse": "2 rue du Général Lionel de Marmier, 31300 Toulouse",
+      "source": "Peugeot Toulouse"
+    },
+    {
+      "nom": "Peugeot Stellantis &You Toulouse Etats-Unis",
+      "telephone": "05 62 72 96 96",
+      "site_web": "https://concessions.peugeot.fr/sial.etatsunis/nous-contacter/",
+      "adresse": "1 bis avenue Salvador Allende, 31200 Toulouse",
+      "source": "Peugeot Toulouse"
+    },
+    {
+      "nom": "Peugeot Toulouse Montaudran",
+      "telephone": "",
+      "site_web": "https://www.telephone.city/concessionnaire/peugeot-toulouse-montaudran-toulouse-1152741.html",
+      "adresse": "28 avenue Didier Daurat, 31400 Toulouse",
+      "source": "Peugeot Toulouse"
+    },
+    {
+      "nom": "Citroën Stellantis &You Toulouse États-Unis",
+      "telephone": "05 62 72 95 55",
+      "site_web": "https://reseau.citroen.fr/toulouse/",
+      "adresse": "1 B Avenue Salvador Allende, 31200 Toulouse",
+      "source": "Citroën Toulouse"
+    },
+    {
+      "nom": "Citroën Toulouse Montaudran – France Auto",
+      "telephone": "05 62 16 65 85",
+      "site_web": "https://reseau.citroen.fr/toulouse-montaudran/",
+      "adresse": "24 Avenue Didier Daurat, 31400 Toulouse",
+      "source": "Citroën Toulouse"
+    },
+    {
+      "nom": "Citroën Stellantis &You Toulouse Rocade Ouest",
+      "telephone": "",
+      "site_web": "https://reseau.citroen.fr/toulouse-mirail-universite/",
+      "adresse": "117 Rue Nicolas Louis Vauquelin, 31100 Toulouse",
+      "source": "Citroën Toulouse"
+    },
+    {
+      "nom": "Edenauto Toyota Toulouse Rocade Ouest",
+      "telephone": "05 61 61 83 00",
+      "site_web": "https://toyota-toulouse-vauquelin.edenauto.com/",
+      "adresse": "123 rue Nicolas Vauquelin, 31100 Toulouse",
+      "source": "Toyota Toulouse"
+    },
+    {
+      "nom": "Edenauto Toyota Toulouse Labège",
+      "telephone": "05 62 71 64 10",
+      "site_web": "https://www.toyota.fr/reseau/eden_auto_toulouselabege",
+      "adresse": "159 route de Labège, 31400 Toulouse",
+      "source": "Toyota Toulouse"
+    },
+    {
+      "nom": "Edenauto Toyota Toulouse États-Unis",
+      "telephone": "05 34 40 02 29",
+      "site_web": "https://www.toyota.fr/reseau/eden_auto_toulouseetats-unis",
+      "adresse": "339 avenue des États-Unis, 31200 Toulouse",
+      "source": "Toyota Toulouse"
+    },
+    {
+      "nom": "BMW Pelras Toulouse",
+      "telephone": "05 34 60 86 08",
+      "site_web": "https://partenaire.bmw.fr/pelras-sa/",
+      "adresse": "145 rue Nicolas Louis Vauquelin, 31100 Toulouse",
+      "source": "BMW Toulouse"
+    },
+    {
+      "nom": "BMW Equation Toulouse (Labège)",
+      "telephone": "",
+      "site_web": "https://partenaire.bmw.fr/equation-automobiles/",
+      "adresse": "Labège",
+      "source": "BMW Toulouse"
+    },
+    {
+      "nom": "BMW Motorrad Toulouse (Moto Ride)",
+      "telephone": "",
+      "site_web": "https://partenaire.bmw-motorrad.fr/motoride/",
+      "adresse": "2721 route de Baziège, Labège",
+      "source": "BMW Toulouse"
+    },
+    {
+      "nom": "Mercedes-Benz Hamecher Toulouse",
+      "telephone": "",
+      "site_web": "https://mercedes-hamecher.fr/concessions/toulouse",
+      "adresse": "Toulouse",
+      "source": "Mercedes Toulouse"
+    },
+    {
+      "nom": "Mercedes-Benz LG Toulouse Automobiles",
+      "telephone": "",
+      "site_web": "",
+      "adresse": "231 route d'Albi, BP 62437, 31200 Toulouse",
+      "source": "Mercedes Toulouse"
+    },
+    {
+      "nom": "Mercedes-Benz Etoile Occitane",
+      "telephone": "",
+      "site_web": "",
+      "adresse": "231 route d'Albi, BP 2437, Toulouse",
+      "source": "Mercedes Toulouse"
+    },
+    {
+      "nom": "Mercedes-Benz VI Toulouse",
+      "telephone": "",
+      "site_web": "",
+      "adresse": "15 avenue de Larrieu, Toulouse",
+      "source": "Mercedes Toulouse"
+    },
+    {
+      "nom": "Volkswagen DBF Toulouse États-Unis",
+      "telephone": "05 61 44 44 44",
+      "site_web": "https://www.volkswagen-toulouse.com/",
+      "adresse": "344 avenue des États-Unis, 31400 Toulouse",
+      "source": "Volkswagen Toulouse"
+    },
+    {
+      "nom": "Volkswagen DBF Toulouse Route d'Espagne",
+      "telephone": "",
+      "site_web": "https://www.dbf-autos.fr/concession-toulouse-volkswagen-route-despagne/",
+      "adresse": "290 Rue Léon Joulin, Toulouse",
+      "source": "Volkswagen Toulouse"
+    },
+    {
+      "nom": "Volkswagen DBF Labège",
+      "telephone": "",
+      "site_web": "",
+      "adresse": "2686 route de Baziège, Labège 31670",
+      "source": "Volkswagen Toulouse"
+    },
+    {
+      "nom": "Ford SLADA Auto Services Toulouse Sud",
+      "telephone": "05 61 36 86 86",
+      "site_web": "https://www.ford-toulouse.fr/",
+      "adresse": "1 Avenue Salvador Allende, 31200 Toulouse",
+      "source": "Ford Toulouse"
+    },
+    {
+      "nom": "Ford Auto Sport Agent Toulouse",
+      "telephone": "",
+      "site_web": "",
+      "adresse": "22 Boulevard Gaussen, Toulouse",
+      "source": "Ford Toulouse"
+    },
+    {
+      "nom": "Carrosserie De Souza",
+      "telephone": "05 61 48 72 62",
+      "site_web": "https://www.carrosserie-desouza.fr/",
+      "adresse": "31 Avenue de Lavaur, 31500 Toulouse",
+      "source": "carrosserie Toulouse"
+    },
+    {
+      "nom": "Carrosserie Toulouse Nord",
+      "telephone": "",
+      "site_web": "https://www.carrosserietoulousenord.com/",
+      "adresse": "Aucamville",
+      "source": "carrosserie Toulouse"
+    },
+    {
+      "nom": "Cars Automobile",
+      "telephone": "",
+      "site_web": "https://www.cars-automobile.fr/",
+      "adresse": "4 rue Labouche, Toulouse",
+      "source": "carrosserie Toulouse"
+    },
+    {
+      "nom": "Carrosserie de l'Auto (Toulouse Purpan)",
+      "telephone": "",
+      "site_web": "https://carrosserie-de-lauto.fr/",
+      "adresse": "Toulouse Purpan",
+      "source": "carrosserie Toulouse"
+    },
+    {
+      "nom": "American Motos – Harley-Davidson",
+      "telephone": "",
+      "site_web": "https://american-motos.com/",
+      "adresse": "Avenue d'Atlanta, 6 Impasse Gaston Monnerville, 31200 Toulouse",
+      "source": "concession moto Toulouse"
+    },
+    {
+      "nom": "YAM 31 – Yamaha",
+      "telephone": "",
+      "site_web": "https://www.yam31.com/",
+      "adresse": "39 Rue André Vasseur, 31200 Toulouse",
+      "source": "Yamaha Toulouse"
+    },
+    {
+      "nom": "YAM SERVICE – Yamaha",
+      "telephone": "",
+      "site_web": "https://yamservice.com/",
+      "adresse": "Toulouse",
+      "source": "Yamaha Toulouse"
+    },
+    {
+      "nom": "Kawa Toulouse – Kawasaki",
+      "telephone": "05 33 09 37 47",
+      "site_web": "https://kawa-toulouse.fr/",
+      "adresse": "6 Rue Louis Bonin, 31200 Toulouse",
+      "source": "Kawasaki Toulouse"
+    },
+    {
+      "nom": "HOTBIKES",
+      "telephone": "",
+      "site_web": "https://www.hot-bikes.fr/",
+      "adresse": "21 boulevard Lascrosses, 31000 Toulouse",
+      "source": "concession moto Toulouse"
+    },
+    {
+      "nom": "Deal Motos",
+      "telephone": "",
+      "site_web": "http://www.deal-motos.com/",
+      "adresse": "Toulouse",
+      "source": "concession moto Toulouse"
+    },
+    {
+      "nom": "Sagaz Motor (Honda)",
+      "telephone": "05 61 36 85 10",
+      "site_web": "https://www.sagaz-honda.com/",
+      "adresse": "2 Rue des Norias, 31200 Toulouse",
+      "source": "Honda moto Toulouse"
+    },
+    {
+      "nom": "Delahaye Motors Honda (Labège)",
+      "telephone": "",
+      "site_web": "https://toulouse-atlanta.honda-motos.com/",
+      "adresse": "Impasse Gaston Monnerville, Labège",
+      "source": "Honda moto Toulouse"
+    },
+    {
+      "nom": "Moto Ride (BMW Motorrad)",
+      "telephone": "",
+      "site_web": "https://partenaire.bmw-motorrad.fr/motoride/",
+      "adresse": "2721 route de Baziège, Labège",
+      "source": "concession moto Toulouse"
+    }
+  ],
+  "entreprises_api_mises_a_jour": [
+    {
+      "nom": "STELLANTIS &YOU FRANCE SAS",
+      "siret": "30247504101693",
+      "siren": "302475041",
+      "adresse": "28 AVENUE DIDIER DAURAT 31400 TOULOUSE",
+      "code_postal": "31400",
+      "ville": "TOULOUSE",
+      "code_naf": "45.11Z",
+      "libelle_activite": "",
+      "date_creation": "1980-07-01",
+      "statut": "Actif",
+      "effectif": "51",
+      "categorie": "concession",
+      "zone_recherche": "Toulouse",
+      "telephone": "05 62 72 96 96"
+    },
+    {
+      "nom": "RENAULT RETAIL GROUP",
+      "siret": "31221230100716",
+      "siren": "312212301",
+      "adresse": "75 AVENUE DES ETATS UNIS 31200 TOULOUSE",
+      "code_postal": "31200",
+      "ville": "TOULOUSE",
+      "code_naf": "45.11Z",
+      "libelle_activite": "",
+      "date_creation": "1978-01-01",
+      "statut": "Actif",
+      "effectif": "51",
+      "categorie": "concession",
+      "zone_recherche": "Toulouse",
+      "telephone": "05 61 19 21 35"
+    },
+    {
+      "nom": "ESPACE TOY (EDENAUTO)",
+      "siret": "30321736800057",
+      "siren": "303217368",
+      "adresse": "159 ROUTE DE LABEGE 31400 TOULOUSE",
+      "code_postal": "31400",
+      "ville": "TOULOUSE",
+      "code_naf": "45.11Z",
+      "libelle_activite": "",
+      "date_creation": "1975-01-01",
+      "statut": "Actif",
+      "effectif": "22",
+      "categorie": "concession",
+      "zone_recherche": "Toulouse",
+      "telephone": "05 61 61 83 00"
+    },
+    {
+      "nom": "DBF TOULOUSE AUTOMOBILES",
+      "siret": "61080222500058",
+      "siren": "610802225",
+      "adresse": "344 AVENUE DES ETATS UNIS 31200 TOULOUSE",
+      "code_postal": "31200",
+      "ville": "TOULOUSE",
+      "code_naf": "45.11Z",
+      "libelle_activite": "",
+      "date_creation": "1961-01-01",
+      "statut": "Actif",
+      "effectif": "22",
+      "categorie": "concession",
+      "zone_recherche": "Toulouse",
+      "telephone": "05 61 44 44 44"
+    },
+    {
+      "nom": "RNO ETATS UNIS (EDENAUTO)",
+      "siret": "90354994700013",
+      "siren": "903549947",
+      "adresse": "75 AVENUE DES ETATS UNIS 31200 TOULOUSE",
+      "code_postal": "31200",
+      "ville": "TOULOUSE",
+      "code_naf": "45.11Z",
+      "libelle_activite": "",
+      "date_creation": "2021-09-24",
+      "statut": "Actif",
+      "effectif": "31",
+      "categorie": "concession",
+      "zone_recherche": "Toulouse",
+      "telephone": "05 61 10 75 75"
+    },
+    {
+      "nom": "PELRAS SA",
+      "siret": "32612587900022",
+      "siren": "326125879",
+      "adresse": "145 RUE NICOLAS-LOUIS VAUQUELIN 31100 TOULOUSE",
+      "code_postal": "31100",
+      "ville": "TOULOUSE",
+      "code_naf": "45.11Z",
+      "libelle_activite": "",
+      "date_creation": "1983-01-10",
+      "statut": "Actif",
+      "effectif": "22",
+      "categorie": "concession",
+      "zone_recherche": "Toulouse",
+      "telephone": "05 34 60 86 08"
+    },
+    {
+      "nom": "AUTO SERVICES TOULOUSE",
+      "siret": "84219107400017",
+      "siren": "842191074",
+      "adresse": "134 ROUTE DE REVEL 31400 TOULOUSE",
+      "code_postal": "31400",
+      "ville": "TOULOUSE",
+      "code_naf": "45.11Z",
+      "libelle_activite": "",
+      "date_creation": "2018-01-01",
+      "statut": "Actif",
+      "effectif": "22",
+      "categorie": "concession",
+      "zone_recherche": "Toulouse",
+      "telephone": "05 61 36 86 86"
+    },
+    {
+      "nom": "AUTOMOBILES DELAHAYE",
+      "siret": "30630034400018",
+      "siren": "306300344",
+      "adresse": "78 ROUTE D'ESPAGNE 31100 TOULOUSE",
+      "code_postal": "31100",
+      "ville": "TOULOUSE",
+      "code_naf": "45.11Z",
+      "libelle_activite": "",
+      "date_creation": "1976-01-01",
+      "statut": "Actif",
+      "effectif": "12",
+      "categorie": "concession",
+      "zone_recherche": "Toulouse",
+      "telephone": "05 61 36 85 10"
+    },
+    {
+      "nom": "FRANCE AUTO SA",
+      "siret": "33331498700020",
+      "siren": "333314987",
+      "adresse": "ZI DE MONTAUDRAN 24 AVENUE DIDIER DAURAT 31400 TOULOUSE",
+      "code_postal": "31400",
+      "ville": "TOULOUSE",
+      "code_naf": "45.11Z",
+      "libelle_activite": "",
+      "date_creation": "1985-09-02",
+      "statut": "Actif",
+      "effectif": "12",
+      "categorie": "concession",
+      "zone_recherche": "Toulouse",
+      "telephone": "05 62 16 65 85"
+    },
+    {
+      "nom": "DMH (DELAHAYE MOTORS)",
+      "siret": "42447087000025",
+      "siren": "424470870",
+      "adresse": "2 RUE DES NORIAS 31200 TOULOUSE",
+      "code_postal": "31200",
+      "ville": "TOULOUSE",
+      "code_naf": "45.40Z",
+      "libelle_activite": "",
+      "date_creation": "1999-10-15",
+      "statut": "Actif",
+      "effectif": "11",
+      "categorie": "moto",
+      "zone_recherche": "Toulouse",
+      "telephone": "05 61 36 85 10"
+    },
+    {
+      "nom": "KAWA TOULOUSE",
+      "siret": "84169005000023",
+      "siren": "841690050",
+      "adresse": "6 RUE LOUIS BONIN 31200 TOULOUSE",
+      "code_postal": "31200",
+      "ville": "TOULOUSE",
+      "code_naf": "45.40Z",
+      "libelle_activite": "",
+      "date_creation": "2018-08-13",
+      "statut": "Actif",
+      "effectif": "11",
+      "categorie": "moto",
+      "zone_recherche": "Toulouse",
+      "telephone": "05 33 09 37 47"
+    }
+  ]
+}
