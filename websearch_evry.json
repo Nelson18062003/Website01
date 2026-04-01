@@ -1,0 +1,431 @@
+[
+  {
+    "nom_websearch": "EUROREPAR - MAMS (Mécanique Automobile Multiservices)",
+    "telephone": "01 64 97 26 95",
+    "adresse_websearch": "14 Rue du Plessis Briard, 91080 Évry-Courcouronnes",
+    "site_web": "https://www.eurorepar.fr/garage-mecanique-automobile-multiservices-evry-courcouronnes-5554.html",
+    "source_recherche": "garages automobiles Evry-Courcouronnes téléphone",
+    "match_api": null
+  },
+  {
+    "nom_websearch": "Carrosserie Factory Auto",
+    "telephone": "06 51 04 78 60",
+    "adresse_websearch": "10 Rue du Plessis Briard, 91080 Évry-Courcouronnes",
+    "site_web": "",
+    "source_recherche": "garages automobiles Evry-Courcouronnes téléphone",
+    "match_api": null
+  },
+  {
+    "nom_websearch": "Point S (Teknik Motor Sport)",
+    "telephone": "01 85 53 33 53",
+    "adresse_websearch": "11c Boulevard des Coquibus, 91000 Évry-Courcouronnes",
+    "site_web": "https://www.points-evry.fr",
+    "source_recherche": "garages automobiles Evry-Courcouronnes téléphone",
+    "match_api": {
+      "nom_api": "TEKNIK MOTOR SPORT (TMS)",
+      "siret": "84096042100013",
+      "siren": "840960421",
+      "adresse_api": "11 BD DES COQUIBUS 91000 EVRY-COURCOURONNES",
+      "code_postal": "91000",
+      "code_naf": "45.20A",
+      "date_creation": "2018-06-15",
+      "statut": "Actif",
+      "effectif": "03",
+      "categorie": "garage"
+    }
+  },
+  {
+    "nom_websearch": "Garage Bastié",
+    "telephone": "01 60 78 75 29",
+    "adresse_websearch": "6 Rue Maryse Bastié, 91080 Évry-Courcouronnes",
+    "site_web": "",
+    "source_recherche": "garages automobiles Evry-Courcouronnes téléphone",
+    "match_api": {
+      "nom_api": "GARAGE BASTIE",
+      "siret": "92063009200012",
+      "siren": "920630092",
+      "adresse_api": "6 RUE MARYSE BASTIE 91000 EVRY-COURCOURONNES",
+      "code_postal": "91000",
+      "code_naf": "45.20A",
+      "date_creation": "2022-10-05",
+      "statut": "Actif",
+      "effectif": "02",
+      "categorie": "garage"
+    }
+  },
+  {
+    "nom_websearch": "Evry Pièces Auto",
+    "telephone": "",
+    "adresse_websearch": "10 Rue Paul Claudel, 91000 Évry-Courcouronnes",
+    "site_web": "",
+    "source_recherche": "garages automobiles Evry-Courcouronnes téléphone",
+    "match_api": null
+  },
+  {
+    "nom_websearch": "Hatauto",
+    "telephone": "",
+    "adresse_websearch": "6 Square de Vesoul, 91000 Évry-Courcouronnes",
+    "site_web": "",
+    "source_recherche": "garages automobiles Evry-Courcouronnes téléphone",
+    "match_api": null
+  },
+  {
+    "nom_websearch": "Midas",
+    "telephone": "",
+    "adresse_websearch": "Rue Paul Claudel, 91000 Évry-Courcouronnes",
+    "site_web": "",
+    "source_recherche": "garages automobiles Evry-Courcouronnes téléphone",
+    "match_api": {
+      "nom_api": "MIDAS FRANCE",
+      "siret": "99753681800948",
+      "siren": "997536818",
+      "adresse_api": "LES PYRAMIDES RUE PAUL CLAUDEL 91000 EVRY-COURCOURONNES",
+      "code_postal": "91000",
+      "code_naf": "45.20A",
+      "date_creation": "1984-01-02",
+      "statut": "Actif",
+      "effectif": "22",
+      "categorie": "garage"
+    }
+  },
+  {
+    "nom_websearch": "Soo Cars",
+    "telephone": "",
+    "adresse_websearch": "18 Rue du Plessis Briard, 91000 Évry-Courcouronnes",
+    "site_web": "",
+    "source_recherche": "garages automobiles Evry-Courcouronnes téléphone",
+    "match_api": {
+      "nom_api": "SOO CARS",
+      "siret": "95324884600024",
+      "siren": "953248846",
+      "adresse_api": "18 RUE DU PLESSIS BRIARD 91000 EVRY-COURCOURONNES",
+      "code_postal": "91000",
+      "code_naf": "45.20A",
+      "date_creation": "2023-05-30",
+      "statut": "Actif",
+      "effectif": "01",
+      "categorie": "garage"
+    }
+  },
+  {
+    "nom_websearch": "Bedi Automobiles",
+    "telephone": "01 60 77 37 79",
+    "adresse_websearch": "9 et 11 Boulevard de l'Europe, 91000 Évry-Courcouronnes",
+    "site_web": "https://www.auto-selection.com/services/annuaire/voiture-occasion/bedi-automobiles-evry-91-fiche-922891.php",
+    "source_recherche": "concessions automobiles Evry annuaire",
+    "match_api": {
+      "nom_api": "BEDI AUTOMOBILES",
+      "siret": "52433477800023",
+      "siren": "524334778",
+      "adresse_api": "9 ET 11 BD DE L EUROPE -V G D ESTAING 91000 EVRY-COURCOURONNES",
+      "code_postal": "91000",
+      "code_naf": "45.11Z",
+      "date_creation": "2010-08-15",
+      "statut": "Actif",
+      "effectif": "02",
+      "categorie": "concession"
+    }
+  },
+  {
+    "nom_websearch": "Concessionnaire (14 rue du Bois Guillaume)",
+    "telephone": "01 60 79 58 38",
+    "adresse_websearch": "14 Rue du Bois Guillaume, 91000 Évry-Courcouronnes",
+    "site_web": "",
+    "source_recherche": "concessions automobiles Evry annuaire",
+    "match_api": {
+      "nom_api": "MUSTAFA OZCELIK",
+      "siret": "79873241800016",
+      "siren": "798732418",
+      "adresse_api": "14 RUE DU BOIS GUILLAUME 91000 EVRY-COURCOURONNES",
+      "code_postal": "91000",
+      "code_naf": "45.20A",
+      "date_creation": "2013-06-16",
+      "statut": "Actif",
+      "effectif": "NN",
+      "categorie": "garage"
+    }
+  },
+  {
+    "nom_websearch": "Renault CNV - Agence Brachet",
+    "telephone": "01 60 77 19 84",
+    "adresse_websearch": "11 Route de Versailles, 91000 Évry-Courcouronnes",
+    "site_web": "https://concessionnaire.renault.fr/corbeil-essonnes.html",
+    "source_recherche": "Renault Evry téléphone",
+    "match_api": {
+      "nom_api": "CNV",
+      "siret": "44271375600017",
+      "siren": "442713756",
+      "adresse_api": "11 RTE DE VERSAILLES 91000 EVRY-COURCOURONNES",
+      "code_postal": "91000",
+      "code_naf": "45.11Z",
+      "date_creation": "2002-06-21",
+      "statut": "Actif",
+      "effectif": "02",
+      "categorie": "concession"
+    }
+  },
+  {
+    "nom_websearch": "Renault Grand Garage Feray",
+    "telephone": "01 64 97 94 94",
+    "adresse_websearch": "Boulevard des Champs Élysées, 91080 Évry-Courcouronnes",
+    "site_web": "https://renault.auto-selection.com/reseau/concession-ile-de-france/11/renault-grand-garage-feray-concessionnaire-evry-courcouronnes-91-fiche-30029.php",
+    "source_recherche": "Renault Evry téléphone",
+    "match_api": {
+      "nom_api": "GRAND GARAGE FERAY SAE",
+      "siret": "35255772200027",
+      "siren": "352557722",
+      "adresse_api": "BD DES CHAMPS ELYSEES 91000 EVRY-COURCOURONNES",
+      "code_postal": "91000",
+      "code_naf": "45.11Z",
+      "date_creation": "1989-11-27",
+      "statut": "Actif",
+      "effectif": "22",
+      "categorie": "concession"
+    }
+  },
+  {
+    "nom_websearch": "Renault Concessionnaire Corbeil (Feray / Groupe Maurin)",
+    "telephone": "01 60 90 50 50",
+    "adresse_websearch": "46 Avenue du 8 Mai 1945, 91100 Corbeil-Essonnes",
+    "site_web": "https://concessionnaire.renault.fr/corbeil-essonnes.html",
+    "source_recherche": "Renault Evry téléphone",
+    "match_api": null
+  },
+  {
+    "nom_websearch": "Peugeot Corbeil (Gueudet 1880)",
+    "telephone": "01 69 22 82 40",
+    "adresse_websearch": "17 Avenue du 8 Mai 1945, 91100 Corbeil-Essonnes",
+    "site_web": "https://concessions.peugeot.fr/concessionnaire/ile-de-france/essonne/",
+    "source_recherche": "Peugeot Evry téléphone",
+    "match_api": null
+  },
+  {
+    "nom_websearch": "Garage Bondoufle (Citroën, BMW, VW, Skoda, Peugeot)",
+    "telephone": "01 60 86 43 00",
+    "adresse_websearch": "ZI La Marinière, 2 Rue Gutenberg, 91070 Bondoufle",
+    "site_web": "",
+    "source_recherche": "Peugeot Evry téléphone",
+    "match_api": null
+  },
+  {
+    "nom_websearch": "Garage ACM Auto",
+    "telephone": "",
+    "adresse_websearch": "8 Rue du Plessis Briard, 91000 Évry-Courcouronnes",
+    "site_web": "",
+    "source_recherche": "garage automobile Evry 91000",
+    "match_api": {
+      "nom_api": "AXIS AUTO",
+      "siret": "99927842700011",
+      "siren": "999278427",
+      "adresse_api": "8 RUE DU PLESSIS BRIARD 91080 EVRY-COURCOURONNES",
+      "code_postal": "91080",
+      "code_naf": "45.20A",
+      "date_creation": "2026-01-02",
+      "statut": "Actif",
+      "effectif": "NN",
+      "categorie": "garage"
+    }
+  },
+  {
+    "nom_websearch": "Tygroo Pneus",
+    "telephone": "09 86 36 56 31",
+    "adresse_websearch": "48 Rue Paul Claudel, 91000 Évry-Courcouronnes",
+    "site_web": "",
+    "source_recherche": "garage automobile Evry 91000",
+    "match_api": null
+  },
+  {
+    "nom_websearch": "LINAT AUTO Évry (Carrosserie)",
+    "telephone": "",
+    "adresse_websearch": "50 Rue Paul Claudel, Centre Autoplex, 91000 Évry-Courcouronnes",
+    "site_web": "https://garagefr.com/p/linat-auto-evry-1046",
+    "source_recherche": "garage automobile Evry 91000",
+    "match_api": null
+  },
+  {
+    "nom_websearch": "Speedy Évry",
+    "telephone": "",
+    "adresse_websearch": "Évry, 91000",
+    "site_web": "https://centres-auto.speedy.fr/ville/91228/evry",
+    "source_recherche": "garage automobile Evry 91000",
+    "match_api": null
+  },
+  {
+    "nom_websearch": "Business Autos",
+    "telephone": "",
+    "adresse_websearch": "14 Rue du Bois Guillaume, 91000 Évry-Courcouronnes",
+    "site_web": "https://top-concession-auto.fr/fr/business-autos-evry-courcouronnes-2854961.html",
+    "source_recherche": "concession auto Evry-Courcouronnes",
+    "match_api": {
+      "nom_api": "BUSINESS AUTOS",
+      "siret": "48217569200011",
+      "siren": "482175692",
+      "adresse_api": "14 RUE DU BOIS GUILLAUME 91000 EVRY-COURCOURONNES",
+      "code_postal": "91000",
+      "code_naf": "45.11Z",
+      "date_creation": "2005-05-19",
+      "statut": "Actif",
+      "effectif": "NN",
+      "categorie": "concession"
+    }
+  },
+  {
+    "nom_websearch": "Groupe Patrick Launay (Mercedes)",
+    "telephone": "",
+    "adresse_websearch": "Évry-Courcouronnes",
+    "site_web": "https://www.groupe-patrick-launay.fr/les-voitures-mercedes-disponibles-a-la-concession-de-evry-courcouronnes",
+    "source_recherche": "concession auto Evry-Courcouronnes",
+    "match_api": null
+  },
+  {
+    "nom_websearch": "Autovalley",
+    "telephone": "",
+    "adresse_websearch": "5 Place Copernic, Évry-Courcouronnes",
+    "site_web": "",
+    "source_recherche": "concession auto Evry-Courcouronnes",
+    "match_api": {
+      "nom_api": "AUTOVALLEY",
+      "siret": "40318894900081",
+      "siren": "403188949",
+      "adresse_api": "IMMEUBLE LE BOREAL 5 PL COPERNIC 91000 EVRY-COURCOURONNES",
+      "code_postal": "91000",
+      "code_naf": "45.11Z",
+      "date_creation": "1995-12-13",
+      "statut": "Actif",
+      "effectif": "NN",
+      "categorie": "concession"
+    }
+  },
+  {
+    "nom_websearch": "Diamond Car",
+    "telephone": "",
+    "adresse_websearch": "28 Rue Alphonse Daudet, 91000 Évry-Courcouronnes",
+    "site_web": "",
+    "source_recherche": "carrosserie Evry",
+    "match_api": {
+      "nom_api": "DIAMAND CARS",
+      "siret": "52060973600019",
+      "siren": "520609736",
+      "adresse_api": "28 RUE ALPHONSE DAUDET 91000 EVRY-COURCOURONNES",
+      "code_postal": "91000",
+      "code_naf": "45.20A",
+      "date_creation": "2010-03-15",
+      "statut": "Actif",
+      "effectif": "NN",
+      "categorie": "garage"
+    }
+  },
+  {
+    "nom_websearch": "Carrosserie Evry - E Colors",
+    "telephone": "",
+    "adresse_websearch": "Rue Paul Claudel, 91000 Évry-Courcouronnes",
+    "site_web": "https://icarrosserie.fr/91/evry-courcouronnes/carrosserie-evry-e-colors-1hcm",
+    "source_recherche": "carrosserie Evry",
+    "match_api": null
+  },
+  {
+    "nom_websearch": "Paint Cub",
+    "telephone": "01 64 98 78 44",
+    "adresse_websearch": "18 Rue Jean Mermoz, 91080 Évry-Courcouronnes",
+    "site_web": "https://www.paintcub.com/",
+    "source_recherche": "carrosserie Evry",
+    "match_api": null
+  },
+  {
+    "nom_websearch": "BMW Motorrad Indigo (SAS)",
+    "telephone": "",
+    "adresse_websearch": "44 Rue Paul Claudel, Évry, 91000",
+    "site_web": "https://bmw.auto-selection.com/reseau/concession-ile-de-france/11/bmw-motorrad-indigo-%28sas%29-concessionnaire-evry-91-fiche-1710.php",
+    "source_recherche": "moto Evry concession",
+    "match_api": {
+      "nom_api": "INDIGO",
+      "siret": "30322789600022",
+      "siren": "303227896",
+      "adresse_api": "44 RUE PAUL CLAUDEL 91000 EVRY-COURCOURONNES",
+      "code_postal": "91000",
+      "code_naf": "45.11Z",
+      "date_creation": "1969-01-01",
+      "statut": "Actif",
+      "effectif": "12",
+      "categorie": "concession"
+    }
+  },
+  {
+    "nom_websearch": "Dufour Motos",
+    "telephone": "01 64 96 95 95",
+    "adresse_websearch": "16 Rue Glacière, 91100 Corbeil-Essonnes",
+    "site_web": "",
+    "source_recherche": "moto Evry concession",
+    "match_api": null
+  },
+  {
+    "nom_websearch": "CMS 91 (Honda)",
+    "telephone": "01 60 88 12 88",
+    "adresse_websearch": "20 Boulevard Jean Jaurès, 91100 Corbeil-Essonnes",
+    "site_web": "",
+    "source_recherche": "moto Evry concession",
+    "match_api": null
+  },
+  {
+    "nom_websearch": "Concessionnaire Suzuki / Kawasaki Corbeil",
+    "telephone": "01 60 89 84 43",
+    "adresse_websearch": "Boulevard Jean Jaurès, 91100 Corbeil-Essonnes",
+    "site_web": "",
+    "source_recherche": "moto Evry concession",
+    "match_api": null
+  },
+  {
+    "nom_websearch": "Moto Axxe (Sainte-Geneviève-des-Bois)",
+    "telephone": "01 69 25 25 25",
+    "adresse_websearch": "ZAC Croix Blanche, 22 Avenue de la Résistance, 91700 Sainte-Geneviève-des-Bois",
+    "site_web": "",
+    "source_recherche": "moto Evry concession",
+    "match_api": null
+  },
+  {
+    "nom_websearch": "Profil Plus Vaysse",
+    "telephone": "01 64 94 02 71",
+    "adresse_websearch": "Centre Autoplex, Boulevard des Champs-Élysées, Évry",
+    "site_web": "",
+    "source_recherche": "moto Evry concession",
+    "match_api": {
+      "nom_api": "VAYSSE SA",
+      "siret": "55207328000083",
+      "siren": "552073280",
+      "adresse_api": "LES LOGES RUE PAUL CLAUDEL 91000 EVRY-COURCOURONNES",
+      "code_postal": "91000",
+      "code_naf": "45.20A",
+      "date_creation": "1955-01-01",
+      "statut": "Actif",
+      "effectif": "21",
+      "categorie": "garage"
+    }
+  },
+  {
+    "nom_websearch": "Citroën Evry Corbeil Automobiles (SAS)",
+    "telephone": "01 69 22 81 00",
+    "adresse_websearch": "33-35 Avenue du 8 Mai 1945, 91100 Corbeil-Essonnes",
+    "site_web": "https://reseau.citroen.fr/corbeil-essonnes/",
+    "source_recherche": "Citroën Evry",
+    "match_api": null
+  },
+  {
+    "nom_websearch": "Point S Evry (entretien Toyota)",
+    "telephone": "01 85 53 33 53",
+    "adresse_websearch": "1 Rue Léo André, Évry",
+    "site_web": "https://www.points-evry.fr",
+    "source_recherche": "Toyota Evry",
+    "match_api": {
+      "nom_api": "TEKNIK MOTOR SPORT (TMS)",
+      "siret": "84096042100013",
+      "siren": "840960421",
+      "adresse_api": "11 BD DES COQUIBUS 91000 EVRY-COURCOURONNES",
+      "code_postal": "91000",
+      "code_naf": "45.20A",
+      "date_creation": "2018-06-15",
+      "statut": "Actif",
+      "effectif": "03",
+      "categorie": "garage"
+    }
+  }
+]
