@@ -157,12 +157,20 @@ def parse_listing(article, cp_default, ville_default, category, naf_code):
 
     # Phone number
     phone = None
+    # Method 0 (PRIMARY): Extract from fantomas div (PJ hides phones there)
+    fantomas = article.select_one("[id*=fantomas]")
+    if fantomas:
+        fantomas_text = fantomas.get_text(" ", strip=True)
+        phone_match = re.search(r'(\d{2}[\s\.]*\d{2}[\s\.]*\d{2}[\s\.]*\d{2}[\s\.]*\d{2})', fantomas_text)
+        if phone_match:
+            phone = phone_match.group(1)
     # Method 1: data-href with tel:
-    for el in article.find_all(attrs={"data-href": True}):
-        href = el.get("data-href", "")
-        if "tel:" in href:
-            phone = href.replace("tel:", "").strip()
-            break
+    if not phone:
+        for el in article.find_all(attrs={"data-href": True}):
+            href = el.get("data-href", "")
+            if "tel:" in href:
+                phone = href.replace("tel:", "").strip()
+                break
     # Method 2: a href with tel:
     if not phone:
         for el in article.find_all("a", href=True):
@@ -225,7 +233,7 @@ def scrape_page(query, location, page):
     url = f"https://www.pagesjaunes.fr/annuaire/chercherlespros?quoiqui={query}&ou={location}&page={page}"
 
     try:
-        r = cffi_requests.get(url, impersonate="chrome120", timeout=30)
+        r = cffi_requests.get(url, impersonate="chrome116", timeout=30)
 
         if r.status_code == 403:
             logger.warning(f"PJ 403 for {query}/{location} page {page}")
