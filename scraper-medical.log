@@ -2682,3 +2682,51 @@
 2026-04-01 12:41:07,962 [merge_export] INFO:   Sheet 'Lille': 2882 rows
 2026-04-01 12:41:08,600 [merge_export] INFO: Excel file saved: /home/user/Website01/structures-medicales.xlsx
 2026-04-01 12:41:08,630 [merge_export] INFO: === Merge and export complete ===
+2026-04-01 18:42:19,745 [garages_cergy] INFO: === Scraper Garages Cergy — START ===
+2026-04-01 18:42:22,291 [garages_cergy] INFO: API: 45.11Z / 95000 => 73 records
+2026-04-01 18:42:25,599 [garages_cergy] INFO: API: 45.11Z / 95800 => 91 records
+2026-04-01 18:42:26,163 [garages_cergy] INFO: API: 45.19Z / 95000 => 1 records
+2026-04-01 18:42:26,698 [garages_cergy] INFO: API: 45.19Z / 95800 => 2 records
+2026-04-01 18:42:29,040 [garages_cergy] INFO: API: 45.20A / 95000 => 55 records
+2026-04-01 18:42:35,612 [garages_cergy] INFO: API: 45.20A / 95800 => 29 records
+2026-04-01 18:42:35,812 [garages_cergy] INFO: API: 45.20B / 95000 => 0 records
+2026-04-01 18:42:36,336 [garages_cergy] INFO: API: 45.20B / 95800 => 1 records
+2026-04-01 18:42:36,867 [garages_cergy] INFO: API: 45.31Z / 95000 => 5 records
+2026-04-01 18:42:37,449 [garages_cergy] INFO: API: 45.31Z / 95800 => 5 records
+2026-04-01 18:42:38,096 [garages_cergy] INFO: API: 45.32Z / 95000 => 14 records
+2026-04-01 18:42:38,625 [garages_cergy] INFO: API: 45.32Z / 95800 => 8 records
+2026-04-01 18:42:39,150 [garages_cergy] INFO: API: 45.40Z / 95000 => 2 records
+2026-04-01 18:42:39,378 [garages_cergy] INFO: API: 45.40Z / 95800 => 1 records
+2026-04-01 18:42:39,379 [garages_cergy] INFO: API Entreprises total: 287 records
+2026-04-01 18:42:39,385 [garages_cergy] INFO: PJ: garage-automobile in cergy-95...
+2026-04-01 18:42:39,733 [garages_cergy] WARNING: PJ 403 for garage-automobile/cergy-95 page 1
+2026-04-01 18:42:44,433 [garages_cergy] INFO: PJ: concession-automobile in cergy-95...
+2026-04-01 18:42:45,696 [garages_cergy] INFO:   PJ: concession-automobile page 1: 20 new (20 raw)
+2026-04-01 18:42:49,726 [garages_cergy] WARNING: PJ 403 for concession-automobile/cergy-95 page 2
+2026-04-01 18:42:49,727 [garages_cergy] INFO:   => 20 records for concession-automobile
+2026-04-01 18:42:54,882 [garages_cergy] INFO: PJ: carrosserie-automobile in cergy-95...
+2026-04-01 18:42:56,202 [garages_cergy] INFO:   PJ: carrosserie-automobile page 1: 16 new (20 raw)
+2026-04-01 18:42:59,269 [garages_cergy] WARNING: PJ 403 for carrosserie-automobile/cergy-95 page 2
+2026-04-01 18:42:59,269 [garages_cergy] INFO:   => 16 records for carrosserie-automobile
+2026-04-01 18:43:04,483 [garages_cergy] INFO: PJ: garage-moto in cergy-95...
+2026-04-01 18:43:05,724 [garages_cergy] INFO:   PJ: garage-moto page 1: 19 new (20 raw)
+2026-04-01 18:43:09,242 [garages_cergy] WARNING: PJ 403 for garage-moto/cergy-95 page 2
+2026-04-01 18:43:09,242 [garages_cergy] INFO:   => 19 records for garage-moto
+2026-04-01 18:43:13,192 [garages_cergy] INFO: PJ: concession-moto in cergy-95...
+2026-04-01 18:43:13,227 [garages_cergy] WARNING: PJ 403 for concession-moto/cergy-95 page 1
+2026-04-01 18:43:17,791 [garages_cergy] INFO: PJ: reparation-automobile in cergy-95...
+2026-04-01 18:43:18,929 [garages_cergy] INFO:   PJ: reparation-automobile page 1: 2 new (3 raw)
+2026-04-01 18:43:18,932 [garages_cergy] INFO:   => 2 records for reparation-automobile
+2026-04-01 18:43:22,800 [garages_cergy] INFO: PJ: carrossier in cergy-95...
+2026-04-01 18:43:27,455 [garages_cergy] INFO: PJ: peinture-automobile in cergy-95...
+2026-04-01 18:43:28,650 [garages_cergy] INFO:   PJ: peinture-automobile page 1: 20 new (20 raw)
+2026-04-01 18:43:32,437 [garages_cergy] WARNING: PJ 403 for peinture-automobile/cergy-95 page 2
+2026-04-01 18:43:32,437 [garages_cergy] INFO:   => 20 records for peinture-automobile
+2026-04-01 18:43:37,438 [garages_cergy] INFO: Pages Jaunes total: 77 records
+2026-04-01 18:43:39,840 [garages_cergy] INFO: OSM Overpass: 36 automotive POIs
+2026-04-01 18:43:39,918 [garages_cergy] INFO: After dedup: 391 unique records
+2026-04-01 18:43:39,919 [garages_cergy] INFO: Enriching SIRETs for 97 records...
+2026-04-01 18:45:12,945 [garages_cergy] INFO: SIRET enrichment: 41 records enriched
+2026-04-01 18:45:12,988 [garages_cergy] INFO: Exporting 391 records to /home/user/Website01/garages-cergy.xlsx
+2026-04-01 18:45:13,230 [garages_cergy] INFO: Excel saved: /home/user/Website01/garages-cergy.xlsx
+2026-04-01 18:45:13,234 [garages_cergy] INFO: === Scraper Garages Cergy — DONE ===
