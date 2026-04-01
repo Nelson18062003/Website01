@@ -86,8 +86,26 @@ def download_finess_csv(url):
         content = r.content.decode('utf-8', errors='replace')
         logger.info(f"Downloaded {len(content)} bytes")
 
-        reader = csv.DictReader(io.StringIO(content), delimiter=';')
-        rows = list(reader)
+        # The FINESS CSV has no real header row; line 0 is metadata.
+        # Each data row has 32 semicolon-separated fields:
+        #  0: type (structureet/geolocalisation)
+        #  1: nofinesset  2: nofinessej  3: rs (short name)  4: rslongue
+        #  5: complrs  6: compldistrib  7: numvoie  8: typvoie  9: voie
+        # 10: compvoie  11: lieuditbp  12: commune_code  13: departement
+        # 14: libdepartement  15: ligneacheminement (postal+city)
+        # 16: telephone  17: telecopie  18: categetab  19: libcategetab
+        # 20: categagretab  21: libcategagretab  22: siret  23: codeape
+        # 24: codemft  25: libmft  26: codesph  27: libsph
+        lines = content.split('\n')
+        rows = []
+        for line in lines[1:]:  # skip metadata header
+            if not line.strip():
+                continue
+            fields = line.split(';')
+            if len(fields) < 20:
+                continue
+            rows.append(fields)
+
         logger.info(f"Parsed {len(rows)} rows from FINESS CSV")
         return rows
     except Exception as e:
@@ -99,46 +117,55 @@ def process_finess_rows(rows):
     """Process FINESS rows and filter for our target zones."""
     results = []
 
-    for row in rows:
-        dept = str(row.get("departement", "") or row.get("dep", "") or "").strip()
-
-        # Try to extract department from postal code if not directly available
-        cp = str(row.get("codepostal", "") or row.get("code_postal", "") or row.get("cp", "") or "").strip()
-        if not dept and cp and len(cp) >= 2:
-            dept = cp[:2]
+    for fields in rows:
+        dept = fields[13].strip() if len(fields) > 13 else ""
 
         if dept not in TARGET_DEPARTMENTS:
             continue
 
-        # Get category
-        cat_code = str(row.get("categetab", "") or row.get("cat", "") or row.get("categorie", "") or "").strip()
+        # Parse postal code and city from ligneacheminement (field 15)
+        achemin = fields[15].strip() if len(fields) > 15 else ""
+        # Format is typically "75007 PARIS" or "13001 MARSEILLE"
+        cp = ""
+        ville = ""
+        if achemin:
+            parts = achemin.split(" ", 1)
+            cp = parts[0] if parts else ""
+            ville = parts[1] if len(parts) > 1 else ""
 
-        # Build address
+        # Get category code
+        cat_code = fields[18].strip() if len(fields) > 18 else ""
+
+        # Build address from numvoie (7), typvoie (8), voie (9), compvoie (10), lieuditbp (11)
         addr_parts = []
-        for field in ["numvoie", "typvoie", "voie", "lieuditbp", "ligneacheminement"]:
-            val = row.get(field, "")
-            if val and str(val).strip():
-                addr_parts.append(str(val).strip())
+        for idx in [7, 8, 9, 10, 11]:
+            if len(fields) > idx and fields[idx].strip():
+                addr_parts.append(fields[idx].strip())
 
-        # Get raison sociale
-        rs = row.get("rs", "") or row.get("rslongue", "") or row.get("raison_sociale", "") or ""
+        # Raison sociale: prefer rslongue (4), fallback to rs (3)
+        rs = (fields[4].strip() if len(fields) > 4 and fields[4].strip() else
+              fields[3].strip() if len(fields) > 3 else "")
+
+        telephone = fields[16].strip() if len(fields) > 16 else ""
+        finess_num = fields[1].strip() if len(fields) > 1 else ""
+        siret = fields[22].strip() if len(fields) > 22 else ""
 
         record = {
-            "raison_sociale": str(rs).strip(),
+            "raison_sociale": rs,
             "categorie": FINESS_CAT_MAP.get(cat_code, "Structure de santé"),
             "code_naf": "",
             "libelle_naf": "",
-            "telephone": format_phone(row.get("telephone", "") or row.get("tel", "")),
-            "adresse": " ".join(addr_parts).strip() if addr_parts else "",
+            "telephone": format_phone(telephone),
+            "adresse": " ".join(addr_parts),
             "code_postal": format_postal_code(cp),
-            "ville": str(row.get("libcommune", "") or row.get("commune", "") or row.get("ville", "") or "").strip(),
-            "siret": "",
+            "ville": ville,
+            "siret": siret,
             "siren": "",
             "site_web": "",
             "email": "",
             "effectif": "",
             "date_creation": "",
-            "finess": str(row.get("nofinesset", "") or row.get("finess", "") or "").strip(),
+            "finess": finess_num,
             "source": "FINESS",
         }
 
@@ -160,9 +187,9 @@ def main():
         save_json([], "finess.json")
         return []
 
-    # Log available columns
+    # Log sample row
     if rows:
-        logger.info(f"FINESS columns: {list(rows[0].keys())[:20]}")
+        logger.info(f"FINESS sample row (first 5 fields): {rows[0][:5]}")
 
     results = process_finess_rows(rows)
 

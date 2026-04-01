@@ -3,12 +3,10 @@
 import os
 import re
 import json
+import sys
 import time
 import pandas as pd
 import requests
-from openpyxl import load_workbook
-from openpyxl.styles import Font, PatternFill, Alignment, Border, Side
-from openpyxl.utils import get_column_letter
 from scraper_utils import (
     DATA_DIR, NAF_CODES, ZONES, setup_logging, load_json,
     normalize_name, format_phone, format_postal_code,
@@ -31,37 +29,24 @@ LILLE_POSTCODES = {"59000", "59800", "59100", "59200", "59491", "59130", "59110"
 
 
 def load_all_sources():
-    """Load all intermediate JSON files."""
+    """Load all intermediate JSON files from data directory."""
     all_records = []
 
-    # API Entreprises
-    data = load_json("api_entreprises.json")
-    logger.info(f"Loaded {len(data)} from API Entreprises")
-    all_records.extend(data)
-
-    # FINESS
-    data = load_json("finess.json")
-    logger.info(f"Loaded {len(data)} from FINESS")
-    all_records.extend(data)
-
-    # OSM
-    data = load_json("osm.json")
-    logger.info(f"Loaded {len(data)} from OSM")
-    all_records.extend(data)
-
-    # Pages Jaunes (multiple files)
-    for fname in os.listdir(DATA_DIR):
-        if fname.startswith("pagesjaunes_") and fname.endswith(".json"):
-            data = load_json(fname)
-            logger.info(f"Loaded {len(data)} from {fname}")
-            all_records.extend(data)
-
-    # Annuaire Santé (multiple files)
-    for fname in os.listdir(DATA_DIR):
-        if fname.startswith("annuaire_sante_") and fname.endswith(".json"):
-            data = load_json(fname)
-            logger.info(f"Loaded {len(data)} from {fname}")
-            all_records.extend(data)
+    # Load every JSON file in the data directory
+    for fname in sorted(os.listdir(DATA_DIR)):
+        if not fname.endswith('.json'):
+            continue
+        filepath = os.path.join(DATA_DIR, fname)
+        try:
+            with open(filepath, 'r', encoding='utf-8') as f:
+                data = json.load(f)
+            if isinstance(data, list) and len(data) > 0:
+                logger.info(f"Loaded {len(data)} from {fname}")
+                all_records.extend(data)
+            else:
+                logger.info(f"Skipping {fname} (empty or not a list)")
+        except Exception as e:
+            logger.warning(f"Error loading {fname}: {e}")
 
     logger.info(f"Total raw records from all sources: {len(all_records)}")
     return all_records
@@ -271,8 +256,31 @@ def get_zone(cp):
     return "autre"
 
 
+def write_sheet_xlsxwriter(writer, df, sheet_name, header_fmt, cell_fmt):
+    """Write a DataFrame to a sheet with xlsxwriter formatting."""
+    df.to_excel(writer, sheet_name=sheet_name, index=False)
+    ws = writer.sheets[sheet_name]
+
+    # Format headers
+    for col_idx, col_name in enumerate(df.columns):
+        ws.write(0, col_idx, col_name, header_fmt)
+
+    # Auto-width columns (sample first 100 rows + header)
+    for col_idx, col_name in enumerate(df.columns):
+        max_len = len(str(col_name))
+        for row_val in df.iloc[:100, col_idx]:
+            val_len = len(str(row_val)) if pd.notna(row_val) else 0
+            max_len = max(max_len, min(val_len, 50))
+        ws.set_column(col_idx, col_idx, max(max_len + 3, 12))
+
+    # Auto-filter and freeze panes
+    if len(df) > 0:
+        ws.autofilter(0, 0, len(df), len(df.columns) - 1)
+    ws.freeze_panes(1, 0)
+
+
 def export_xlsx(df):
-    """Export to formatted XLSX with multiple sheets."""
+    """Export to formatted XLSX with multiple sheets using xlsxwriter."""
     logger.info(f"Exporting {len(df)} records to {OUTPUT_FILE}")
 
     # Add zone column for filtering
@@ -283,19 +291,44 @@ def export_xlsx(df):
     df_lille = df[df["_zone"] == "lille"].drop(columns=["_zone"])
     df_all = df.drop(columns=["_zone"])
 
-    # Write with pandas first
-    with pd.ExcelWriter(OUTPUT_FILE, engine='openpyxl') as writer:
-        df_all.to_excel(writer, sheet_name="Toutes les structures", index=False)
-        df_paris.to_excel(writer, sheet_name="Paris", index=False)
-        df_marseille.to_excel(writer, sheet_name="Marseille", index=False)
-        df_lille.to_excel(writer, sheet_name="Lille", index=False)
+    with pd.ExcelWriter(OUTPUT_FILE, engine='xlsxwriter') as writer:
+        workbook = writer.book
+        header_fmt = workbook.add_format({
+            'bold': True, 'font_color': 'white', 'bg_color': '#2E75B6',
+            'text_wrap': True, 'align': 'center', 'valign': 'vcenter',
+            'border': 1, 'font_size': 11,
+        })
+        cell_fmt = workbook.add_format({'font_size': 10})
+        section_fmt = workbook.add_format({
+            'bold': True, 'font_size': 12, 'font_color': '#2E75B6',
+        })
+
+        write_sheet_xlsxwriter(writer, df_all, "Toutes les structures", header_fmt, cell_fmt)
+        logger.info(f"  Sheet 'Toutes les structures': {len(df_all)} rows")
+
+        write_sheet_xlsxwriter(writer, df_paris, "Paris", header_fmt, cell_fmt)
+        logger.info(f"  Sheet 'Paris': {len(df_paris)} rows")
+
+        write_sheet_xlsxwriter(writer, df_marseille, "Marseille", header_fmt, cell_fmt)
+        logger.info(f"  Sheet 'Marseille': {len(df_marseille)} rows")
+
+        write_sheet_xlsxwriter(writer, df_lille, "Lille", header_fmt, cell_fmt)
+        logger.info(f"  Sheet 'Lille': {len(df_lille)} rows")
 
         # Statistics sheet
         stats = build_statistics(df_all, df_paris, df_marseille, df_lille)
         stats.to_excel(writer, sheet_name="Statistiques", index=False)
+        ws_stats = writer.sheets["Statistiques"]
+        for col_idx, col_name in enumerate(stats.columns):
+            ws_stats.write(0, col_idx, col_name, header_fmt)
+        ws_stats.set_column(0, 0, 55)
+        ws_stats.set_column(1, 1, 20)
+        # Bold section headers
+        for row_idx, val in enumerate(stats["Statistique"]):
+            if isinstance(val, str) and val.isupper() and val:
+                ws_stats.write(row_idx + 1, 0, val, section_fmt)
+        ws_stats.freeze_panes(1, 0)
 
-    # Format with openpyxl
-    format_xlsx(OUTPUT_FILE)
     logger.info(f"Excel file saved: {OUTPUT_FILE}")
 
 
@@ -365,62 +398,6 @@ def build_statistics(df_all, df_paris, df_marseille, df_lille):
     return pd.DataFrame(stats_rows)
 
 
-def format_xlsx(filepath):
-    """Format the XLSX file with openpyxl."""
-    wb = load_workbook(filepath)
-
-    header_font = Font(bold=True, color="FFFFFF", size=11)
-    header_fill = PatternFill(start_color="2E75B6", end_color="2E75B6", fill_type="solid")
-    header_align = Alignment(horizontal="center", vertical="center", wrap_text=True)
-    thin_border = Border(
-        left=Side(style='thin'),
-        right=Side(style='thin'),
-        top=Side(style='thin'),
-        bottom=Side(style='thin')
-    )
-
-    for sheet_name in wb.sheetnames:
-        ws = wb[sheet_name]
-
-        # Format headers
-        for cell in ws[1]:
-            cell.font = header_font
-            cell.fill = header_fill
-            cell.alignment = header_align
-            cell.border = thin_border
-
-        # Auto-width columns
-        for col_idx, col_cells in enumerate(ws.columns, 1):
-            max_len = 0
-            for cell in col_cells:
-                try:
-                    cell_len = len(str(cell.value or ""))
-                    max_len = max(max_len, min(cell_len, 50))
-                except:
-                    pass
-            col_letter = get_column_letter(col_idx)
-            ws.column_dimensions[col_letter].width = max(max_len + 3, 12)
-
-        # Auto-filter on data sheets
-        if sheet_name != "Statistiques" and ws.max_row > 1:
-            ws.auto_filter.ref = f"A1:{get_column_letter(ws.max_column)}{ws.max_row}"
-
-        # Freeze top row
-        ws.freeze_panes = "A2"
-
-    # Special formatting for Statistics sheet
-    if "Statistiques" in wb.sheetnames:
-        ws = wb["Statistiques"]
-        section_font = Font(bold=True, size=12, color="2E75B6")
-        for row in ws.iter_rows(min_row=2, max_row=ws.max_row):
-            val = str(row[0].value or "")
-            if val.isupper() and val:
-                row[0].font = section_font
-
-    wb.save(filepath)
-    logger.info("XLSX formatting applied")
-
-
 def print_summary(df):
     """Print a summary to the terminal."""
     total = len(df)
@@ -480,6 +457,8 @@ def print_summary(df):
 def main():
     logger.info("=== Starting merge and export ===")
 
+    skip_enrich = "--skip-enrich" in sys.argv
+
     # Load all sources
     records = load_all_sources()
     if not records:
@@ -489,17 +468,25 @@ def main():
     # Deduplicate
     df = deduplicate(records)
 
-    # Enrich missing SIRETs
-    df = enrich_siret(df)
+    # Enrich missing SIRETs (skip if flag set)
+    if not skip_enrich:
+        df = enrich_siret(df)
+    else:
+        logger.info("Skipping SIRET enrichment (--skip-enrich)")
 
     # Cleanup
     df = cleanup(df)
 
-    # Export
-    export_xlsx(df)
+    # Filter: keep only records with SIRET AND telephone
+    before_filter = len(df)
+    df_quality = df[(df["siret"] != "") & (df["telephone"] != "")].copy()
+    logger.info(f"Quality filter (SIRET + phone required): {len(df_quality)} from {before_filter}")
+
+    # Export quality dataset
+    export_xlsx(df_quality)
 
     # Print summary
-    print_summary(df)
+    print_summary(df_quality)
 
     logger.info("=== Merge and export complete ===")
 
