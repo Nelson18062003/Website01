@@ -13,7 +13,11 @@ from difflib import SequenceMatcher
 import unicodedata
 import re
 
-OVERPASS_URL = "https://overpass-api.de/api/interpreter"
+OVERPASS_URLS = [
+    "https://overpass-api.de/api/interpreter",
+    "https://overpass.kumi.systems/api/interpreter",
+    "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+]
 
 CITIES = {
     "colomiers": {
@@ -121,14 +125,20 @@ def match_score(api_name, osm_name):
 
 
 def query_overpass(query):
-    """Interroge l'Overpass API et retourne les éléments."""
-    print(f"  Envoi requête Overpass API...")
-    resp = requests.post(OVERPASS_URL, data={"data": query}, timeout=60)
-    resp.raise_for_status()
-    data = resp.json()
-    elements = data.get("elements", [])
-    print(f"  -> {len(elements)} éléments trouvés")
-    return elements
+    """Interroge l'Overpass API avec fallback sur plusieurs serveurs."""
+    for url in OVERPASS_URLS:
+        try:
+            print(f"  Envoi requête vers {url}...")
+            resp = requests.post(url, data={"data": query}, timeout=90)
+            resp.raise_for_status()
+            data = resp.json()
+            elements = data.get("elements", [])
+            print(f"  -> {len(elements)} éléments trouvés")
+            return elements
+        except (requests.exceptions.RequestException, ValueError) as e:
+            print(f"  ERREUR avec {url}: {e}")
+            continue
+    raise RuntimeError("Tous les serveurs Overpass ont échoué")
 
 
 def extract_osm_info(element):

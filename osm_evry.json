@@ -13,7 +13,13 @@
     "effectif": "12",
     "categorie": "garage",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "MIDAS FRANCE",
@@ -29,14 +35,24 @@
     "effectif": "22",
     "categorie": "garage",
     "zone_recherche": "Evry",
-    "osm_match": true,
-    "osm_score": 0.9,
+    "osm_match_score": 0.588,
+    "osm_id": 7916369100,
+    "osm_type": "node",
     "osm_name": "Midas",
-    "osm_id": 63750625,
-    "telephone": "+33 1 60 77 86 16",
-    "site_web": "https://www.midas.fr/",
-    "latitude": 48.6393168,
-    "longitude": 2.4280861
+    "osm_phone": "+33 1 64 96 14 14",
+    "osm_website": "https://www.midas.fr/",
+    "osm_email": "",
+    "osm_opening_hours": "",
+    "osm_brand": "Midas",
+    "osm_operator": "",
+    "osm_addr_street": "Avenue Paul Maintenant",
+    "osm_addr_housenumber": "",
+    "osm_addr_postcode": "91100",
+    "osm_shop": "car_repair",
+    "osm_craft": "",
+    "osm_amenity": "",
+    "osm_lat": 48.6138525,
+    "osm_lon": 2.4565902
   },
   {
     "nom": "IMMOJET",
@@ -52,7 +68,13 @@
     "effectif": "03",
     "categorie": "garage",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "VAYSSE SA",
@@ -68,7 +90,13 @@
     "effectif": "21",
     "categorie": "garage",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "ASPHALTE91 (MONDIAL PARE BRISE)",
@@ -84,7 +112,13 @@
     "effectif": "02",
     "categorie": "garage",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "NATURAL AUTO NETT",
@@ -100,7 +134,13 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "PASSION AUTOMOBILE",
@@ -116,7 +156,13 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "CARROSSERIE GOMES (PREMIUM 91)",
@@ -132,12 +178,13 @@
     "effectif": "03",
     "categorie": "garage",
     "zone_recherche": "Evry",
-    "osm_match": true,
-    "osm_score": 0.8,
-    "osm_name": "Gomes Carrosserie",
-    "osm_id": 245315664,
-    "latitude": 48.6391519,
-    "longitude": 2.4284584
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "ALBAX PARIS 15",
@@ -153,7 +200,13 @@
     "effectif": "12",
     "categorie": "garage",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "TEKNIK MOTOR SPORT (TMS)",
@@ -169,7 +222,13 @@
     "effectif": "03",
     "categorie": "garage",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "RIGO",
@@ -185,7 +244,13 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "HDAS AUTO DEPOLLUTION",
@@ -201,7 +266,13 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "SOO CARS",
@@ -217,7 +288,13 @@
     "effectif": "01",
     "categorie": "garage",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "DPB",
@@ -233,7 +310,13 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "PRESTIGE GLASS (PRESTIGE GLASS)",
@@ -249,7 +332,13 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "PARKONET SERVICES (PARKONET ORLY) (PS)",
@@ -265,7 +354,13 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "REDOUANE HAMRANI SALHI (FRANCE DEPANNAGE)",
@@ -281,7 +376,13 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "WILLY EURANIE",
@@ -297,7 +398,13 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "MON BEAU CAMION (MON BEAU CAMION)",
@@ -313,7 +420,13 @@
     "effectif": "03",
     "categorie": "garage",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "PARE BRISE 3000 EVRY",
@@ -329,7 +442,13 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "REPAR'AUTO SERVICE",
@@ -345,7 +464,24 @@
     "effectif": "11",
     "categorie": "garage",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0.69,
+    "osm_id": 7351718085,
+    "osm_type": "node",
+    "osm_name": "Corbeil Services Auto",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": "Mo-Fr 08:00-18:00",
+    "osm_brand": "",
+    "osm_operator": "",
+    "osm_addr_street": "",
+    "osm_addr_housenumber": "",
+    "osm_addr_postcode": "",
+    "osm_shop": "car_repair",
+    "osm_craft": "",
+    "osm_amenity": "",
+    "osm_lat": 48.6101618,
+    "osm_lon": 2.4796829
   },
   {
     "nom": "IDF DEPANNAGES",
@@ -361,7 +497,13 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "GARAGE DU CANAL SAS (GARAGE DU CANAL SAS)",
@@ -377,12 +519,13 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Evry",
-    "osm_match": true,
-    "osm_score": 0.8,
-    "osm_name": "Garage des Epinettes",
-    "osm_id": 2229429611,
-    "latitude": 48.6226604,
-    "longitude": 2.4420712
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "YOUSSEF HMAMLY (ITIS AUTO)",
@@ -398,7 +541,13 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "FG EVRY",
@@ -414,7 +563,13 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "CARROSSERIE AVENUE",
@@ -430,12 +585,13 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Evry",
-    "osm_match": true,
-    "osm_score": 0.8,
-    "osm_name": "Gomes Carrosserie",
-    "osm_id": 245315664,
-    "latitude": 48.6391519,
-    "longitude": 2.4284584
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "YANIS CHICAR (CHICAR) (LUSTRAGE AUTO)",
@@ -451,7 +607,13 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "HM CARS & CARROSSERIE",
@@ -467,12 +629,13 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Evry",
-    "osm_match": true,
-    "osm_score": 0.8,
-    "osm_name": "Gomes Carrosserie",
-    "osm_id": 245315664,
-    "latitude": 48.6391519,
-    "longitude": 2.4284584
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "ATLAS PNEU",
@@ -488,7 +651,13 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "JEREMY GAYA (EVRY BUDY)",
@@ -504,7 +673,13 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "AXIS AUTO",
@@ -520,7 +695,24 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0.75,
+    "osm_id": 13049802240,
+    "osm_type": "node",
+    "osm_name": "Avis",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": "",
+    "osm_brand": "Avis",
+    "osm_operator": "",
+    "osm_addr_street": "",
+    "osm_addr_housenumber": "",
+    "osm_addr_postcode": "",
+    "osm_shop": "",
+    "osm_craft": "",
+    "osm_amenity": "car_rental",
+    "osm_lat": 48.6107247,
+    "osm_lon": 2.4486099
   },
   {
     "nom": "SERVICE AUTO CONCEPT",
@@ -536,7 +728,13 @@
     "effectif": "01",
     "categorie": "garage",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "ABDELKARIM THAMEUR (MECANIQUE EXPRESS)",
@@ -552,7 +750,13 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "TOUFIK AGTIT",
@@ -568,7 +772,13 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "MUSTAFA OZCELIK",
@@ -584,7 +794,13 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "EASY WASH (EW)",
@@ -600,12 +816,13 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Evry",
-    "osm_match": true,
-    "osm_score": 0.9,
-    "osm_name": "wash",
-    "osm_id": 63756428,
-    "latitude": 48.6243129,
-    "longitude": 2.4405127
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "RM AUTO",
@@ -621,7 +838,13 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "DEPANNAGE M C A",
@@ -637,7 +860,13 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "ROGER GANGA (G.R. RENOVATION ENTRETIEN VEHICULE NEUF ET OCCASION)",
@@ -653,7 +882,13 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "PANORAMA 35",
@@ -669,7 +904,13 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "ALAIN RODRIGUES (RENOV AUTO  RODRIGUES ALAIN)",
@@ -685,7 +926,13 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "AKANGA NGBILO (NG PARE BRISE)",
@@ -701,7 +948,13 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "KARIM FELTANE",
@@ -717,7 +970,13 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "LOUIS JACQUES MAINDOMBE",
@@ -733,7 +992,13 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "AGENCE NH",
@@ -749,7 +1014,13 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "ALL CLEAN SERVICES PRO",
@@ -765,7 +1036,13 @@
     "effectif": "00",
     "categorie": "garage",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "PAREBRISEAUTO",
@@ -781,7 +1058,13 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "MOHAMED AID ([ND])",
@@ -797,7 +1080,13 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "ANTHONY FELTRIN (ANTHONY FELTRIN)",
@@ -813,7 +1102,13 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "MICHAEL GIRARD (MG CARROSSERIE)",
@@ -829,7 +1124,13 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "K-MAX AUTO-MOTO",
@@ -845,7 +1146,13 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "AFONSO NGANZI NDOMBELE (CARROSSERIE ASSO)",
@@ -861,7 +1168,13 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "LAZIO-AUTO",
@@ -877,7 +1190,13 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "CARROSSERIE EBEN EZER",
@@ -893,12 +1212,13 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Evry",
-    "osm_match": true,
-    "osm_score": 0.8,
-    "osm_name": "Gomes Carrosserie",
-    "osm_id": 245315664,
-    "latitude": 48.6391519,
-    "longitude": 2.4284584
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "CRISTIAN VIVEROS GIUSTTIS (CARROSSERIE GIUSTTIS)",
@@ -914,7 +1234,13 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "NICOLAS LAMBINET",
@@ -930,7 +1256,13 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "DIAMAND CARS",
@@ -946,7 +1278,13 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "RUBEN WASH",
@@ -962,12 +1300,13 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Evry",
-    "osm_match": true,
-    "osm_score": 0.9,
-    "osm_name": "wash",
-    "osm_id": 63756428,
-    "latitude": 48.6243129,
-    "longitude": 2.4405127
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "MY CARROSS",
@@ -983,12 +1322,13 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Evry",
-    "osm_match": true,
-    "osm_score": 0.67,
-    "osm_name": "Gomes Carrosserie",
-    "osm_id": 245315664,
-    "latitude": 48.6391519,
-    "longitude": 2.4284584
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "L.P.P (L.P.P)",
@@ -1004,7 +1344,13 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "WINTER AUTO",
@@ -1020,7 +1366,13 @@
     "effectif": "01",
     "categorie": "garage",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "LAVAGE AUTO 3000",
@@ -1036,7 +1388,13 @@
     "effectif": "01",
     "categorie": "garage",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "FAIZAL RANDERA (RANDERA G.M.S)",
@@ -1052,7 +1410,13 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "PAUL KINA (SAWANA PRO CONCEPT, SAWANA PRO CLEAN)",
@@ -1068,7 +1432,13 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "ALN SERVICES",
@@ -1084,7 +1454,24 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0.714,
+    "osm_id": 7351718085,
+    "osm_type": "node",
+    "osm_name": "Corbeil Services Auto",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": "Mo-Fr 08:00-18:00",
+    "osm_brand": "",
+    "osm_operator": "",
+    "osm_addr_street": "",
+    "osm_addr_housenumber": "",
+    "osm_addr_postcode": "",
+    "osm_shop": "car_repair",
+    "osm_craft": "",
+    "osm_amenity": "",
+    "osm_lat": 48.6101618,
+    "osm_lon": 2.4796829
   },
   {
     "nom": "ARMINDO LOPES DA FONSECA",
@@ -1100,7 +1487,13 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "KAMEL BELDJENA",
@@ -1116,7 +1509,13 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "BLACKTINT 91 (BLACKTINT 91)",
@@ -1132,7 +1531,13 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "JEAN-LOUIS THEVENEL",
@@ -1148,7 +1553,13 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "MOHAMED KARROUM",
@@ -1164,7 +1575,13 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "JAMES HARUNDU (MECHANICS SERVICE OF JAMES)",
@@ -1180,7 +1597,13 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "F D R AUTO",
@@ -1196,7 +1619,13 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "MARIO MARQUES",
@@ -1212,7 +1641,13 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "HDAF",
@@ -1228,7 +1663,13 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "KIAMBONGA BIKU (JBK PNEUS-MULTISERVICES)",
@@ -1244,7 +1685,13 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "MOHAMED JENDLI ([ND])",
@@ -1260,7 +1707,13 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "INDUSTRY AUTO (INDUSTRY AUTO)",
@@ -1276,7 +1729,13 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "GARAGE BASTIE",
@@ -1292,12 +1751,13 @@
     "effectif": "02",
     "categorie": "garage",
     "zone_recherche": "Evry",
-    "osm_match": true,
-    "osm_score": 0.8,
-    "osm_name": "Garage des Epinettes",
-    "osm_id": 2229429611,
-    "latitude": 48.6226604,
-    "longitude": 2.4420712
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "EUROFRET SERVICES",
@@ -1313,7 +1773,24 @@
     "effectif": "NN",
     "categorie": "garage",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0.606,
+    "osm_id": 7351718085,
+    "osm_type": "node",
+    "osm_name": "Corbeil Services Auto",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": "Mo-Fr 08:00-18:00",
+    "osm_brand": "",
+    "osm_operator": "",
+    "osm_addr_street": "",
+    "osm_addr_housenumber": "",
+    "osm_addr_postcode": "",
+    "osm_shop": "car_repair",
+    "osm_craft": "",
+    "osm_amenity": "",
+    "osm_lat": 48.6101618,
+    "osm_lon": 2.4796829
   },
   {
     "nom": "DIEUDONNE MAKOBA",
@@ -1329,7 +1806,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "SA GERARD POULALION (SAGP) (SAGP)",
@@ -1345,7 +1828,13 @@
     "effectif": "03",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "WASSIM GUERRIDA (MINOU AUTOMOBILES)",
@@ -1361,7 +1850,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "VICTOR POPOVICI",
@@ -1377,7 +1872,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "BELLE EPINE AUTO",
@@ -1393,7 +1894,24 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0.583,
+    "osm_id": 2229429611,
+    "osm_type": "node",
+    "osm_name": "Garage des Epinettes",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": "",
+    "osm_brand": "",
+    "osm_operator": "",
+    "osm_addr_street": "",
+    "osm_addr_housenumber": "",
+    "osm_addr_postcode": "",
+    "osm_shop": "car_repair",
+    "osm_craft": "",
+    "osm_amenity": "",
+    "osm_lat": 48.6226604,
+    "osm_lon": 2.4420712
   },
   {
     "nom": "OTO",
@@ -1409,7 +1927,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "BERNARD VANKEMMEL",
@@ -1425,7 +1949,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "GRAND GARAGE FERAY SAE",
@@ -1441,12 +1971,24 @@
     "effectif": "22",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": true,
-    "osm_score": 0.8,
-    "osm_name": "Garage des Epinettes",
-    "osm_id": 2229429611,
-    "latitude": 48.6226604,
-    "longitude": 2.4420712
+    "osm_match_score": 0.846,
+    "osm_id": 63603974,
+    "osm_type": "way",
+    "osm_name": "Grand Garage Feray",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": "",
+    "osm_brand": "Renault",
+    "osm_operator": "Renault",
+    "osm_addr_street": "",
+    "osm_addr_housenumber": "",
+    "osm_addr_postcode": "",
+    "osm_shop": "car_repair",
+    "osm_craft": "",
+    "osm_amenity": "",
+    "osm_lat": null,
+    "osm_lon": null
   },
   {
     "nom": "INDIGO",
@@ -1462,7 +2004,13 @@
     "effectif": "12",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "MOHAMADOU SISSOKO",
@@ -1478,7 +2026,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "AUTO STORE 91",
@@ -1494,7 +2048,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "SAMIR AOUKA",
@@ -1510,7 +2070,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "DAVID MANTASORIDIS",
@@ -1526,7 +2092,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "ALABELAUTO",
@@ -1542,7 +2114,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "HARUN KEDDAD (CMK)",
@@ -1558,7 +2136,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "SOFIANE ZELMAT (DS AUTO)",
@@ -1574,7 +2158,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "WISSEM AOUNALLAH (RAFI-AUTO)",
@@ -1590,7 +2180,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "EURL CENTRAL CARS.FR",
@@ -1606,7 +2202,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "PHILIPPE LEHMANN",
@@ -1622,7 +2224,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "CNV",
@@ -1638,7 +2246,13 @@
     "effectif": "02",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "ABDOU-AZIZ MBAYE (AL AMINE AUTO)",
@@ -1654,7 +2268,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "LINK AUTO 91",
@@ -1670,7 +2290,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "PHILOLIVE",
@@ -1686,7 +2312,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "RADOUANE OUFIR (MAROUA)",
@@ -1702,7 +2334,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "MOBENAUTO",
@@ -1718,7 +2356,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "ILYES MEZARI (AV REMORQUAGE)",
@@ -1734,7 +2378,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "GERARD AUTO SERVICES (G.A.S.)",
@@ -1750,7 +2400,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "EMMANUEL KODJO",
@@ -1766,7 +2422,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "MAHMOUD ABICHOU (M H AUTOS)",
@@ -1782,7 +2444,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "MAK AUTOMOBILE",
@@ -1798,7 +2466,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "AYMAN SOLIMAN",
@@ -1814,7 +2488,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "FSAUTOS",
@@ -1830,7 +2510,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "LITTLE SAYARA",
@@ -1846,7 +2532,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "MLD CORP.",
@@ -1862,7 +2554,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "MONACO MOTORS",
@@ -1878,7 +2576,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "NILE",
@@ -1894,7 +2598,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "ECONEC-SERVICES (ECONEC-SERVICES)",
@@ -1910,7 +2620,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "J.F.K AUTO GROUP",
@@ -1926,7 +2642,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "YOUSSEF AALLAOUI (DONAS AUTO INDUSTRIE)",
@@ -1942,7 +2664,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "LANOVA AUTO",
@@ -1958,7 +2686,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "PRISME",
@@ -1974,7 +2708,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "ELM EVRY",
@@ -1990,7 +2730,24 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0.588,
+    "osm_id": 10804108824,
+    "osm_type": "node",
+    "osm_name": "Hertz Évry",
+    "osm_phone": "+33160784503",
+    "osm_website": "",
+    "osm_email": "hertz.evry@orange.fr",
+    "osm_opening_hours": "Mo-Fr 08:00-12:00,14:00-18:00",
+    "osm_brand": "Hertz",
+    "osm_operator": "",
+    "osm_addr_street": "",
+    "osm_addr_housenumber": "",
+    "osm_addr_postcode": "",
+    "osm_shop": "",
+    "osm_craft": "",
+    "osm_amenity": "car_rental",
+    "osm_lat": 48.6288053,
+    "osm_lon": 2.4240673
   },
   {
     "nom": "MARYAM",
@@ -2006,7 +2763,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "SANAE MRABT (YS GLOBAL AUTO)",
@@ -2022,7 +2785,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "BR MOTORZ",
@@ -2038,7 +2807,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "LBD AUTOS OCCASION",
@@ -2054,7 +2829,24 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0.647,
+    "osm_id": 8765031398,
+    "osm_type": "node",
+    "osm_name": "Toyota Occasions",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": "Mo-Sa 09:00-12:30,14:00-19:00",
+    "osm_brand": "Toyota",
+    "osm_operator": "",
+    "osm_addr_street": "",
+    "osm_addr_housenumber": "",
+    "osm_addr_postcode": "",
+    "osm_shop": "car",
+    "osm_craft": "",
+    "osm_amenity": "",
+    "osm_lat": 48.6131338,
+    "osm_lon": 2.4530116
   },
   {
     "nom": "YOU CARS",
@@ -2070,7 +2862,13 @@
     "effectif": "01",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "RANDY BABELA (B-AUTO)",
@@ -2086,7 +2884,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "FABRICE MANGLOU (JIM SERVICES)",
@@ -2102,7 +2906,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "ABDOULAYE DRAME",
@@ -2118,7 +2928,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "AUTORENT (AUTORENT)",
@@ -2134,7 +2950,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "DJOK SERVICES",
@@ -2150,7 +2972,24 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0.69,
+    "osm_id": 7351718085,
+    "osm_type": "node",
+    "osm_name": "Corbeil Services Auto",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": "Mo-Fr 08:00-18:00",
+    "osm_brand": "",
+    "osm_operator": "",
+    "osm_addr_street": "",
+    "osm_addr_housenumber": "",
+    "osm_addr_postcode": "",
+    "osm_shop": "car_repair",
+    "osm_craft": "",
+    "osm_amenity": "",
+    "osm_lat": 48.6101618,
+    "osm_lon": 2.4796829
   },
   {
     "nom": "RS SERVICES",
@@ -2166,7 +3005,24 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0.741,
+    "osm_id": 7351718085,
+    "osm_type": "node",
+    "osm_name": "Corbeil Services Auto",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": "Mo-Fr 08:00-18:00",
+    "osm_brand": "",
+    "osm_operator": "",
+    "osm_addr_street": "",
+    "osm_addr_housenumber": "",
+    "osm_addr_postcode": "",
+    "osm_shop": "car_repair",
+    "osm_craft": "",
+    "osm_amenity": "",
+    "osm_lat": 48.6101618,
+    "osm_lon": 2.4796829
   },
   {
     "nom": "IBRAHIM SABRANE (AS AUTO)",
@@ -2182,7 +3038,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "KANOUN AUTO",
@@ -2198,7 +3060,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "ZIDANE LAMHAOUREK (AUTOLAND)",
@@ -2214,7 +3082,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "SMARTER AUTO (SMARTER AUTO)",
@@ -2230,7 +3104,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "CORAUTO",
@@ -2246,12 +3126,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": true,
-    "osm_score": 0.62,
-    "osm_name": "Coté Route",
-    "osm_id": 63747838,
-    "latitude": 48.6387643,
-    "longitude": 2.4282876
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "ELITE AUTOS MOTOS",
@@ -2267,7 +3148,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "LION EXPRESS",
@@ -2283,12 +3170,24 @@
     "effectif": "00",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": true,
-    "osm_score": 0.73,
-    "osm_name": "Lubexpress",
+    "osm_match_score": 0.727,
     "osm_id": 63749191,
-    "latitude": 48.6393477,
-    "longitude": 2.427625
+    "osm_type": "way",
+    "osm_name": "Lubexpress",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": "",
+    "osm_brand": "",
+    "osm_operator": "",
+    "osm_addr_street": "Boulevard des Champs-Élysées",
+    "osm_addr_housenumber": "",
+    "osm_addr_postcode": "91000",
+    "osm_shop": "car_repair",
+    "osm_craft": "",
+    "osm_amenity": "",
+    "osm_lat": null,
+    "osm_lon": null
   },
   {
     "nom": "AUTO BOOSTER",
@@ -2304,7 +3203,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "MAROUANE RHRIOUD (FRIENDLY IMPORT)",
@@ -2320,7 +3225,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "CENTRE REGIONAL DE DISTRIBUTION DE VEHICULES D'OCCASION (CRDVO)",
@@ -2336,7 +3247,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "TAHAR HITANA",
@@ -2352,7 +3269,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "BEDI AUTOMOBILES",
@@ -2368,7 +3291,13 @@
     "effectif": "02",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "MD SERVICES",
@@ -2384,7 +3313,24 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0.667,
+    "osm_id": 7351718085,
+    "osm_type": "node",
+    "osm_name": "Corbeil Services Auto",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": "Mo-Fr 08:00-18:00",
+    "osm_brand": "",
+    "osm_operator": "",
+    "osm_addr_street": "",
+    "osm_addr_housenumber": "",
+    "osm_addr_postcode": "",
+    "osm_shop": "car_repair",
+    "osm_craft": "",
+    "osm_amenity": "",
+    "osm_lat": 48.6101618,
+    "osm_lon": 2.4796829
   },
   {
     "nom": "NIZAR KARMOUSSI (VAR AUTOS)",
@@ -2400,7 +3346,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "NS AUTO TRADE",
@@ -2416,7 +3368,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "FABIEN LUMBAMBA",
@@ -2432,7 +3390,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "ROUBA TARABAIY (MAHMOUD)",
@@ -2448,7 +3412,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "A.P.S",
@@ -2464,7 +3434,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "AAZIZ BOURHALEB (RR-ROADCAR)",
@@ -2480,7 +3456,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "MOHAMED AL-HARIS",
@@ -2496,7 +3478,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "ABDELMALEK ZARDOUA (AUTO PARK)",
@@ -2512,7 +3500,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "BP NEGOCE",
@@ -2528,7 +3522,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "NOMEL SESS (SESS CARS)",
@@ -2544,7 +3544,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "EASY CAR",
@@ -2560,7 +3566,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "TOMOBILE",
@@ -2576,7 +3588,24 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0.632,
+    "osm_id": 12728580105,
+    "osm_type": "node",
+    "osm_name": "Mobilydrive",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": "",
+    "osm_brand": "",
+    "osm_operator": "",
+    "osm_addr_street": "Impasse du Télégraphe",
+    "osm_addr_housenumber": "2",
+    "osm_addr_postcode": "92000",
+    "osm_shop": "",
+    "osm_craft": "",
+    "osm_amenity": "car_rental",
+    "osm_lat": 48.6308588,
+    "osm_lon": 2.4319005
   },
   {
     "nom": "CLAUJEAN LA JOURDANIE",
@@ -2592,7 +3621,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "VALADEA (LES NOUVEAUX CARROSSIERS)",
@@ -2608,7 +3643,13 @@
     "effectif": "02",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "NEGOCE AUTO",
@@ -2624,7 +3665,13 @@
     "effectif": "02",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "CAM-AUTOS",
@@ -2640,7 +3687,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "BUSINESS AUTOS",
@@ -2656,7 +3709,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "FM AUTO",
@@ -2672,7 +3731,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "SEBASTIEN VICTOR",
@@ -2688,7 +3753,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "TRAVEL CHIC PARIS (TCP)",
@@ -2704,7 +3775,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "EXXA AUTO PLUS",
@@ -2720,7 +3797,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "GABO GADOU (G. J AUTO)",
@@ -2736,7 +3819,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "A & N AUTO",
@@ -2752,7 +3841,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "PAIUSAN",
@@ -2768,7 +3863,24 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0.615,
+    "osm_id": 4348792886,
+    "osm_type": "node",
+    "osm_name": "Nissan",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": "",
+    "osm_brand": "Nissan",
+    "osm_operator": "Nissan",
+    "osm_addr_street": "",
+    "osm_addr_housenumber": "",
+    "osm_addr_postcode": "",
+    "osm_shop": "car",
+    "osm_craft": "",
+    "osm_amenity": "",
+    "osm_lat": 48.6108603,
+    "osm_lon": 2.4481188
   },
   {
     "nom": "WM DRIVING SERVICES",
@@ -2784,7 +3896,24 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0.629,
+    "osm_id": 7351718085,
+    "osm_type": "node",
+    "osm_name": "Corbeil Services Auto",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": "Mo-Fr 08:00-18:00",
+    "osm_brand": "",
+    "osm_operator": "",
+    "osm_addr_street": "",
+    "osm_addr_housenumber": "",
+    "osm_addr_postcode": "",
+    "osm_shop": "car_repair",
+    "osm_craft": "",
+    "osm_amenity": "",
+    "osm_lat": 48.6101618,
+    "osm_lon": 2.4796829
   },
   {
     "nom": "L&M CARS",
@@ -2800,7 +3929,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "HOUSSEM LOUFINI (MINAR)",
@@ -2816,7 +3951,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "JUGURTA KACER (VENTE ACHAT AUTOMOBILE & INGENIERIE SYSTEMES AUTOMATISES)",
@@ -2832,7 +3973,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "BLACK CAR",
@@ -2848,7 +3995,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "SOGETRANS",
@@ -2864,7 +4017,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "DAGO ZIDAGO",
@@ -2880,7 +4039,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "NEW CONCEPT",
@@ -2896,7 +4061,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "MY CAR",
@@ -2912,7 +4083,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "AG MOTORS (AG MOTORS)",
@@ -2928,7 +4105,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "BHS AUTO",
@@ -2944,7 +4127,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "AHMED OUBAHMAN (L&A AUTOMOBILES)",
@@ -2960,7 +4149,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "REMIZUNNISHA MOHAMED YAHAYA (MOHAMED ZACRIA) (BISMI IMPORT EXPORT)",
@@ -2976,7 +4171,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "PRESTIGE94",
@@ -2992,7 +4193,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "TEAM AUTO CONCEPT",
@@ -3008,7 +4215,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "KHADIM GUEYE (INFOCAR LIMITED)",
@@ -3024,7 +4237,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "AUTO PARC",
@@ -3040,7 +4259,13 @@
     "effectif": "02",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "S.H.T.",
@@ -3056,7 +4281,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "AUTO PRESTIGE 91 (AUTO PRESTIGE 91)",
@@ -3072,7 +4303,13 @@
     "effectif": "01",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "SI.AUTO PRESTIGE",
@@ -3088,7 +4325,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "LTR PARIS",
@@ -3104,7 +4347,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "MIN AUTO",
@@ -3120,7 +4369,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "BHC PRESTIGE",
@@ -3136,7 +4391,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "MOHAMED-SAMI NAMOUNE",
@@ -3152,7 +4413,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "MR AUTOMOB",
@@ -3168,7 +4435,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "AMA CONCEPT CAR (A.C.C)",
@@ -3184,7 +4457,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "ADS CONCEPT AUTOMOBILE",
@@ -3200,7 +4479,13 @@
     "effectif": "01",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "MELIACAR",
@@ -3216,7 +4501,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "OTO GANG PARIS",
@@ -3232,7 +4523,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "BEST AUTO 7 (BEST AUTO 7)",
@@ -3248,7 +4545,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "VIP CAR LIMOUSINE",
@@ -3264,7 +4567,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "KNT QUALITY SERVICES",
@@ -3280,7 +4589,24 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0.556,
+    "osm_id": 7351718085,
+    "osm_type": "node",
+    "osm_name": "Corbeil Services Auto",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": "Mo-Fr 08:00-18:00",
+    "osm_brand": "",
+    "osm_operator": "",
+    "osm_addr_street": "",
+    "osm_addr_housenumber": "",
+    "osm_addr_postcode": "",
+    "osm_shop": "car_repair",
+    "osm_craft": "",
+    "osm_amenity": "",
+    "osm_lat": 48.6101618,
+    "osm_lon": 2.4796829
   },
   {
     "nom": "ACOM IMPORT EXPORT",
@@ -3296,7 +4622,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "IMMAT MINUTE",
@@ -3312,7 +4644,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "ALPHA-SALIOU SOW (SOW AVVENO CONSEILS)",
@@ -3328,7 +4666,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "BILAL IDRISSI (BY B2)",
@@ -3344,7 +4688,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "SAYARA BRO",
@@ -3360,7 +4710,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "S2W CONSULTING",
@@ -3376,7 +4732,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "HK DRIVE",
@@ -3392,7 +4754,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "ZF CARS",
@@ -3408,7 +4776,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "WALID DAHOUMANE (SIMON AUTO)",
@@ -3424,7 +4798,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "NDL AUTOXPORT",
@@ -3440,7 +4820,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "AJ GLASS",
@@ -3456,7 +4842,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "TURBO PNEUS EVRY",
@@ -3472,7 +4864,24 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0.667,
+    "osm_id": 9557572416,
+    "osm_type": "node",
+    "osm_name": "Jumbo Pneus",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": "",
+    "osm_brand": "",
+    "osm_operator": "",
+    "osm_addr_street": "",
+    "osm_addr_housenumber": "",
+    "osm_addr_postcode": "",
+    "osm_shop": "car_repair",
+    "osm_craft": "",
+    "osm_amenity": "",
+    "osm_lat": 48.6123198,
+    "osm_lon": 2.4263578
   },
   {
     "nom": "YASSIN HAMMAMI (NY CARS)",
@@ -3488,7 +4897,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "KTI",
@@ -3504,7 +4919,24 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0.667,
+    "osm_id": 12987379684,
+    "osm_type": "node",
+    "osm_name": "Kia",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": "",
+    "osm_brand": "Kia",
+    "osm_operator": "",
+    "osm_addr_street": "",
+    "osm_addr_housenumber": "",
+    "osm_addr_postcode": "",
+    "osm_shop": "car",
+    "osm_craft": "",
+    "osm_amenity": "",
+    "osm_lat": 48.6101937,
+    "osm_lon": 2.4577283
   },
   {
     "nom": "IBRAHIM LEZHARI (ABCAR)",
@@ -3520,7 +4952,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "RAYANE TOUAHRIA (EVEC'S AUTO)",
@@ -3536,7 +4974,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "BILAL MERHOUN (BIKEPARTS91)",
@@ -3552,7 +4996,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "SMT (ASEI)",
@@ -3568,7 +5018,13 @@
     "effectif": "03",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "SOFIANE ACHLIF (ACHLIF) (RSS AUTO SERVICES)",
@@ -3584,7 +5040,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "YOANN WILSON",
@@ -3600,7 +5062,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "SANDAVY (LIFT AUTO PLUS)",
@@ -3616,7 +5084,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "SABRINA MEZIANE",
@@ -3632,7 +5106,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "GFA AUTO",
@@ -3648,7 +5128,24 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0.571,
+    "osm_id": 12987379686,
+    "osm_type": "node",
+    "osm_name": "Fiat",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": "",
+    "osm_brand": "Fiat",
+    "osm_operator": "",
+    "osm_addr_street": "",
+    "osm_addr_housenumber": "",
+    "osm_addr_postcode": "",
+    "osm_shop": "car",
+    "osm_craft": "",
+    "osm_amenity": "",
+    "osm_lat": 48.6102889,
+    "osm_lon": 2.4580369
   },
   {
     "nom": "MOUNIR OMARAT",
@@ -3664,7 +5161,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "PRESTY SERVICES (PRESTY CAR)",
@@ -3680,7 +5183,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "ALLCARS",
@@ -3696,7 +5205,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "FARID IJJA (NEGOCICAR)",
@@ -3712,7 +5227,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "ABDERRAHMAN MEZAACHE (MEZAUTO)",
@@ -3728,7 +5249,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "AXEL ISSIAKHEM (AGRIB)",
@@ -3744,7 +5271,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "MAXIME FRANCILLON",
@@ -3760,7 +5293,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "NANA AUTO",
@@ -3776,7 +5315,24 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0.6,
+    "osm_id": 4348792886,
+    "osm_type": "node",
+    "osm_name": "Nissan",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": "",
+    "osm_brand": "Nissan",
+    "osm_operator": "Nissan",
+    "osm_addr_street": "",
+    "osm_addr_housenumber": "",
+    "osm_addr_postcode": "",
+    "osm_shop": "car",
+    "osm_craft": "",
+    "osm_amenity": "",
+    "osm_lat": 48.6108603,
+    "osm_lon": 2.4481188
   },
   {
     "nom": "HEURTEL SA",
@@ -3792,7 +5348,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "PHILIPPE JACTEL",
@@ -3808,7 +5370,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "P.B.A",
@@ -3824,7 +5392,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "ALI GOMES (BAZ AUTO LOC)",
@@ -3840,12 +5414,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": true,
-    "osm_score": 0.8,
-    "osm_name": "Gomes Carrosserie",
-    "osm_id": 245315664,
-    "latitude": 48.6391519,
-    "longitude": 2.4284584
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "DIALIYA GUEDE (DIALLO)",
@@ -3861,7 +5436,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "AS CAR CENTER (AS CAR CENTER)",
@@ -3877,7 +5458,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "MIGUEL DIAKIESE (D.K.S AUTO)",
@@ -3893,7 +5480,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "AUTOGLASSCAR77",
@@ -3909,7 +5502,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "SIDATT SAHA (ANEL AUTO)",
@@ -3925,7 +5524,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "AUTOVALLEY",
@@ -3941,7 +5546,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "D.A.N AUTOMOBILES",
@@ -3957,7 +5568,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "JEROME PIERRON (CAR AUTOS)",
@@ -3973,7 +5590,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "HIBA TRANSPORT",
@@ -3989,7 +5612,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "AUTODROME",
@@ -4005,7 +5634,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "HADJ BAHRIA",
@@ -4021,7 +5656,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "RACHID OUZYNAB",
@@ -4037,7 +5678,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "ALIYAH COMPANY (AC)",
@@ -4053,7 +5700,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "A & S VEHICULES (AS VEHICULES)",
@@ -4069,7 +5722,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "NASREDINNE EL MOUSSAOUI",
@@ -4085,7 +5744,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "SUPER NOVA SERVICES",
@@ -4101,7 +5766,24 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0.571,
+    "osm_id": 7351718085,
+    "osm_type": "node",
+    "osm_name": "Corbeil Services Auto",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": "Mo-Fr 08:00-18:00",
+    "osm_brand": "",
+    "osm_operator": "",
+    "osm_addr_street": "",
+    "osm_addr_housenumber": "",
+    "osm_addr_postcode": "",
+    "osm_shop": "car_repair",
+    "osm_craft": "",
+    "osm_amenity": "",
+    "osm_lat": 48.6101618,
+    "osm_lon": 2.4796829
   },
   {
     "nom": "AHMED BOUKRIK (AUTO PLUS)",
@@ -4117,7 +5799,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "WASSI AMADOU (ETABLISSEMENT WEST SERVICES)",
@@ -4133,7 +5821,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "B AUTO SELL",
@@ -4149,7 +5843,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "ALMOUGHAMAR GHABDOUSSAMEGH (ASDVT)",
@@ -4165,7 +5865,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "DREAM CARS",
@@ -4181,7 +5887,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "AUTOS 3S",
@@ -4197,7 +5909,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "COEURTREX GROUP",
@@ -4213,7 +5931,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "MANU AUTO",
@@ -4229,7 +5953,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "TAXI MAD",
@@ -4245,7 +5975,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "AUTO IMPACT",
@@ -4261,7 +5997,24 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0.6,
+    "osm_id": 12987379686,
+    "osm_type": "node",
+    "osm_name": "Fiat",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": "",
+    "osm_brand": "Fiat",
+    "osm_operator": "",
+    "osm_addr_street": "",
+    "osm_addr_housenumber": "",
+    "osm_addr_postcode": "",
+    "osm_shop": "car",
+    "osm_craft": "",
+    "osm_amenity": "",
+    "osm_lat": 48.6102889,
+    "osm_lon": 2.4580369
   },
   {
     "nom": "LFK AUTOS (LFK)",
@@ -4277,7 +6030,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "TN MOTOS 91 (TN MOTOS 91)",
@@ -4293,7 +6052,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "SARAH WAFI (CARTE GRISE RAPIDE WAFI)",
@@ -4309,7 +6074,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "FREDERIC MARIE-JULIEN ([ND])",
@@ -4325,7 +6096,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "FARID BENSMATI (SK VENTE-AUTO)",
@@ -4341,7 +6118,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "DEPANNE MOI (DEPANNE MOI)",
@@ -4357,7 +6140,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "DAOUDA TOURE (DAD AUTO)",
@@ -4373,7 +6162,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "LOCA VTC",
@@ -4389,7 +6184,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "ELEGANCE TRANSPORT (TRANSPORT TAXI)",
@@ -4405,7 +6206,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "SANBIEV LOC",
@@ -4421,7 +6228,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "ENZO THAMEUR (ACHAT ET VEND TON AUTO 91)",
@@ -4437,7 +6250,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "ARW AUTO",
@@ -4453,7 +6272,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "JUST CAR FRANCE",
@@ -4469,7 +6294,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "AMINE BOUCHERIT",
@@ -4485,7 +6316,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "NABIL LABHIRI ([ND])",
@@ -4501,7 +6338,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "HC AUTO",
@@ -4517,7 +6360,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "BUSINESS CAR'S",
@@ -4533,7 +6382,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "ACT II",
@@ -4549,7 +6404,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "SAID HOUAIDJ",
@@ -4565,7 +6426,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "CARS GAM",
@@ -4581,7 +6448,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "MARIE-STEPHANIE AUMONT",
@@ -4597,7 +6470,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "TIMAUTO 91",
@@ -4613,7 +6492,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "BRUNO MASSAMBA (GBM)",
@@ -4629,7 +6514,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "DONIA BEN TURKA (DAHMANI)",
@@ -4645,7 +6536,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "KHADER ZERROUGUI",
@@ -4661,7 +6558,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "DV (WEST RENT)",
@@ -4677,7 +6580,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "ANASS SAJID (SAKS SERVICES)",
@@ -4693,7 +6602,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "MICKAEL LEFEVRE (A.M.S 91)",
@@ -4709,7 +6624,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "JOSEPH KOTCHEFF",
@@ -4725,7 +6646,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "MOHAMED FRIOUI (FRIOUI MOHAMED - AZIZ)",
@@ -4741,7 +6668,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "MOUHAMED ALY DIOP (SLC)",
@@ -4757,7 +6690,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "H. COD",
@@ -4773,7 +6712,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "QUALITY CARS (QC)",
@@ -4789,7 +6734,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "SALAH DINN TALEB BRAHIM",
@@ -4805,7 +6756,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "REDHA BEDRANE (BR AUTO)",
@@ -4821,7 +6778,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "ADOKO LEGBAGAH (SOCIETE ADOLECO)",
@@ -4837,7 +6800,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "CEDRIC TURAM-ULLIEN (BEST AUTO IDF)",
@@ -4853,7 +6822,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "MOUSSAH TOURE",
@@ -4869,7 +6844,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "INTERGATE AUTOMOBILES",
@@ -4885,7 +6866,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "MISTER AUTOMOBILE",
@@ -4901,7 +6888,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "PASCAL POTREL",
@@ -4917,7 +6910,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "ROSES AUTO",
@@ -4933,7 +6932,24 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0.6,
+    "osm_id": 245315664,
+    "osm_type": "way",
+    "osm_name": "Gomes Carrosserie",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": "",
+    "osm_brand": "",
+    "osm_operator": "",
+    "osm_addr_street": "",
+    "osm_addr_housenumber": "",
+    "osm_addr_postcode": "",
+    "osm_shop": "car_repair",
+    "osm_craft": "",
+    "osm_amenity": "",
+    "osm_lat": null,
+    "osm_lon": null
   },
   {
     "nom": "FIDDIKEI SERVICES",
@@ -4949,7 +6965,24 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0.667,
+    "osm_id": 7351718085,
+    "osm_type": "node",
+    "osm_name": "Corbeil Services Auto",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": "Mo-Fr 08:00-18:00",
+    "osm_brand": "",
+    "osm_operator": "",
+    "osm_addr_street": "",
+    "osm_addr_housenumber": "",
+    "osm_addr_postcode": "",
+    "osm_shop": "car_repair",
+    "osm_craft": "",
+    "osm_amenity": "",
+    "osm_lat": 48.6101618,
+    "osm_lon": 2.4796829
   },
   {
     "nom": "IB AUTOS",
@@ -4965,7 +6998,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "STEVEN NICE (NS AUTO)",
@@ -4981,7 +7020,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "ANTONY MARTINOFF (JC AUTOS)",
@@ -4997,7 +7042,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "GHISLAIN BRICE BATANTOU MOUANDA (CONCEPT DESIGN)",
@@ -5013,7 +7064,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "HERITIER BIKOUTA (BERECA SERVICE)",
@@ -5029,7 +7086,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "FAGAUTO (FAGAUTO)",
@@ -5045,7 +7108,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "BARIS KESKIN (A.V. VOITURE)",
@@ -5061,7 +7130,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "IDF CAR'S",
@@ -5077,7 +7152,24 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0.571,
+    "osm_id": 7916369100,
+    "osm_type": "node",
+    "osm_name": "Midas",
+    "osm_phone": "+33 1 64 96 14 14",
+    "osm_website": "https://www.midas.fr/",
+    "osm_email": "",
+    "osm_opening_hours": "",
+    "osm_brand": "Midas",
+    "osm_operator": "",
+    "osm_addr_street": "Avenue Paul Maintenant",
+    "osm_addr_housenumber": "",
+    "osm_addr_postcode": "91100",
+    "osm_shop": "car_repair",
+    "osm_craft": "",
+    "osm_amenity": "",
+    "osm_lat": 48.6138525,
+    "osm_lon": 2.4565902
   },
   {
     "nom": "SIRINE OUECHANI",
@@ -5093,7 +7185,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "HUSEYIN OKTAY (OKTAY HUSEYIN)",
@@ -5109,7 +7207,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "MJ SERVICE 91",
@@ -5125,7 +7229,24 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0.552,
+    "osm_id": 7351718085,
+    "osm_type": "node",
+    "osm_name": "Corbeil Services Auto",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": "Mo-Fr 08:00-18:00",
+    "osm_brand": "",
+    "osm_operator": "",
+    "osm_addr_street": "",
+    "osm_addr_housenumber": "",
+    "osm_addr_postcode": "",
+    "osm_shop": "car_repair",
+    "osm_craft": "",
+    "osm_amenity": "",
+    "osm_lat": 48.6101618,
+    "osm_lon": 2.4796829
   },
   {
     "nom": "EELM  AUTOS",
@@ -5141,7 +7262,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "INDUSTRY AUTO LOCATION",
@@ -5157,7 +7284,13 @@
     "effectif": "00",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "LE BON PAIN",
@@ -5173,7 +7306,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "RAYYAN LADJALI ([ND])",
@@ -5189,7 +7328,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "AB AUTOS",
@@ -5205,7 +7350,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "ELITE PARIS",
@@ -5221,7 +7372,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "RISCH MASSAMBA",
@@ -5237,7 +7394,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "123 RS",
@@ -5253,7 +7416,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "BELKACEM BELHOUSSA (BELHOUSSA) (AUTO CLARA)",
@@ -5269,7 +7438,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "DSR AUTOMOBILES",
@@ -5285,7 +7460,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "LOC ILLICO (LOC ILLICO)",
@@ -5301,7 +7482,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "VCS",
@@ -5317,7 +7504,24 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0.571,
+    "osm_id": 13049802240,
+    "osm_type": "node",
+    "osm_name": "Avis",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": "",
+    "osm_brand": "Avis",
+    "osm_operator": "",
+    "osm_addr_street": "",
+    "osm_addr_housenumber": "",
+    "osm_addr_postcode": "",
+    "osm_shop": "",
+    "osm_craft": "",
+    "osm_amenity": "car_rental",
+    "osm_lat": 48.6107247,
+    "osm_lon": 2.4486099
   },
   {
     "nom": "SPHERE AUTO 75",
@@ -5333,7 +7537,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "AZIZ EDBDOUBI IFADAK (MALAK CAR)",
@@ -5349,7 +7559,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "ISSAM BELLEBBARDI ([ND])",
@@ -5365,7 +7581,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "OUSSAMA HAJOUJI",
@@ -5381,7 +7603,13 @@
     "effectif": "NN",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "EUROPEENNE D'ACHAT DE VEHICULES ET MATERIELS (DESTINEA)",
@@ -5397,7 +7625,13 @@
     "effectif": "00",
     "categorie": "concession",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "DH MOTOR CLEAN",
@@ -5413,7 +7647,13 @@
     "effectif": "NN",
     "categorie": "carrossier",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "MOUSTAPHA LEGA",
@@ -5429,7 +7669,13 @@
     "effectif": "NN",
     "categorie": "carrossier",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "RH MECAFLEXIBLE",
@@ -5445,7 +7691,13 @@
     "effectif": "NN",
     "categorie": "carrossier",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "MECANIQUE91",
@@ -5461,7 +7713,13 @@
     "effectif": "NN",
     "categorie": "carrossier",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "BOKARI DIAWARA",
@@ -5477,7 +7735,13 @@
     "effectif": "NN",
     "categorie": "carrossier",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "AZZURRO (INDIGO)",
@@ -5493,7 +7757,13 @@
     "effectif": "12",
     "categorie": "moto",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "AZIDINE CHAMSIDINE ATTOUMANE (E-TRON.Z-A)",
@@ -5509,7 +7779,13 @@
     "effectif": "NN",
     "categorie": "moto",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "V.S.P.",
@@ -5525,7 +7801,13 @@
     "effectif": "NN",
     "categorie": "moto",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "ANDREI BORDEIANU (AUTO GARDANNE)",
@@ -5541,7 +7823,13 @@
     "effectif": "NN",
     "categorie": "moto",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "DISCOUNT MOTO CENTER (DMC)",
@@ -5557,7 +7845,13 @@
     "effectif": "NN",
     "categorie": "moto",
     "zone_recherche": "Evry",
-    "osm_match": false
+    "osm_match_score": 0,
+    "osm_id": null,
+    "osm_name": "",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": ""
   },
   {
     "nom": "MOTO EXPRESS",
@@ -5573,11 +7867,23 @@
     "effectif": "NN",
     "categorie": "moto",
     "zone_recherche": "Evry",
-    "osm_match": true,
-    "osm_score": 0.64,
-    "osm_name": "Lubexpress",
+    "osm_match_score": 0.636,
     "osm_id": 63749191,
-    "latitude": 48.6393477,
-    "longitude": 2.427625
+    "osm_type": "way",
+    "osm_name": "Lubexpress",
+    "osm_phone": "",
+    "osm_website": "",
+    "osm_email": "",
+    "osm_opening_hours": "",
+    "osm_brand": "",
+    "osm_operator": "",
+    "osm_addr_street": "Boulevard des Champs-Élysées",
+    "osm_addr_housenumber": "",
+    "osm_addr_postcode": "91000",
+    "osm_shop": "car_repair",
+    "osm_craft": "",
+    "osm_amenity": "",
+    "osm_lat": null,
+    "osm_lon": null
   }
 ]
