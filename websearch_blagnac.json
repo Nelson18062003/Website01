@@ -1,0 +1,114 @@
+[
+  {
+    "nom": "VICTORIA AUTOMOBILES (Agent Renault Dacia)",
+    "nom_api": "VICTORIA AUTOMOBILES",
+    "telephone": "05 61 92 33 33",
+    "adresse": "115 Route de Grenade, 31700 Blagnac",
+    "site_web": "https://www.garage-victoria-automobiles.fr/",
+    "marque": "Renault / Dacia",
+    "source": "garage-victoria-automobiles.fr",
+    "match_api": true
+  },
+  {
+    "nom": "LAFFORGUE FRERES (Peugeot Blagnac)",
+    "nom_api": "LAFFORGUE FRERES",
+    "telephone": "05 34 60 61 30",
+    "adresse": "24 Rue des Briquetiers, 31700 Blagnac",
+    "site_web": "https://concessions.peugeot.fr/lafforgue-blagnac/",
+    "marque": "Peugeot",
+    "source": "concessions.peugeot.fr",
+    "match_api": true
+  },
+  {
+    "nom": "BLAGNAC GARAGE (B.G.)",
+    "nom_api": "BLAGNAC GARAGE (B. G.)",
+    "telephone": "05 61 58 80 12",
+    "telephone_secondaire": "07 57 50 59 23",
+    "adresse": "95 Vieux Chemin de Grenade, 31700 Blagnac",
+    "site_web": "https://blagnacgarage.sitew.fr/",
+    "marque": "Toutes marques",
+    "source": "blagnacgarage.sitew.fr",
+    "match_api": true
+  },
+  {
+    "nom": "GARAGE DU CENTRE (Agent Renault Dacia)",
+    "nom_api": null,
+    "telephone": "05 61 71 10 85",
+    "adresse": "34 Rue Raymond Grimaud, 31700 Blagnac",
+    "site_web": "https://www.garage-du-centre-renault.com/",
+    "marque": "Renault / Dacia",
+    "source": "garage-du-centre-renault.com",
+    "match_api": false
+  },
+  {
+    "nom": "SPEEDY BLAGNAC",
+    "nom_api": null,
+    "telephone": "05 61 71 42 95",
+    "adresse": "77 Rue Roland Garros, 31700 Blagnac",
+    "site_web": "https://centres-auto.speedy.fr/garage/blagnac-31700/336",
+    "marque": "Speedy",
+    "source": "centres-auto.speedy.fr",
+    "match_api": false
+  },
+  {
+    "nom": "PROFIL PLUS BLAGNAC",
+    "nom_api": null,
+    "telephone": "05 61 30 44 88",
+    "adresse": "6 Rue des Orfevres, 31700 Blagnac",
+    "site_web": "https://www.profilplus.fr/agence/64-blagnac",
+    "marque": "Profil Plus",
+    "source": "profilplus.fr",
+    "match_api": false
+  },
+  {
+    "nom": "AUTO LECLERC BLAGNAC",
+    "nom_api": "VCMS PONS",
+    "telephone": "05 62 74 74 74",
+    "adresse": "2 Allee Emile Zola, 31700 Blagnac",
+    "site_web": null,
+    "marque": "E.Leclerc Auto",
+    "source": "allogarage.fr",
+    "match_api": true,
+    "note_match": "VCMS PONS dans l'API correspond a l'enseigne Auto Leclerc au Centre Commercial Leclerc"
+  },
+  {
+    "nom": "CARROSSERIE COSTES",
+    "nom_api": "CARROSSERIE COSTES",
+    "telephone": null,
+    "adresse": "231 bis Route de Grenade, 31700 Blagnac",
+    "site_web": null,
+    "marque": "Five Star (carrosserie toutes marques)",
+    "source": "pagesjaunes.fr",
+    "match_api": true
+  },
+  {
+    "nom": "GEORGES KIVIG (Auto Kivig et Fils)",
+    "nom_api": "GEORGES KIVIG",
+    "telephone": null,
+    "adresse": "Blagnac, 31700",
+    "site_web": null,
+    "marque": "Toutes marques",
+    "source": "pagesjaunes.fr",
+    "match_api": true
+  },
+  {
+    "nom": "MPA FORD BLAGNAC",
+    "nom_api": "MPA FORD BLAGNAC",
+    "telephone": null,
+    "adresse": "Blagnac, 31700",
+    "site_web": null,
+    "marque": "Ford",
+    "source": "pagesjaunes.fr",
+    "match_api": true
+  },
+  {
+    "nom": "DAVID BABAYAN (ALEX-2010)",
+    "nom_api": "DAVID BABAYAN (ALEX-2010)",
+    "telephone": null,
+    "adresse": "8 Rue Myosotis, 31700 Blagnac",
+    "site_web": null,
+    "marque": "Toutes marques",
+    "source": "pagesjaunes.fr",
+    "match_api": true
+  }
+]

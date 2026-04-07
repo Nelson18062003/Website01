@@ -1,0 +1,165 @@
+[
+  {
+    "nom": "COLOMIERS AUTOMOBILES",
+    "nom_api": "COLOMIERS AUTOMOBILES",
+    "telephone": "05 61 78 20 98",
+    "adresse": "6 Bis Avenue Edouard Serres, 31770 Colomiers",
+    "site_web": "https://concessionnaire.renault.fr/colomiers-garage-vinot.html",
+    "marque": "Renault",
+    "source": "concessionnaire.renault.fr",
+    "match_api": true
+  },
+  {
+    "nom": "PGV AUTOMOBILES (Peugeot Colomiers)",
+    "nom_api": "PGV AUTOMOBILES",
+    "telephone": "05 61 15 58 88",
+    "adresse": "6 Bis Avenue Edouard Serres, 31770 Colomiers",
+    "site_web": "https://concessions.peugeot.fr/pgv-colomiers/",
+    "marque": "Peugeot",
+    "source": "concessions.peugeot.fr",
+    "match_api": true
+  },
+  {
+    "nom": "SPEEDY COLOMIERS",
+    "nom_api": null,
+    "telephone": "05 61 16 20 30",
+    "adresse": "Boulevard Eugene Montel, 31770 Colomiers",
+    "site_web": "https://centres-auto.speedy.fr/garage/colomiers-31770/294",
+    "marque": "Speedy",
+    "source": "centres-auto.speedy.fr",
+    "match_api": false
+  },
+  {
+    "nom": "ESPACE CARROSSERIE 31",
+    "nom_api": "ESPACE CARROSSERIE 31",
+    "telephone": "05 61 59 57 33",
+    "adresse": "ZI En Jacca, 38 Chemin de la Nasque, 31770 Colomiers",
+    "site_web": "https://www.carrosserie-colomiers.fr/",
+    "marque": "AD Carrosserie",
+    "source": "allogarage.fr",
+    "match_api": true
+  },
+  {
+    "nom": "GARAGE PALAYS 31",
+    "nom_api": "GARAGE PALAYS 31",
+    "telephone": "09 83 29 07 07",
+    "telephone_secondaire": "07 58 29 79 53",
+    "adresse": "29 Avenue Georges Guynemer, 31770 Colomiers",
+    "site_web": null,
+    "marque": "Toutes marques",
+    "source": "pagesjaunes.fr",
+    "match_api": true
+  },
+  {
+    "nom": "VL AUTOMOBILES",
+    "nom_api": "VL AUTOMOBILES",
+    "telephone": "05 82 08 12 90",
+    "adresse": "3 Chemin de Bordeblanque, 31770 Colomiers",
+    "site_web": "https://www.vl-automobiles.com",
+    "marque": "Toutes marques",
+    "source": "vl-automobiles.com",
+    "match_api": true
+  },
+  {
+    "nom": "MARCASSUS SPORT",
+    "nom_api": "MARCASSUS SPORT",
+    "telephone": "05 62 12 29 00",
+    "telephone_secondaire": "06 07 73 80 70",
+    "adresse": "26 Avenue du Louron, ZA En Jacca, 31770 Colomiers",
+    "site_web": "https://www.marcassus-sport.com/",
+    "marque": "Caterham / BPM Exclusive",
+    "source": "marcassus-sport.com",
+    "match_api": true
+  },
+  {
+    "nom": "MCQUEEN AUTOMOBILE",
+    "nom_api": "MCQUEEN AUTOMOBILE",
+    "telephone": null,
+    "adresse": "3 Chemin de Bordeblanque, 31770 Colomiers",
+    "site_web": null,
+    "marque": "Toutes marques",
+    "source": "kompass.com",
+    "match_api": true
+  },
+  {
+    "nom": "EXCEL CAR 31",
+    "nom_api": "EXCEL CAR 31",
+    "telephone": "06 11 91 15 98",
+    "telephone_secondaire": "05 32 60 71 01",
+    "adresse": "19 Chemin des Sevennes, 31770 Colomiers",
+    "site_web": "https://excelcar31.auto-gestion.net/",
+    "marque": "Toutes marques (occasion)",
+    "source": "excelcar31.auto-gestion.net",
+    "match_api": true
+  },
+  {
+    "nom": "ABML 31 (AL 31)",
+    "nom_api": "ABML 31 (AL 31)",
+    "telephone": null,
+    "adresse": "6 Allee du Val d'Aran, 31770 Colomiers",
+    "site_web": null,
+    "marque": "Toutes marques",
+    "source": "concessionnaireauto.fr",
+    "match_api": true
+  },
+  {
+    "nom": "INTERNATIONAL'CARS (I.C)",
+    "nom_api": "INTERNATIONAL'CARS (I.C)",
+    "telephone": null,
+    "adresse": "36 Allee Henri de Toulouse Lautrec, 31770 Colomiers",
+    "site_web": null,
+    "marque": "Toutes marques",
+    "source": "concessionnaireauto.fr",
+    "match_api": true
+  },
+  {
+    "nom": "FRANCE AUTO 31 (RELAXAUTO TOULOUSE OUEST)",
+    "nom_api": "FRANCE AUTO 31 (RELAXAUTO TOULOUSE OUEST)",
+    "telephone": null,
+    "adresse": "Colomiers, 31770",
+    "site_web": null,
+    "marque": "Toutes marques",
+    "source": "allo-garagistes.fr",
+    "match_api": true
+  },
+  {
+    "nom": "AUTO VITRAGE SERVICES (AVS)",
+    "nom_api": "AUTO VITRAGE SERVICES (AVS)",
+    "telephone": "09 62 25 25 73",
+    "adresse": "ZI En Jacca, 5 Chemin de l'Echut, 31770 Colomiers",
+    "site_web": null,
+    "marque": "Vitrage automobile",
+    "source": "allo-garagistes.fr",
+    "match_api": true
+  },
+  {
+    "nom": "GARAGE COLOMIERS",
+    "nom_api": "GARAGE COLOMIERS",
+    "telephone": "05 61 78 50 81",
+    "adresse": "Route de Pibrac, 31770 Colomiers",
+    "site_web": null,
+    "marque": "Toutes marques",
+    "source": "allo-garagistes.fr",
+    "match_api": true
+  },
+  {
+    "nom": "ACCES AUTO SERVICES",
+    "nom_api": "ACCES AUTO SERVICES",
+    "telephone": "05 61 15 40 51",
+    "adresse": "5 Avenue Didier Daurat, 31770 Colomiers",
+    "site_web": null,
+    "marque": "Toutes marques",
+    "source": "allo-garagistes.fr",
+    "match_api": true
+  },
+  {
+    "nom": "GUYNEMER",
+    "nom_api": "GUYNEMER",
+    "telephone": "05 61 15 15 26",
+    "adresse": "1 Avenue Georges Guynemer, 31770 Colomiers",
+    "site_web": null,
+    "marque": "Toutes marques",
+    "source": "allo-garagistes.fr",
+    "match_api": true
+  }
+]
